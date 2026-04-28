@@ -7,77 +7,421 @@ const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.p
 const recent = allPosts
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 6);
+
+const testimonials = [
+  {
+    text: "It is good that you took the time to post a comprehensive listing of paint options. I wish more websites did so. The mainstream airbrush sites are sorely lacking on this point. Thanks!",
+    author: "Barry Munden",
+    avatar: "/images/wp-uploads/barry1.jpg",
+  },
+  {
+    text: "One of the biggest things for me was having Walkup's 93 year old nephew tell me that he was so pleased that his family could now be recognized for all their efforts. History made real!! Keep up the good work.",
+    author: "Andy Penaluna",
+    avatar: "/images/wp-uploads/andy-penaluna-e1437996862989.jpg",
+  },
+  {
+    text: "This is my second time at your site. And now I realize you have designed a great site to study and learn from.",
+    author: "Larry Potillo",
+    avatar: "/images/wp-uploads/larry_potillo.png",
+  },
+];
+
+const features = [
+  { icon: "⭐", title: "Equipment Reviews", text: "We've tested airbrushes from Iwata, Badger, Paasche, Harder & Steenbeck and more — honest, hands-on, no fluff.", href: "/blog/?cat=reviews" },
+  { icon: "🎓", title: "Step-by-Step Tutorials", text: "From basic techniques to advanced multi-layer work. Real projects, real photos, practical tips at every skill level.", href: "/blog/?cat=tutorials" },
+  { icon: "📐", title: "Free Stencils", text: "Hundreds of free single-layer and premium multi-layer stencil designs — skulls, flames, tribal, camouflage, and more.", href: "/blog/?cat=stencils" },
+  { icon: "🔧", title: "Troubleshooting", text: "Spitting, clogging, uneven spray? Our interactive troubleshooter walks you through a fix in under 2 minutes.", href: "/tools/troubleshooter/" },
+];
 ---
-<BaseLayout title="AirbrushDOC — Cures for Your Canvas">
+<BaseLayout
+  title="AirbrushDOC — Expert Airbrush Reviews, Tutorials &amp; Free Stencils"
+  description="Master airbrushing with expert equipment reviews, step-by-step tutorials, and free downloadable stencils. For beginners and professionals since 2010."
+>
 
-  <main>
-    <section style="background: var(--abd-surface); border-bottom: 1px solid var(--abd-border);">
-      <div class="abd-hero">
-        <div>
-          <div class="abd-hero-eyebrow">✦ Airbrush Education &amp; Reviews</div>
-          <h1 class="abd-hero-title">
-            The <span class="abd-hero-title-accent">Airbrush Doc</span><br />Cures for Your Canvas
-          </h1>
-          <p class="abd-hero-text">Practical guides, honest equipment reviews, and step-by-step techniques for airbrush artists at every level — from first compressor to fine art.</p>
-          <div class="abd-hero-cta">
-            <a href="/blog/" class="abd-btn-primary">Browse All Articles</a>
-            <a href="/tools/" class="abd-btn-ghost">Interactive Tools</a>
+  <!-- ═══ HERO ═══ -->
+  <section class="abd-hero-full">
+    <div class="abd-hero-full-bg" style="background-image: url('/images/wp-uploads/airbrushdoc.png');"></div>
+    <div class="abd-hero-full-overlay"></div>
+    <div class="abd-hero-full-content">
+      <div class="abd-hero-eyebrow">✦ Trusted by 5,000+ airbrush artists since 2010</div>
+      <h1 class="abd-hero-full-title">
+        Master Airbrush Art<br /><span class="abd-hero-title-accent">From Beginner to Pro</span>
+      </h1>
+      <p class="abd-hero-full-subtitle">
+        Expert equipment reviews, step-by-step tutorials, and free stencils to level up your airbrush game — whatever your skill level or budget.
+      </p>
+      <div class="abd-hero-cta">
+        <a href="/blog/" class="abd-btn-primary">Browse Articles</a>
+        <a href="/tools/airbrush-quiz/" class="abd-btn-ghost" style="border-color: rgba(255,255,255,0.3); color: #fff;">Find Your Airbrush →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ STATS STRIP ═══ -->
+  <section class="abd-stats-strip">
+    <div class="abd-stats-inner">
+      <div class="abd-stat">
+        <span class="abd-stat-num">13+</span>
+        <span class="abd-stat-label">Years Publishing</span>
+      </div>
+      <div class="abd-stat-sep"></div>
+      <div class="abd-stat">
+        <span class="abd-stat-num">100+</span>
+        <span class="abd-stat-label">In-Depth Articles</span>
+      </div>
+      <div class="abd-stat-sep"></div>
+      <div class="abd-stat">
+        <span class="abd-stat-num">5,000+</span>
+        <span class="abd-stat-label">Artists Helped</span>
+      </div>
+      <div class="abd-stat-sep"></div>
+      <div class="abd-stat">
+        <span class="abd-stat-num">Free</span>
+        <span class="abd-stat-label">Stencils &amp; Tools</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ WHAT YOU'LL FIND ═══ -->
+  <section class="abd-section">
+    <div class="abd-section-header">
+      <h2 class="abd-section-title">Everything You Need to Master Airbrushing</h2>
+    </div>
+    <div class="abd-features-grid">
+      {features.map(f => (
+        <a href={f.href} class="abd-feature-card">
+          <div class="abd-feature-icon">{f.icon}</div>
+          <div class="abd-feature-name">{f.title}</div>
+          <p class="abd-feature-desc">{f.text}</p>
+          <span class="abd-feature-link">Learn more →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- ═══ TESTIMONIALS ═══ -->
+  <section class="abd-testimonials-section">
+    <div class="abd-container">
+      <div class="abd-section-header" style="margin-bottom: 32px;">
+        <h2 class="abd-section-title">What Artists Are Saying</h2>
+      </div>
+      <div class="abd-testi-grid">
+        {testimonials.map(t => (
+          <div class="abd-testi-card">
+            <div class="abd-testi-stars">★★★★★</div>
+            <p class="abd-testi-text">"{t.text}"</p>
+            <div class="abd-testi-author">
+              <div class="abd-testi-avatar">
+                <img src={t.avatar} alt={t.author} loading="lazy"
+                     onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+                <div class="abd-testi-avatar-fallback">{t.author[0]}</div>
+              </div>
+              <span class="abd-testi-name">{t.author}</span>
+            </div>
           </div>
-        </div>
-        <div class="abd-hero-image">
-          <img src="/images/airbrushdoc.png" alt="AirbrushDOC" loading="eager" />
-        </div>
-      </div>
-    </section>
-
-    <section class="abd-section">
-      <div class="abd-section-header">
-        <h2 class="abd-section-title">Latest Articles</h2>
-        <a href="/blog/" class="abd-section-link">View all →</a>
-      </div>
-      <div class="blg-grid">
-        {recent.map(post => (
-          <ArticleCard
-            title={post.data.title}
-            slug={post.id}
-            description={post.data.description}
-            heroImage={post.data.heroImage}
-            heroImageAlt={post.data.heroImageAlt}
-            category={post.data.category}
-            pubDate={post.data.pubDate}
-            readingTime={post.data.readingTime}
-          />
         ))}
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="abd-section" style="border-top: 1px solid var(--abd-border);">
-      <div class="abd-section-header">
-        <h2 class="abd-section-title">Interactive Tools</h2>
-        <a href="/tools/" class="abd-section-link">All tools →</a>
+  <!-- ═══ TOOLS ═══ -->
+  <section class="abd-section" style="border-top: 1px solid var(--abd-border);">
+    <div class="abd-section-header">
+      <h2 class="abd-section-title">Interactive Tools</h2>
+      <a href="/tools/" class="abd-section-link">All tools →</a>
+    </div>
+    <div class="abd-tools-grid">
+      <a href="/tools/airbrush-quiz/" class="abd-tool-card">
+        <div class="abd-tool-icon">🎯</div>
+        <div class="abd-tool-name">Airbrush Finder Quiz</div>
+        <p class="abd-tool-desc">Answer 6 questions and get matched with the right airbrush for your style and budget.</p>
+      </a>
+      <a href="/tools/troubleshooter/" class="abd-tool-card">
+        <div class="abd-tool-icon">🔧</div>
+        <div class="abd-tool-name">Troubleshooter</div>
+        <p class="abd-tool-desc">Diagnose spitting, clogging, and uneven spray problems step by step.</p>
+      </a>
+      <a href="/tools/paint-selector/" class="abd-tool-card">
+        <div class="abd-tool-icon">🎨</div>
+        <div class="abd-tool-name">Paint Selector</div>
+        <p class="abd-tool-desc">Find the right paint for your surface and application type.</p>
+      </a>
+      <a href="/tools/compare/" class="abd-tool-card">
+        <div class="abd-tool-icon">⚖️</div>
+        <div class="abd-tool-name">Compare Airbrushes</div>
+        <p class="abd-tool-desc">Side-by-side specs of popular airbrush models.</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- ═══ LATEST ARTICLES ═══ -->
+  <section class="abd-section" style="border-top: 1px solid var(--abd-border);">
+    <div class="abd-section-header">
+      <h2 class="abd-section-title">Latest Articles</h2>
+      <a href="/blog/" class="abd-section-link">View all →</a>
+    </div>
+    <div class="blg-grid">
+      {recent.map(post => (
+        <ArticleCard
+          title={post.data.title}
+          slug={post.id}
+          description={post.data.description}
+          heroImage={post.data.heroImage}
+          heroImageAlt={post.data.heroImageAlt}
+          category={post.data.category}
+          pubDate={post.data.pubDate}
+          readingTime={post.data.readingTime}
+        />
+      ))}
+    </div>
+  </section>
+
+  <!-- ═══ NEWSLETTER ═══ -->
+  <section style="background: var(--abd-surface); border-top: 1px solid var(--abd-border); border-bottom: 1px solid var(--abd-border); padding: 64px 24px;">
+    <div style="max-width: 560px; margin: 0 auto; text-align: center;">
+      <div style="font-size: 2rem; margin-bottom: 16px;">✉️</div>
+      <h2 style="font-family: var(--abd-font-display); font-size: clamp(1.5rem,3vw,2rem); font-weight: 700; color: var(--abd-text); margin-bottom: 12px;">
+        Free Stencils &amp; New Guides
+      </h2>
+      <p style="font-size: 0.95rem; color: var(--abd-text-dim); margin-bottom: 8px; line-height: 1.6;">
+        Join 5,000+ artists who get exclusive stencils, tutorials, and equipment reviews delivered to their inbox.
+      </p>
+      <ul style="list-style: none; margin-bottom: 28px; display: flex; flex-direction: column; gap: 6px; text-align: left; max-width: 280px; margin-left: auto; margin-right: auto;">
+        {['Free multi-layer stencil pack', 'Weekly technique tutorials', 'First access to new stencil releases', 'Exclusive equipment deals & reviews'].map(item => (
+          <li style="font-size: 0.85rem; color: var(--abd-text-dim); display: flex; align-items: center; gap: 8px;">
+            <span style="color: var(--abd-green); font-weight: 700;">✓</span>{item}
+          </li>
+        ))}
+      </ul>
+      <form class="abd-newsletter-form" style="max-width: 420px; margin: 0 auto 12px;" data-ml-form>
+        <input class="abd-newsletter-input" type="email" placeholder="Your email address" required />
+        <button class="abd-newsletter-btn" type="submit">Get My Free Stencils</button>
+      </form>
+      <p style="font-size: 0.75rem; color: var(--abd-text-muted);">We respect your privacy. Unsubscribe anytime.</p>
+    </div>
+  </section>
+
+  <!-- ═══ SEO CONTENT ═══ -->
+  <section class="abd-section">
+    <div style="max-width: var(--abd-content-w); margin: 0 auto;">
+      <h2 style="font-family: var(--abd-font-display); font-size: clamp(1.4rem,3vw,1.8rem); font-weight: 700; color: var(--abd-text); margin-bottom: 20px; padding-left: 16px; position: relative;">
+        <span style="position:absolute;left:0;top:4px;width:3px;height:calc(100% - 8px);background:var(--abd-orange);border-radius:2px;"></span>
+        What You'll Find at AirbrushDOC
+      </h2>
+      <p style="color: var(--abd-text-dim); font-size: 1rem; line-height: 1.8; margin-bottom: 24px;">
+        Whether you're just getting started or a seasoned professional looking to refine your technique, AirbrushDOC is your complete resource for everything airbrush. We've created comprehensive guides, honest reviews, and free resources to help you master this versatile art form.
+      </p>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 32px;">
+        <div style="background: var(--abd-surface); border: 1px solid var(--abd-border); border-radius: var(--abd-radius); padding: 20px;">
+          <div style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--abd-orange); margin-bottom: 12px;">For Beginners</div>
+          <ul style="list-style: none; display: flex; flex-direction: column; gap: 7px;">
+            {['Step-by-step tutorials for basic techniques', 'Equipment buying guides under €100', 'Free single-layer stencils to practice', 'Paint thinning and mixing guides', 'Common troubleshooting solutions'].map(i => (
+              <li style="font-size: 0.875rem; color: var(--abd-text-dim); display: flex; gap: 8px;">
+                <span style="color: var(--abd-orange); flex-shrink: 0;">→</span>{i}
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div style="background: var(--abd-surface); border: 1px solid var(--abd-border); border-radius: var(--abd-radius); padding: 20px;">
+          <div style="font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--abd-orange); margin-bottom: 12px;">For Professionals</div>
+          <ul style="list-style: none; display: flex; flex-direction: column; gap: 7px;">
+            {['Advanced multi-layer stenciling techniques', 'Professional equipment comparisons', 'Premium multi-layer stencil packs', 'Custom automotive finishing guides', 'Time-saving tips and workflow optimization'].map(i => (
+              <li style="font-size: 0.875rem; color: var(--abd-text-dim); display: flex; gap: 8px;">
+                <span style="color: var(--abd-orange); flex-shrink: 0;">→</span>{i}
+              </li>
+            ))}
+          </ul>
+        </div>
       </div>
-      <div class="abd-tools-grid">
-        <a href="/tools/airbrush-quiz/" class="abd-tool-card">
-          <div class="abd-tool-icon">🎯</div>
-          <div class="abd-tool-name">Airbrush Finder</div>
-          <p class="abd-tool-desc">Answer 6 questions and find the perfect airbrush for your style and budget.</p>
-        </a>
-        <a href="/tools/troubleshooter/" class="abd-tool-card">
-          <div class="abd-tool-icon">🔧</div>
-          <div class="abd-tool-name">Troubleshooter</div>
-          <p class="abd-tool-desc">Diagnose common airbrush problems step by step.</p>
-        </a>
-        <a href="/tools/paint-selector/" class="abd-tool-card">
-          <div class="abd-tool-icon">🎨</div>
-          <div class="abd-tool-name">Paint Selector</div>
-          <p class="abd-tool-desc">Find the right paint for your surface and application.</p>
-        </a>
-        <a href="/tools/compare/" class="abd-tool-card">
-          <div class="abd-tool-icon">⚖️</div>
-          <div class="abd-tool-name">Compare Airbrushes</div>
-          <p class="abd-tool-desc">Side-by-side comparison of popular airbrush models.</p>
-        </a>
-      </div>
-    </section>
-  </main>
+
+      <h3 style="font-family: var(--abd-font-display); font-size: 1.2rem; font-weight: 700; color: var(--abd-text); margin-bottom: 12px;">Comprehensive Airbrush Equipment Reviews</h3>
+      <p style="color: var(--abd-text-dim); font-size: 0.95rem; line-height: 1.8; margin-bottom: 20px;">
+        We've personally tested dozens of airbrushes, compressors, and paint systems from top brands including Iwata, Badger, Paasche, Harder &amp; Steenbeck, and Master Airbrush. Our reviews are unbiased and based on real-world performance, not manufacturer specifications.
+      </p>
+
+      <h3 style="font-family: var(--abd-font-display); font-size: 1.2rem; font-weight: 700; color: var(--abd-text); margin-bottom: 12px;">What Makes AirbrushDOC Different</h3>
+      <p style="color: var(--abd-text-dim); font-size: 0.95rem; line-height: 1.8; margin-bottom: 12px;">
+        We're not just another equipment review site. We're practicing airbrush artists who use these tools every day. Our founder has over 15 years of experience in custom automotive work, t-shirt design, and fine art airbrushing. Every review, tutorial, and stencil design comes from real hands-on experience.
+      </p>
+      <p style="color: var(--abd-text-dim); font-size: 0.95rem; line-height: 1.8;">
+        Our mission: to make airbrushing accessible and enjoyable for everyone, regardless of skill level or budget. With the right guidance and tools, anyone can create stunning airbrush art.
+      </p>
+    </div>
+  </section>
+
 </BaseLayout>
+
+<style>
+/* ═══ HERO FULL-WIDTH ═══ */
+.abd-hero-full {
+  position: relative;
+  min-height: 560px;
+  display: flex; align-items: center; justify-content: center;
+  overflow: hidden;
+}
+.abd-hero-full-bg {
+  position: absolute; inset: 0;
+  background-size: cover; background-position: center;
+  background-repeat: no-repeat;
+  transform: scale(1.04);
+  transition: transform 8s ease;
+}
+.abd-hero-full:hover .abd-hero-full-bg { transform: scale(1); }
+.abd-hero-full-overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(135deg, rgba(10,10,10,0.88) 0%, rgba(14,14,14,0.72) 60%, rgba(14,14,14,0.6) 100%);
+}
+.abd-hero-full-content {
+  position: relative; z-index: 1;
+  max-width: 720px; margin: 0 auto;
+  padding: 80px 24px;
+  text-align: center;
+}
+.abd-hero-full-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  font-weight: 800; color: #fff;
+  line-height: 1.1; letter-spacing: -0.02em;
+  margin-bottom: 20px;
+  text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+}
+.abd-hero-full-subtitle {
+  font-size: clamp(1rem, 2vw, 1.15rem);
+  color: rgba(255,255,255,0.8);
+  line-height: 1.7; margin-bottom: 32px;
+  max-width: 580px; margin-left: auto; margin-right: auto;
+}
+.abd-hero-full .abd-hero-eyebrow {
+  margin-bottom: 20px;
+  background: rgba(244,103,26,0.15);
+  border-color: rgba(244,103,26,0.3);
+  color: #FF8A3D;
+}
+.abd-hero-full .abd-hero-cta { justify-content: center; }
+
+/* ═══ STATS STRIP ═══ */
+.abd-stats-strip {
+  background: var(--abd-surface);
+  border-bottom: 1px solid var(--abd-border);
+}
+.abd-stats-inner {
+  max-width: var(--abd-max-w); margin: 0 auto;
+  padding: 28px 24px;
+  display: flex; align-items: center; justify-content: center;
+  gap: 0; flex-wrap: wrap;
+}
+.abd-stat {
+  display: flex; flex-direction: column; align-items: center;
+  padding: 8px 40px; text-align: center;
+}
+.abd-stat-num {
+  font-family: var(--abd-font-display);
+  font-size: 1.8rem; font-weight: 800;
+  color: var(--abd-orange); line-height: 1;
+  margin-bottom: 4px;
+}
+.abd-stat-label {
+  font-size: 0.75rem; color: var(--abd-text-dim);
+  font-weight: 500; text-transform: uppercase; letter-spacing: 0.06em;
+}
+.abd-stat-sep {
+  width: 1px; height: 40px;
+  background: var(--abd-border);
+  flex-shrink: 0;
+}
+@media (max-width: 560px) {
+  .abd-stat { padding: 8px 20px; }
+  .abd-stat-sep { display: none; }
+  .abd-stats-inner { gap: 16px; }
+}
+
+/* ═══ FEATURES GRID ═══ */
+.abd-features-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+@media (max-width: 900px) { .abd-features-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .abd-features-grid { grid-template-columns: 1fr; } }
+
+.abd-feature-card {
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius);
+  padding: 24px 20px;
+  text-decoration: none !important; color: inherit;
+  transition: all 0.3s;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.abd-feature-card:hover {
+  border-color: var(--abd-orange);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+  background: var(--abd-orange-soft);
+}
+.abd-feature-icon { font-size: 1.8rem; }
+.abd-feature-name {
+  font-family: var(--abd-font-display);
+  font-size: 1rem; font-weight: 700; color: var(--abd-text);
+}
+.abd-feature-desc {
+  font-size: 0.85rem; color: var(--abd-text-dim); line-height: 1.6; flex: 1;
+}
+.abd-feature-link {
+  font-size: 0.8rem; font-weight: 600; color: var(--abd-orange);
+  margin-top: auto;
+}
+
+/* ═══ TESTIMONIALS ═══ */
+.abd-testimonials-section {
+  background: var(--abd-surface);
+  border-top: 1px solid var(--abd-border);
+  border-bottom: 1px solid var(--abd-border);
+  padding: 56px 24px;
+}
+.abd-testi-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+@media (max-width: 768px) { .abd-testi-grid { grid-template-columns: 1fr; } }
+
+.abd-testi-card {
+  background: var(--abd-surface2);
+  border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius);
+  padding: 24px;
+  display: flex; flex-direction: column; gap: 14px;
+  transition: border-color 0.2s;
+}
+.abd-testi-card:hover { border-color: var(--abd-border-light); }
+.abd-testi-stars { color: var(--abd-amber); font-size: 0.95rem; letter-spacing: 2px; }
+.abd-testi-text {
+  font-size: 0.9rem; color: var(--abd-text-dim);
+  line-height: 1.7; font-style: italic; flex: 1;
+}
+.abd-testi-author {
+  display: flex; align-items: center; gap: 12px;
+  padding-top: 14px; border-top: 1px solid var(--abd-border);
+}
+.abd-testi-avatar {
+  width: 40px; height: 40px; border-radius: 50%; flex-shrink: 0;
+  overflow: hidden; background: var(--abd-surface3);
+  border: 2px solid var(--abd-border);
+  position: relative;
+}
+.abd-testi-avatar img { width: 100%; height: 100%; object-fit: cover; }
+.abd-testi-avatar-fallback {
+  display: none;
+  position: absolute; inset: 0;
+  align-items: center; justify-content: center;
+  font-weight: 700; color: var(--abd-orange); font-size: 1rem;
+}
+.abd-testi-name { font-weight: 600; color: var(--abd-text); font-size: 0.88rem; }
+
+@media (max-width: 560px) {
+  .abd-hero-full { min-height: 440px; }
+  .abd-features-grid { grid-template-columns: 1fr 1fr; }
+}
+</style>
