@@ -44,9 +44,9 @@
   --abd-radius:       12px;
   --abd-radius-s:     8px;
   --abd-radius-xs:    6px;
-  --abd-content-w:    740px;
-  --abd-wide-w:       960px;
-  --abd-max-w:        1080px;
+  --abd-content-w:    800px;
+  --abd-wide-w:       1040px;
+  --abd-max-w:        1200px;
 
   --abd-font-display: 'Fraunces', Georgia, serif;
   --abd-font-body:    'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -124,7 +124,7 @@ img { max-width: 100%; height: auto; display: block; }
 .abd-header-inner {
   max-width: var(--abd-max-w);
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 0 32px;
   height: 64px;
   display: flex; align-items: center; justify-content: space-between; gap: 24px;
 }
@@ -207,7 +207,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .abd-footer-inner {
   max-width: var(--abd-max-w);
-  margin: 0 auto; padding: 48px 24px 32px;
+  margin: 0 auto; padding: 48px 32px 32px;
   display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px;
 }
 .abd-footer-brand {}
@@ -334,10 +334,10 @@ img { max-width: 100%; height: auto; display: block; }
 .blg-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 20px; padding: 24px 0 0;
+  gap: 24px; padding: 24px 0 0;
   align-items: start;
 }
-@media (max-width: 900px) { .blg-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 960px) { .blg-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 560px) { .blg-grid { grid-template-columns: 1fr; } }
 
 /* ================================================================
@@ -358,7 +358,7 @@ img { max-width: 100%; height: auto; display: block; }
   box-shadow: 0 8px 28px rgba(0,0,0,0.35);
 }
 .abd-card-img {
-  width: 100%; aspect-ratio: 16/9;
+  width: 100%; aspect-ratio: 3/2;
   background: var(--abd-surface2); overflow: hidden;
 }
 .abd-card-img img {
@@ -397,10 +397,10 @@ img { max-width: 100%; height: auto; display: block; }
 ================================================================ */
 .abd-post-wrap {
   max-width: var(--abd-max-w);
-  margin: 0 auto; padding: 36px 24px;
+  margin: 0 auto; padding: 36px 32px;
   display: grid;
-  grid-template-columns: 1fr 260px;
-  gap: 48px; align-items: start;
+  grid-template-columns: 1fr 280px;
+  gap: 56px; align-items: start;
 }
 .abd-post-content { min-width: 0; }
 .abd-post-sidebar {
@@ -921,7 +921,7 @@ img { max-width: 100%; height: auto; display: block; }
 /* ================================================================
    SECTION HEADER (homepage sections)
 ================================================================ */
-.abd-section { padding: 48px 24px; max-width: var(--abd-max-w); margin: 0 auto; }
+.abd-section { padding: 56px 32px; max-width: var(--abd-max-w); margin: 0 auto; }
 .abd-section-header { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 28px; }
 .abd-section-title {
   font-family: var(--abd-font-display);
@@ -954,5 +954,5 @@ img { max-width: 100%; height: auto; display: block; }
 /* ================================================================
    MISC
 ================================================================ */
-.abd-container { max-width: var(--abd-max-w); margin: 0 auto; padding: 0 24px; }
+.abd-container { max-width: var(--abd-max-w); margin: 0 auto; padding: 0 32px; }
 .abd-divider { height: 1px; background: var(--abd-border); margin: 48px 0; }
