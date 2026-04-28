@@ -44,9 +44,9 @@
   --abd-radius:       12px;
   --abd-radius-s:     8px;
   --abd-radius-xs:    6px;
-  --abd-content-w:    800px;
-  --abd-wide-w:       1040px;
-  --abd-max-w:        1200px;
+  --abd-content-w:    860px;
+  --abd-wide-w:       1120px;
+  --abd-max-w:        1400px;
 
   --abd-font-display: 'Fraunces', Georgia, serif;
   --abd-font-body:    'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -954,5 +954,5 @@ img { max-width: 100%; height: auto; display: block; }
 /* ================================================================
    MISC
 ================================================================ */
-.abd-container { max-width: var(--abd-max-w); margin: 0 auto; padding: 0 32px; }
+.abd-container { max-width: var(--abd-max-w); margin: 0 auto; padding: 0 32px 80px; }
 .abd-divider { height: 1px; background: var(--abd-border); margin: 48px 0; }
