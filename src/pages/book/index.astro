@@ -1,0 +1,498 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const chapters = [
+  { part: 'Part One: Foundations', items: ['Chapter 1: Understanding Your Airbrush', 'Chapter 2: Setting Up Your Workspace', 'Chapter 3: Paint Science', 'Chapter 4: Your First Strokes'] },
+  { part: 'Part Two: Core Techniques', items: ['Chapter 5: Surface Preparation', 'Chapter 6: Masking and Stenciling', 'Chapter 7: Color Theory', 'Chapter 8: Building Depth'] },
+  { part: 'Part Three: Style Masterclasses', items: ['Chapter 9: True Fire', 'Chapter 10: Portraits', 'Chapter 11: Lettering', 'Chapter 12: Camouflage', 'Chapter 13: Skulls', 'Chapter 14: Chrome & Metal'] },
+  { part: 'Part Four: Troubleshooting', items: ['Chapter 15: Troubleshooting Encyclopedia'] },
+  { part: 'Part Five: Business', items: ['Chapter 16: Pricing Your Work', 'Chapter 17: Finding Clients', 'Appendices & About the Author'] },
+];
+
+const testimonials = [
+  { text: "It is good that you took the time to post a comprehensive listing of paint options. I wish more websites did so. The mainstream airbrush sites are sorely lacking on this point.", author: "Barry Munden" },
+  { text: "This is my second time at your site. And now I realize you have designed a great site to study and learn from.", author: "Larry Potillo" },
+  { text: "Keep up the good work. History made real!!", author: "Andy Penaluna" },
+];
+---
+<BaseLayout
+  title="The Airbrush Technique Bible — From First Spray to Professional Results"
+  description="17 chapters covering every airbrush technique, surface, and style. Foundations, fire, portraits, skulls, chrome, troubleshooting, and pricing your work. Digital edition."
+>
+  <main class="book-page">
+
+    <!-- ═══ HERO ═══ -->
+    <section class="book-hero">
+      <div class="book-hero-inner">
+        <div class="book-cover-wrap">
+          <!-- Replace with real cover image once designed -->
+          <div class="book-cover-placeholder">
+            <div class="book-cover-spine"></div>
+            <div class="book-cover-front">
+              <div class="book-cover-title">The Airbrush<br/>Technique<br/>Bible</div>
+              <div class="book-cover-sub">From First Spray to Professional Results</div>
+              <div class="book-cover-badge">17 Chapters</div>
+              <div class="book-cover-author">by AirbrushDOC</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="book-hero-text">
+          <div class="book-eyebrow">✦ Digital Edition · Instant Access</div>
+          <h1 class="book-hero-title">
+            The Airbrush<br/><span class="book-orange">Technique Bible</span>
+          </h1>
+          <p class="book-hero-tagline">From First Spray to Professional Results</p>
+          <p class="book-hero-desc">
+            There are thousands of airbrush tutorials online. YouTube is full of them. So why would you pay for a book?<br/><br/>
+            <strong>Because tutorials teach you tricks. This book teaches you how to think.</strong>
+          </p>
+
+          <div class="book-stats">
+            <div class="book-stat"><span class="book-stat-num">17</span><span class="book-stat-label">Chapters</span></div>
+            <div class="book-stat-sep"></div>
+            <div class="book-stat"><span class="book-stat-num">5</span><span class="book-stat-label">Parts</span></div>
+            <div class="book-stat-sep"></div>
+            <div class="book-stat"><span class="book-stat-num">∞</span><span class="book-stat-label">Reference</span></div>
+          </div>
+
+          <div class="book-cta-box">
+            <div class="book-price-row">
+              <span class="book-price">$27</span>
+              <span class="book-price-note">one-time · digital download</span>
+            </div>
+            <!-- Replace href with your Gumroad / Stripe / payment link -->
+            <a href="#buy" class="book-buy-btn">Get the Book →</a>
+            <div class="book-guarantee">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              30-day money-back guarantee. No questions asked.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ INTRO HOOK ═══ -->
+    <section class="book-section book-intro">
+      <div class="book-inner book-intro-inner">
+        <h2>The difference between struggling and <span class="book-orange">actually getting it</span></h2>
+        <div class="book-intro-cols">
+          <div>
+            <p>The difference between an airbrush hobbyist and someone who can confidently take on any project is not a collection of memorized techniques — it's a deep understanding of how <strong>paint, air, distance, and surface interact.</strong></p>
+            <p>Once you understand the principles, you can figure out any technique yourself. That's what this book teaches.</p>
+          </div>
+          <div>
+            <p>Each chapter builds on the last, combining theory with a hands-on project that puts it into practice. You won't just read about color layering — you'll build a piece that requires it. You won't just learn about surface prep — you'll prepare three different surfaces and see the results.</p>
+            <p>The <strong>Troubleshooting Encyclopedia</strong> in Chapter 15 alone is worth bookmarking for life.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ WHAT'S INSIDE ═══ -->
+    <section class="book-section book-contents">
+      <div class="book-inner">
+        <h2>What's Inside</h2>
+        <div class="book-toc-grid">
+          {chapters.map(part => (
+            <div class="book-toc-part">
+              <div class="book-toc-part-label">{part.part}</div>
+              <ul class="book-toc-list">
+                {part.items.map(ch => (
+                  <li>{ch}</li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ WHO IT'S FOR ═══ -->
+    <section class="book-section book-for">
+      <div class="book-inner">
+        <h2>Who This Book Is For</h2>
+        <div class="book-for-grid">
+          <div class="book-for-card">
+            <div class="book-for-icon">🎯</div>
+            <h3>Complete Beginners</h3>
+            <p>You just got your first airbrush and don't know where to start. Chapters 1–4 take you from zero — equipment, workspace, paint, and first strokes.</p>
+          </div>
+          <div class="book-for-card">
+            <div class="book-for-icon">🎨</div>
+            <h3>Hobbyists Stuck at a Plateau</h3>
+            <p>You can spray basic gradients but can't figure out why your fire looks flat or your portraits look muddy. Parts 2 and 3 unlock the next level.</p>
+          </div>
+          <div class="book-for-card">
+            <div class="book-for-icon">🔧</div>
+            <h3>Artists Troubleshooting Problems</h3>
+            <p>Spitting, clogging, uneven spray, paint not adhering. Chapter 15's encyclopedia covers every problem with specific fixes — keep it open while you work.</p>
+          </div>
+          <div class="book-for-card">
+            <div class="book-for-icon">💼</div>
+            <h3>Artists Ready to Go Pro</h3>
+            <p>You're good at airbrushing but have no idea what to charge or how to find clients. Chapters 16–17 cover pricing strategy and building a client base.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ TESTIMONIALS ═══ -->
+    <section class="book-section book-social">
+      <div class="book-inner">
+        <h2>What AirbrushDOC Readers Say</h2>
+        <div class="book-testi-row">
+          {testimonials.map(t => (
+            <blockquote class="book-testi">
+              <p>"{t.text}"</p>
+              <cite>— {t.author}</cite>
+            </blockquote>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ PREVIEW ═══ -->
+    <section class="book-section book-preview">
+      <div class="book-inner">
+        <h2>Read a Free Preview</h2>
+        <p class="book-preview-sub">The full introduction and Chapter 1 are available free. No email required.</p>
+        <div class="book-preview-box">
+          <div class="book-preview-chapters">
+            <div class="book-preview-ch">
+              <div class="book-preview-ch-num">Intro</div>
+              <div class="book-preview-ch-title">Why This Book Exists</div>
+              <div class="book-preview-ch-desc">The difference between tutorials and real understanding. How to use this book.</div>
+            </div>
+            <div class="book-preview-ch">
+              <div class="book-preview-ch-num">Ch 1</div>
+              <div class="book-preview-ch-title">Understanding Your Airbrush</div>
+              <div class="book-preview-ch-desc">Anatomy, needle sizes, gravity vs siphon, single vs dual action — and what actually matters.</div>
+            </div>
+          </div>
+          <a href="/book/preview/" class="book-preview-btn">Read Free Preview →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ BUY ═══ -->
+    <section class="book-section book-buy" id="buy">
+      <div class="book-inner">
+        <h2>Get Instant Access</h2>
+        <div class="book-buy-card">
+          <div class="book-buy-left">
+            <div class="book-buy-title">The Airbrush Technique Bible</div>
+            <div class="book-buy-format">Digital Edition — Read online or download</div>
+            <ul class="book-buy-includes">
+              <li>✓ Full 17-chapter book (HTML online reader)</li>
+              <li>✓ Downloadable PDF version</li>
+              <li>✓ Troubleshooting Encyclopedia (Chapter 15)</li>
+              <li>✓ Business guide — pricing &amp; finding clients</li>
+              <li>✓ Lifetime access, all future updates</li>
+            </ul>
+            <div class="book-buy-guarantee-row">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--abd-green)" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              <span>30-day money-back guarantee. If it doesn't help you, you get a full refund — no questions asked.</span>
+            </div>
+          </div>
+          <div class="book-buy-right">
+            <div class="book-final-price">$27</div>
+            <div class="book-final-note">one-time payment</div>
+            <!-- Replace href with Gumroad product URL: https://gumroad.com/l/your-product -->
+            <a href="#" class="book-final-btn">Buy Now — Get Instant Access</a>
+            <div class="book-final-secure">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+              Secure checkout · Instant delivery
+            </div>
+            <div class="book-final-formats">
+              <span>HTML reader</span>
+              <span>PDF download</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ FAQ ═══ -->
+    <section class="book-section book-faq">
+      <div class="book-inner book-faq-inner">
+        <h2>Common Questions</h2>
+        <div class="book-faq-list">
+          {[
+            { q: 'What format is the book in?', a: 'You get two versions: an interactive HTML reader you can open in any browser (works offline, no app needed), and a PDF you can download and print.' },
+            { q: 'Do I need a specific airbrush?', a: 'No. The book is tool-agnostic. You need a basic dual-action gravity-feed airbrush with a 0.3–0.35mm needle. Brand doesn\'t matter.' },
+            { q: 'Is this for beginners or advanced artists?', a: 'Both. Parts 1 and 2 build foundations for beginners. Parts 3 and 5 (masterclasses and business) target intermediate to advanced artists.' },
+            { q: 'How do I access the book after purchase?', a: 'You\'ll receive an email with a download link immediately after payment. The HTML reader works in any browser. No account or app needed.' },
+            { q: 'What if it\'s not for me?', a: 'Email contact@airbrushdoc.com within 30 days for a full refund. No questions asked.' },
+          ].map(item => (
+            <details class="book-faq-item">
+              <summary class="book-faq-q">
+                {item.q}
+                <svg class="book-faq-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+              </summary>
+              <div class="book-faq-a">{item.a}</div>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ FINAL CTA ═══ -->
+    <section class="book-final-cta">
+      <div class="book-inner" style="text-align:center;">
+        <h2 style="color:#fff;">Stop watching tutorials.<br/>Start understanding.</h2>
+        <p style="color:rgba(255,255,255,0.7); max-width:520px; margin: 0 auto 32px;">17 chapters. Every technique. Step-by-step projects. The troubleshooting guide you'll use for years. And if it doesn't help — your money back.</p>
+        <a href="#buy" class="book-final-btn" style="font-size:1.05rem; padding: 18px 40px;">Get the Airbrush Technique Bible — $27</a>
+      </div>
+    </section>
+
+  </main>
+</BaseLayout>
+
+<style>
+/* ═══ SHELL ═══ */
+.book-page { color: var(--abd-text-body); }
+.book-inner { max-width: var(--abd-max-w); margin: 0 auto; padding: 0 32px; }
+.book-section { padding: 72px 0; }
+.book-section h2 {
+  font-family: var(--abd-font-display);
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  font-weight: 800; color: var(--abd-text);
+  letter-spacing: -0.02em; margin-bottom: 36px;
+}
+.book-section h2::after {
+  content: ''; display: block; width: 40px; height: 3px;
+  background: var(--abd-orange); margin-top: 12px; border-radius: 2px;
+}
+.book-orange { color: var(--abd-orange); }
+
+/* ═══ HERO ═══ */
+.book-hero {
+  background: linear-gradient(160deg, #0a0a0a 0%, #111 60%, #161616 100%);
+  border-bottom: 1px solid var(--abd-border);
+  padding: 72px 0;
+}
+.book-hero-inner {
+  max-width: var(--abd-max-w); margin: 0 auto; padding: 0 32px;
+  display: flex; align-items: center; gap: 64px;
+}
+
+/* Book cover mockup */
+.book-cover-wrap { flex-shrink: 0; }
+.book-cover-placeholder {
+  display: flex; align-items: stretch;
+  filter: drop-shadow(0 24px 48px rgba(0,0,0,0.6));
+}
+.book-cover-spine {
+  width: 28px; background: linear-gradient(180deg, #c45010 0%, #7a2e06 100%);
+  border-radius: 3px 0 0 3px;
+}
+.book-cover-front {
+  width: 220px; min-height: 300px;
+  background: linear-gradient(160deg, #1a1a1a 0%, #111 100%);
+  border: 1px solid rgba(244,103,26,0.3);
+  border-radius: 0 4px 4px 0;
+  padding: 32px 24px; display: flex; flex-direction: column; gap: 12px;
+  position: relative; overflow: hidden;
+}
+.book-cover-front::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+  background: linear-gradient(90deg, var(--abd-orange), transparent);
+}
+.book-cover-title {
+  font-family: var(--abd-font-display); font-size: 1.4rem; font-weight: 800;
+  color: #fff; line-height: 1.2;
+}
+.book-cover-sub { font-size: 0.72rem; color: rgba(255,255,255,0.5); line-height: 1.4; }
+.book-cover-badge {
+  display: inline-block; background: var(--abd-orange);
+  color: #fff; font-size: 0.68rem; font-weight: 700;
+  padding: 3px 10px; border-radius: 100px; letter-spacing: 0.05em;
+  margin-top: auto;
+}
+.book-cover-author { font-size: 0.72rem; color: rgba(255,255,255,0.4); }
+
+/* Hero text */
+.book-hero-text { flex: 1; }
+.book-eyebrow {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-size: 0.74rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.1em; color: var(--abd-orange);
+  background: var(--abd-orange-soft); border: 1px solid var(--abd-orange-b20);
+  padding: 6px 14px; border-radius: 100px; margin-bottom: 20px;
+}
+.book-hero-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(2rem, 4.5vw, 3.2rem);
+  font-weight: 800; color: #fff;
+  line-height: 1.1; letter-spacing: -0.02em; margin-bottom: 8px;
+}
+.book-hero-tagline { font-size: 1rem; color: rgba(255,255,255,0.45); margin-bottom: 20px; font-style: italic; }
+.book-hero-desc { font-size: 0.98rem; color: rgba(255,255,255,0.72); line-height: 1.75; margin-bottom: 28px; }
+.book-stats { display: flex; align-items: center; gap: 0; margin-bottom: 32px; }
+.book-stat { display: flex; flex-direction: column; align-items: center; padding: 0 24px; }
+.book-stat:first-child { padding-left: 0; }
+.book-stat-num { font-family: var(--abd-font-display); font-size: 1.8rem; font-weight: 800; color: var(--abd-orange); line-height: 1; }
+.book-stat-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--abd-text-muted); margin-top: 4px; }
+.book-stat-sep { width: 1px; height: 36px; background: var(--abd-border); }
+
+/* CTA box */
+.book-cta-box {
+  background: var(--abd-surface); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius); padding: 24px; max-width: 380px;
+}
+.book-price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 16px; }
+.book-price { font-family: var(--abd-font-display); font-size: 2.4rem; font-weight: 800; color: var(--abd-text); }
+.book-price-note { font-size: 0.8rem; color: var(--abd-text-muted); }
+.book-buy-btn {
+  display: block; width: 100%;
+  background: var(--abd-orange); color: #fff;
+  font-size: 1rem; font-weight: 700; text-align: center;
+  padding: 14px 24px; border-radius: var(--abd-radius-s);
+  text-decoration: none !important;
+  transition: background 0.2s, transform 0.15s;
+  margin-bottom: 14px;
+}
+.book-buy-btn:hover { background: var(--abd-orange-hover); transform: translateY(-1px); }
+.book-guarantee {
+  display: flex; align-items: center; gap: 8px;
+  font-size: 0.76rem; color: var(--abd-text-muted);
+}
+.book-guarantee svg { flex-shrink: 0; stroke: var(--abd-green); }
+
+@media (max-width: 900px) {
+  .book-hero-inner { flex-direction: column; gap: 40px; }
+  .book-cta-box { max-width: 100%; }
+}
+
+/* ═══ INTRO ═══ */
+.book-intro { background: var(--abd-surface); border-top: 1px solid var(--abd-border); border-bottom: 1px solid var(--abd-border); }
+.book-intro-inner { max-width: 1000px; }
+.book-intro-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; }
+.book-intro-cols p { color: var(--abd-text-dim); line-height: 1.8; margin-bottom: 16px; }
+@media (max-width: 768px) { .book-intro-cols { grid-template-columns: 1fr; } }
+
+/* ═══ TOC ═══ */
+.book-contents { background: var(--abd-bg); }
+.book-toc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.book-toc-part {
+  background: var(--abd-surface); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius); padding: 24px;
+}
+.book-toc-part-label {
+  font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.1em; color: var(--abd-orange); margin-bottom: 16px;
+  padding-bottom: 12px; border-bottom: 1px solid var(--abd-border);
+}
+.book-toc-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+.book-toc-list li { font-size: 0.85rem; color: var(--abd-text-dim); padding-left: 14px; position: relative; }
+.book-toc-list li::before { content: '›'; position: absolute; left: 0; color: var(--abd-orange-muted); }
+@media (max-width: 960px) { .book-toc-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .book-toc-grid { grid-template-columns: 1fr; } }
+
+/* ═══ WHO IT'S FOR ═══ */
+.book-for { background: var(--abd-surface); border-top: 1px solid var(--abd-border); border-bottom: 1px solid var(--abd-border); }
+.book-for-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+.book-for-card {
+  background: var(--abd-surface2); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius); padding: 24px; display: flex; flex-direction: column; gap: 12px;
+}
+.book-for-icon { font-size: 1.8rem; }
+.book-for-card h3 { font-size: 0.95rem; font-weight: 700; color: var(--abd-text); }
+.book-for-card p { font-size: 0.85rem; color: var(--abd-text-dim); line-height: 1.65; margin: 0; }
+@media (max-width: 960px) { .book-for-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .book-for-grid { grid-template-columns: 1fr; } }
+
+/* ═══ TESTIMONIALS ═══ */
+.book-social { background: var(--abd-bg); }
+.book-testi-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.book-testi {
+  background: var(--abd-surface); border: 1px solid var(--abd-border);
+  border-top: 3px solid var(--abd-orange); border-radius: var(--abd-radius);
+  padding: 28px; display: flex; flex-direction: column; gap: 16px;
+}
+.book-testi p { font-style: italic; font-size: 0.92rem; color: var(--abd-text-dim); line-height: 1.75; margin: 0; }
+.book-testi cite { font-size: 0.82rem; font-weight: 600; color: var(--abd-text); font-style: normal; }
+@media (max-width: 768px) { .book-testi-row { grid-template-columns: 1fr; } }
+
+/* ═══ PREVIEW ═══ */
+.book-preview { background: var(--abd-surface); border-top: 1px solid var(--abd-border); border-bottom: 1px solid var(--abd-border); }
+.book-preview-sub { color: var(--abd-text-dim); margin-bottom: 28px; }
+.book-preview-box {
+  background: var(--abd-surface2); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius); padding: 32px;
+  display: flex; align-items: center; justify-content: space-between; gap: 32px;
+  flex-wrap: wrap;
+}
+.book-preview-chapters { display: flex; gap: 32px; flex-wrap: wrap; }
+.book-preview-ch { max-width: 260px; }
+.book-preview-ch-num { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--abd-orange); margin-bottom: 6px; }
+.book-preview-ch-title { font-size: 0.95rem; font-weight: 700; color: var(--abd-text); margin-bottom: 6px; }
+.book-preview-ch-desc { font-size: 0.82rem; color: var(--abd-text-muted); line-height: 1.6; }
+.book-preview-btn {
+  flex-shrink: 0; display: inline-block;
+  border: 1px solid var(--abd-orange); color: var(--abd-orange);
+  padding: 12px 24px; border-radius: var(--abd-radius-s);
+  font-size: 0.9rem; font-weight: 600; text-decoration: none !important;
+  transition: background 0.2s, color 0.2s;
+  white-space: nowrap;
+}
+.book-preview-btn:hover { background: var(--abd-orange); color: #fff; }
+
+/* ═══ BUY ═══ */
+.book-buy { background: var(--abd-bg); }
+.book-buy-card {
+  background: var(--abd-surface); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius); padding: 40px;
+  display: grid; grid-template-columns: 1fr auto; gap: 48px; align-items: start;
+}
+.book-buy-title { font-family: var(--abd-font-display); font-size: 1.3rem; font-weight: 800; color: var(--abd-text); margin-bottom: 6px; }
+.book-buy-format { font-size: 0.8rem; color: var(--abd-text-muted); margin-bottom: 24px; }
+.book-buy-includes { list-style: none; padding: 0; margin: 0 0 28px; display: flex; flex-direction: column; gap: 10px; }
+.book-buy-includes li { font-size: 0.9rem; color: var(--abd-text-dim); }
+.book-buy-includes li::first-letter { color: var(--abd-green); }
+.book-buy-guarantee-row { display: flex; align-items: flex-start; gap: 10px; font-size: 0.82rem; color: var(--abd-text-muted); }
+.book-buy-right { text-align: center; min-width: 220px; }
+.book-final-price { font-family: var(--abd-font-display); font-size: 3rem; font-weight: 800; color: var(--abd-text); line-height: 1; }
+.book-final-note { font-size: 0.78rem; color: var(--abd-text-muted); margin-bottom: 20px; }
+.book-final-btn {
+  display: block; width: 100%;
+  background: var(--abd-orange); color: #fff;
+  font-size: 0.95rem; font-weight: 700; text-align: center;
+  padding: 15px 20px; border-radius: var(--abd-radius-s);
+  text-decoration: none !important; transition: background 0.2s, transform 0.15s;
+  margin-bottom: 12px;
+}
+.book-final-btn:hover { background: var(--abd-orange-hover); transform: translateY(-1px); }
+.book-final-secure { font-size: 0.72rem; color: var(--abd-text-muted); display: flex; align-items: center; justify-content: center; gap: 5px; margin-bottom: 12px; }
+.book-final-formats { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+.book-final-formats span { font-size: 0.7rem; padding: 3px 10px; border-radius: 100px; background: var(--abd-surface2); border: 1px solid var(--abd-border); color: var(--abd-text-muted); }
+@media (max-width: 768px) { .book-buy-card { grid-template-columns: 1fr; } .book-buy-right { text-align: left; } }
+
+/* ═══ FAQ ═══ */
+.book-faq { background: var(--abd-surface); border-top: 1px solid var(--abd-border); border-bottom: 1px solid var(--abd-border); }
+.book-faq-inner { max-width: 760px; }
+.book-faq-list { display: flex; flex-direction: column; gap: 0; }
+.book-faq-item {
+  border-bottom: 1px solid var(--abd-border); padding: 20px 0;
+}
+.book-faq-item:last-child { border-bottom: none; }
+.book-faq-q {
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  font-size: 0.95rem; font-weight: 600; color: var(--abd-text);
+  cursor: pointer; list-style: none; user-select: none;
+}
+.book-faq-q::-webkit-details-marker { display: none; }
+.book-faq-chevron { flex-shrink: 0; transition: transform 0.2s; stroke: var(--abd-text-muted); }
+.book-faq-item[open] .book-faq-chevron { transform: rotate(180deg); }
+.book-faq-a { font-size: 0.88rem; color: var(--abd-text-dim); line-height: 1.7; padding-top: 12px; }
+
+/* ═══ FINAL CTA ═══ */
+.book-final-cta {
+  background: linear-gradient(135deg, #1a0a00 0%, #0f0f0f 60%);
+  border-top: 1px solid var(--abd-orange-b15);
+  padding: 80px 32px;
+}
+.book-final-cta h2 { color: #fff !important; font-size: clamp(1.6rem, 3vw, 2.4rem) !important; margin-bottom: 0 !important; }
+.book-final-cta h2::after { display: none !important; }
+</style>
