@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+const catParam = Astro.url.searchParams.get('cat');
+const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
+const sorted = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const filtered = catParam ? sorted.filter(p => p.data.category === catParam) : sorted;
+
+const cats = [...new Set(sorted.map(p => p.data.category))].sort();
+const catCounts: Record<string, number> = {};
+sorted.forEach(p => { catCounts[p.data.category] = (catCounts[p.data.category] || 0) + 1; });
+---
+<BaseLayout title="Blog | AirbrushDOC" description="All airbrush articles — techniques, equipment reviews, beginner guides, and more.">
+  <main class="abd-container">
+    <div class="blg-page-header">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>Blog</span>
+      </nav>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title">The <span class="blg-page-title-accent">AirbrushDOC</span> Blog</h1>
+        <span class="blg-post-count">{filtered.length} article{filtered.length !== 1 ? 's' : ''}</span>
+      </div>
+      <div class="blg-header-line"></div>
+    </div>
+
+    <div class="blg-filter-bar">
+      <div class="blg-filters">
+        <a class={`blg-filter-tab${!catParam ? ' blg-active' : ''}`} href="/blog/">
+          All Posts <span class="blg-filter-count">{sorted.length}</span>
+        </a>
+        {cats.map(cat => (
+          <a class={`blg-filter-tab${catParam === cat ? ' blg-active' : ''}`} href={`/blog/?cat=${cat}`}>
+            {cat.charAt(0).toUpperCase() + cat.slice(1).replace(/-/g, ' ')}
+            <span class="blg-filter-count">{catCounts[cat]}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <div class="blg-grid">
+      {filtered.map(post => (
+        <ArticleCard
+          title={post.data.title}
+          slug={post.id}
+          description={post.data.description}
+          heroImage={post.data.heroImage}
+          heroImageAlt={post.data.heroImageAlt}
+          category={post.data.category}
+          pubDate={post.data.pubDate}
+          readingTime={post.data.readingTime}
+        />
+      ))}
+    </div>
+  </main>
+</BaseLayout>

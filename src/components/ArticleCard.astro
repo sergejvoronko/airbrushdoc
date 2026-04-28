@@ -1,0 +1,43 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  description?: string;
+  heroImage?: string;
+  heroImageAlt?: string;
+  category?: string;
+  pubDate: Date;
+  readingTime?: number;
+}
+const { title, slug, description, heroImage, heroImageAlt, category = 'general', pubDate, readingTime } = Astro.props;
+const catLabel = category.charAt(0).toUpperCase() + category.slice(1).replace(/-/g, ' ');
+const dateStr = pubDate.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' });
+---
+<a href={`/blog/${slug}/`} class="abd-card">
+  {heroImage ? (
+    <div class="abd-card-img">
+      <img src={heroImage} alt={heroImageAlt || title} loading="lazy" />
+    </div>
+  ) : (
+    <div class="abd-card-img" style="display:flex;align-items:center;justify-content:center;">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="rgba(244,103,26,0.3)" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+        <polyline points="21 15 16 10 5 21"/>
+      </svg>
+    </div>
+  )}
+  <div class="abd-card-body">
+    <div class="abd-card-cat">{catLabel}</div>
+    <div class="abd-card-title">{title}</div>
+    {description && <p class="abd-card-excerpt">{description}</p>}
+    <div class="abd-card-meta">
+      <span>{dateStr}</span>
+      {readingTime && (
+        <>
+          <span class="abd-card-meta-dot"></span>
+          <span>{readingTime} min</span>
+        </>
+      )}
+    </div>
+  </div>
+</a>

@@ -1,0 +1,180 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import TOC from '../components/TOC.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
+import FAQ from '../components/FAQ.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  pubDate: Date;
+  updatedDate?: Date;
+  heroImage?: string;
+  heroImageAlt?: string;
+  category?: string;
+  tags?: string[];
+  readingTime?: number;
+  slug: string;
+  faqs?: { q: string; a: string }[];
+  headings?: { depth: number; slug: string; text: string }[];
+}
+
+const {
+  title, description, pubDate, updatedDate,
+  heroImage, heroImageAlt, category = 'general',
+  tags = [], readingTime, slug, faqs = [], headings = [],
+} = Astro.props;
+
+const formattedDate = pubDate.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+const formattedUpdated = updatedDate?.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+const pageUrl = `https://airbrushdoc.com/blog/${slug}/`;
+const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1).replace(/-/g, ' ');
+---
+<BaseLayout title={`${title} | AirbrushDOC`} description={description} image={heroImage}>
+  <div class="abd-reading-progress" aria-hidden="true">
+    <div class="abd-reading-progress-fill" id="readingProgress"></div>
+  </div>
+
+  <main>
+    <div class="abd-post-wrap">
+      <article class="abd-post-content">
+
+        <header class="abd-post-header">
+          <div class="abd-post-header-top">
+            <a href={`/blog/?cat=${category}`} class="abd-category-badge">{categoryLabel}</a>
+          </div>
+          <h1 class="abd-post-title">{title}</h1>
+          <div class="abd-meta-row">
+            <span class="abd-meta-item">
+              <svg class="abd-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+              </svg>
+              <time datetime={pubDate.toISOString()}>{formattedDate}</time>
+            </span>
+            {updatedDate && (
+              <span class="abd-meta-item">
+                <span>Updated {formattedUpdated}</span>
+              </span>
+            )}
+            {readingTime && (
+              <>
+                <span class="abd-meta-sep"></span>
+                <span class="abd-meta-item">
+                  <svg class="abd-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+                  </svg>
+                  {readingTime} min read
+                </span>
+              </>
+            )}
+          </div>
+        </header>
+
+        {heroImage && (
+          <div class="abd-post-hero">
+            <img src={heroImage} alt={heroImageAlt || title} loading="eager" />
+          </div>
+        )}
+
+        <div class="abd-content">
+          <slot />
+        </div>
+
+        {faqs.length > 0 && <FAQ faqs={faqs} />}
+
+        <div class="abd-author-bio">
+          <div class="abd-author-bio-avatar">A</div>
+          <div class="abd-author-bio-info">
+            <div class="abd-author-bio-label">Written by</div>
+            <div class="abd-author-bio-name">AirbrushDOC</div>
+            <p class="abd-author-bio-text">Airbrush artist and educator sharing practical techniques, honest equipment reviews, and step-by-step guides for artists at every level.</p>
+          </div>
+        </div>
+
+        <RelatedPosts currentSlug={slug} currentTags={tags} currentCategory={category} />
+
+        <div class="abd-newsletter">
+          <div class="abd-newsletter-inner">
+            <div class="abd-newsletter-title">New guides, reviews and techniques</div>
+            <p class="abd-newsletter-text">Get notified when new content is published — no spam, unsubscribe any time.</p>
+            <form class="abd-newsletter-form" data-ml-form>
+              <input class="abd-newsletter-input" type="email" placeholder="Your email address" required />
+              <button class="abd-newsletter-btn" type="submit">Subscribe</button>
+            </form>
+          </div>
+        </div>
+
+        <div class="abd-comments">
+          <div class="abd-comments-title">Comments</div>
+          <div id="remark42"></div>
+        </div>
+
+      </article>
+
+      <aside class="abd-post-sidebar">
+        {headings.length > 0 && <TOC headings={headings} />}
+
+        <div class="abd-sidebar-widget">
+          <div class="abd-share-sidebar">
+            <div class="abd-share-label">Share</div>
+            <div class="abd-share-icons">
+              <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(title)}`}
+                 class="abd-share-btn" target="_blank" rel="noopener" aria-label="Share on X">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+              </a>
+              <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}`}
+                 class="abd-share-btn" target="_blank" rel="noopener" aria-label="Share on Facebook">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+              </a>
+              <button class="abd-share-btn" id="copyLink" aria-label="Copy link">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <script>
+    // Reading progress
+    const fill = document.getElementById('readingProgress');
+    if (fill) {
+      const update = () => {
+        const el = document.documentElement;
+        const pct = el.scrollTop / (el.scrollHeight - el.clientHeight) * 100;
+        fill.style.width = Math.min(pct, 100) + '%';
+      };
+      window.addEventListener('scroll', update, { passive: true });
+    }
+
+    // Copy link
+    document.getElementById('copyLink')?.addEventListener('click', () => {
+      navigator.clipboard.writeText(window.location.href);
+    });
+
+    // TOC active state
+    const tocLinks = document.querySelectorAll('.abd-toc-list a');
+    const headings = document.querySelectorAll('.abd-content h2, .abd-content h3');
+    if (tocLinks.length && headings.length) {
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            tocLinks.forEach(l => l.classList.remove('active'));
+            const link = document.querySelector(`.abd-toc-list a[href="#${entry.target.id}"]`);
+            link?.classList.add('active');
+          }
+        });
+      }, { rootMargin: '-80px 0px -60% 0px' });
+      headings.forEach(h => observer.observe(h));
+    }
+
+    // FAQ accordion
+    document.querySelectorAll('.abd-faq-q').forEach(q => {
+      q.addEventListener('click', () => {
+        const item = q.closest('.abd-faq-item');
+        item?.classList.toggle('abd-open');
+      });
+    });
+  </script>
+</BaseLayout>

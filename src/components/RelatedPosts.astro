@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentSlug: string;
+  currentTags: string[];
+  currentCategory: string;
+  limit?: number;
+}
+const { currentSlug, currentTags, currentCategory, limit = 3 } = Astro.props;
+
+const all = await getCollection('blog', ({ data }) => !data.draft);
+const scored = all
+  .filter(p => p.id !== currentSlug)
+  .map(p => {
+    let score = 0;
+    if (p.data.category === currentCategory) score += 2;
+    currentTags.forEach(t => { if (p.data.tags.includes(t)) score += 1; });
+    return { post: p, score };
+  })
+  .sort((a, b) => b.score - a.score || b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf())
+  .slice(0, limit)
+  .map(x => x.post);
+---
+{scored.length > 0 && (
+  <div class="abd-related">
+    <h3 class="abd-related-title">Related Articles</h3>
+    <div class="abd-related-grid">
+      {scored.map(post => (
+        <a href={`/blog/${post.id}/`} class="abd-related-card">
+          {post.data.heroImage && (
+            <div class="abd-related-card-img">
+              <img src={post.data.heroImage} alt={post.data.heroImageAlt || post.data.title} loading="lazy" />
+            </div>
+          )}
+          <div class="abd-related-card-body">
+            <div class="abd-related-card-cat">{post.data.category}</div>
+            <div class="abd-related-card-title">{post.data.title}</div>
+            <div class="abd-related-card-meta">
+              {post.data.pubDate.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' })}
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+)}

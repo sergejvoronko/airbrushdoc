@@ -1,0 +1,116 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  canonicalURL?: string;
+}
+
+const { title, description = 'The Airbrush Doc — Cures for Your Canvas. Guides, reviews, and techniques for airbrush artists.', image, canonicalURL } = Astro.props;
+const siteUrl = 'https://airbrushdoc.com';
+const ogImage = image || '/images/og-default.webp';
+const canonical = canonicalURL || new URL(Astro.url.pathname, siteUrl).href;
+
+const nav = [
+  { label: 'Blog',  href: '/blog/' },
+  { label: 'Guides', href: '/guides/' },
+  { label: 'Tools', href: '/tools/' },
+  { label: 'About', href: '/about/' },
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={`${siteUrl}${ogImage}`} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={`${siteUrl}${ogImage}`} />
+
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+</head>
+<body>
+  <div class="abd-top-bar"></div>
+
+  <header class="abd-header">
+    <div class="abd-header-inner">
+      <a href="/" class="abd-logo" aria-label="AirbrushDOC home">
+        <img src="/images/logo-header.png" alt="AirbrushDOC" />
+      </a>
+
+      <nav class="abd-nav" aria-label="Main navigation">
+        {nav.map(n => (
+          <a href={n.href} aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>
+            {n.label}
+          </a>
+        ))}
+      </nav>
+
+      <button class="abd-menu-toggle" aria-label="Toggle menu" aria-expanded="false" id="menuToggle">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+    </div>
+
+    <nav class="abd-mobile-nav" id="mobileNav" aria-label="Mobile navigation">
+      {nav.map(n => <a href={n.href}>{n.label}</a>)}
+    </nav>
+  </header>
+
+  <slot />
+
+  <footer class="abd-footer">
+    <div class="abd-footer-inner">
+      <div class="abd-footer-brand">
+        <div class="abd-footer-logo">Airbrush<span>DOC</span></div>
+        <p class="abd-footer-tagline">Cures for Your Canvas. Practical guides, honest reviews, and techniques for airbrush artists at every level.</p>
+      </div>
+      <div class="abd-footer-col">
+        <h4>Content</h4>
+        <ul>
+          <li><a href="/blog/">All Articles</a></li>
+          <li><a href="/guides/">Beginner Guides</a></li>
+          <li><a href="/tools/">Interactive Tools</a></li>
+        </ul>
+      </div>
+      <div class="abd-footer-col">
+        <h4>Site</h4>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/affiliate-disclosure/">Disclosure</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="abd-footer-bottom">
+      <span>© {new Date().getFullYear()} AirbrushDOC. All rights reserved.</span>
+      <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('menuToggle');
+    const nav = document.getElementById('mobileNav');
+    toggle?.addEventListener('click', () => {
+      const open = nav?.classList.toggle('abd-open');
+      toggle.setAttribute('aria-expanded', String(open));
+    });
+  </script>
+</body>
+</html>

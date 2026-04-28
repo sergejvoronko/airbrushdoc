@@ -1,0 +1,83 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
+const recent = allPosts
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 6);
+---
+<BaseLayout title="AirbrushDOC — Cures for Your Canvas">
+
+  <main>
+    <section style="background: var(--abd-surface); border-bottom: 1px solid var(--abd-border);">
+      <div class="abd-hero">
+        <div>
+          <div class="abd-hero-eyebrow">✦ Airbrush Education &amp; Reviews</div>
+          <h1 class="abd-hero-title">
+            The <span class="abd-hero-title-accent">Airbrush Doc</span><br />Cures for Your Canvas
+          </h1>
+          <p class="abd-hero-text">Practical guides, honest equipment reviews, and step-by-step techniques for airbrush artists at every level — from first compressor to fine art.</p>
+          <div class="abd-hero-cta">
+            <a href="/blog/" class="abd-btn-primary">Browse All Articles</a>
+            <a href="/tools/" class="abd-btn-ghost">Interactive Tools</a>
+          </div>
+        </div>
+        <div class="abd-hero-image">
+          <img src="/images/airbrushdoc.png" alt="AirbrushDOC" loading="eager" />
+        </div>
+      </div>
+    </section>
+
+    <section class="abd-section">
+      <div class="abd-section-header">
+        <h2 class="abd-section-title">Latest Articles</h2>
+        <a href="/blog/" class="abd-section-link">View all →</a>
+      </div>
+      <div class="blg-grid">
+        {recent.map(post => (
+          <ArticleCard
+            title={post.data.title}
+            slug={post.id}
+            description={post.data.description}
+            heroImage={post.data.heroImage}
+            heroImageAlt={post.data.heroImageAlt}
+            category={post.data.category}
+            pubDate={post.data.pubDate}
+            readingTime={post.data.readingTime}
+          />
+        ))}
+      </div>
+    </section>
+
+    <section class="abd-section" style="border-top: 1px solid var(--abd-border);">
+      <div class="abd-section-header">
+        <h2 class="abd-section-title">Interactive Tools</h2>
+        <a href="/tools/" class="abd-section-link">All tools →</a>
+      </div>
+      <div class="abd-tools-grid">
+        <a href="/tools/airbrush-quiz/" class="abd-tool-card">
+          <div class="abd-tool-icon">🎯</div>
+          <div class="abd-tool-name">Airbrush Finder</div>
+          <p class="abd-tool-desc">Answer 6 questions and find the perfect airbrush for your style and budget.</p>
+        </a>
+        <a href="/tools/troubleshooter/" class="abd-tool-card">
+          <div class="abd-tool-icon">🔧</div>
+          <div class="abd-tool-name">Troubleshooter</div>
+          <p class="abd-tool-desc">Diagnose common airbrush problems step by step.</p>
+        </a>
+        <a href="/tools/paint-selector/" class="abd-tool-card">
+          <div class="abd-tool-icon">🎨</div>
+          <div class="abd-tool-name">Paint Selector</div>
+          <p class="abd-tool-desc">Find the right paint for your surface and application.</p>
+        </a>
+        <a href="/tools/compare/" class="abd-tool-card">
+          <div class="abd-tool-icon">⚖️</div>
+          <div class="abd-tool-name">Compare Airbrushes</div>
+          <p class="abd-tool-desc">Side-by-side comparison of popular airbrush models.</p>
+        </a>
+      </div>
+    </section>
+  </main>
+</BaseLayout>
