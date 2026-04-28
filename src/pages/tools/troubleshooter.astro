@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import toolContent from '../../tools-content/troubleshooter.html?raw';
+---
+<BaseLayout title="Airbrush Troubleshooter | AirbrushDOC" description="Diagnose common airbrush problems step by step and find the fix.">
+  <main class="abd-container" style="padding: 40px 24px 80px;">
+    <nav class="abd-breadcrumbs" style="margin-bottom: 24px;">
+      <a href="/">Home</a>
+      <span class="abd-breadcrumbs-sep">›</span>
+      <a href="/tools/">Tools</a>
+      <span class="abd-breadcrumbs-sep">›</span>
+      <span>Airbrush Troubleshooter</span>
+    </nav>
+    <Fragment set:html={toolContent} />
+  </main>
+</BaseLayout>

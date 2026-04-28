@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import toolContent from '../../tools-content/paint-selector.html?raw';
+---
+<BaseLayout title="Airbrush Paint Selector | AirbrushDOC" description="Find the right paint for your surface and application type.">
+  <main class="abd-container" style="padding: 40px 24px 80px;">
+    <nav class="abd-breadcrumbs" style="margin-bottom: 24px;">
+      <a href="/">Home</a>
+      <span class="abd-breadcrumbs-sep">›</span>
+      <a href="/tools/">Tools</a>
+      <span class="abd-breadcrumbs-sep">›</span>
+      <span>Airbrush Paint Selector</span>
+    </nav>
+    <Fragment set:html={toolContent} />
+  </main>
+</BaseLayout>

@@ -1,0 +1,656 @@
+<!-- AirbrushDOC.com - Airbrush Comparison Tool -->
+<!-- Drop into a WordPress Custom HTML block -->
+
+<style>
+/* ── Reset ── */
+.abc-root, .abc-root * { margin:0; padding:0; box-sizing:border-box; font-family:'Outfit',sans-serif; }
+
+/* ── Variables ── */
+.abc-root {
+  --abc-bg: #111111;
+  --abc-surface: #1A1A1A;
+  --abc-surface2: #222222;
+  --abc-surface3: #2A2A2A;
+  --abc-orange: #F4671A;
+  --abc-orange-glow: rgba(244,103,26,0.35);
+  --abc-orange-soft: rgba(244,103,26,0.10);
+  --abc-green: #4ADE80;
+  --abc-green-soft: rgba(74,222,128,0.10);
+  --abc-red: #F87171;
+  --abc-red-soft: rgba(248,113,113,0.10);
+  --abc-text: #F0F0F0;
+  --abc-text-dim: #999999;
+  --abc-text-muted: #666666;
+  --abc-border: #2A2A2A;
+  --abc-radius: 12px;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px 16px 48px;
+  color: var(--abc-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Header ── */
+.abc-header { text-align:center; margin-bottom:32px; }
+.abc-header-icon {
+  display:inline-flex; align-items:center; justify-content:center;
+  width:56px; height:56px; border-radius:50%;
+  background: var(--abc-orange-soft);
+  margin-bottom:16px;
+  animation: abc-pulse 2.5s ease-in-out infinite;
+}
+@keyframes abc-pulse {
+  0%,100% { box-shadow:0 0 0 0 var(--abc-orange-glow); }
+  50% { box-shadow:0 0 0 12px transparent; }
+}
+.abc-header-icon svg { width:28px; height:28px; fill:var(--abc-orange); }
+.abc-title { font-size:clamp(1.5rem,4vw,2rem); font-weight:800; letter-spacing:-0.02em; line-height:1.2; margin-bottom:6px; }
+.abc-title-accent { color:var(--abc-orange); }
+.abc-subtitle { font-size:0.95rem; color:var(--abc-text-dim); font-weight:300; }
+
+/* ── Selector Row ── */
+.abc-selectors {
+  display:grid; gap:12px; margin-bottom:10px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+.abc-sel-slot {
+  background:var(--abc-surface);
+  border:2px dashed var(--abc-border);
+  border-radius:var(--abc-radius);
+  padding:16px;
+  transition:all 0.3s ease;
+  opacity:0; transform:translateY(12px);
+  animation: abc-slot-in 0.4s ease forwards;
+}
+.abc-sel-slot:nth-child(1) { animation-delay:0.05s; }
+.abc-sel-slot:nth-child(2) { animation-delay:0.15s; }
+.abc-sel-slot:nth-child(3) { animation-delay:0.25s; }
+@keyframes abc-slot-in { to { opacity:1; transform:translateY(0); } }
+
+.abc-sel-slot.abc-filled {
+  border-style:solid; border-color:var(--abc-border);
+}
+.abc-sel-label {
+  font-size:0.72rem; font-weight:600; text-transform:uppercase;
+  letter-spacing:0.1em; color:var(--abc-orange); margin-bottom:10px;
+}
+
+/* Custom select */
+.abc-select-wrap { position:relative; }
+.abc-select {
+  width:100%; padding:10px 36px 10px 14px;
+  background:var(--abc-surface2); color:var(--abc-text);
+  border:1.5px solid var(--abc-border); border-radius:8px;
+  font-family:'Outfit',sans-serif; font-size:0.88rem; font-weight:500;
+  appearance:none; -webkit-appearance:none;
+  cursor:pointer; transition:all 0.2s;
+  outline:none;
+}
+.abc-select:hover, .abc-select:focus { border-color:var(--abc-orange); }
+.abc-select option { background:var(--abc-surface2); color:var(--abc-text); }
+.abc-select-arrow {
+  position:absolute; right:12px; top:50%; transform:translateY(-50%);
+  pointer-events:none; color:var(--abc-text-muted);
+}
+
+/* Add/Remove slot */
+.abc-add-slot {
+  display:flex; align-items:center; justify-content:center;
+  margin-bottom:28px;
+}
+.abc-add-btn, .abc-remove-btn {
+  display:inline-flex; align-items:center; gap:6px;
+  padding:8px 18px; border-radius:8px; border:none;
+  font-family:'Outfit',sans-serif; font-size:0.82rem; font-weight:600;
+  cursor:pointer; transition:all 0.25s;
+}
+.abc-add-btn {
+  background:var(--abc-orange-soft); color:var(--abc-orange);
+  border:1px solid rgba(244,103,26,0.2);
+}
+.abc-add-btn:hover { background:rgba(244,103,26,0.18); }
+.abc-add-btn:disabled { opacity:0.3; cursor:default; }
+.abc-remove-btn {
+  background:var(--abc-red-soft); color:var(--abc-red);
+  border:1px solid rgba(248,113,113,0.15); margin-left:8px;
+}
+.abc-remove-btn:hover { background:rgba(248,113,113,0.18); }
+
+/* ── Empty State ── */
+.abc-empty {
+  text-align:center; padding:48px 20px;
+  color:var(--abc-text-muted);
+}
+.abc-empty-icon { font-size:2.5rem; margin-bottom:12px; opacity:0.5; }
+.abc-empty-text { font-size:0.95rem; line-height:1.6; }
+
+/* ── Comparison Table ── */
+.abc-table-wrap {
+  display:none; opacity:0;
+  transition:opacity 0.4s ease;
+}
+.abc-table-wrap.abc-show { display:block; opacity:1; }
+
+.abc-section {
+  margin-bottom:4px;
+  opacity:0; transform:translateY(10px);
+  animation: abc-row-in 0.35s ease forwards;
+}
+.abc-section:nth-child(1) { animation-delay:0.05s; }
+.abc-section:nth-child(2) { animation-delay:0.1s; }
+.abc-section:nth-child(3) { animation-delay:0.15s; }
+.abc-section:nth-child(4) { animation-delay:0.2s; }
+.abc-section:nth-child(5) { animation-delay:0.25s; }
+.abc-section:nth-child(6) { animation-delay:0.3s; }
+.abc-section:nth-child(7) { animation-delay:0.35s; }
+.abc-section:nth-child(8) { animation-delay:0.4s; }
+@keyframes abc-row-in { to { opacity:1; transform:translateY(0); } }
+
+.abc-row {
+  display:grid; gap:0;
+  background:var(--abc-surface);
+  border:1px solid var(--abc-border);
+  border-radius:10px;
+  overflow:hidden;
+}
+.abc-row-2col { grid-template-columns: 140px 1fr 1fr; }
+.abc-row-3col { grid-template-columns: 140px 1fr 1fr 1fr; }
+
+.abc-row-label {
+  padding:14px 16px;
+  font-size:0.78rem; font-weight:600; text-transform:uppercase;
+  letter-spacing:0.08em; color:var(--abc-text-dim);
+  background:var(--abc-surface2);
+  display:flex; align-items:center;
+  border-right:1px solid var(--abc-border);
+}
+.abc-row-val {
+  padding:14px 16px;
+  font-size:0.9rem; font-weight:400; line-height:1.5;
+  display:flex; align-items:center;
+  border-right:1px solid var(--abc-border);
+}
+.abc-row-val:last-child { border-right:none; }
+
+/* Name row special */
+.abc-name-row .abc-row-val {
+  font-weight:700; font-size:0.95rem;
+  color:var(--abc-text);
+}
+
+/* Rating stars */
+.abc-stars { display:flex; align-items:center; gap:3px; }
+.abc-star {
+  width:18px; height:18px;
+  fill:var(--abc-surface3);
+  transition:fill 0.3s;
+}
+.abc-star.abc-star-filled { fill:var(--abc-orange); }
+.abc-star.abc-star-half { fill:url(#abcHalfGrad); }
+.abc-rating-num { margin-left:8px; font-size:0.85rem; font-weight:600; color:var(--abc-orange); }
+
+/* Price tag */
+.abc-price-tag {
+  display:inline-flex; padding:4px 12px; border-radius:6px;
+  font-weight:600; font-size:0.85rem;
+}
+.abc-price-1 { background:var(--abc-green-soft); color:var(--abc-green); }
+.abc-price-2 { background:var(--abc-orange-soft); color:var(--abc-orange); }
+.abc-price-3 { background:var(--abc-red-soft); color:var(--abc-red); }
+
+/* Pros / Cons */
+.abc-pro-con-list { list-style:none; display:flex; flex-direction:column; gap:6px; }
+.abc-pro-item, .abc-con-item {
+  display:flex; align-items:flex-start; gap:7px;
+  font-size:0.83rem; line-height:1.4;
+}
+.abc-pro-icon { color:var(--abc-green); font-weight:700; flex-shrink:0; font-size:0.9rem; }
+.abc-con-icon { color:var(--abc-red); font-weight:700; flex-shrink:0; font-size:0.9rem; }
+
+/* Best for badges */
+.abc-best-badges { display:flex; flex-wrap:wrap; gap:5px; }
+.abc-best-badge {
+  font-size:0.73rem; font-weight:500;
+  padding:3px 9px; border-radius:5px;
+  background:var(--abc-surface3); color:var(--abc-text-dim);
+  border:1px solid var(--abc-border);
+}
+
+/* ── Best Match Banner ── */
+.abc-best-match-wrap {
+  display:none; margin-top:24px;
+  opacity:0; transform:translateY(10px);
+  animation: abc-row-in 0.4s ease 0.5s forwards;
+}
+.abc-best-match-wrap.abc-show { display:block; }
+.abc-best-match {
+  background:linear-gradient(135deg, rgba(244,103,26,0.12) 0%, rgba(244,103,26,0.04) 100%);
+  border:1.5px solid rgba(244,103,26,0.3);
+  border-radius:var(--abc-radius);
+  padding:clamp(18px,3vw,24px);
+  display:flex; align-items:center; justify-content:space-between;
+  flex-wrap:wrap; gap:16px;
+}
+.abc-best-match-info { flex:1; min-width:200px; }
+.abc-best-match-label {
+  font-size:0.72rem; font-weight:700; text-transform:uppercase;
+  letter-spacing:0.1em; color:var(--abc-orange); margin-bottom:4px;
+}
+.abc-best-match-name { font-size:clamp(1rem,2.5vw,1.25rem); font-weight:700; margin-bottom:4px; }
+.abc-best-match-reason { font-size:0.85rem; color:var(--abc-text-dim); line-height:1.5; }
+
+.abc-cta-btn {
+  display:inline-flex; align-items:center; gap:8px;
+  padding:12px 28px; border-radius:10px;
+  background:var(--abc-orange); color:#fff;
+  text-decoration:none; font-weight:700; font-size:0.92rem;
+  box-shadow:0 4px 20px rgba(244,103,26,0.3);
+  transition:all 0.25s ease; border:none; cursor:pointer;
+  font-family:'Outfit',sans-serif; white-space:nowrap;
+}
+.abc-cta-btn:hover { filter:brightness(1.1); transform:translateY(-2px);
+  box-shadow:0 6px 28px rgba(244,103,26,0.45); }
+.abc-cta-btn svg { width:16px; height:16px; flex-shrink:0; }
+
+/* ── Mobile responsive ── */
+@media(max-width:680px) {
+  .abc-root { padding:12px 10px 36px; }
+  .abc-selectors { grid-template-columns:1fr; }
+
+  /* Stack table rows vertically on mobile */
+  .abc-row { display:flex; flex-direction:column; }
+  .abc-row-label {
+    border-right:none; border-bottom:1px solid var(--abc-border);
+    padding:10px 14px;
+  }
+  .abc-mobile-grid {
+    display:grid; width:100%;
+  }
+  .abc-mobile-grid-2 { grid-template-columns:1fr 1fr; }
+  .abc-mobile-grid-3 { grid-template-columns:1fr 1fr 1fr; }
+  .abc-row-val {
+    border-right:1px solid var(--abc-border);
+    border-bottom:none;
+    padding:12px 14px; font-size:0.85rem;
+  }
+  .abc-row-val:last-child { border-right:none; }
+
+  /* Column headers on mobile */
+  .abc-mob-col-header {
+    display:block; font-size:0.7rem; font-weight:700;
+    color:var(--abc-orange); text-transform:uppercase;
+    letter-spacing:0.06em; margin-bottom:6px;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+
+  .abc-best-match { flex-direction:column; text-align:center; }
+}
+@media(min-width:681px) {
+  .abc-mob-col-header { display:none; }
+}
+
+/* ── Highlight winner column ── */
+.abc-winner { background:rgba(244,103,26,0.04); }
+
+/* ── Header row ── */
+.abc-header-row .abc-row-val {
+  font-weight:700; font-size:0.82rem; text-transform:uppercase;
+  letter-spacing:0.06em; color:var(--abc-orange);
+  background:var(--abc-surface2);
+}
+.abc-header-row .abc-row-label { background:var(--abc-surface2); }
+</style>
+
+<!-- SVG defs for half star -->
+<svg style="position:absolute;width:0;height:0;" aria-hidden="true">
+  <defs>
+    <linearGradient id="abcHalfGrad">
+      <stop offset="50%" stop-color="#F4671A"/>
+      <stop offset="50%" stop-color="#2A2A2A"/>
+    </linearGradient>
+  </defs>
+</svg>
+
+<div class="abc-root" id="abcTool">
+
+  <!-- Header -->
+  <div class="abc-header">
+    <div class="abc-header-icon">
+      <svg viewBox="0 0 24 24"><path d="M10 3H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm10 0h-6a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zM10 13H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1zm10 0h-6a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1z"/></svg>
+    </div>
+    <h2 class="abc-title">Airbrush <span class="abc-title-accent">Comparison Tool</span></h2>
+    <p class="abc-subtitle">Select 2–3 airbrushes to compare specs, ratings & our verdict</p>
+  </div>
+
+  <!-- Selectors -->
+  <div class="abc-selectors" id="abcSelectors"></div>
+
+  <!-- Add / Remove -->
+  <div class="abc-add-slot">
+    <button class="abc-add-btn" id="abcAddBtn" onclick="abcAddSlot()">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M8 3v10M3 8h10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      Add Airbrush
+    </button>
+    <button class="abc-remove-btn" id="abcRemoveBtn" onclick="abcRemoveSlot()" style="display:none;">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      Remove
+    </button>
+  </div>
+
+  <!-- Empty state -->
+  <div class="abc-empty" id="abcEmpty">
+    <div class="abc-empty-icon">⇅</div>
+    <div class="abc-empty-text">Select at least <strong>2 airbrushes</strong> above to see<br>a detailed side-by-side comparison.</div>
+  </div>
+
+  <!-- Comparison Table -->
+  <div class="abc-table-wrap" id="abcTable"></div>
+
+  <!-- Best Match Banner -->
+  <div class="abc-best-match-wrap" id="abcBestMatch"></div>
+</div>
+
+<script>
+(function(){
+
+  /* ═══════════════════════════════════════
+     AIRBRUSH DATABASE
+  ═══════════════════════════════════════ */
+  const DB = [
+    {
+      id:'hs-ultra', name:'Harder & Steenbeck Ultra 2024',
+      price:'$$', priceRange:'$120–$160', priceLevel:2,
+      needle:'0.2mm', feed:'Gravity', type:'Dual-action',
+      rating:4.5, ratingLabel:'4.5 / 5',
+      bestFor:['Fine art','Illustration','Detail work','Scale models'],
+      pros:['Ultra-fine 0.2mm detail','German build quality','Excellent atomization','Lightweight ergonomic body'],
+      cons:['Not ideal for large coverage','Requires experienced hand','Replacement parts pricier'],
+      affiliate:'/go/hs-ultra-2024/',
+      matchReason:'Top-tier detail at a mid-range price — hard to beat for precision work.'
+    },
+    {
+      id:'iwata-eclipse', name:'Iwata Eclipse HP-CS',
+      price:'$$', priceRange:'$110–$150', priceLevel:2,
+      needle:'0.35mm', feed:'Gravity', type:'Dual-action',
+      rating:4.5, ratingLabel:'4.5 / 5',
+      bestFor:['All-rounder','Models','Illustration','Automotive'],
+      pros:['Incredible versatility','Smooth trigger feel','Huge community & parts support','Fine-to-medium line range'],
+      cons:['Middle-of-road detail','Higher priced for mid-range','Cup size limits large jobs'],
+      affiliate:'/go/iwata-eclipse/',
+      matchReason:'The industry standard all-rounder — reliable for virtually any project you throw at it.'
+    },
+    {
+      id:'badger-patriot', name:'Badger Patriot 105',
+      price:'$', priceRange:'$55–$75', priceLevel:1,
+      needle:'0.5mm', feed:'Gravity', type:'Dual-action',
+      rating:4.0, ratingLabel:'4.0 / 5',
+      bestFor:['Beginners','T-shirts','Crafts','Base coats'],
+      pros:['Unbeatable price-to-quality','Dead-simple disassembly','Forgiving for beginners','Made in USA'],
+      cons:['Limited fine detail','Heavier than competitors','Trigger feel less refined'],
+      affiliate:'/go/badger-patriot/',
+      matchReason:'Best value on the market — perfect for learning without stressing your wallet.'
+    },
+    {
+      id:'iwata-neo', name:'Iwata NEO CN',
+      price:'$', priceRange:'$40–$60', priceLevel:1,
+      needle:'0.35mm', feed:'Gravity', type:'Dual-action',
+      rating:3.5, ratingLabel:'3.5 / 5',
+      bestFor:['Beginners','Hobby','Cake decorating','Light crafts'],
+      pros:['Most affordable Iwata','Good starter 0.35mm nozzle','Easy to clean','Lightweight'],
+      cons:['Build quality is basic','Trigger can feel stiff','Not for heavy daily use'],
+      affiliate:'/go/iwata-neo/',
+      matchReason:'The cheapest way into the Iwata ecosystem — ideal pure-beginner pick.'
+    },
+    {
+      id:'paasche-talon', name:'Paasche Talon TG-3F',
+      price:'$$', priceRange:'$100–$140', priceLevel:2,
+      needle:'0.25 / 0.38 / 0.66mm', feed:'Gravity', type:'Dual-action',
+      rating:4.0, ratingLabel:'4.0 / 5',
+      bestFor:['Multi-purpose','Models','Crafts','Versatile work'],
+      pros:['3 needle/nozzle sets included','Fan spray cap option','Great coverage range','Solid build'],
+      cons:['Jack of all trades, master of none','Fan cap takes practice','Bulkier body design'],
+      affiliate:'/go/paasche-talon/',
+      matchReason:'Three needle sets in one box — the ultimate versatility kit for varied projects.'
+    },
+    {
+      id:'iwata-micron', name:'Iwata Custom Micron CM-C+',
+      price:'$$$', priceRange:'$280–$350', priceLevel:3,
+      needle:'0.23mm', feed:'Gravity', type:'Dual-action',
+      rating:5.0, ratingLabel:'5.0 / 5',
+      bestFor:['Photorealism','Fine art','Master-level detail','Portraits'],
+      pros:['Micro Air Control (MAC) valve','Unmatched atomization','Whisper-quiet operation','Lifetime investment quality'],
+      cons:['Premium price tag','Steep learning curve','Demands meticulous cleaning'],
+      affiliate:'/go/iwata-micron/',
+      matchReason:'The pinnacle of airbrush engineering — when only the absolute best will do.'
+    },
+    {
+      id:'hs-infinity', name:'H&S Infinity CR Plus',
+      price:'$$$', priceRange:'$300–$380', priceLevel:3,
+      needle:'0.15mm', feed:'Gravity', type:'Dual-action',
+      rating:5.0, ratingLabel:'5.0 / 5',
+      bestFor:['Ultra-fine detail','Photorealism','Advanced users','Competition work'],
+      pros:['Finest 0.15mm nozzle available','Quick-fix self-centering nozzle','Butter-smooth trigger','Modular quick-change cups'],
+      cons:['Highest price point','Not for beginners','Requires premium paints'],
+      affiliate:'/go/hs-infinity/',
+      matchReason:'The finest nozzle money can buy at 0.15mm — built for competition-level precision.'
+    }
+  ];
+
+  /* ═══════════════════════════════════════
+     STATE
+  ═══════════════════════════════════════ */
+  let slotCount = 2;
+  let selections = [null, null];
+
+  /* ═══════════════════════════════════════
+     INIT
+  ═══════════════════════════════════════ */
+  function init() {
+    renderSlots();
+  }
+
+  function renderSlots() {
+    const wrap = document.getElementById('abcSelectors');
+    wrap.innerHTML = '';
+    for(let i = 0; i < slotCount; i++) {
+      const slot = document.createElement('div');
+      slot.className = 'abc-sel-slot' + (selections[i] !== null ? ' abc-filled' : '');
+      const labels = ['Airbrush A','Airbrush B','Airbrush C'];
+      slot.innerHTML = `
+        <div class="abc-sel-label">${labels[i]}</div>
+        <div class="abc-select-wrap">
+          <select class="abc-select" data-slot="${i}" onchange="abcOnSelect(this)">
+            <option value="">— Choose an airbrush —</option>
+            ${DB.map(ab => `<option value="${ab.id}" ${selections[i]===ab.id?'selected':''}>${ab.name}</option>`).join('')}
+          </select>
+          <div class="abc-select-arrow">
+            <svg width="12" height="12" viewBox="0 0 16 16" fill="none"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+        </div>
+      `;
+      // Re-trigger animation
+      slot.style.animation = 'none';
+      slot.offsetHeight;
+      slot.style.animation = '';
+      wrap.appendChild(slot);
+    }
+
+    const addBtn = document.getElementById('abcAddBtn');
+    const rmBtn = document.getElementById('abcRemoveBtn');
+    addBtn.disabled = slotCount >= 3;
+    rmBtn.style.display = slotCount > 2 ? 'inline-flex' : 'none';
+
+    updateComparison();
+  }
+
+  /* ═══════════════════════════════════════
+     SLOT MANAGEMENT
+  ═══════════════════════════════════════ */
+  window.abcAddSlot = function() {
+    if(slotCount >= 3) return;
+    slotCount = 3;
+    selections.push(null);
+    renderSlots();
+  };
+
+  window.abcRemoveSlot = function() {
+    if(slotCount <= 2) return;
+    slotCount = 2;
+    selections = selections.slice(0, 2);
+    renderSlots();
+  };
+
+  window.abcOnSelect = function(el) {
+    const idx = parseInt(el.getAttribute('data-slot'));
+    const val = el.value || null;
+
+    // Prevent duplicates
+    if(val && selections.some((s,i) => s === val && i !== idx)) {
+      el.value = selections[idx] || '';
+      return;
+    }
+
+    selections[idx] = val;
+    el.closest('.abc-sel-slot').classList.toggle('abc-filled', !!val);
+    updateComparison();
+  };
+
+  /* ═══════════════════════════════════════
+     RENDER COMPARISON
+  ═══════════════════════════════════════ */
+  function updateComparison() {
+    const chosen = selections.filter(s => s !== null).map(id => DB.find(a => a.id === id));
+    const tableEl = document.getElementById('abcTable');
+    const emptyEl = document.getElementById('abcEmpty');
+    const bestEl = document.getElementById('abcBestMatch');
+
+    if(chosen.length < 2) {
+      tableEl.classList.remove('abc-show');
+      tableEl.innerHTML = '';
+      emptyEl.style.display = 'block';
+      bestEl.classList.remove('abc-show');
+      bestEl.innerHTML = '';
+      return;
+    }
+
+    emptyEl.style.display = 'none';
+    const cols = chosen.length;
+    const colClass = cols === 2 ? 'abc-row-2col' : 'abc-row-3col';
+    const mobileGridClass = cols === 2 ? 'abc-mobile-grid-2' : 'abc-mobile-grid-3';
+
+    // Find "winner" (highest rating, then lowest price)
+    const best = [...chosen].sort((a,b) => {
+      if(b.rating !== a.rating) return b.rating - a.rating;
+      return a.priceLevel - b.priceLevel;
+    })[0];
+
+    function makeValCells(getContent, highlightBest) {
+      return chosen.map(ab => {
+        const isWinner = highlightBest && ab.id === best.id && chosen.length > 1;
+        return `<div class="abc-row-val${isWinner ? ' abc-winner' : ''}">
+          <div style="width:100%;">
+            <span class="abc-mob-col-header">${ab.name.split(' ').slice(0,2).join(' ')}</span>
+            ${getContent(ab)}
+          </div>
+        </div>`;
+      }).join('');
+    }
+
+    function starsHTML(rating) {
+      let s = '';
+      for(let i = 1; i <= 5; i++) {
+        if(i <= Math.floor(rating)) {
+          s += `<svg class="abc-star abc-star-filled" viewBox="0 0 20 20"><path d="M10 1l2.47 5.01L18 6.94l-4 3.9.94 5.5L10 13.47l-4.94 2.87.94-5.5-4-3.9 5.53-.93L10 1z"/></svg>`;
+        } else if(i === Math.ceil(rating) && rating % 1 !== 0) {
+          s += `<svg class="abc-star abc-star-half" viewBox="0 0 20 20"><path d="M10 1l2.47 5.01L18 6.94l-4 3.9.94 5.5L10 13.47l-4.94 2.87.94-5.5-4-3.9 5.53-.93L10 1z"/></svg>`;
+        } else {
+          s += `<svg class="abc-star" viewBox="0 0 20 20"><path d="M10 1l2.47 5.01L18 6.94l-4 3.9.94 5.5L10 13.47l-4.94 2.87.94-5.5-4-3.9 5.53-.93L10 1z"/></svg>`;
+        }
+      }
+      return s;
+    }
+
+    const priceClass = l => l===1?'abc-price-1':l===2?'abc-price-2':'abc-price-3';
+
+    let html = '';
+
+    // Header row (names) — desktop only
+    html += `<div class="abc-section">
+      <div class="abc-row ${colClass} abc-header-row abc-name-row">
+        <div class="abc-row-label" style="visibility:hidden;"></div>
+        ${chosen.map(ab=>`<div class="abc-row-val">${ab.name}</div>`).join('')}
+      </div>
+    </div>`;
+
+    // Price
+    html += `<div class="abc-section"><div class="abc-row ${colClass}">
+      <div class="abc-row-label">Price</div>
+      ${makeValCells(ab => `<span class="abc-price-tag ${priceClass(ab.priceLevel)}">${ab.price} ${ab.priceRange}</span>`, false)}
+    </div></div>`;
+
+    // Needle
+    html += `<div class="abc-section"><div class="abc-row ${colClass}">
+      <div class="abc-row-label">Needle Size</div>
+      ${makeValCells(ab => ab.needle, false)}
+    </div></div>`;
+
+    // Feed type
+    html += `<div class="abc-section"><div class="abc-row ${colClass}">
+      <div class="abc-row-label">Feed Type</div>
+      ${makeValCells(ab => ab.feed + '-feed, ' + ab.type, false)}
+    </div></div>`;
+
+    // Best For
+    html += `<div class="abc-section"><div class="abc-row ${colClass}">
+      <div class="abc-row-label">Best For</div>
+      ${makeValCells(ab => `<div class="abc-best-badges">${ab.bestFor.map(b=>`<span class="abc-best-badge">${b}</span>`).join('')}</div>`, false)}
+    </div></div>`;
+
+    // Rating
+    html += `<div class="abc-section"><div class="abc-row ${colClass}">
+      <div class="abc-row-label">Our Rating</div>
+      ${makeValCells(ab => `<div class="abc-stars">${starsHTML(ab.rating)}<span class="abc-rating-num">${ab.ratingLabel}</span></div>`, true)}
+    </div></div>`;
+
+    // Pros
+    html += `<div class="abc-section"><div class="abc-row ${colClass}">
+      <div class="abc-row-label">Pros</div>
+      ${makeValCells(ab => `<ul class="abc-pro-con-list">${ab.pros.map(p=>`<li class="abc-pro-item"><span class="abc-pro-icon">✓</span><span>${p}</span></li>`).join('')}</ul>`, false)}
+    </div></div>`;
+
+    // Cons
+    html += `<div class="abc-section"><div class="abc-row ${colClass}">
+      <div class="abc-row-label">Cons</div>
+      ${makeValCells(ab => `<ul class="abc-pro-con-list">${ab.cons.map(c=>`<li class="abc-con-item"><span class="abc-con-icon">✗</span><span>${c}</span></li>`).join('')}</ul>`, false)}
+    </div></div>`;
+
+    tableEl.innerHTML = html;
+    // Force reflow for animation
+    tableEl.classList.remove('abc-show');
+    void tableEl.offsetHeight;
+    tableEl.classList.add('abc-show');
+
+    // Best match banner
+    bestEl.innerHTML = `<div class="abc-best-match">
+      <div class="abc-best-match-info">
+        <div class="abc-best-match-label">🏆 Our Top Pick From This Comparison</div>
+        <div class="abc-best-match-name">${best.name}</div>
+        <div class="abc-best-match-reason">${best.matchReason}</div>
+      </div>
+      <a class="abc-cta-btn" href="${best.affiliate}">
+        Buy Best Match
+        <svg viewBox="0 0 16 16" fill="none"><path d="M4 12l8-8M4 4h8v8" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    </div>`;
+    bestEl.classList.remove('abc-show');
+    void bestEl.offsetHeight;
+    bestEl.classList.add('abc-show');
+  }
+
+  /* ═══════════════════════════════════════
+     BOOT
+  ═══════════════════════════════════════ */
+  init();
+
+})();
+</script>

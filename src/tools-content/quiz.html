@@ -1,0 +1,711 @@
+<!-- AirbrushDOC.com - Find Your Perfect Airbrush Quiz -->
+<!-- Drop into a WordPress Custom HTML block -->
+
+<style>
+/* ── Reset scoped to quiz ── */
+.ab-quiz-root, .ab-quiz-root * { margin:0; padding:0; box-sizing:border-box; font-family:'Outfit',sans-serif; }
+
+/* ── CSS Variables ── */
+.ab-quiz-root {
+  --ab-bg: #111111;
+  --ab-surface: #1A1A1A;
+  --ab-surface2: #222222;
+  --ab-orange: #F4671A;
+  --ab-orange-glow: rgba(244,103,26,0.35);
+  --ab-orange-soft: rgba(244,103,26,0.12);
+  --ab-text: #F0F0F0;
+  --ab-text-dim: #999999;
+  --ab-text-muted: #666666;
+  --ab-border: #2A2A2A;
+  --ab-success: #4ADE80;
+  --ab-radius: 12px;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+  color: var(--ab-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Header ── */
+.ab-header { text-align:center; margin-bottom:32px; }
+.ab-header-icon {
+  display:inline-flex; align-items:center; justify-content:center;
+  width:56px; height:56px; border-radius:50%;
+  background: var(--ab-orange-soft);
+  margin-bottom:16px;
+  animation: ab-pulse-ring 2.5s ease-in-out infinite;
+}
+.ab-header-icon svg { width:28px; height:28px; fill:var(--ab-orange); }
+@keyframes ab-pulse-ring {
+  0%,100% { box-shadow:0 0 0 0 var(--ab-orange-glow); }
+  50% { box-shadow:0 0 0 12px transparent; }
+}
+.ab-title { font-size:clamp(1.5rem,4vw,2rem); font-weight:800; letter-spacing:-0.02em; line-height:1.2; margin-bottom:6px; }
+.ab-title-accent { color:var(--ab-orange); }
+.ab-subtitle { font-size:0.95rem; color:var(--ab-text-dim); font-weight:300; }
+
+/* ── Progress Bar ── */
+.ab-progress-wrap { position:relative; margin-bottom:28px; }
+.ab-progress-track {
+  width:100%; height:6px; border-radius:3px;
+  background:var(--ab-surface2);
+  overflow:visible; position:relative;
+}
+.ab-progress-fill {
+  height:100%; border-radius:3px;
+  background: linear-gradient(90deg, var(--ab-orange), #FF8A3D);
+  transition: width 0.5s cubic-bezier(0.4,0,0.2,1);
+  position:relative;
+}
+.ab-progress-dot {
+  position:absolute; right:-6px; top:50%; transform:translateY(-50%);
+  width:14px; height:14px; border-radius:50%;
+  background:var(--ab-orange);
+  box-shadow:0 0 10px var(--ab-orange-glow), 0 0 20px var(--ab-orange-glow);
+  transition: opacity 0.3s;
+}
+.ab-progress-label {
+  display:flex; justify-content:space-between; margin-top:10px;
+  font-size:0.78rem; color:var(--ab-text-muted); font-weight:400;
+}
+.ab-progress-label span:last-child { color:var(--ab-text-dim); font-weight:600; }
+
+/* ── Question Card Container ── */
+.ab-card-stage {
+  position:relative; min-height:380px;
+  perspective:800px;
+}
+.ab-card {
+  position:absolute; inset:0;
+  background:var(--ab-surface);
+  border:1px solid var(--ab-border);
+  border-radius:var(--ab-radius);
+  padding:clamp(20px,4vw,32px);
+  opacity:0; transform:translateX(60px) scale(0.96);
+  transition: opacity 0.45s ease, transform 0.45s cubic-bezier(0.4,0,0.2,1);
+  pointer-events:none;
+  display:flex; flex-direction:column;
+}
+.ab-card.ab-active {
+  opacity:1; transform:translateX(0) scale(1);
+  pointer-events:auto; position:relative;
+}
+.ab-card.ab-exit-left {
+  opacity:0; transform:translateX(-60px) scale(0.96);
+  pointer-events:none;
+}
+
+/* ── Question Content ── */
+.ab-q-number {
+  font-size:0.72rem; font-weight:600; text-transform:uppercase;
+  letter-spacing:0.12em; color:var(--ab-orange); margin-bottom:10px;
+}
+.ab-q-text { font-size:clamp(1.1rem,3vw,1.35rem); font-weight:600; line-height:1.35; margin-bottom:24px; }
+
+/* ── Option Buttons ── */
+.ab-options { display:flex; flex-direction:column; gap:10px; flex:1; }
+.ab-opt {
+  display:flex; align-items:center; gap:12px;
+  padding:14px 18px; border-radius:10px;
+  background:var(--ab-surface2);
+  border:1.5px solid var(--ab-border);
+  cursor:pointer; transition:all 0.25s ease;
+  -webkit-tap-highlight-color:transparent;
+}
+.ab-opt:hover { border-color:var(--ab-orange); background:var(--ab-orange-soft); }
+.ab-opt.ab-selected {
+  border-color:var(--ab-orange);
+  background:var(--ab-orange-soft);
+  box-shadow:0 0 16px rgba(244,103,26,0.15);
+}
+.ab-opt-radio {
+  flex-shrink:0; width:20px; height:20px; border-radius:50%;
+  border:2px solid var(--ab-text-muted);
+  display:flex; align-items:center; justify-content:center;
+  transition:all 0.25s ease;
+}
+.ab-opt.ab-selected .ab-opt-radio {
+  border-color:var(--ab-orange);
+}
+.ab-opt-radio-dot {
+  width:10px; height:10px; border-radius:50%;
+  background:var(--ab-orange); transform:scale(0);
+  transition:transform 0.25s cubic-bezier(0.34,1.56,0.64,1);
+}
+.ab-opt.ab-selected .ab-opt-radio-dot { transform:scale(1); }
+.ab-opt-label { font-size:0.92rem; font-weight:400; line-height:1.3; }
+.ab-opt-desc { font-size:0.78rem; color:var(--ab-text-dim); margin-top:2px; }
+
+/* ── Navigation ── */
+.ab-nav { display:flex; justify-content:space-between; align-items:center; margin-top:20px; }
+.ab-btn {
+  display:inline-flex; align-items:center; gap:6px;
+  padding:10px 22px; border-radius:8px; border:none;
+  font-family:'Outfit',sans-serif; font-size:0.88rem; font-weight:600;
+  cursor:pointer; transition:all 0.25s ease;
+}
+.ab-btn-back {
+  background:transparent; color:var(--ab-text-dim);
+  border:1px solid var(--ab-border);
+}
+.ab-btn-back:hover { color:var(--ab-text); border-color:var(--ab-text-muted); }
+.ab-btn-back:disabled { opacity:0.3; cursor:default; }
+.ab-btn-primary {
+  background:var(--ab-orange); color:#fff;
+  box-shadow:0 4px 16px rgba(244,103,26,0.3);
+}
+.ab-btn-primary:hover { filter:brightness(1.1); transform:translateY(-1px); }
+
+/* ── Results ── */
+.ab-results {
+  display:none; opacity:0;
+  transition: opacity 0.5s ease;
+}
+.ab-results.ab-show { display:block; opacity:1; }
+.ab-results-tagline {
+  text-align:center; font-size:clamp(1rem,3vw,1.15rem); color:var(--ab-text-dim);
+  font-weight:300; margin-bottom:28px; line-height:1.5;
+}
+.ab-results-tagline strong { color:var(--ab-text); font-weight:600; }
+
+.ab-rec-card {
+  background:var(--ab-surface);
+  border:1px solid var(--ab-border);
+  border-radius:var(--ab-radius);
+  padding:clamp(18px,3vw,24px);
+  margin-bottom:14px;
+  opacity:0; transform:translateY(20px);
+  animation: ab-card-in 0.5s ease forwards;
+}
+.ab-rec-card:nth-child(1) { animation-delay:0.1s; }
+.ab-rec-card:nth-child(2) { animation-delay:0.25s; }
+.ab-rec-card:nth-child(3) { animation-delay:0.4s; }
+.ab-rec-card.ab-top-pick { border-color:var(--ab-orange); box-shadow:0 0 24px rgba(244,103,26,0.12); }
+@keyframes ab-card-in {
+  to { opacity:1; transform:translateY(0); }
+}
+
+.ab-rec-header { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:12px; flex-wrap:wrap; gap:8px; }
+.ab-rec-rank {
+  font-size:0.7rem; font-weight:700; text-transform:uppercase;
+  letter-spacing:0.1em; padding:4px 10px; border-radius:20px;
+}
+.ab-rec-card.ab-top-pick .ab-rec-rank {
+  background:var(--ab-orange); color:#fff;
+}
+.ab-rec-card:not(.ab-top-pick) .ab-rec-rank {
+  background:var(--ab-surface2); color:var(--ab-text-dim);
+  border:1px solid var(--ab-border);
+}
+.ab-rec-match { font-size:0.85rem; color:var(--ab-text-dim); font-weight:500; }
+.ab-rec-match b { color:var(--ab-orange); font-size:1.15rem; }
+
+.ab-rec-name { font-size:clamp(1.1rem,3vw,1.3rem); font-weight:700; margin-bottom:4px; }
+.ab-rec-why { font-size:0.85rem; color:var(--ab-text-dim); line-height:1.5; margin-bottom:14px; }
+
+/* Match bar */
+.ab-match-bar-track {
+  width:100%; height:8px; border-radius:4px;
+  background:var(--ab-surface2); margin-bottom:14px; overflow:hidden;
+}
+.ab-match-bar-fill {
+  height:100%; border-radius:4px;
+  background:linear-gradient(90deg, var(--ab-orange), #FF8A3D);
+  width:0; transition:width 1s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* Spec tags */
+.ab-specs { display:flex; flex-wrap:wrap; gap:6px; }
+.ab-spec-tag {
+  font-size:0.73rem; font-weight:500;
+  padding:4px 10px; border-radius:6px;
+  background:var(--ab-surface2); color:var(--ab-text-dim);
+  border:1px solid var(--ab-border);
+  white-space:nowrap;
+}
+
+/* ── CTA Section ── */
+.ab-cta-section { text-align:center; margin-top:32px; }
+.ab-cta-link {
+  display:inline-flex; align-items:center; gap:8px;
+  padding:14px 32px; border-radius:10px;
+  background:var(--ab-orange); color:#fff;
+  text-decoration:none; font-weight:700; font-size:1rem;
+  box-shadow:0 4px 20px rgba(244,103,26,0.35);
+  transition:all 0.25s ease;
+}
+.ab-cta-link:hover { filter:brightness(1.1); transform:translateY(-2px);
+  box-shadow:0 6px 28px rgba(244,103,26,0.45); }
+.ab-cta-link svg { width:18px; height:18px; fill:#fff; }
+.ab-retake {
+  display:inline-block; margin-top:16px;
+  font-size:0.85rem; color:var(--ab-text-muted);
+  cursor:pointer; border:none; background:none;
+  font-family:'Outfit',sans-serif; text-decoration:underline;
+  text-underline-offset:3px; transition:color 0.2s;
+}
+.ab-retake:hover { color:var(--ab-text-dim); }
+
+/* ── Intro Screen ── */
+.ab-intro { text-align:center; }
+.ab-intro-features {
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+  gap:12px; margin:24px 0 28px; text-align:left;
+}
+.ab-intro-feat {
+  display:flex; align-items:flex-start; gap:10px;
+  padding:14px; border-radius:10px;
+  background:var(--ab-surface); border:1px solid var(--ab-border);
+}
+.ab-intro-feat-icon {
+  flex-shrink:0; width:32px; height:32px; border-radius:8px;
+  background:var(--ab-orange-soft);
+  display:flex; align-items:center; justify-content:center;
+  font-size:1rem;
+}
+.ab-intro-feat-text { font-size:0.82rem; line-height:1.4; }
+.ab-intro-feat-text strong { display:block; font-size:0.88rem; margin-bottom:2px; color:var(--ab-text); }
+.ab-intro-feat-text span { color:var(--ab-text-dim); }
+
+/* ── Loading Spinner ── */
+.ab-loading { display:none; text-align:center; padding:60px 20px; }
+.ab-loading.ab-show { display:block; }
+.ab-spinner {
+  width:48px; height:48px; margin:0 auto 20px;
+  border:3px solid var(--ab-surface2);
+  border-top-color:var(--ab-orange);
+  border-radius:50%;
+  animation:ab-spin 0.8s linear infinite;
+}
+@keyframes ab-spin { to { transform:rotate(360deg); } }
+.ab-loading-text { font-size:0.95rem; color:var(--ab-text-dim); }
+
+/* ── Responsive ── */
+@media(max-width:480px) {
+  .ab-quiz-root { padding:12px 10px 32px; }
+  .ab-card { padding:18px 14px; }
+  .ab-card-stage { min-height:360px; }
+  .ab-opt { padding:12px 14px; }
+  .ab-intro-features { grid-template-columns:1fr; }
+}
+</style>
+
+<div class="ab-quiz-root" id="abQuiz">
+  <!-- Intro Screen -->
+  <div id="abIntro" class="ab-intro">
+    <div class="ab-header">
+      <div class="ab-header-icon">
+        <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.94-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+      </div>
+      <h2 class="ab-title">Find Your <span class="ab-title-accent">Perfect Airbrush</span></h2>
+      <p class="ab-subtitle">Answer 6 quick questions · Get matched in under a minute</p>
+    </div>
+    <div class="ab-intro-features">
+      <div class="ab-intro-feat">
+        <div class="ab-intro-feat-icon">🎯</div>
+        <div class="ab-intro-feat-text"><strong>Personalized</strong><span>Matched to your skill level & style</span></div>
+      </div>
+      <div class="ab-intro-feat">
+        <div class="ab-intro-feat-icon">⚡</div>
+        <div class="ab-intro-feat-text"><strong>Quick</strong><span>Only 6 questions, under 60 seconds</span></div>
+      </div>
+      <div class="ab-intro-feat">
+        <div class="ab-intro-feat-icon">🏆</div>
+        <div class="ab-intro-feat-text"><strong>Expert Picks</strong><span>7 top-rated airbrushes analyzed</span></div>
+      </div>
+    </div>
+    <button class="ab-btn ab-btn-primary" onclick="abStartQuiz()" style="font-size:1rem;padding:14px 36px;">
+      Start the Quiz
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" style="margin-left:4px;"><path d="M6 3l5 5-5 5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+  </div>
+
+  <!-- Quiz Section (hidden initially) -->
+  <div id="abQuizBody" style="display:none;">
+    <div class="ab-header" style="margin-bottom:20px;">
+      <h2 class="ab-title" style="font-size:clamp(1.2rem,3vw,1.5rem);">Find Your <span class="ab-title-accent">Perfect Airbrush</span></h2>
+    </div>
+    <div class="ab-progress-wrap">
+      <div class="ab-progress-track">
+        <div class="ab-progress-fill" id="abProgressFill" style="width:0%;">
+          <div class="ab-progress-dot" id="abProgressDot"></div>
+        </div>
+      </div>
+      <div class="ab-progress-label">
+        <span id="abStepLabel">Question 1 of 6</span>
+        <span id="abPctLabel">0%</span>
+      </div>
+    </div>
+    <div class="ab-card-stage" id="abCardStage"></div>
+    <div class="ab-nav">
+      <button class="ab-btn ab-btn-back" id="abBackBtn" disabled onclick="abGoBack()">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M10 13l-5-5 5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Back
+      </button>
+      <div></div>
+    </div>
+  </div>
+
+  <!-- Loading -->
+  <div id="abLoading" class="ab-loading">
+    <div class="ab-spinner"></div>
+    <div class="ab-loading-text">Analyzing your answers...</div>
+  </div>
+
+  <!-- Results -->
+  <div id="abResults" class="ab-results"></div>
+</div>
+
+<script>
+(function(){
+  /* ═══════════════════════════════════════
+     AIRBRUSH DATABASE
+  ═══════════════════════════════════════ */
+  const AIRBRUSHES = [
+    {
+      id:"hs-ultra",
+      name:"Harder & Steenbeck Ultra 2024",
+      nozzle:"0.2mm",
+      feed:"Gravity",
+      type:"Dual-action",
+      price:"$$",
+      tags:["0.2mm nozzle","Gravity-feed","German-made","Ultra-fine detail"],
+      scores:{ skill:[0,3,5,5], useCase:[5,3,2,4,3], budget:[0,3,5], detail:[2,5,5], maint:[3,2,5], priority:[5,3,4,3] }
+    },
+    {
+      id:"iwata-eclipse",
+      name:"Iwata Eclipse HP-CS",
+      nozzle:"0.35mm",
+      feed:"Gravity",
+      type:"Dual-action",
+      price:"$$",
+      tags:["0.35mm nozzle","Gravity-feed","Versatile","Industry standard"],
+      scores:{ skill:[3,5,4,3], useCase:[4,5,4,3,4], budget:[0,4,4], detail:[4,4,3], maint:[4,4,3], priority:[3,5,4,4] }
+    },
+    {
+      id:"badger-patriot",
+      name:"Badger Patriot 105",
+      nozzle:"0.5mm",
+      feed:"Gravity",
+      type:"Dual-action",
+      price:"$",
+      tags:["0.5mm nozzle","Gravity-feed","Budget-friendly","Easy clean"],
+      scores:{ skill:[5,4,2,1], useCase:[2,4,5,2,5], budget:[5,4,1], detail:[3,2,1], maint:[5,4,2], priority:[2,4,3,5] }
+    },
+    {
+      id:"iwata-neo",
+      name:"Iwata NEO CN",
+      nozzle:"0.35mm",
+      feed:"Gravity",
+      type:"Dual-action",
+      price:"$",
+      tags:["0.35mm nozzle","Gravity-feed","Beginner-friendly","Affordable"],
+      scores:{ skill:[5,3,1,0], useCase:[2,3,4,2,4], budget:[5,3,0], detail:[3,2,1], maint:[5,4,2], priority:[2,3,2,5] }
+    },
+    {
+      id:"paasche-talon",
+      name:"Paasche Talon TG-3F",
+      nozzle:"0.25/0.38/0.66mm",
+      feed:"Gravity",
+      type:"Dual-action",
+      price:"$$",
+      tags:["3 needle set","Gravity-feed","Multi-purpose","Fan spray cap"],
+      scores:{ skill:[2,4,5,3], useCase:[3,4,5,3,4], budget:[0,4,4], detail:[3,4,3], maint:[3,3,4], priority:[3,4,5,3] }
+    },
+    {
+      id:"iwata-micron",
+      name:"Iwata Custom Micron CM-C+",
+      nozzle:"0.23mm",
+      feed:"Gravity",
+      type:"Dual-action",
+      price:"$$$",
+      tags:["0.23mm nozzle","Micro-air control","Premium build","Master-grade"],
+      scores:{ skill:[0,1,4,5], useCase:[5,2,1,5,1], budget:[0,0,5], detail:[1,5,5], maint:[2,1,5], priority:[5,2,4,2] }
+    },
+    {
+      id:"hs-infinity",
+      name:"Harder & Steenbeck Infinity CR Plus",
+      nozzle:"0.15mm",
+      feed:"Gravity",
+      type:"Dual-action",
+      price:"$$$",
+      tags:["0.15mm nozzle","Quick-fix system","Finest detail","German precision"],
+      scores:{ skill:[0,1,3,5], useCase:[5,2,1,5,2], budget:[0,0,5], detail:[0,5,5], maint:[3,2,5], priority:[5,2,3,2] }
+    }
+  ];
+
+  /* ═══════════════════════════════════════
+     QUESTIONS
+  ═══════════════════════════════════════ */
+  const QUESTIONS = [
+    {
+      key:"skill", weight:2,
+      text:"What's your airbrush experience level?",
+      options:[
+        {label:"Complete beginner",desc:"Never used an airbrush before"},
+        {label:"Some experience",desc:"Practiced a few times, still learning"},
+        {label:"Intermediate",desc:"Comfortable with basic techniques"},
+        {label:"Advanced / Pro",desc:"Years of experience, seeking precision"}
+      ]
+    },
+    {
+      key:"useCase", weight:2,
+      text:"What will you primarily use your airbrush for?",
+      options:[
+        {label:"Fine art & illustration",desc:"Portraits, photorealism, canvas work"},
+        {label:"Scale models & miniatures",desc:"Model kits, tabletop figures, dioramas"},
+        {label:"General crafts & DIY",desc:"T-shirts, cakes, nails, cosplay props"},
+        {label:"Automotive & custom paint",desc:"Helmets, tanks, automotive details"},
+        {label:"Multiple uses",desc:"I need something versatile for everything"}
+      ]
+    },
+    {
+      key:"budget", weight:2.5,
+      text:"What's your budget range?",
+      options:[
+        {label:"Under $80",desc:"Entry-level, keeping costs low"},
+        {label:"$80 – $180",desc:"Mid-range, best value sweet spot"},
+        {label:"$180+",desc:"Premium quality, willing to invest"}
+      ]
+    },
+    {
+      key:"detail", weight:1.5,
+      text:"How important is ultra-fine detail to you?",
+      options:[
+        {label:"Not a priority",desc:"Broad coverage & base coats matter more"},
+        {label:"Very important",desc:"I need hair-thin lines & micro details"},
+        {label:"Critical — it's everything",desc:"Photorealistic work demands the finest lines"}
+      ]
+    },
+    {
+      key:"maint", weight:1,
+      text:"How do you feel about maintenance & cleaning?",
+      options:[
+        {label:"Keep it simple",desc:"Quick teardown, minimal fuss"},
+        {label:"Moderate is fine",desc:"Standard cleaning routine, no problem"},
+        {label:"I'll do whatever it takes",desc:"Detailed care for peak performance"}
+      ]
+    },
+    {
+      key:"priority", weight:1.5,
+      text:"What matters most when choosing your airbrush?",
+      options:[
+        {label:"Finest possible detail",desc:"Precision above all else"},
+        {label:"Easy learning curve",desc:"I want to get started quickly"},
+        {label:"Versatility & range",desc:"One brush for many techniques"},
+        {label:"Best value for money",desc:"Maximum bang for my buck"}
+      ]
+    }
+  ];
+
+  /* ═══════════════════════════════════════
+     STATE
+  ═══════════════════════════════════════ */
+  let currentQ = 0;
+  let answers = {};
+
+  /* ═══════════════════════════════════════
+     RENDER FUNCTIONS
+  ═══════════════════════════════════════ */
+  function renderQuestion(idx, direction) {
+    const stage = document.getElementById('abCardStage');
+    const old = stage.querySelector('.ab-active');
+
+    const q = QUESTIONS[idx];
+    const card = document.createElement('div');
+    card.className = 'ab-card';
+    card.innerHTML = `
+      <div class="ab-q-number">Question ${idx+1} of ${QUESTIONS.length}</div>
+      <div class="ab-q-text">${q.text}</div>
+      <div class="ab-options">
+        ${q.options.map((o,i)=>`
+          <div class="ab-opt${answers[q.key]===i?' ab-selected':''}" data-idx="${i}" onclick="abSelect('${q.key}',${i},this)">
+            <div class="ab-opt-radio"><div class="ab-opt-radio-dot"></div></div>
+            <div>
+              <div class="ab-opt-label">${o.label}</div>
+              ${o.desc?`<div class="ab-opt-desc">${o.desc}</div>`:''}
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+
+    if(direction==='back') {
+      card.style.transform = 'translateX(-60px) scale(0.96)';
+    }
+    stage.appendChild(card);
+
+    requestAnimationFrame(()=>{
+      if(old) {
+        old.classList.remove('ab-active');
+        old.classList.add(direction==='back'?'':'ab-exit-left');
+        if(direction==='back') {
+          old.style.transform='translateX(60px) scale(0.96)';
+          old.style.opacity='0';
+        }
+        setTimeout(()=>old.remove(),500);
+      }
+      requestAnimationFrame(()=>card.classList.add('ab-active'));
+    });
+
+    updateProgress(idx);
+  }
+
+  function updateProgress(idx) {
+    const pct = Math.round(((idx)/QUESTIONS.length)*100);
+    document.getElementById('abProgressFill').style.width = pct+'%';
+    document.getElementById('abProgressDot').style.opacity = pct > 0 ? '1' : '0';
+    document.getElementById('abStepLabel').textContent = `Question ${idx+1} of ${QUESTIONS.length}`;
+    document.getElementById('abPctLabel').textContent = pct+'%';
+    document.getElementById('abBackBtn').disabled = (idx === 0);
+  }
+
+  /* ═══════════════════════════════════════
+     INTERACTIONS
+  ═══════════════════════════════════════ */
+  window.abSelect = function(key, optIdx, el) {
+    answers[key] = optIdx;
+    const opts = el.parentElement.querySelectorAll('.ab-opt');
+    opts.forEach(o=>o.classList.remove('ab-selected'));
+    el.classList.add('ab-selected');
+
+    // Auto-advance after brief delay
+    setTimeout(()=>{
+      if(currentQ < QUESTIONS.length-1) {
+        currentQ++;
+        renderQuestion(currentQ,'forward');
+      } else {
+        showResults();
+      }
+    }, 350);
+  };
+
+  window.abGoBack = function() {
+    if(currentQ > 0) {
+      currentQ--;
+      renderQuestion(currentQ,'back');
+    }
+  };
+
+  window.abStartQuiz = function() {
+    document.getElementById('abIntro').style.display = 'none';
+    document.getElementById('abQuizBody').style.display = 'block';
+    renderQuestion(0,'forward');
+  };
+
+  window.abRetake = function() {
+    currentQ = 0;
+    answers = {};
+    document.getElementById('abResults').classList.remove('ab-show');
+    document.getElementById('abResults').style.display = 'none';
+    document.getElementById('abLoading').classList.remove('ab-show');
+    document.getElementById('abQuizBody').style.display = 'none';
+    document.getElementById('abIntro').style.display = 'block';
+  };
+
+  /* ═══════════════════════════════════════
+     SCORING ENGINE
+  ═══════════════════════════════════════ */
+  function computeScores() {
+    let results = AIRBRUSHES.map(ab => {
+      let total = 0, maxTotal = 0;
+      QUESTIONS.forEach(q => {
+        const w = q.weight;
+        const chosen = answers[q.key];
+        if(chosen !== undefined && ab.scores[q.key]) {
+          total += (ab.scores[q.key][chosen] || 0) * w;
+          maxTotal += 5 * w;
+        }
+      });
+      const pct = maxTotal > 0 ? Math.round((total/maxTotal)*100) : 0;
+      return { ...ab, matchPct: pct };
+    });
+
+    results.sort((a,b) => b.matchPct - a.matchPct);
+    return results.slice(0,3);
+  }
+
+  function getTagline(top) {
+    const skill = answers.skill;
+    const useCase = answers.useCase;
+    const names = {0:'fine art',1:'models & miniatures',2:'crafts & DIY',3:'automotive work',4:'versatile projects'};
+    const levels = {0:'beginning your airbrush journey',1:'building your skills',2:'at an intermediate level',3:'an advanced artist'};
+
+    return `As someone <strong>${levels[skill]||'exploring airbrushing'}</strong> focused on <strong>${names[useCase]||'creative work'}</strong>, the <strong>${top.name}</strong> is your ideal match.`;
+  }
+
+  function getWhyText(ab) {
+    const reasons = {
+      'hs-ultra':'German-engineered precision with a 0.2mm nozzle for stunning fine detail work at a mid-range price.',
+      'iwata-eclipse':'The industry workhorse — versatile 0.35mm nozzle handles everything from fine lines to broad coverage.',
+      'badger-patriot':'Best bang-for-buck entry point with forgiving 0.5mm nozzle and dead-simple maintenance.',
+      'iwata-neo':'Affordable Iwata quality perfect for learning fundamentals without breaking the bank.',
+      'paasche-talon':'Three needle sizes in one kit gives you unmatched versatility across any project type.',
+      'iwata-micron':'The pinnacle of airbrush engineering — micro-air control delivers unparalleled photorealistic detail.',
+      'hs-infinity':'The finest nozzle on the market at 0.15mm. When only absolute precision will do.'
+    };
+    return reasons[ab.id] || 'A great all-around airbrush for your needs.';
+  }
+
+  /* ═══════════════════════════════════════
+     SHOW RESULTS
+  ═══════════════════════════════════════ */
+  function showResults() {
+    document.getElementById('abQuizBody').style.display = 'none';
+    const loading = document.getElementById('abLoading');
+    loading.classList.add('ab-show');
+
+    setTimeout(()=>{
+      loading.classList.remove('ab-show');
+      const top3 = computeScores();
+      const container = document.getElementById('abResults');
+
+      container.innerHTML = `
+        <div class="ab-header">
+          <div class="ab-header-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          </div>
+          <h2 class="ab-title">Your <span class="ab-title-accent">Top Matches</span></h2>
+        </div>
+        <p class="ab-results-tagline">${getTagline(top3[0])}</p>
+        ${top3.map((ab,i)=>`
+          <div class="ab-rec-card${i===0?' ab-top-pick':''}">
+            <div class="ab-rec-header">
+              <span class="ab-rec-rank">${i===0?'🏆 Best Match':'#'+(i+1)+' Runner-up'}</span>
+              <span class="ab-rec-match"><b>${ab.matchPct}%</b> match</span>
+            </div>
+            <div class="ab-rec-name">${ab.name}</div>
+            <div class="ab-rec-why">${getWhyText(ab)}</div>
+            <div class="ab-match-bar-track">
+              <div class="ab-match-bar-fill" data-pct="${ab.matchPct}"></div>
+            </div>
+            <div class="ab-specs">
+              ${ab.tags.map(t=>`<span class="ab-spec-tag">${t}</span>`).join('')}
+            </div>
+          </div>
+        `).join('')}
+        <div class="ab-cta-section">
+          <a class="ab-cta-link" href="/best-airbrush-for-beginners/">
+            Read Full Reviews
+            <svg viewBox="0 0 16 16"><path d="M6 3l5 5-5 5" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+          <br>
+          <button class="ab-retake" onclick="abRetake()">↻ Retake Quiz</button>
+        </div>
+      `;
+
+      container.style.display = 'block';
+      requestAnimationFrame(()=>{
+        container.classList.add('ab-show');
+        // Animate match bars
+        setTimeout(()=>{
+          container.querySelectorAll('.ab-match-bar-fill').forEach(bar=>{
+            bar.style.width = bar.getAttribute('data-pct')+'%';
+          });
+        },300);
+      });
+    },1400);
+  }
+
+})();
+</script>

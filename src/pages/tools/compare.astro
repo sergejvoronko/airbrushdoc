@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import toolContent from '../../tools-content/compare.html?raw';
+---
+<BaseLayout title="Compare Airbrushes | AirbrushDOC" description="Side-by-side comparison of popular airbrush models and specifications.">
+  <main class="abd-container" style="padding: 40px 24px 80px;">
+    <nav class="abd-breadcrumbs" style="margin-bottom: 24px;">
+      <a href="/">Home</a>
+      <span class="abd-breadcrumbs-sep">›</span>
+      <a href="/tools/">Tools</a>
+      <span class="abd-breadcrumbs-sep">›</span>
+      <span>Compare Airbrushes</span>
+    </nav>
+    <Fragment set:html={toolContent} />
+  </main>
+</BaseLayout>

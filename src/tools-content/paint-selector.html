@@ -1,0 +1,815 @@
+<!-- AirbrushDOC.com - Airbrush Paint Selector Tool -->
+<!-- Drop into a WordPress Custom HTML block -->
+
+<style>
+/* ── Reset ── */
+.abp-root, .abp-root * { margin:0; padding:0; box-sizing:border-box; font-family:'Outfit',sans-serif; }
+
+.abp-root {
+  --abp-bg: #111111;
+  --abp-surface: #1A1A1A;
+  --abp-surface2: #222222;
+  --abp-surface3: #2A2A2A;
+  --abp-orange: #F4671A;
+  --abp-orange-glow: rgba(244,103,26,0.35);
+  --abp-orange-soft: rgba(244,103,26,0.10);
+  --abp-green: #4ADE80;
+  --abp-green-soft: rgba(74,222,128,0.10);
+  --abp-blue: #60A5FA;
+  --abp-blue-soft: rgba(96,165,250,0.10);
+  --abp-purple: #C084FC;
+  --abp-purple-soft: rgba(192,132,252,0.10);
+  --abp-text: #F0F0F0;
+  --abp-text-dim: #999999;
+  --abp-text-muted: #666666;
+  --abp-border: #2A2A2A;
+  --abp-radius: 12px;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px 16px 48px;
+  color: var(--abp-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Header ── */
+.abp-header { text-align:center; margin-bottom:28px; }
+.abp-header-icon {
+  display:inline-flex; align-items:center; justify-content:center;
+  width:56px; height:56px; border-radius:50%;
+  background:var(--abp-orange-soft);
+  margin-bottom:16px;
+  animation: abp-pulse 2.5s ease-in-out infinite;
+}
+@keyframes abp-pulse {
+  0%,100% { box-shadow:0 0 0 0 var(--abp-orange-glow); }
+  50% { box-shadow:0 0 0 12px transparent; }
+}
+.abp-header-icon svg { width:28px; height:28px; }
+.abp-title { font-size:clamp(1.5rem,4vw,2rem); font-weight:800; letter-spacing:-0.02em; line-height:1.2; margin-bottom:6px; }
+.abp-title-accent { color:var(--abp-orange); }
+.abp-subtitle { font-size:0.95rem; color:var(--abp-text-dim); font-weight:300; }
+
+/* ── Progress ── */
+.abp-progress-wrap { margin-bottom:24px; }
+.abp-progress-track {
+  width:100%; height:6px; border-radius:3px;
+  background:var(--abp-surface2); overflow:visible; position:relative;
+}
+.abp-progress-fill {
+  height:100%; border-radius:3px;
+  background:linear-gradient(90deg, var(--abp-orange), #FF8A3D);
+  transition:width 0.5s cubic-bezier(0.4,0,0.2,1);
+  position:relative;
+}
+.abp-progress-dot {
+  position:absolute; right:-6px; top:50%; transform:translateY(-50%);
+  width:14px; height:14px; border-radius:50%;
+  background:var(--abp-orange);
+  box-shadow:0 0 10px var(--abp-orange-glow), 0 0 20px var(--abp-orange-glow);
+  transition:opacity 0.3s;
+}
+.abp-progress-meta {
+  display:flex; justify-content:space-between; margin-top:10px;
+  font-size:0.78rem; color:var(--abp-text-muted);
+}
+.abp-progress-meta span:last-child { color:var(--abp-text-dim); font-weight:600; }
+
+/* ── Intro ── */
+.abp-intro { text-align:center; }
+.abp-intro-grid {
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+  gap:12px; margin:24px 0 28px; text-align:left;
+}
+.abp-intro-card {
+  display:flex; align-items:flex-start; gap:10px;
+  padding:14px; border-radius:10px;
+  background:var(--abp-surface); border:1px solid var(--abp-border);
+}
+.abp-intro-icon {
+  flex-shrink:0; width:32px; height:32px; border-radius:8px;
+  background:var(--abp-orange-soft);
+  display:flex; align-items:center; justify-content:center; font-size:1rem;
+}
+.abp-intro-text { font-size:0.82rem; line-height:1.4; }
+.abp-intro-text strong { display:block; font-size:0.88rem; margin-bottom:2px; color:var(--abp-text); }
+.abp-intro-text span { color:var(--abp-text-dim); }
+
+/* ── Card Stage ── */
+.abp-card-stage { position:relative; min-height:420px; }
+.abp-card {
+  position:absolute; inset:0;
+  background:var(--abp-surface);
+  border:1px solid var(--abp-border);
+  border-radius:var(--abp-radius);
+  padding:clamp(20px,4vw,32px);
+  opacity:0; transform:translateX(60px) scale(0.96);
+  transition:opacity 0.45s ease, transform 0.45s cubic-bezier(0.4,0,0.2,1);
+  pointer-events:none;
+  display:flex; flex-direction:column;
+}
+.abp-card.abp-active {
+  opacity:1; transform:translateX(0) scale(1);
+  pointer-events:auto; position:relative;
+}
+.abp-card.abp-exit-left {
+  opacity:0; transform:translateX(-60px) scale(0.96); pointer-events:none;
+}
+
+.abp-q-num {
+  font-size:0.72rem; font-weight:600; text-transform:uppercase;
+  letter-spacing:0.12em; color:var(--abp-orange); margin-bottom:10px;
+}
+.abp-q-text { font-size:clamp(1.1rem,3vw,1.35rem); font-weight:600; line-height:1.35; margin-bottom:20px; }
+
+/* ── Options — tile grid for surface, list for others ── */
+.abp-options-list { display:flex; flex-direction:column; gap:10px; flex:1; }
+.abp-options-grid {
+  display:grid; grid-template-columns:repeat(auto-fill, minmax(150px,1fr));
+  gap:10px; flex:1;
+}
+.abp-opt {
+  display:flex; align-items:center; gap:12px;
+  padding:13px 16px; border-radius:10px;
+  background:var(--abp-surface2);
+  border:1.5px solid var(--abp-border);
+  cursor:pointer; transition:all 0.25s ease;
+  -webkit-tap-highlight-color:transparent;
+}
+.abp-opt:hover { border-color:var(--abp-orange); background:var(--abp-orange-soft); }
+.abp-opt.abp-selected {
+  border-color:var(--abp-orange); background:var(--abp-orange-soft);
+  box-shadow:0 0 16px rgba(244,103,26,0.12);
+}
+/* Tile variant */
+.abp-opt-tile {
+  flex-direction:column; align-items:center; text-align:center;
+  padding:18px 12px; gap:8px;
+}
+.abp-opt-tile .abp-opt-emoji { font-size:1.6rem; line-height:1; }
+.abp-opt-tile .abp-opt-label { font-size:0.88rem; }
+
+.abp-opt-radio {
+  flex-shrink:0; width:20px; height:20px; border-radius:50%;
+  border:2px solid var(--abp-text-muted);
+  display:flex; align-items:center; justify-content:center;
+  transition:all 0.25s;
+}
+.abp-opt.abp-selected .abp-opt-radio { border-color:var(--abp-orange); }
+.abp-opt-radio-dot {
+  width:10px; height:10px; border-radius:50%;
+  background:var(--abp-orange); transform:scale(0);
+  transition:transform 0.25s cubic-bezier(0.34,1.56,0.64,1);
+}
+.abp-opt.abp-selected .abp-opt-radio-dot { transform:scale(1); }
+.abp-opt-label { font-size:0.92rem; font-weight:400; line-height:1.3; }
+.abp-opt-desc { font-size:0.78rem; color:var(--abp-text-dim); margin-top:2px; }
+
+/* ── Nav ── */
+.abp-nav { display:flex; justify-content:space-between; margin-top:20px; }
+.abp-btn {
+  display:inline-flex; align-items:center; gap:6px;
+  padding:10px 22px; border-radius:8px; border:none;
+  font-family:'Outfit',sans-serif; font-size:0.88rem; font-weight:600;
+  cursor:pointer; transition:all 0.25s;
+}
+.abp-btn-back {
+  background:transparent; color:var(--abp-text-dim);
+  border:1px solid var(--abp-border);
+}
+.abp-btn-back:hover { color:var(--abp-text); border-color:var(--abp-text-muted); }
+.abp-btn-back:disabled { opacity:0.3; cursor:default; }
+.abp-btn-primary {
+  background:var(--abp-orange); color:#fff;
+  box-shadow:0 4px 16px rgba(244,103,26,0.3);
+}
+.abp-btn-primary:hover { filter:brightness(1.1); transform:translateY(-1px); }
+
+/* ── Loading ── */
+.abp-loading { display:none; text-align:center; padding:60px 20px; }
+.abp-loading.abp-show { display:block; }
+.abp-spinner {
+  width:48px; height:48px; margin:0 auto 20px;
+  border:3px solid var(--abp-surface2);
+  border-top-color:var(--abp-orange);
+  border-radius:50%; animation:abp-spin 0.8s linear infinite;
+}
+@keyframes abp-spin { to { transform:rotate(360deg); } }
+.abp-loading-text { font-size:0.95rem; color:var(--abp-text-dim); }
+
+/* ── Results ── */
+.abp-results { display:none; }
+.abp-results.abp-show { display:block; }
+.abp-results-tagline {
+  text-align:center; font-size:clamp(1rem,3vw,1.1rem);
+  color:var(--abp-text-dim); font-weight:300;
+  margin-bottom:28px; line-height:1.6;
+}
+.abp-results-tagline strong { color:var(--abp-text); font-weight:600; }
+
+/* Result card */
+.abp-rec {
+  background:var(--abp-surface);
+  border:1px solid var(--abp-border);
+  border-radius:var(--abp-radius);
+  padding:clamp(18px,3vw,24px);
+  margin-bottom:14px;
+  opacity:0; transform:translateY(20px);
+  animation: abp-card-in 0.5s ease forwards;
+}
+.abp-rec:nth-child(1) { animation-delay:0.1s; }
+.abp-rec:nth-child(2) { animation-delay:0.25s; }
+.abp-rec:nth-child(3) { animation-delay:0.4s; }
+.abp-rec.abp-top { border-color:var(--abp-orange); box-shadow:0 0 24px rgba(244,103,26,0.1); }
+@keyframes abp-card-in { to { opacity:1; transform:translateY(0); } }
+
+.abp-rec-head { display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px; margin-bottom:10px; }
+.abp-rec-rank {
+  font-size:0.7rem; font-weight:700; text-transform:uppercase;
+  letter-spacing:0.1em; padding:4px 10px; border-radius:20px;
+}
+.abp-rec.abp-top .abp-rec-rank { background:var(--abp-orange); color:#fff; }
+.abp-rec:not(.abp-top) .abp-rec-rank {
+  background:var(--abp-surface2); color:var(--abp-text-dim);
+  border:1px solid var(--abp-border);
+}
+.abp-rec-match { font-size:0.85rem; color:var(--abp-text-dim); font-weight:500; }
+.abp-rec-match b { color:var(--abp-orange); font-size:1.15rem; }
+
+.abp-rec-name { font-size:clamp(1.1rem,3vw,1.3rem); font-weight:700; margin-bottom:2px; }
+.abp-rec-brand { font-size:0.82rem; color:var(--abp-text-dim); font-weight:400; margin-bottom:10px; }
+.abp-rec-why { font-size:0.85rem; color:var(--abp-text-dim); line-height:1.55; margin-bottom:14px; }
+
+/* Match bar */
+.abp-bar-track {
+  width:100%; height:8px; border-radius:4px;
+  background:var(--abp-surface2); margin-bottom:14px; overflow:hidden;
+}
+.abp-bar-fill {
+  height:100%; border-radius:4px;
+  background:linear-gradient(90deg, var(--abp-orange), #FF8A3D);
+  width:0; transition:width 1s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* Tags row */
+.abp-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; }
+.abp-tag {
+  font-size:0.73rem; font-weight:500;
+  padding:4px 10px; border-radius:6px;
+  border:1px solid var(--abp-border);
+  white-space:nowrap;
+}
+.abp-tag-surface { background:var(--abp-blue-soft); color:var(--abp-blue); border-color:rgba(96,165,250,0.2); }
+.abp-tag-finish { background:var(--abp-purple-soft); color:var(--abp-purple); border-color:rgba(192,132,252,0.2); }
+.abp-tag-type { background:var(--abp-green-soft); color:var(--abp-green); border-color:rgba(74,222,128,0.2); }
+.abp-tag-neutral { background:var(--abp-surface2); color:var(--abp-text-dim); }
+
+/* Price indicator */
+.abp-rec-price {
+  display:inline-flex; align-items:center; gap:6px;
+  font-size:0.82rem; color:var(--abp-text-dim);
+}
+.abp-rec-price-dots { display:flex; gap:3px; }
+.abp-rec-price-dot {
+  width:8px; height:8px; border-radius:50%;
+  background:var(--abp-surface3);
+}
+.abp-rec-price-dot.abp-filled { background:var(--abp-orange); }
+
+/* Pro tip */
+.abp-tip-box {
+  background:var(--abp-orange-soft);
+  border:1px solid rgba(244,103,26,0.18);
+  border-radius:10px; padding:14px 16px;
+  margin-top:6px;
+  font-size:0.83rem; line-height:1.5; color:var(--abp-text-dim);
+}
+.abp-tip-box strong { color:var(--abp-orange); }
+
+/* ── CTA ── */
+.abp-cta-section { text-align:center; margin-top:32px; }
+.abp-cta-link {
+  display:inline-flex; align-items:center; gap:8px;
+  padding:14px 32px; border-radius:10px;
+  background:var(--abp-orange); color:#fff;
+  text-decoration:none; font-weight:700; font-size:1rem;
+  box-shadow:0 4px 20px rgba(244,103,26,0.35);
+  transition:all 0.25s;
+}
+.abp-cta-link:hover { filter:brightness(1.1); transform:translateY(-2px);
+  box-shadow:0 6px 28px rgba(244,103,26,0.45); }
+.abp-cta-link svg { width:18px; height:18px; flex-shrink:0; }
+.abp-retake {
+  display:inline-block; margin-top:16px;
+  font-size:0.85rem; color:var(--abp-text-muted);
+  cursor:pointer; border:none; background:none;
+  font-family:'Outfit',sans-serif; text-decoration:underline;
+  text-underline-offset:3px; transition:color 0.2s;
+}
+.abp-retake:hover { color:var(--abp-text-dim); }
+
+/* ── Responsive ── */
+@media(max-width:480px) {
+  .abp-root { padding:12px 10px 32px; }
+  .abp-card { padding:18px 14px; }
+  .abp-card-stage { min-height:400px; }
+  .abp-options-grid { grid-template-columns:repeat(2,1fr); }
+  .abp-intro-grid { grid-template-columns:1fr; }
+}
+</style>
+
+<div class="abp-root" id="abpTool">
+
+  <!-- Intro -->
+  <div id="abpIntro" class="abp-intro">
+    <div class="abp-header">
+      <div class="abp-header-icon">
+        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F4671A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z"/><circle cx="8.5" cy="8.5" r="1.5" fill="#F4671A" stroke="none"/><path d="M21 15l-5-5L5 21"/></svg>
+      </div>
+      <h2 class="abp-title">Airbrush <span class="abp-title-accent">Paint Selector</span></h2>
+      <p class="abp-subtitle">Find the perfect airbrush paint for your surface & style</p>
+    </div>
+    <div class="abp-intro-grid">
+      <div class="abp-intro-card">
+        <div class="abp-intro-icon">🎨</div>
+        <div class="abp-intro-text"><strong>Surface Matched</strong><span>Right paint for your material</span></div>
+      </div>
+      <div class="abp-intro-card">
+        <div class="abp-intro-icon">✨</div>
+        <div class="abp-intro-text"><strong>Finish Perfect</strong><span>Matte, gloss, metallic & more</span></div>
+      </div>
+      <div class="abp-intro-card">
+        <div class="abp-intro-icon">💰</div>
+        <div class="abp-intro-text"><strong>Budget Aware</strong><span>Options for every price point</span></div>
+      </div>
+    </div>
+    <button class="abp-btn abp-btn-primary" onclick="abpStart()" style="font-size:1rem;padding:14px 36px;">
+      Find My Paint
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" style="margin-left:4px;"><path d="M6 3l5 5-5 5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+  </div>
+
+  <!-- Quiz Body -->
+  <div id="abpBody" style="display:none;">
+    <div class="abp-header" style="margin-bottom:16px;">
+      <h2 class="abp-title" style="font-size:clamp(1.2rem,3vw,1.5rem);">Airbrush <span class="abp-title-accent">Paint Selector</span></h2>
+    </div>
+    <div class="abp-progress-wrap">
+      <div class="abp-progress-track">
+        <div class="abp-progress-fill" id="abpFill" style="width:0%;">
+          <div class="abp-progress-dot" id="abpDot"></div>
+        </div>
+      </div>
+      <div class="abp-progress-meta">
+        <span id="abpStep">Question 1 of 4</span>
+        <span id="abpPct">0%</span>
+      </div>
+    </div>
+    <div class="abp-card-stage" id="abpStage"></div>
+    <div class="abp-nav">
+      <button class="abp-btn abp-btn-back" id="abpBack" disabled onclick="abpGoBack()">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M10 13l-5-5 5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Back
+      </button>
+      <div></div>
+    </div>
+  </div>
+
+  <!-- Loading -->
+  <div id="abpLoading" class="abp-loading">
+    <div class="abp-spinner"></div>
+    <div class="abp-loading-text">Matching paints to your project...</div>
+  </div>
+
+  <!-- Results -->
+  <div id="abpResults" class="abp-results"></div>
+</div>
+
+<script>
+(function(){
+
+  /* ═══════════════════════════════════════
+     PAINT DATABASE
+  ═══════════════════════════════════════ */
+  const PAINTS = [
+    {
+      id:'createx-illustration',
+      name:'Createx Illustration Colors',
+      brand:'Createx',
+      type:'Water-based acrylic',
+      priceLevel:2, priceLabel:'Mid-range',
+      tags:['Water-based','Self-leveling','Reducible','USA-made'],
+      tip:'Thin with Createx 4012 reducer for ultra-fine detail. Dries fast — work in light coats.',
+      why:'Professional illustration paint with exceptional detail capability and smooth flow through fine nozzles.',
+      /* Scores per question: [surface options...] */
+      surface:[3,5,3,2,3,3],  /* fabric, canvas, plastic, metal, wood, leather */
+      finish:[5,3,2,4],       /* matte, glossy, metallic, transparent */
+      priority:[4,3,5,3],     /* best coverage, budget, detail, easy cleanup */
+      budget:[3,5,4]          /* under $10, $10-20, $20+ */
+    },
+    {
+      id:'createx-wicked',
+      name:'Wicked Colors',
+      brand:'Createx / Wicked',
+      type:'Water-based acrylic',
+      priceLevel:2, priceLabel:'Mid-range',
+      tags:['Water-based','High-pigment','Flexible','Intermixable'],
+      tip:'Use Wicked W500 reducer and build in thin layers. Excellent over dark base coats.',
+      why:'High-opacity, richly pigmented water-based paint that excels on multiple surfaces with vivid color payoff.',
+      surface:[4,5,4,3,4,4],
+      finish:[5,4,2,4],
+      priority:[5,3,4,4],
+      budget:[2,5,4]
+    },
+    {
+      id:'vallejo-model',
+      name:'Vallejo Model Air',
+      brand:'Vallejo',
+      type:'Water-based acrylic',
+      priceLevel:2, priceLabel:'Mid-range',
+      tags:['Water-based','Pre-thinned','Hobby-grade','170+ colors'],
+      tip:'Ready to spray out of the bottle at 12–15 PSI. Prime plastic surfaces first with Vallejo primer.',
+      why:'Pre-thinned and airbrush-ready with an enormous color range — the go-to for scale modelers worldwide.',
+      surface:[1,3,5,2,3,2],
+      finish:[5,3,3,3],
+      priority:[4,4,4,5],
+      budget:[3,5,3]
+    },
+    {
+      id:'vallejo-game',
+      name:'Vallejo Game Air',
+      brand:'Vallejo',
+      type:'Water-based acrylic',
+      priceLevel:2, priceLabel:'Mid-range',
+      tags:['Water-based','Pre-thinned','Fantasy colors','Fast-dry'],
+      tip:'Spray at 10–15 PSI for miniatures. Pairs perfectly with Vallejo washes for instant depth.',
+      why:'Designed specifically for tabletop miniatures with fantasy-oriented colors and fast drying for speed painting.',
+      surface:[1,2,5,1,2,1],
+      finish:[5,2,3,3],
+      priority:[4,4,4,5],
+      budget:[3,5,3]
+    },
+    {
+      id:'createx-autoair',
+      name:'Auto-Air Colors',
+      brand:'Createx',
+      type:'Water-based urethane',
+      priceLevel:2, priceLabel:'Mid-range',
+      tags:['Water-based','Urethane','Automotive-grade','UV-resistant'],
+      tip:'Apply over sealed/primed metal surfaces. Clear-coat after for maximum durability and gloss.',
+      why:'Automotive-grade urethane formulation that delivers professional car-quality finishes with water-based convenience.',
+      surface:[2,2,3,5,3,3],
+      finish:[3,5,4,3],
+      priority:[5,3,3,4],
+      budget:[2,4,5]
+    },
+    {
+      id:'com-art',
+      name:'Com-Art Colors',
+      brand:'Com-Art / Iwata',
+      type:'Water-based acrylic',
+      priceLevel:3, priceLabel:'Premium',
+      tags:['Water-based','Ultra-fine pigment','Gallery-grade','Archival'],
+      tip:'The finest-ground pigment available — sprays through 0.15mm nozzles without clogging.',
+      why:'Ultra-fine pigment grind designed by Iwata for photorealistic fine art. Gallery-quality archival finish.',
+      surface:[1,5,2,1,3,2],
+      finish:[5,3,1,5],
+      priority:[3,1,5,3],
+      budget:[1,2,5]
+    },
+    {
+      id:'golden-highflow',
+      name:'Golden High Flow Acrylics',
+      brand:'Golden',
+      type:'Water-based acrylic',
+      priceLevel:3, priceLabel:'Premium',
+      tags:['Water-based','Fine-art grade','Archival','Lightfast'],
+      tip:'Intermixable with all Golden acrylics. Thin further with Golden Airbrush Medium for glazing.',
+      why:'Fine-art archival acrylic with exceptional lightfastness — trusted by gallery artists and illustrators.',
+      surface:[2,5,2,1,4,2],
+      finish:[4,3,2,5],
+      priority:[4,2,4,3],
+      budget:[1,3,5]
+    },
+    {
+      id:'jacquard',
+      name:'Jacquard Airbrush Colors',
+      brand:'Jacquard',
+      type:'Water-based acrylic',
+      priceLevel:1, priceLabel:'Budget-friendly',
+      tags:['Water-based','Fabric-ready','Heat-set','Washable'],
+      tip:'Heat-set with iron or dryer for 3 minutes after painting. No medium needed for fabric.',
+      why:'Purpose-built for fabric with permanent, wash-resistant results after heat-setting. No additives needed.',
+      surface:[5,3,1,1,2,4],
+      finish:[4,3,2,3],
+      priority:[4,5,3,5],
+      budget:[5,4,2]
+    },
+    {
+      id:'tamiya',
+      name:'Tamiya Acrylics (X/XF Series)',
+      brand:'Tamiya',
+      type:'Alcohol-based acrylic',
+      priceLevel:1, priceLabel:'Budget-friendly',
+      tags:['Alcohol-based','Hobby-grade','Self-leveling','Durable'],
+      tip:'Thin with Tamiya X-20A thinner at roughly 1:1 ratio. Spray at 15–20 PSI for smooth coats.',
+      why:'Industry-standard model paint with unmatched self-leveling and a huge color catalog at pocket-friendly prices.',
+      surface:[0,1,5,3,3,1],
+      finish:[5,5,4,4],
+      priority:[5,5,3,4],
+      budget:[5,4,2]
+    },
+    {
+      id:'house-of-kolor',
+      name:'House of Kolor',
+      brand:'House of Kolor',
+      type:'Solvent-based urethane',
+      priceLevel:3, priceLabel:'Premium',
+      tags:['Solvent-based','Candy colors','Automotive','Professional'],
+      tip:'Requires proper ventilation and respirator. Apply over HOK primer/sealer for true candy effects.',
+      why:'The gold standard for custom automotive and helmet painting — legendary candy and pearl effects.',
+      surface:[0,1,2,5,2,2],
+      finish:[2,5,5,3],
+      priority:[5,1,3,1],
+      budget:[0,2,5]
+    },
+    {
+      id:'mr-color',
+      name:'Mr. Color (Mr. Hobby)',
+      brand:'Mr. Hobby / GSI Creos',
+      type:'Lacquer-based',
+      priceLevel:2, priceLabel:'Mid-range',
+      tags:['Lacquer-based','Ultra-smooth','Fast cure','Durable'],
+      tip:'Use Mr. Color Leveling Thinner for mirror-smooth finishes. Always spray in a ventilated booth.',
+      why:'Lacquer-based formula that self-levels to a glass-smooth finish — preferred by competition modelers.',
+      surface:[0,1,5,4,3,1],
+      finish:[4,5,4,3],
+      priority:[5,2,4,3],
+      budget:[2,5,4]
+    },
+    {
+      id:'etac-efx',
+      name:"E'TAC EFX Colors",
+      brand:"E'TAC",
+      type:'Water-based acrylic',
+      priceLevel:2, priceLabel:'Mid-range',
+      tags:['Water-based','Private label','Smooth flow','Multi-surface'],
+      tip:'Spray at 15–25 PSI. Works great straight from the bottle on most surfaces without thinning.',
+      why:'Under-the-radar favorite among pros for buttery-smooth spray and excellent multi-surface adhesion.',
+      surface:[3,4,3,3,4,3],
+      finish:[4,4,2,4],
+      priority:[4,3,4,4],
+      budget:[3,5,3]
+    }
+  ];
+
+  /* ═══════════════════════════════════════
+     QUESTIONS
+  ═══════════════════════════════════════ */
+  const QUESTIONS = [
+    {
+      key:'surface', weight:3,
+      text:'What surface are you painting on?',
+      layout:'grid',
+      options:[
+        {label:'Fabric / T-shirts', emoji:'👕'},
+        {label:'Canvas / Paper', emoji:'🖼️'},
+        {label:'Plastic Models', emoji:'🛩️'},
+        {label:'Metal / Automotive', emoji:'🚗'},
+        {label:'Wood', emoji:'🪵'},
+        {label:'Leather', emoji:'👜'}
+      ]
+    },
+    {
+      key:'finish', weight:2,
+      text:'What finish are you going for?',
+      layout:'list',
+      options:[
+        {label:'Matte / Flat', desc:'No shine — smooth, velvety look'},
+        {label:'Glossy / High-shine', desc:'Mirror-like reflective finish'},
+        {label:'Metallic / Pearl', desc:'Metallic flake or candy color effects'},
+        {label:'Transparent / Glazes', desc:'See-through layers for depth & blending'}
+      ]
+    },
+    {
+      key:'priority', weight:2,
+      text:'What matters most for this project?',
+      layout:'list',
+      options:[
+        {label:'Best coverage & durability', desc:'Paint that sticks and lasts'},
+        {label:'Staying within budget', desc:'Most bang for my buck'},
+        {label:'Finest detail & color accuracy', desc:'Precision and true-to-life color'},
+        {label:'Easy cleanup & low odor', desc:'Water cleanup, studio-friendly'}
+      ]
+    },
+    {
+      key:'budget', weight:1.5,
+      text:'What\'s your paint budget per bottle?',
+      layout:'list',
+      options:[
+        {label:'Under $5', desc:'Keeping it lean — hobby on a budget'},
+        {label:'$5 – $12', desc:'Mid-range — best value spot'},
+        {label:'$12+', desc:'Premium — quality is worth it'}
+      ]
+    }
+  ];
+
+  /* ═══════════════════════════════════════
+     STATE
+  ═══════════════════════════════════════ */
+  let curQ = 0, answers = {};
+  const TOTAL = QUESTIONS.length;
+
+  /* ═══════════════════════════════════════
+     RENDER
+  ═══════════════════════════════════════ */
+  function renderQ(idx, dir) {
+    const stage = document.getElementById('abpStage');
+    const old = stage.querySelector('.abp-active');
+    const q = QUESTIONS[idx];
+
+    const card = document.createElement('div');
+    card.className = 'abp-card';
+    if(dir === 'back') card.style.transform = 'translateX(-60px) scale(0.96)';
+
+    let optHTML = '';
+    if(q.layout === 'grid') {
+      optHTML = `<div class="abp-options-grid">${q.options.map((o,i)=>`
+        <div class="abp-opt abp-opt-tile${answers[q.key]===i?' abp-selected':''}" data-i="${i}" onclick="abpPick('${q.key}',${i},this)">
+          <div class="abp-opt-emoji">${o.emoji}</div>
+          <div class="abp-opt-label">${o.label}</div>
+        </div>
+      `).join('')}</div>`;
+    } else {
+      optHTML = `<div class="abp-options-list">${q.options.map((o,i)=>`
+        <div class="abp-opt${answers[q.key]===i?' abp-selected':''}" data-i="${i}" onclick="abpPick('${q.key}',${i},this)">
+          <div class="abp-opt-radio"><div class="abp-opt-radio-dot"></div></div>
+          <div>
+            <div class="abp-opt-label">${o.label}</div>
+            ${o.desc?`<div class="abp-opt-desc">${o.desc}</div>`:''}
+          </div>
+        </div>
+      `).join('')}</div>`;
+    }
+
+    card.innerHTML = `
+      <div class="abp-q-num">Question ${idx+1} of ${TOTAL}</div>
+      <div class="abp-q-text">${q.text}</div>
+      ${optHTML}
+    `;
+
+    stage.appendChild(card);
+    requestAnimationFrame(()=>{
+      if(old) {
+        old.classList.remove('abp-active');
+        if(dir==='back') { old.style.transform='translateX(60px) scale(0.96)'; old.style.opacity='0'; }
+        else old.classList.add('abp-exit-left');
+        setTimeout(()=>old.remove(),500);
+      }
+      requestAnimationFrame(()=>card.classList.add('abp-active'));
+    });
+    updateProgress(idx);
+  }
+
+  function updateProgress(idx) {
+    const pct = Math.round((idx/TOTAL)*100);
+    document.getElementById('abpFill').style.width = pct+'%';
+    document.getElementById('abpDot').style.opacity = pct > 0 ? '1' : '0';
+    document.getElementById('abpStep').textContent = `Question ${idx+1} of ${TOTAL}`;
+    document.getElementById('abpPct').textContent = pct+'%';
+    document.getElementById('abpBack').disabled = (idx === 0);
+  }
+
+  /* ═══════════════════════════════════════
+     INTERACTIONS
+  ═══════════════════════════════════════ */
+  window.abpPick = function(key, optIdx, el) {
+    answers[key] = optIdx;
+    const parent = el.closest('.abp-options-list, .abp-options-grid');
+    parent.querySelectorAll('.abp-opt').forEach(o=>o.classList.remove('abp-selected'));
+    el.classList.add('abp-selected');
+    setTimeout(()=>{
+      if(curQ < TOTAL-1) { curQ++; renderQ(curQ,'forward'); }
+      else showResults();
+    }, 350);
+  };
+
+  window.abpGoBack = function() {
+    if(curQ > 0) { curQ--; renderQ(curQ,'back'); }
+  };
+
+  window.abpStart = function() {
+    document.getElementById('abpIntro').style.display = 'none';
+    document.getElementById('abpBody').style.display = 'block';
+    renderQ(0,'forward');
+  };
+
+  window.abpRetake = function() {
+    curQ = 0; answers = {};
+    document.getElementById('abpResults').classList.remove('abp-show');
+    document.getElementById('abpResults').style.display = 'none';
+    document.getElementById('abpLoading').classList.remove('abp-show');
+    document.getElementById('abpBody').style.display = 'none';
+    document.getElementById('abpIntro').style.display = 'block';
+  };
+
+  /* ═══════════════════════════════════════
+     SCORING
+  ═══════════════════════════════════════ */
+  function computeResults() {
+    return PAINTS.map(p => {
+      let total = 0, maxT = 0;
+      QUESTIONS.forEach(q => {
+        const w = q.weight;
+        const chosen = answers[q.key];
+        if(chosen !== undefined && p[q.key]) {
+          total += (p[q.key][chosen] || 0) * w;
+          maxT += 5 * w;
+        }
+      });
+      return { ...p, matchPct: maxT > 0 ? Math.round((total/maxT)*100) : 0 };
+    }).sort((a,b) => b.matchPct - a.matchPct).slice(0,3);
+  }
+
+  /* ═══════════════════════════════════════
+     RESULTS
+  ═══════════════════════════════════════ */
+  function showResults() {
+    document.getElementById('abpBody').style.display = 'none';
+    const loading = document.getElementById('abpLoading');
+    loading.classList.add('abp-show');
+
+    setTimeout(()=>{
+      loading.classList.remove('abp-show');
+      const top3 = computeResults();
+      const container = document.getElementById('abpResults');
+
+      const surfaceNames = ['fabric & T-shirts','canvas & paper','plastic models','metal & automotive','wood','leather'];
+      const finishNames = ['a matte','a glossy','a metallic','a transparent'];
+      const sName = surfaceNames[answers.surface] || 'your surface';
+      const fName = finishNames[answers.finish] || 'your desired';
+
+      function priceDots(level) {
+        let d = '';
+        for(let i=1;i<=3;i++) d += `<div class="abp-rec-price-dot${i<=level?' abp-filled':''}"></div>`;
+        return d;
+      }
+
+      container.innerHTML = `
+        <div class="abp-header">
+          <div class="abp-header-icon">
+            <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F4671A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          </div>
+          <h2 class="abp-title">Your <span class="abp-title-accent">Paint Matches</span></h2>
+        </div>
+        <p class="abp-results-tagline">For <strong>${sName}</strong> with <strong>${fName} finish</strong>, here are your top picks:</p>
+
+        ${top3.map((p,i)=>`
+          <div class="abp-rec${i===0?' abp-top':''}">
+            <div class="abp-rec-head">
+              <span class="abp-rec-rank">${i===0?'🏆 Best Match':'#'+(i+1)+' Runner-up'}</span>
+              <span class="abp-rec-match"><b>${p.matchPct}%</b> match</span>
+            </div>
+            <div class="abp-rec-name">${p.name}</div>
+            <div class="abp-rec-brand">${p.brand} · ${p.type}</div>
+            <div class="abp-rec-why">${p.why}</div>
+            <div class="abp-bar-track"><div class="abp-bar-fill" data-pct="${p.matchPct}"></div></div>
+            <div class="abp-tags">
+              ${p.tags.map(t=>{
+                if(t.toLowerCase().includes('water')||t.toLowerCase().includes('solvent')||t.toLowerCase().includes('lacquer')||t.toLowerCase().includes('alcohol')) return `<span class="abp-tag abp-tag-type">${t}</span>`;
+                return `<span class="abp-tag abp-tag-neutral">${t}</span>`;
+              }).join('')}
+            </div>
+            <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;">
+              <div class="abp-rec-price">
+                <div class="abp-rec-price-dots">${priceDots(p.priceLevel)}</div>
+                ${p.priceLabel}
+              </div>
+            </div>
+            ${i===0?`<div class="abp-tip-box"><strong>Pro Tip:</strong> ${p.tip}</div>`:''}
+          </div>
+        `).join('')}
+
+        <div class="abp-cta-section">
+          <a class="abp-cta-link" href="/best-airbrush-for-beginners/">
+            Read Full Paint Guide
+            <svg viewBox="0 0 16 16" fill="none"><path d="M6 3l5 5-5 5" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+          <br>
+          <button class="abp-retake" onclick="abpRetake()">↻ Try Different Options</button>
+        </div>
+      `;
+
+      container.style.display = 'block';
+      requestAnimationFrame(()=>{
+        container.classList.add('abp-show');
+        setTimeout(()=>{
+          container.querySelectorAll('.abp-bar-fill').forEach(bar=>{
+            bar.style.width = bar.getAttribute('data-pct')+'%';
+          });
+        },300);
+      });
+    },1200);
+  }
+
+})();
+</script>

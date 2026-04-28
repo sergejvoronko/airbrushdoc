@@ -1,0 +1,1288 @@
+<!-- AirbrushDOC.com - Airbrush Troubleshooting Wizard -->
+<!-- Drop into a WordPress Custom HTML block -->
+
+<style>
+/* ── Reset ── */
+.abt-root, .abt-root * { margin:0; padding:0; box-sizing:border-box; font-family:'Outfit',sans-serif; }
+
+.abt-root {
+  --abt-bg: #111111;
+  --abt-surface: #1A1A1A;
+  --abt-surface2: #222222;
+  --abt-surface3: #2A2A2A;
+  --abt-orange: #F4671A;
+  --abt-orange-glow: rgba(244,103,26,0.35);
+  --abt-orange-soft: rgba(244,103,26,0.10);
+  --abt-green: #4ADE80;
+  --abt-green-soft: rgba(74,222,128,0.10);
+  --abt-yellow: #FACC15;
+  --abt-yellow-soft: rgba(250,204,21,0.10);
+  --abt-red: #F87171;
+  --abt-red-soft: rgba(248,113,113,0.10);
+  --abt-blue: #60A5FA;
+  --abt-blue-soft: rgba(96,165,250,0.10);
+  --abt-text: #F0F0F0;
+  --abt-text-dim: #999999;
+  --abt-text-muted: #666666;
+  --abt-border: #2A2A2A;
+  --abt-radius: 12px;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px 16px 48px;
+  color: var(--abt-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Header ── */
+.abt-header { text-align:center; margin-bottom:28px; }
+.abt-header-icon {
+  display:inline-flex; align-items:center; justify-content:center;
+  width:56px; height:56px; border-radius:50%;
+  background:var(--abt-orange-soft);
+  margin-bottom:16px;
+  animation: abt-pulse 2.5s ease-in-out infinite;
+}
+@keyframes abt-pulse {
+  0%,100% { box-shadow:0 0 0 0 var(--abt-orange-glow); }
+  50% { box-shadow:0 0 0 12px transparent; }
+}
+.abt-header-icon svg { width:28px; height:28px; }
+.abt-title { font-size:clamp(1.5rem,4vw,2rem); font-weight:800; letter-spacing:-0.02em; line-height:1.2; margin-bottom:6px; }
+.abt-title-accent { color:var(--abt-orange); }
+.abt-subtitle { font-size:0.95rem; color:var(--abt-text-dim); font-weight:300; }
+
+/* ── Progress Breadcrumbs ── */
+.abt-breadcrumbs {
+  display:flex; align-items:center; gap:8px; flex-wrap:wrap;
+  margin-bottom:20px; padding:12px 16px;
+  background:var(--abt-surface);
+  border:1px solid var(--abt-border);
+  border-radius:10px;
+}
+.abt-crumb {
+  font-size:0.75rem; font-weight:500;
+  padding:4px 10px; border-radius:6px;
+  background:var(--abt-surface2); color:var(--abt-text-dim);
+  white-space:nowrap; max-width:160px;
+  overflow:hidden; text-overflow:ellipsis;
+}
+.abt-crumb-active { background:var(--abt-orange-soft); color:var(--abt-orange); }
+.abt-crumb-arrow { color:var(--abt-text-muted); font-size:0.7rem; flex-shrink:0; }
+
+/* ── Intro ── */
+.abt-intro { text-align:center; }
+.abt-intro-grid {
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+  gap:12px; margin:24px 0 28px; text-align:left;
+}
+.abt-intro-card {
+  display:flex; align-items:flex-start; gap:10px;
+  padding:14px; border-radius:10px;
+  background:var(--abt-surface); border:1px solid var(--abt-border);
+}
+.abt-intro-icon {
+  flex-shrink:0; width:32px; height:32px; border-radius:8px;
+  background:var(--abt-orange-soft);
+  display:flex; align-items:center; justify-content:center; font-size:1rem;
+}
+.abt-intro-text { font-size:0.82rem; line-height:1.4; }
+.abt-intro-text strong { display:block; font-size:0.88rem; margin-bottom:2px; color:var(--abt-text); }
+.abt-intro-text span { color:var(--abt-text-dim); }
+
+/* ── Card Stage ── */
+.abt-card-stage { position:relative; min-height:380px; }
+.abt-card {
+  position:absolute; inset:0;
+  background:var(--abt-surface);
+  border:1px solid var(--abt-border);
+  border-radius:var(--abt-radius);
+  padding:clamp(20px,4vw,32px);
+  opacity:0; transform:translateX(60px) scale(0.96);
+  transition:opacity 0.45s ease, transform 0.45s cubic-bezier(0.4,0,0.2,1);
+  pointer-events:none;
+  display:flex; flex-direction:column;
+}
+.abt-card.abt-active {
+  opacity:1; transform:translateX(0) scale(1);
+  pointer-events:auto; position:relative;
+}
+.abt-card.abt-exit-left {
+  opacity:0; transform:translateX(-60px) scale(0.96); pointer-events:none;
+}
+
+.abt-q-badge {
+  display:inline-flex; align-items:center; gap:6px;
+  font-size:0.72rem; font-weight:600; text-transform:uppercase;
+  letter-spacing:0.1em; color:var(--abt-orange); margin-bottom:12px;
+}
+.abt-q-badge-dot {
+  width:7px; height:7px; border-radius:50%;
+  background:var(--abt-orange);
+  animation:abt-dot-pulse 1.5s ease infinite;
+}
+@keyframes abt-dot-pulse {
+  0%,100% { opacity:1; } 50% { opacity:0.4; }
+}
+.abt-q-text { font-size:clamp(1.1rem,3vw,1.35rem); font-weight:600; line-height:1.35; margin-bottom:20px; }
+
+/* ── Options ── */
+.abt-options { display:flex; flex-direction:column; gap:10px; flex:1; }
+.abt-options-grid {
+  display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
+  gap:10px; flex:1;
+}
+.abt-opt {
+  display:flex; align-items:center; gap:12px;
+  padding:13px 16px; border-radius:10px;
+  background:var(--abt-surface2);
+  border:1.5px solid var(--abt-border);
+  cursor:pointer; transition:all 0.25s ease;
+  -webkit-tap-highlight-color:transparent;
+}
+.abt-opt:hover { border-color:var(--abt-orange); background:var(--abt-orange-soft); }
+.abt-opt.abt-selected {
+  border-color:var(--abt-orange); background:var(--abt-orange-soft);
+  box-shadow:0 0 16px rgba(244,103,26,0.12);
+}
+.abt-opt-tile {
+  flex-direction:column; align-items:center; text-align:center;
+  padding:18px 10px; gap:8px;
+}
+.abt-opt-tile .abt-opt-emoji { font-size:1.5rem; }
+
+.abt-opt-radio {
+  flex-shrink:0; width:20px; height:20px; border-radius:50%;
+  border:2px solid var(--abt-text-muted);
+  display:flex; align-items:center; justify-content:center;
+  transition:all 0.25s;
+}
+.abt-opt.abt-selected .abt-opt-radio { border-color:var(--abt-orange); }
+.abt-opt-radio-dot {
+  width:10px; height:10px; border-radius:50%;
+  background:var(--abt-orange); transform:scale(0);
+  transition:transform 0.25s cubic-bezier(0.34,1.56,0.64,1);
+}
+.abt-opt.abt-selected .abt-opt-radio-dot { transform:scale(1); }
+.abt-opt-label { font-size:0.92rem; font-weight:500; line-height:1.3; }
+.abt-opt-desc { font-size:0.78rem; color:var(--abt-text-dim); margin-top:2px; font-weight:400; }
+
+/* ── Nav ── */
+.abt-nav { display:flex; justify-content:space-between; margin-top:20px; }
+.abt-btn {
+  display:inline-flex; align-items:center; gap:6px;
+  padding:10px 22px; border-radius:8px; border:none;
+  font-family:'Outfit',sans-serif; font-size:0.88rem; font-weight:600;
+  cursor:pointer; transition:all 0.25s;
+}
+.abt-btn-back {
+  background:transparent; color:var(--abt-text-dim);
+  border:1px solid var(--abt-border);
+}
+.abt-btn-back:hover { color:var(--abt-text); border-color:var(--abt-text-muted); }
+.abt-btn-back:disabled { opacity:0.3; cursor:default; }
+.abt-btn-primary {
+  background:var(--abt-orange); color:#fff;
+  box-shadow:0 4px 16px rgba(244,103,26,0.3);
+}
+.abt-btn-primary:hover { filter:brightness(1.1); transform:translateY(-1px); }
+
+/* ── Loading ── */
+.abt-loading { display:none; text-align:center; padding:60px 20px; }
+.abt-loading.abt-show { display:block; }
+.abt-spinner {
+  width:48px; height:48px; margin:0 auto 20px;
+  border:3px solid var(--abt-surface2);
+  border-top-color:var(--abt-orange);
+  border-radius:50%; animation:abt-spin 0.8s linear infinite;
+}
+@keyframes abt-spin { to { transform:rotate(360deg); } }
+.abt-loading-text { font-size:0.95rem; color:var(--abt-text-dim); }
+
+/* ── Results / Diagnosis ── */
+.abt-results { display:none; }
+.abt-results.abt-show { display:block; }
+
+.abt-diag-card {
+  background:var(--abt-surface);
+  border:1px solid var(--abt-border);
+  border-radius:var(--abt-radius);
+  overflow:hidden;
+  opacity:0; transform:translateY(16px);
+  animation:abt-card-in 0.5s ease forwards;
+}
+.abt-diag-card:nth-child(n+2) { margin-top:14px; }
+.abt-diag-card:nth-child(1) { animation-delay:0.1s; }
+.abt-diag-card:nth-child(2) { animation-delay:0.25s; }
+.abt-diag-card:nth-child(3) { animation-delay:0.4s; }
+.abt-diag-card:nth-child(4) { animation-delay:0.55s; }
+@keyframes abt-card-in { to { opacity:1; transform:translateY(0); } }
+
+/* Severity banner */
+.abt-severity {
+  padding:10px 20px; font-size:0.75rem; font-weight:700;
+  text-transform:uppercase; letter-spacing:0.1em;
+  display:flex; align-items:center; gap:8px;
+}
+.abt-sev-easy { background:var(--abt-green-soft); color:var(--abt-green); }
+.abt-sev-medium { background:var(--abt-yellow-soft); color:var(--abt-yellow); }
+.abt-sev-hard { background:var(--abt-red-soft); color:var(--abt-red); }
+
+.abt-diag-body { padding:clamp(18px,3vw,24px); }
+.abt-diag-title { font-size:clamp(1.1rem,3vw,1.25rem); font-weight:700; margin-bottom:4px; }
+.abt-diag-cause {
+  font-size:0.85rem; color:var(--abt-text-dim); line-height:1.55;
+  margin-bottom:16px; padding-bottom:16px;
+  border-bottom:1px solid var(--abt-border);
+}
+.abt-diag-cause strong { color:var(--abt-text); font-weight:600; }
+
+/* Steps */
+.abt-steps { display:flex; flex-direction:column; gap:12px; margin-bottom:18px; }
+.abt-step {
+  display:flex; gap:12px; align-items:flex-start;
+}
+.abt-step-num {
+  flex-shrink:0; width:28px; height:28px; border-radius:50%;
+  background:var(--abt-orange-soft); color:var(--abt-orange);
+  display:flex; align-items:center; justify-content:center;
+  font-size:0.78rem; font-weight:700; margin-top:1px;
+}
+.abt-step-text { font-size:0.88rem; line-height:1.55; }
+.abt-step-text strong { color:var(--abt-text); }
+
+/* Product recommendations */
+.abt-products-label {
+  font-size:0.72rem; font-weight:700; text-transform:uppercase;
+  letter-spacing:0.1em; color:var(--abt-orange);
+  margin-bottom:10px;
+}
+.abt-product-links { display:flex; flex-wrap:wrap; gap:8px; }
+.abt-product-link {
+  display:inline-flex; align-items:center; gap:6px;
+  padding:8px 14px; border-radius:8px;
+  background:var(--abt-surface2); color:var(--abt-text);
+  text-decoration:none; font-size:0.82rem; font-weight:500;
+  border:1px solid var(--abt-border);
+  transition:all 0.25s;
+}
+.abt-product-link:hover {
+  border-color:var(--abt-orange); background:var(--abt-orange-soft);
+  color:var(--abt-orange);
+}
+.abt-product-link svg { width:12px; height:12px; flex-shrink:0; }
+
+/* Pro tip box */
+.abt-protip {
+  background:var(--abt-blue-soft);
+  border:1px solid rgba(96,165,250,0.18);
+  border-radius:10px; padding:14px 16px;
+  margin-top:16px;
+  font-size:0.83rem; line-height:1.55; color:var(--abt-text-dim);
+}
+.abt-protip strong { color:var(--abt-blue); }
+
+/* Didn't fix it callout */
+.abt-notfixed {
+  background:var(--abt-surface);
+  border:1px solid var(--abt-border);
+  border-radius:var(--abt-radius);
+  padding:20px; text-align:center; margin-top:14px;
+  opacity:0; animation:abt-card-in 0.5s ease 0.7s forwards;
+}
+.abt-notfixed-title { font-size:0.95rem; font-weight:600; margin-bottom:6px; }
+.abt-notfixed-text { font-size:0.83rem; color:var(--abt-text-dim); line-height:1.5; margin-bottom:12px; }
+
+/* ── CTA ── */
+.abt-cta-section { text-align:center; margin-top:28px; }
+.abt-cta-link {
+  display:inline-flex; align-items:center; gap:8px;
+  padding:14px 32px; border-radius:10px;
+  background:var(--abt-orange); color:#fff;
+  text-decoration:none; font-weight:700; font-size:1rem;
+  box-shadow:0 4px 20px rgba(244,103,26,0.35);
+  transition:all 0.25s;
+}
+.abt-cta-link:hover { filter:brightness(1.1); transform:translateY(-2px);
+  box-shadow:0 6px 28px rgba(244,103,26,0.45); }
+.abt-retake {
+  display:inline-block; margin-top:16px;
+  font-size:0.85rem; color:var(--abt-text-muted);
+  cursor:pointer; border:none; background:none;
+  font-family:'Outfit',sans-serif; text-decoration:underline;
+  text-underline-offset:3px; transition:color 0.2s;
+}
+.abt-retake:hover { color:var(--abt-text-dim); }
+
+/* ── Responsive ── */
+@media(max-width:480px) {
+  .abt-root { padding:12px 10px 32px; }
+  .abt-card { padding:18px 14px; }
+  .abt-card-stage { min-height:360px; }
+  .abt-options-grid { grid-template-columns:repeat(2,1fr); }
+  .abt-intro-grid { grid-template-columns:1fr; }
+  .abt-breadcrumbs { gap:5px; padding:10px 12px; }
+  .abt-crumb { max-width:110px; font-size:0.7rem; }
+}
+</style>
+
+<div class="abt-root" id="abtTool">
+
+  <!-- Intro -->
+  <div id="abtIntro" class="abt-intro">
+    <div class="abt-header">
+      <div class="abt-header-icon">
+        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F4671A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/><path d="M11 8v6M8 11h6"/></svg>
+      </div>
+      <h2 class="abt-title">Airbrush <span class="abt-title-accent">Troubleshooter</span></h2>
+      <p class="abt-subtitle">Diagnose your problem · Get step-by-step fixes in seconds</p>
+    </div>
+    <div class="abt-intro-grid">
+      <div class="abt-intro-card">
+        <div class="abt-intro-icon">🔍</div>
+        <div class="abt-intro-text"><strong>Smart Diagnosis</strong><span>Branching questions find the real cause</span></div>
+      </div>
+      <div class="abt-intro-card">
+        <div class="abt-intro-icon">🔧</div>
+        <div class="abt-intro-text"><strong>Step-by-Step</strong><span>Clear fix instructions with product links</span></div>
+      </div>
+      <div class="abt-intro-card">
+        <div class="abt-intro-icon">⚡</div>
+        <div class="abt-intro-text"><strong>Quick Fixes</strong><span>Most problems solved in 3 questions</span></div>
+      </div>
+    </div>
+    <button class="abt-btn abt-btn-primary" onclick="abtStart()" style="font-size:1rem;padding:14px 36px;">
+      Diagnose My Problem
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" style="margin-left:4px;"><path d="M6 3l5 5-5 5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+  </div>
+
+  <!-- Wizard Body -->
+  <div id="abtBody" style="display:none;">
+    <div class="abt-header" style="margin-bottom:16px;">
+      <h2 class="abt-title" style="font-size:clamp(1.2rem,3vw,1.5rem);">Airbrush <span class="abt-title-accent">Troubleshooter</span></h2>
+    </div>
+    <div class="abt-breadcrumbs" id="abtBreadcrumbs"></div>
+    <div class="abt-card-stage" id="abtStage"></div>
+    <div class="abt-nav">
+      <button class="abt-btn abt-btn-back" id="abtBack" disabled onclick="abtGoBack()">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M10 13l-5-5 5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Back
+      </button>
+      <div></div>
+    </div>
+  </div>
+
+  <!-- Loading -->
+  <div id="abtLoading" class="abt-loading">
+    <div class="abt-spinner"></div>
+    <div class="abt-loading-text">Analyzing your symptoms...</div>
+  </div>
+
+  <!-- Results -->
+  <div id="abtResults" class="abt-results"></div>
+</div>
+
+<script>
+(function(){
+
+  /* ═══════════════════════════════════════
+     DECISION TREE
+     Each node has: question, options
+     Each option leads to either another node key
+     or a diagnosis key (prefixed with "dx_")
+  ═══════════════════════════════════════ */
+  const TREE = {
+
+    /* ── ROOT ── */
+    root: {
+      question:"What problem are you experiencing?",
+      layout:"grid",
+      options:[
+        {label:"Spitting & splattering", emoji:"💦", next:"spit_paint"},
+        {label:"Uneven spray pattern", emoji:"🎯", next:"uneven_when"},
+        {label:"Paint won't flow", emoji:"🚫", next:"noflow_air"},
+        {label:"Air leaking", emoji:"💨", next:"leak_where"},
+        {label:"Clogging / tip dry", emoji:"🔒", next:"clog_when"},
+        {label:"Bubbling in cup", emoji:"🫧", next:"bubble_cause"},
+        {label:"Off-center spray", emoji:"↗️", next:"dx_offcenter"},
+        {label:"Sticky / stiff trigger", emoji:"🎚️", next:"trigger_detail"}
+      ]
+    },
+
+    /* ── SPITTING / SPLATTERING BRANCH ── */
+    spit_paint: {
+      question:"How would you describe your paint consistency right now?",
+      options:[
+        {label:"Too thick / straight from bottle", desc:"Haven't thinned it yet", next:"spit_pressure"},
+        {label:"Properly thinned (milk-like)", desc:"Already reduced to correct ratio", next:"spit_pressure"},
+        {label:"Very thin / watery", desc:"May have over-thinned", next:"dx_spit_overthinned"},
+        {label:"Not sure", desc:"I'm guessing at this point", next:"spit_pressure"}
+      ]
+    },
+    spit_pressure: {
+      question:"What PSI are you spraying at?",
+      options:[
+        {label:"Under 15 PSI", desc:"Low pressure range", next:"dx_spit_lowpsi"},
+        {label:"15–25 PSI", desc:"Normal range", next:"spit_cleaned"},
+        {label:"Over 25 PSI", desc:"Higher pressure", next:"spit_cleaned"},
+        {label:"No idea / no gauge", desc:"I don't have a regulator or gauge", next:"dx_spit_nogauge"}
+      ]
+    },
+    spit_cleaned: {
+      question:"When did you last fully disassemble and clean your airbrush?",
+      options:[
+        {label:"Just cleaned it", desc:"Fresh clean before this session", next:"dx_spit_nozzle"},
+        {label:"Yesterday or a few days ago", desc:"Recent but not right before", next:"dx_spit_residue"},
+        {label:"Can't remember / weeks ago", desc:"It's been a while", next:"dx_spit_deepclean"}
+      ]
+    },
+
+    /* ── UNEVEN SPRAY BRANCH ── */
+    uneven_when: {
+      question:"When does the uneven pattern happen?",
+      options:[
+        {label:"Right from the start", desc:"First trigger pull", next:"uneven_pattern"},
+        {label:"After spraying a while", desc:"Starts fine, then degrades", next:"dx_uneven_tipdry"},
+        {label:"Comes and goes randomly", desc:"Intermittent pulsing or fluttering", next:"dx_uneven_airleak"}
+      ]
+    },
+    uneven_pattern: {
+      question:"How would you describe the pattern?",
+      options:[
+        {label:"Heavy on one side", desc:"Sprays more left, right, up, or down", next:"dx_offcenter"},
+        {label:"Grainy / sandy texture", desc:"Rough, speckled finish like sandpaper", next:"dx_uneven_grainy"},
+        {label:"Spidering / starfish shapes", desc:"Lines radiating out from center", next:"dx_uneven_spider"},
+        {label:"Pulsing / stuttering", desc:"Spray surges in and out", next:"dx_uneven_airleak"}
+      ]
+    },
+
+    /* ── NO PAINT FLOW BRANCH ── */
+    noflow_air: {
+      question:"Is air coming through when you press the trigger down?",
+      options:[
+        {label:"Yes, air flows but no paint", desc:"I hear/feel air", next:"noflow_needle"},
+        {label:"No — no air at all", desc:"Complete silence, nothing happens", next:"dx_noflow_noair"},
+        {label:"Very weak air", desc:"Some air but barely any pressure", next:"dx_noflow_weakair"}
+      ]
+    },
+    noflow_needle: {
+      question:"Have you checked the needle position?",
+      options:[
+        {label:"Needle is fully forward", desc:"Pushed in snug against nozzle", next:"dx_noflow_clog"},
+        {label:"Needle seems pulled back", desc:"There's a gap", next:"dx_noflow_needle"},
+        {label:"Haven't checked", desc:"Not sure how", next:"dx_noflow_clog"}
+      ]
+    },
+
+    /* ── AIR LEAK BRANCH ── */
+    leak_where: {
+      question:"Where is the air leaking from?",
+      options:[
+        {label:"Around the nozzle / head", desc:"Front of the airbrush", next:"dx_leak_head"},
+        {label:"At the hose connection", desc:"Where hose meets airbrush", next:"dx_leak_hose"},
+        {label:"From the trigger area", desc:"Air escapes when trigger is released", next:"dx_leak_valve"},
+        {label:"Not sure — I just hear hissing", desc:"Can't pinpoint the location", next:"dx_leak_general"}
+      ]
+    },
+
+    /* ── CLOGGING BRANCH ── */
+    clog_when: {
+      question:"When does the clogging happen?",
+      options:[
+        {label:"Almost immediately", desc:"Clogs within first minute of spraying", next:"clog_paint"},
+        {label:"After 5–10 minutes", desc:"Starts fine, then builds up", next:"dx_clog_tipdry"},
+        {label:"Frequently / every session", desc:"It's a constant recurring issue", next:"clog_paint"}
+      ]
+    },
+    clog_paint: {
+      question:"What type of paint are you using?",
+      options:[
+        {label:"Water-based acrylic", desc:"Createx, Vallejo, Golden, etc.", next:"dx_clog_acrylic"},
+        {label:"Solvent / lacquer-based", desc:"Tamiya, Mr. Color, enamels", next:"dx_clog_solvent"},
+        {label:"Urethane / automotive", desc:"House of Kolor, Auto-Air, etc.", next:"dx_clog_urethane"},
+        {label:"Not sure", next:"dx_clog_general"}
+      ]
+    },
+
+    /* ── BUBBLING BRANCH ── */
+    bubble_cause: {
+      question:"When does the bubbling start?",
+      options:[
+        {label:"As soon as I press the trigger", desc:"Immediate bubbles in cup", next:"dx_bubble_seal"},
+        {label:"Only when I pull back for paint", desc:"During paint flow only", next:"dx_bubble_nozzle"},
+        {label:"Intermittently", desc:"Random bubbles appearing", next:"dx_bubble_seal"}
+      ]
+    },
+
+    /* ── TRIGGER BRANCH ── */
+    trigger_detail: {
+      question:"What exactly is the trigger doing?",
+      options:[
+        {label:"Won't push down", desc:"Stuck — can't press for air", next:"dx_trigger_stuck"},
+        {label:"Won't pull back smoothly", desc:"Gritty or resistant pull-back", next:"dx_trigger_gritty"},
+        {label:"Doesn't spring back", desc:"Stays pulled, slow to return", next:"dx_trigger_spring"},
+        {label:"Paint sprays without pulling back", desc:"Paint leaks out without trigger pull", next:"dx_trigger_leakpaint"}
+      ]
+    }
+  };
+
+  /* ═══════════════════════════════════════
+     DIAGNOSIS DATABASE
+  ═══════════════════════════════════════ */
+  const DIAGNOSES = {
+
+    /* ── SPITTING ── */
+    dx_spit_overthinned: {
+      title:"Over-Thinned Paint",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Your paint is likely <strong>too thin</strong>, allowing air to mix into the paint stream. This creates bubbles that burst on the surface as spatters.",
+      steps:[
+        "Add more paint to your cup to thicken the mixture back up — aim for a <strong>skim-milk consistency</strong>.",
+        "If it's too far gone, dump the cup, clean briefly, and mix a fresh batch at the correct ratio (typically 1 part reducer to 2–4 parts paint).",
+        "Lower your PSI by 5 — thinner paint needs less pressure to atomize correctly.",
+        "Test on scrap material before returning to your project."
+      ],
+      products:[
+        {name:"Createx 4012 Reducer", url:"/go/createx-reducer/"},
+        {name:"Iwata Medea Airbrush Cleaner", url:"/go/iwata-cleaner/"},
+        {name:"Mixing Cups (Graduated)", url:"/go/mixing-cups/"}
+      ],
+      tip:"Keep a paint consistency reference card at your workstation. Proper reduction ratios vary by brand — Createx and Vallejo thin differently. Check our paint guide for brand-specific ratios."
+    },
+
+    dx_spit_lowpsi: {
+      title:"Air Pressure Too Low",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Below 15 PSI, most airbrushes can't properly <strong>atomize the paint</strong> into a fine mist. Instead, the paint exits in irregular globs that splatter on impact.",
+      steps:[
+        "Increase your PSI to <strong>18–22 PSI</strong> as a starting point for most gravity-feed airbrushes.",
+        "If using a siphon-feed airbrush, you'll need even more pressure — try <strong>25–30 PSI</strong>.",
+        "Ensure your compressor's regulator is set correctly and the gauge reads accurately.",
+        "If your paint is thick, also thin it slightly — thick paint + low PSI is the worst combo for splattering."
+      ],
+      products:[
+        {name:"Airbrush Regulator with Gauge", url:"/go/regulator-gauge/"},
+        {name:"Master Airbrush Compressor", url:"/go/master-compressor/"}
+      ],
+      tip:"A good rule of thumb: start at 15 PSI and increase by 5 PSI increments until you get a smooth, consistent spray pattern. Fine detail work can go as low as 8–12 PSI, but only with properly thinned paint and a quality airbrush."
+    },
+
+    dx_spit_nogauge: {
+      title:"No Pressure Regulation",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"Without a regulator and gauge, you're <strong>spraying blind</strong>. Unregulated compressors can fluctuate wildly in pressure, causing inconsistent atomization and splattering.",
+      steps:[
+        "Get an <strong>inline regulator with a moisture trap and gauge</strong> — this is essential equipment, not optional.",
+        "Install it between your compressor and airbrush hose.",
+        "Set pressure to <strong>20 PSI</strong> as a baseline and adjust from there.",
+        "While you're at it, ensure your paint is thinned to skim-milk consistency."
+      ],
+      products:[
+        {name:"Master Airbrush Regulator + Moisture Trap", url:"/go/regulator-trap/"},
+        {name:"Iwata Moisture Filter", url:"/go/iwata-moisture/"},
+        {name:"Inline Pressure Gauge", url:"/go/pressure-gauge/"}
+      ],
+      tip:"Moisture in your air line is another invisible cause of spitting. In humid environments, a moisture trap is critical — water droplets in your air stream will ruin your spray pattern every time."
+    },
+
+    dx_spit_nozzle: {
+      title:"Damaged or Worn Nozzle",
+      severity:"medium", severityLabel:"Part Replacement Likely",
+      cause:"If your paint is properly thinned, pressure is correct, and everything is freshly cleaned — the nozzle itself may be <strong>cracked or worn</strong>. Nozzles are delicate precision parts that degrade over time.",
+      steps:[
+        "Remove the nozzle and inspect it under <strong>good light with a magnifying glass</strong>. Look for hairline cracks, chips, or a warped opening.",
+        "Check the needle tip as well — even a tiny bend will cause splattering. Roll it on a flat surface to check straightness.",
+        "Replace the nozzle if any damage is found. Always replace needle and nozzle together as a matched pair.",
+        "When reinstalling, tighten the nozzle just until snug — <strong>never overtighten</strong> or it will crack."
+      ],
+      products:[
+        {name:"Iwata Nozzle Replacement Set", url:"/go/iwata-nozzle/"},
+        {name:"Harder & Steenbeck Nozzle Kit", url:"/go/hs-nozzle/"},
+        {name:"Badger Needle + Nozzle Combo", url:"/go/badger-needle-nozzle/"}
+      ],
+      tip:"Nozzles are consumable parts — replace them every 6–12 months with heavy use. Keep a spare needle and nozzle in your kit at all times so you can quickly swap and rule them out as the problem."
+    },
+
+    dx_spit_residue: {
+      title:"Paint Residue Build-Up",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Old paint residue inside the nozzle or air cap is <strong>disrupting the air/paint mix</strong>. Even a tiny flake of dried paint inside the nozzle can cause intermittent splattering.",
+      steps:[
+        "Do a full teardown clean: remove the <strong>needle, nozzle, air cap, and needle cap</strong>.",
+        "Soak small parts in airbrush cleaner for 10–15 minutes.",
+        "Use <strong>interdental brushes or micro cleaning brushes</strong> to clean inside the nozzle — never use wire or metal tools.",
+        "Reassemble carefully, ensuring the needle slides forward smoothly to seat in the nozzle.",
+        "Flush with clean water or cleaner and test before loading paint."
+      ],
+      products:[
+        {name:"Iwata Medea Airbrush Cleaner", url:"/go/iwata-cleaner/"},
+        {name:"Master Airbrush Cleaning Kit", url:"/go/cleaning-kit/"},
+        {name:"Micro Cleaning Brushes Set", url:"/go/micro-brushes/"}
+      ],
+      tip:"Practice the \"Air On, Air Off\" technique: always press the trigger for air BEFORE pulling back for paint, and always push the trigger forward to stop paint BEFORE releasing air. This blows residual paint off the needle tip and prevents build-up."
+    },
+
+    dx_spit_deepclean: {
+      title:"Dried Paint Build-Up (Deep Clean Needed)",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"Weeks without a full clean means there's almost certainly <strong>dried paint crusted inside</strong> the nozzle, air cap, and possibly the paint channel. This restricts flow and causes splattering.",
+      steps:[
+        "<strong>Full disassembly:</strong> remove needle, nozzle, air cap, needle cap, and cup (if removable).",
+        "Soak all non-rubber parts in appropriate cleaner for <strong>20–30 minutes</strong>. Use lacquer thinner for stubborn dried acrylics.",
+        "Use a nozzle reamer or soft brush to clear the nozzle passage. Hold it up to light — you should see a clean, round opening.",
+        "Clean the paint channel inside the body with a pipe cleaner soaked in cleaner.",
+        "Inspect the needle tip for any dried paint or bending. Clean or replace if damaged.",
+        "Reassemble, lubricate the needle with <strong>airbrush lube</strong>, and test with clean water first."
+      ],
+      products:[
+        {name:"Iwata Medea Airbrush Cleaner", url:"/go/iwata-cleaner/"},
+        {name:"Airbrush Cleaning Pot", url:"/go/cleaning-pot/"},
+        {name:"Iwata Lube (Super Lube)", url:"/go/iwata-lube/"},
+        {name:"Nozzle Reamer Set", url:"/go/nozzle-reamer/"}
+      ],
+      tip:"Make end-of-session cleaning a habit: flush with cleaner, backflush 2–3 times, wipe the needle, and do a final flush with clean water. This takes 2 minutes and prevents 90% of clogging and splattering issues."
+    },
+
+    /* ── UNEVEN SPRAY ── */
+    dx_uneven_tipdry: {
+      title:"Tip Dry Build-Up",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Water-based acrylics are notorious for <strong>drying on the needle tip</strong> during spraying. This dried paint deflects the spray and causes an uneven, splotchy pattern that worsens over time.",
+      steps:[
+        "Dip a brush or cotton swab in <strong>airbrush cleaner</strong> and gently wipe the needle tip without removing it from the airbrush.",
+        "If your airbrush has a <strong>cutaway crown cap</strong> (like H&S Infinity or Iwata Custom Micron), use it — it allows tip cleaning without disassembly.",
+        "Add 1–2 drops of <strong>flow improver or retarder</strong> to your paint mix to slow drying.",
+        "Increase your PSI slightly — more air flow helps keep the tip clear."
+      ],
+      products:[
+        {name:"Createx Retarder / Flow Improver", url:"/go/createx-retarder/"},
+        {name:"Iwata Medea Airbrush Cleaner", url:"/go/iwata-cleaner/"},
+        {name:"Needle Juice Tip Dry Preventer", url:"/go/needle-juice/"}
+      ],
+      tip:"Some artists spray a quick burst of cleaner every few minutes to keep the tip wet. Products like \"Needle Juice\" are designed to lubricate the needle and dramatically reduce tip dry — especially helpful in dry climates."
+    },
+
+    dx_uneven_airleak: {
+      title:"Internal Air Leak Causing Pulsation",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"An intermittent, pulsing spray is caused by <strong>air leaking inside the airbrush</strong> — usually from a damaged head seal, loose nozzle, or worn O-ring. Air pressure fluctuates, causing surges.",
+      steps:[
+        "Tighten the <strong>air cap / head assembly</strong> snugly (finger tight, don't force with pliers).",
+        "Remove the nozzle and check the <strong>head seal / nozzle O-ring</strong>. Replace if it looks compressed, cracked, or missing.",
+        "Wrap male-threaded hose connections with <strong>PTFE (Teflon) tape</strong> for an airtight seal.",
+        "If pulsation continues, check the <strong>needle bearing seal</strong> inside the airbrush body — paint may be leaking past it into the air valve area."
+      ],
+      products:[
+        {name:"Airbrush O-Ring Replacement Kit", url:"/go/oring-kit/"},
+        {name:"PTFE Teflon Tape", url:"/go/ptfe-tape/"},
+        {name:"Iwata Airbrush Lube", url:"/go/iwata-lube/"}
+      ],
+      tip:"To quickly test for air leaks: submerge the front end of your airbrush (air cap area) in water while air is flowing. Bubbles will reveal exactly where the leak is."
+    },
+
+    dx_uneven_grainy: {
+      title:"Grainy / Sandy Texture — Pressure Too High",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"A sandpaper-like texture happens when paint is <strong>over-atomized</strong> — the droplets are so tiny they begin drying mid-air before hitting the surface. This is usually caused by PSI that's too high for the paint and distance.",
+      steps:[
+        "<strong>Reduce your PSI by 5–10</strong> and test again. Over-atomization is the #1 culprit.",
+        "Move your airbrush <strong>closer to the surface</strong> — paint has less time to dry in transit.",
+        "If using a fast-evaporating thinner or reducer, switch to a <strong>slower reducer</strong> designed for airbrushing.",
+        "Check humidity — very dry environments accelerate mid-air drying."
+      ],
+      products:[
+        {name:"Createx 4012 Reducer (Slow)", url:"/go/createx-reducer/"},
+        {name:"Vallejo Airbrush Flow Improver", url:"/go/vallejo-flow/"}
+      ],
+      tip:"The fix is almost always \"less pressure, closer distance.\" If you're spraying at 30+ PSI for fine work, that's too much. Fine detail with properly thinned paint works beautifully at 12–18 PSI."
+    },
+
+    dx_uneven_spider: {
+      title:"Spidering — Pressure Too High for Distance",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Spidering (thin lines radiating outward like legs) happens when you're spraying <strong>too close to the surface at too high a pressure</strong>. The air blast pushes paint outward from the center.",
+      steps:[
+        "<strong>Reduce PSI by 5–10</strong> when doing close-up detail work.",
+        "Alternatively, <strong>increase your distance</strong> from the surface — pull back 2–3 inches.",
+        "Use the trigger lightly — don't pull back too far when working up close.",
+        "Thin your paint slightly more — thinner paint siders less than thick paint at the same pressure."
+      ],
+      products:[],
+      tip:"The closer you get to the surface, the lower your PSI should be. This is the most common adjustment pros make constantly during a session — adjusting the regulator as they move between broad coverage and fine detail."
+    },
+
+    /* ── OFF-CENTER ── */
+    dx_offcenter: {
+      title:"Bent Needle Tip",
+      severity:"medium", severityLabel:"Part May Need Replacing",
+      cause:"An off-center spray pattern is almost always caused by a <strong>bent needle tip</strong>. Even a microscopic bend will deflect paint to one side as it exits the nozzle.",
+      steps:[
+        "Remove the needle and <strong>roll it slowly on a flat, smooth surface</strong> (glass is ideal). Watch the tip — if it wobbles, it's bent.",
+        "A very minor bend can sometimes be <strong>straightened with a fine sharpening stone</strong>, rolling gently in one direction.",
+        "If the bend is visible to the naked eye, <strong>replace the needle</strong>. Also inspect and replace the nozzle — a bent needle often damages the nozzle too.",
+        "When reinserting, push the needle forward gently until you feel it seat in the nozzle. Never force it."
+      ],
+      products:[
+        {name:"Iwata Replacement Needles", url:"/go/iwata-needles/"},
+        {name:"H&S Replacement Needles", url:"/go/hs-needles/"},
+        {name:"Badger Replacement Needles", url:"/go/badger-needles/"},
+        {name:"Fine Sharpening Stone", url:"/go/sharpening-stone/"}
+      ],
+      tip:"Needle tips bend most often from dropping the airbrush, or from pushing the needle into a clogged nozzle. Always retract the needle slightly before cleaning, and always re-cap your airbrush when setting it down."
+    },
+
+    /* ── NO PAINT FLOW ── */
+    dx_noflow_noair: {
+      title:"No Air Flow — Compressor or Connection Issue",
+      severity:"hard", severityLabel:"Check Equipment",
+      cause:"If no air comes through at all, the problem is <strong>upstream of the airbrush</strong> — either the compressor, hose, or connection point.",
+      steps:[
+        "<strong>Disconnect the hose</strong> from the airbrush and check if air comes out of the hose end. If not, the issue is the compressor or hose.",
+        "Check if the compressor is <strong>powered on and building pressure</strong>. Listen for the motor.",
+        "Check the <strong>hose connections</strong> for kinks, damage, or improper threading.",
+        "If the compressor runs but produces no air, the diaphragm or check valve may be failing — this requires service or replacement."
+      ],
+      products:[
+        {name:"Replacement Airbrush Hose", url:"/go/airbrush-hose/"},
+        {name:"Master Airbrush Compressor", url:"/go/master-compressor/"},
+        {name:"Quick-Disconnect Fittings", url:"/go/quick-disconnect/"}
+      ],
+      tip:"Always troubleshoot from the source outward: compressor first, then hose, then airbrush connection, then the airbrush itself. This eliminates variables systematically."
+    },
+
+    dx_noflow_weakair: {
+      title:"Weak Air Pressure",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"Weak air usually means a <strong>leak in the air path</strong>, a failing compressor, or a restriction. The airbrush needs consistent pressure to push paint through.",
+      steps:[
+        "Check for <strong>hose leaks</strong> — listen for hissing along the entire length, especially at connection points.",
+        "Tighten all fittings and wrap threads with <strong>PTFE tape</strong>.",
+        "Check your regulator is set correctly and the gauge is reading properly.",
+        "If the compressor motor runs constantly and never builds pressure, the <strong>compressor may be failing</strong> or its internal seals are worn."
+      ],
+      products:[
+        {name:"PTFE Teflon Tape", url:"/go/ptfe-tape/"},
+        {name:"Replacement Airbrush Hose", url:"/go/airbrush-hose/"},
+        {name:"Inline Moisture Trap + Regulator", url:"/go/regulator-trap/"}
+      ],
+      tip:"A cheap braided hose will lose pressure over time as it degrades. Investing in a quality reinforced hose with proper quick-disconnect fittings will save you headaches for years."
+    },
+
+    dx_noflow_clog: {
+      title:"Nozzle Clog — No Paint Reaching the Tip",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Air flows but no paint means the paint channel is <strong>blocked between the cup and the nozzle</strong>. Dried paint, pigment chunks, or debris is preventing flow.",
+      steps:[
+        "<strong>Backflush:</strong> Cover the nozzle opening with a finger or cloth and press the trigger — this forces air back through the paint channel, loosening debris.",
+        "Remove the needle and clean it with a cloth dampened with airbrush cleaner.",
+        "Remove the nozzle and soak it in cleaner for 10 minutes. Clear it with a <strong>nozzle reamer</strong> or interdental brush.",
+        "Strain your paint through a <strong>fine mesh paint strainer</strong> before loading — this catches pigment clumps.",
+        "Reassemble and test with clean water first."
+      ],
+      products:[
+        {name:"Iwata Medea Airbrush Cleaner", url:"/go/iwata-cleaner/"},
+        {name:"Fine Mesh Paint Strainers", url:"/go/paint-strainers/"},
+        {name:"Nozzle Reamer Set", url:"/go/nozzle-reamer/"},
+        {name:"Micro Cleaning Brushes", url:"/go/micro-brushes/"}
+      ],
+      tip:"Always strain metallic and heavily pigmented paints before use — their larger particles are the #1 cause of sudden nozzle clogs, especially in 0.2mm and smaller nozzles."
+    },
+
+    dx_noflow_needle: {
+      title:"Needle Not Seated Properly",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"The needle isn't pushed fully forward into the nozzle, so there's <strong>no seal</strong> between them. When you pull the trigger back, nothing changes because the needle was already retracted.",
+      steps:[
+        "<strong>Loosen the needle chuck nut</strong> (at the back of the airbrush).",
+        "Gently push the needle all the way forward until you feel slight resistance as it seats into the nozzle.",
+        "Re-tighten the chuck nut while holding the needle in position.",
+        "Test — you should now see paint flow when you pull the trigger back."
+      ],
+      products:[],
+      tip:"If the needle keeps sliding back, the chuck nut may be stripped or the spring behind it is weak. Check both. A loose needle chuck is a common issue on budget airbrushes."
+    },
+
+    /* ── AIR LEAK ── */
+    dx_leak_head: {
+      title:"Air Leak at Nozzle / Head Assembly",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"Air escaping at the front means the <strong>head seal (O-ring) between the nozzle and body is damaged or missing</strong>, or the nozzle itself is cracked.",
+      steps:[
+        "Tighten the air cap / head assembly <strong>finger-tight</strong>. Don't use pliers — you'll crack the nozzle.",
+        "Remove the nozzle and inspect the <strong>head seal (O-ring)</strong>. Replace if compressed, cracked, or missing.",
+        "Inspect the nozzle for <strong>hairline cracks</strong> — a split nozzle will always leak. Replace if damaged.",
+        "If using thread-mounted nozzles, you can apply a tiny amount of <strong>airbrush-safe thread sealant</strong>, but never on self-centering nozzles."
+      ],
+      products:[
+        {name:"Airbrush O-Ring Kit (Universal)", url:"/go/oring-kit/"},
+        {name:"Iwata Nozzle Replacement", url:"/go/iwata-nozzle/"},
+        {name:"H&S Nozzle Replacement", url:"/go/hs-nozzle/"}
+      ],
+      tip:"H&S airbrushes use a self-centering nozzle system — no thread seal needed. Iwata nozzles are threaded and fragile — always use the nozzle wrench, never your fingers or pliers."
+    },
+
+    dx_leak_hose: {
+      title:"Air Leak at Hose Connection",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"A hissing sound at the hose fitting means the <strong>threads aren't sealed properly</strong>. This is the simplest leak to fix.",
+      steps:[
+        "Disconnect the hose from the airbrush.",
+        "Wrap the <strong>male thread</strong> (the part that screws in) with 3–4 wraps of <strong>PTFE Teflon tape</strong>, winding in the direction of the thread.",
+        "Reconnect and hand-tighten firmly.",
+        "If your airbrush uses a <strong>quick-disconnect</strong>, check the O-ring inside the coupler and replace if worn."
+      ],
+      products:[
+        {name:"PTFE Teflon Tape", url:"/go/ptfe-tape/"},
+        {name:"Quick-Disconnect Couplers", url:"/go/quick-disconnect/"},
+        {name:"Airbrush Hose Adapter Set", url:"/go/hose-adapters/"}
+      ],
+      tip:"Upgrading to a quality quick-disconnect system eliminates hose-connection leaks permanently and makes switching airbrushes effortless. Highly recommended for anyone using multiple airbrushes."
+    },
+
+    dx_leak_valve: {
+      title:"Air Valve Seal Failure",
+      severity:"hard", severityLabel:"Internal Repair",
+      cause:"Air escaping from the trigger area when released means the <strong>internal air valve isn't fully closing</strong>. This is usually caused by a worn O-ring, swollen seal (from solvent exposure), or a loose valve guide screw.",
+      steps:[
+        "First try tightening the <strong>air valve guide screw</strong> (small screw at the bottom or rear of the valve area). This compresses the spring more and may restore full closure.",
+        "If that fails, <strong>disassemble the air valve</strong> — remove the guide screw, spring, piston, and O-ring. Be very careful, parts are tiny.",
+        "Inspect the O-ring / seal for swelling or damage. If you've used lacquer thinner near the valve, the rubber likely swelled.",
+        "Replace the O-ring, apply a small drop of <strong>airbrush lube</strong> on the valve piston, and reassemble.",
+        "If the seal swelled from solvents, letting it air-dry for 24–48 hours may restore its shape. If not, replace it."
+      ],
+      products:[
+        {name:"Iwata Airbrush Lube", url:"/go/iwata-lube/"},
+        {name:"Airbrush O-Ring Kit", url:"/go/oring-kit/"},
+        {name:"Airbrush Valve Repair Kit", url:"/go/valve-repair/"}
+      ],
+      tip:"Never pull the needle out of the back while there's still paint in the airbrush — paint will seep through the needle bearing into the valve area and contaminate the seals. Always flush clean first."
+    },
+
+    dx_leak_general: {
+      title:"General Air Leak — Systematic Check",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"When you can't pinpoint the leak, it's best to <strong>check each seal point systematically</strong> from the compressor forward.",
+      steps:[
+        "<strong>Submerge test:</strong> With the airbrush connected and air flowing, hold the front end (air cap area) underwater. Bubbles pinpoint the exact leak location.",
+        "Check the <strong>hose connections</strong> — apply soapy water to fittings and watch for bubbles.",
+        "Tighten the <strong>head / air cap assembly</strong>. Check nozzle O-ring.",
+        "If leaking is around the trigger, see the Air Valve Seal steps.",
+        "Wrap any threaded connections with <strong>PTFE tape</strong>."
+      ],
+      products:[
+        {name:"PTFE Teflon Tape", url:"/go/ptfe-tape/"},
+        {name:"Airbrush O-Ring Kit", url:"/go/oring-kit/"},
+        {name:"Iwata Airbrush Lube", url:"/go/iwata-lube/"}
+      ],
+      tip:"The soapy water / submersion test is the quickest way to find any leak. Professional techs use this method because it's foolproof — bubbles don't lie."
+    },
+
+    /* ── CLOGGING ── */
+    dx_clog_tipdry: {
+      title:"Tip Dry — Paint Drying on Needle Tip",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"This is the <strong>most common airbrush problem</strong>. Water-based acrylics dry rapidly at the needle tip where paint meets air, creating a progressively worsening restriction.",
+      steps:[
+        "Wipe the needle tip with a <strong>cleaner-dampened brush or cloth</strong> every few minutes while painting.",
+        "Add <strong>2–3 drops of retarder or flow improver</strong> per cup-load of paint to slow drying.",
+        "Use a <strong>cutaway crown cap</strong> if your airbrush supports one — allows cleaning without disassembly.",
+        "Consider <strong>Needle Juice or similar tip-dry preventer</strong> applied directly to the needle.",
+        "Increase air pressure slightly — more airflow keeps the tip drier."
+      ],
+      products:[
+        {name:"Createx 4030 Retarder", url:"/go/createx-retarder/"},
+        {name:"Vallejo Flow Improver", url:"/go/vallejo-flow/"},
+        {name:"Needle Juice Tip Dry Preventer", url:"/go/needle-juice/"},
+        {name:"H&S Crown Cap (Cutaway)", url:"/go/hs-crown-cap/"}
+      ],
+      tip:"Tip dry is a constant battle with water-based acrylics — it's normal, not a defect. The pros deal with it by adding retarder to every paint mix and keeping a moist brush nearby for quick tip wipes between passes."
+    },
+
+    dx_clog_acrylic: {
+      title:"Acrylic Paint Clogging",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Water-based acrylics clog when they're <strong>under-thinned, contain pigment clumps, or dry inside the nozzle</strong>. Some colors (metallics, whites) are particularly prone.",
+      steps:[
+        "Thin your paint to <strong>skim-milk consistency</strong> using the manufacturer's recommended reducer.",
+        "<strong>Strain all paint</strong> through a fine mesh filter before loading — especially metallics and heavily pigmented colors.",
+        "Add <strong>flow improver (2–3 drops per cup)</strong> to prevent drying in the paint channel.",
+        "If clogged now: <strong>backflush</strong> (cover nozzle, trigger air), then soak nozzle in cleaner for 10 minutes.",
+        "For 0.2mm nozzles and smaller, thin paint more aggressively — these nozzles demand properly strained, well-thinned paint."
+      ],
+      products:[
+        {name:"Createx 4012 Reducer", url:"/go/createx-reducer/"},
+        {name:"Fine Mesh Paint Strainers", url:"/go/paint-strainers/"},
+        {name:"Createx 4030 Retarder", url:"/go/createx-retarder/"},
+        {name:"Master Cleaning Kit", url:"/go/cleaning-kit/"}
+      ],
+      tip:"White and metallic paints have the largest pigment particles and clog the most. Always strain them, thin them slightly more than other colors, and increase PSI by 3–5 when spraying them."
+    },
+
+    dx_clog_solvent: {
+      title:"Solvent / Lacquer Paint Clogging",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"Solvent-based paints dry extremely fast and can <strong>cure inside the nozzle</strong> if left even briefly. Lacquer especially can harden into a near-permanent blockage.",
+      steps:[
+        "Soak the nozzle in <strong>lacquer thinner</strong> for 15–30 minutes (remove from airbrush first).",
+        "Use a <strong>nozzle reamer</strong> to carefully clear the passage. Never use metal tools directly on the nozzle seat.",
+        "Clean the entire paint channel with solvent-soaked pipe cleaners.",
+        "When spraying solvent paints: <strong>never leave paint sitting</strong> in the airbrush. Flush immediately between colors and after each session.",
+        "Use the correct thinner for your paint brand (e.g., Tamiya X-20A for Tamiya acrylics, Mr. Color Leveling Thinner for Mr. Color)."
+      ],
+      products:[
+        {name:"Mr. Color Leveling Thinner", url:"/go/mr-leveling-thinner/"},
+        {name:"Tamiya X-20A Thinner", url:"/go/tamiya-thinner/"},
+        {name:"Nozzle Reamer Set", url:"/go/nozzle-reamer/"},
+        {name:"Airbrush Cleaning Pot", url:"/go/cleaning-pot/"}
+      ],
+      tip:"With lacquer-based paints, speed is everything. Never step away from your airbrush with paint loaded. Even 5 minutes can start a clog in the nozzle. Always spray a shot of thinner through the brush when taking any break."
+    },
+
+    dx_clog_urethane: {
+      title:"Urethane / Automotive Paint Clogging",
+      severity:"hard", severityLabel:"May Need Deep Clean",
+      cause:"Urethane paints chemically <strong>cure and harden permanently</strong> once catalyzed. A urethane clog that has set is nearly impossible to dissolve and may require nozzle replacement.",
+      steps:[
+        "If the paint hasn't fully cured yet, <strong>flush immediately</strong> with the paint manufacturer's reducer or recommended cleaner.",
+        "For set urethane: try soaking in <strong>automotive lacquer thinner or acetone</strong> for 1–2 hours. This may soften it enough to clear.",
+        "If still blocked, the nozzle will likely need to be <strong>replaced</strong>. Cured urethane is nearly impervious to solvents.",
+        "Prevention is critical: <strong>never mix more catalyzed paint than you'll use</strong> in the pot life window, and flush the airbrush immediately after spraying."
+      ],
+      products:[
+        {name:"Nozzle Replacement Set", url:"/go/iwata-nozzle/"},
+        {name:"Airbrush Cleaning Pot", url:"/go/cleaning-pot/"},
+        {name:"Auto-Air Cleaner", url:"/go/autoair-cleaner/"}
+      ],
+      tip:"With catalyzed urethanes, work fast and clean faster. The pot life clock starts the moment you mix catalyst, and that clock applies to paint inside your airbrush too. Always have your cleaning supplies set up BEFORE you mix the paint."
+    },
+
+    dx_clog_general: {
+      title:"General Clogging — Full Cleaning Protocol",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"Without knowing your paint type, the safest approach is a <strong>thorough cleaning procedure</strong> that works for most situations.",
+      steps:[
+        "Empty the paint cup and flush with <strong>appropriate cleaner</strong> (water + cleaner for acrylics, thinner for solvents).",
+        "<strong>Backflush 3–4 times:</strong> Cover the nozzle opening, press the trigger — this forces cleaner backward through the system.",
+        "Remove the needle, wipe it clean. Remove the nozzle and soak in cleaner for 15 minutes.",
+        "Use <strong>micro brushes</strong> to clean inside the nozzle and paint channel.",
+        "Reassemble and flush with clean water or thinner until it runs perfectly clear.",
+        "Strain your paint before reloading and thin to skim-milk consistency."
+      ],
+      products:[
+        {name:"Iwata Medea Airbrush Cleaner", url:"/go/iwata-cleaner/"},
+        {name:"Master Airbrush Cleaning Kit", url:"/go/cleaning-kit/"},
+        {name:"Fine Mesh Paint Strainers", url:"/go/paint-strainers/"},
+        {name:"Nozzle Reamer Set", url:"/go/nozzle-reamer/"}
+      ],
+      tip:"A cleaning pot (spray-out pot) is one of the best investments for any airbrush setup. It lets you flush cleaner through the brush without spraying into open air, keeping your workspace clean and making between-color cleans fast."
+    },
+
+    /* ── BUBBLING ── */
+    dx_bubble_seal: {
+      title:"Air Leak Into Paint Cup — Seal Problem",
+      severity:"medium", severityLabel:"Moderate Fix",
+      cause:"Bubbles forming in your paint cup mean <strong>air is pushing backward into the paint reservoir</strong> instead of forward through the nozzle. This is typically a cracked nozzle or failed head seal.",
+      steps:[
+        "Remove the nozzle and inspect for <strong>hairline cracks</strong>. Even a tiny split allows air to escape backward. If cracked, replace immediately.",
+        "Check the <strong>nozzle O-ring / head seal</strong>. Replace if worn or missing.",
+        "Ensure the air cap is <strong>tightened properly</strong> — a loose air cap allows air to redirect into the cup.",
+        "If the nozzle is threaded (Iwata-style), make sure it's snug but not overtightened — overtightening can crack it."
+      ],
+      products:[
+        {name:"Replacement Nozzle", url:"/go/iwata-nozzle/"},
+        {name:"Airbrush O-Ring Kit", url:"/go/oring-kit/"},
+        {name:"Iwata Nozzle Wrench", url:"/go/iwata-wrench/"}
+      ],
+      tip:"Bubbling in the cup is ALWAYS a seal failure at the nozzle area — don't ignore it. It won't fix itself, and it will worsen. The good news: a new nozzle or O-ring is cheap and solves it instantly."
+    },
+
+    dx_bubble_nozzle: {
+      title:"Nozzle Crack or Loose Air Cap",
+      severity:"medium", severityLabel:"Part May Need Replacing",
+      cause:"Bubbles only during paint flow suggest the <strong>air cap isn't seated correctly</strong> or the nozzle has a micro-crack that only opens under the stress of paint flow.",
+      steps:[
+        "Remove and re-seat the <strong>air cap assembly</strong>. Clean the mating surfaces and tighten snugly.",
+        "Inspect the nozzle under magnification for <strong>cracks or chips</strong>.",
+        "Try a <strong>replacement nozzle</strong> — if bubbling stops, the old one was cracked.",
+        "Check that you're not overtightening the nozzle. Tighten with the wrench until just snug."
+      ],
+      products:[
+        {name:"Replacement Nozzle Set", url:"/go/iwata-nozzle/"},
+        {name:"Iwata Nozzle Wrench", url:"/go/iwata-wrench/"}
+      ],
+      tip:"Keep a spare nozzle in your kit — it's the fastest way to diagnose whether bubbling is caused by a cracked nozzle. Swap it in, and if bubbling stops, you've found your culprit."
+    },
+
+    /* ── TRIGGER ── */
+    dx_trigger_stuck: {
+      title:"Trigger Won't Press Down — Seized Air Valve",
+      severity:"hard", severityLabel:"Internal Repair",
+      cause:"If the trigger won't depress at all, the <strong>air valve piston is seized</strong> — usually from dried paint or swollen seals caused by solvent exposure.",
+      steps:[
+        "Try applying a drop of <strong>airbrush lube</strong> around the trigger pin and working it gently back and forth.",
+        "If that fails, <strong>disassemble the air valve</strong>: remove the guide screw, spring, and piston. Handle tiny parts over a towel.",
+        "Clean all valve components with appropriate cleaner. Inspect the O-ring — if swollen from solvent, let it air-dry 24–48 hours or replace.",
+        "Lubricate the piston with airbrush lube, reassemble, and test."
+      ],
+      products:[
+        {name:"Iwata Super Lube", url:"/go/iwata-lube/"},
+        {name:"Airbrush O-Ring Kit", url:"/go/oring-kit/"}
+      ],
+      tip:"The #1 cause of seized valves is solvent getting into the valve chamber. Always be careful when cleaning with lacquer thinner — keep it in the paint channel and out of the valve area."
+    },
+
+    dx_trigger_gritty: {
+      title:"Gritty / Rough Trigger Pull-Back",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Resistance when pulling the trigger back means the <strong>needle is dragging</strong> — usually from dried paint in the needle bearing or a lack of lubrication.",
+      steps:[
+        "Remove the needle from the back of the airbrush.",
+        "Clean the needle thoroughly — wipe with a <strong>cleaner-dampened cloth</strong> from back to tip.",
+        "Clean inside the needle passage / bearing with a <strong>pipe cleaner</strong> soaked in cleaner.",
+        "Apply a small drop of <strong>airbrush lube</strong> to the needle before reinserting.",
+        "Reinsert gently and test — the pull-back should now feel smooth."
+      ],
+      products:[
+        {name:"Iwata Super Lube", url:"/go/iwata-lube/"},
+        {name:"Micro Pipe Cleaners", url:"/go/pipe-cleaners/"},
+        {name:"Master Cleaning Kit", url:"/go/cleaning-kit/"}
+      ],
+      tip:"A tiny drop of airbrush lube on the needle before each session makes a noticeable difference in trigger feel. Don't over-lubricate though — excess lube can mix with your paint."
+    },
+
+    dx_trigger_spring: {
+      title:"Weak or Broken Trigger Spring",
+      severity:"medium", severityLabel:"Part Replacement",
+      cause:"If the trigger pulls back fine but <strong>doesn't spring back to the closed position</strong>, the needle return spring is likely weak, broken, or not properly seated.",
+      steps:[
+        "Remove the back handle of the airbrush to access the <strong>needle spring and chuck assembly</strong>.",
+        "Inspect the spring — is it intact, properly seated, and under tension?",
+        "If the spring looks compressed or deformed, <strong>replace it</strong>. These are inexpensive, brand-specific parts.",
+        "While open, also check the <strong>needle chuck nut</strong> — if too tight, it creates friction that overpowers the spring."
+      ],
+      products:[
+        {name:"Airbrush Spring Replacement Kit", url:"/go/spring-kit/"},
+        {name:"Iwata Replacement Parts", url:"/go/iwata-parts/"}
+      ],
+      tip:"When the spring stops returning the trigger, paint continues flowing uncontrolled, which can ruin your work. If you notice the trigger getting sluggish, address it before it fails completely."
+    },
+
+    dx_trigger_leakpaint: {
+      title:"Paint Flowing Without Trigger Pull-Back",
+      severity:"easy", severityLabel:"Easy Fix",
+      cause:"Paint dripping or spraying without pulling the trigger back means the <strong>needle isn't fully seated in the nozzle</strong>. There's a gap allowing paint to escape constantly.",
+      steps:[
+        "Loosen the <strong>needle chuck nut</strong> at the rear of the airbrush.",
+        "Gently push the needle forward until you feel it <strong>seat snugly into the nozzle</strong>.",
+        "Retighten the chuck nut while holding the needle in the forward position.",
+        "If paint still leaks, the <strong>nozzle may be worn or the needle tip damaged</strong> — a worn nozzle/needle combo loses its seal over time. Replace both."
+      ],
+      products:[
+        {name:"Needle + Nozzle Replacement Set", url:"/go/badger-needle-nozzle/"},
+        {name:"Iwata Nozzle + Needle", url:"/go/iwata-nozzle/"}
+      ],
+      tip:"Always replace needle and nozzle as a matched pair. A new needle in an old worn nozzle (or vice versa) won't seal properly and you'll end up with this same issue."
+    }
+  };
+
+  /* ═══════════════════════════════════════
+     STATE
+  ═══════════════════════════════════════ */
+  let history = [];
+  let breadcrumbLabels = [];
+
+  /* ═══════════════════════════════════════
+     RENDERING
+  ═══════════════════════════════════════ */
+  function renderNode(nodeKey, dir) {
+    const node = TREE[nodeKey];
+    const stage = document.getElementById('abtStage');
+    const old = stage.querySelector('.abt-active');
+
+    const card = document.createElement('div');
+    card.className = 'abt-card';
+    if(dir === 'back') card.style.transform = 'translateX(-60px) scale(0.96)';
+
+    let optHTML = '';
+    if(node.layout === 'grid') {
+      optHTML = `<div class="abt-options-grid">${node.options.map((o,i)=>`
+        <div class="abt-opt abt-opt-tile" data-i="${i}" onclick="abtPick('${nodeKey}',${i})">
+          <div class="abt-opt-emoji">${o.emoji||'🔧'}</div>
+          <div class="abt-opt-label">${o.label}</div>
+        </div>
+      `).join('')}</div>`;
+    } else {
+      optHTML = `<div class="abt-options">${node.options.map((o,i)=>`
+        <div class="abt-opt" data-i="${i}" onclick="abtPick('${nodeKey}',${i})">
+          <div class="abt-opt-radio"><div class="abt-opt-radio-dot"></div></div>
+          <div>
+            <div class="abt-opt-label">${o.label}</div>
+            ${o.desc?`<div class="abt-opt-desc">${o.desc}</div>`:''}
+          </div>
+        </div>
+      `).join('')}</div>`;
+    }
+
+    card.innerHTML = `
+      <div class="abt-q-badge">
+        <div class="abt-q-badge-dot"></div>
+        Diagnosing${history.length > 0 ? ' · Step '+(history.length+1) : ''}
+      </div>
+      <div class="abt-q-text">${node.question}</div>
+      ${optHTML}
+    `;
+
+    stage.appendChild(card);
+    requestAnimationFrame(()=>{
+      if(old) {
+        old.classList.remove('abt-active');
+        if(dir==='back') { old.style.transform='translateX(60px) scale(0.96)'; old.style.opacity='0'; }
+        else old.classList.add('abt-exit-left');
+        setTimeout(()=>old.remove(),500);
+      }
+      requestAnimationFrame(()=>card.classList.add('abt-active'));
+    });
+
+    document.getElementById('abtBack').disabled = (history.length === 0);
+    renderBreadcrumbs();
+  }
+
+  function renderBreadcrumbs() {
+    const wrap = document.getElementById('abtBreadcrumbs');
+    if(breadcrumbLabels.length === 0) { wrap.innerHTML='<span class="abt-crumb abt-crumb-active">Start</span>'; return; }
+    let html = '';
+    breadcrumbLabels.forEach((label, i) => {
+      if(i > 0) html += '<span class="abt-crumb-arrow">›</span>';
+      const isLast = i === breadcrumbLabels.length - 1;
+      html += `<span class="abt-crumb${isLast?' abt-crumb-active':''}">${label}</span>`;
+    });
+    wrap.innerHTML = html;
+  }
+
+  /* ═══════════════════════════════════════
+     INTERACTIONS
+  ═══════════════════════════════════════ */
+  window.abtPick = function(nodeKey, optIdx) {
+    const node = TREE[nodeKey];
+    const opt = node.options[optIdx];
+
+    // Animate selection
+    const stage = document.getElementById('abtStage');
+    const activeCard = stage.querySelector('.abt-active');
+    if(activeCard) {
+      const allOpts = activeCard.querySelectorAll('.abt-opt');
+      allOpts.forEach(o=>o.classList.remove('abt-selected'));
+      allOpts[optIdx].classList.add('abt-selected');
+    }
+
+    history.push({ nodeKey, optIdx });
+    breadcrumbLabels.push(opt.label.length > 20 ? opt.label.substring(0,18)+'…' : opt.label);
+
+    setTimeout(()=>{
+      if(opt.next.startsWith('dx_')) {
+        showDiagnosis(opt.next);
+      } else {
+        renderNode(opt.next, 'forward');
+      }
+    }, 350);
+  };
+
+  window.abtGoBack = function() {
+    if(history.length === 0) return;
+    const prev = history.pop();
+    breadcrumbLabels.pop();
+    renderNode(prev.nodeKey, 'back');
+  };
+
+  window.abtStart = function() {
+    document.getElementById('abtIntro').style.display = 'none';
+    document.getElementById('abtBody').style.display = 'block';
+    history = [];
+    breadcrumbLabels = [];
+    renderNode('root','forward');
+  };
+
+  window.abtRetake = function() {
+    history = [];
+    breadcrumbLabels = [];
+    document.getElementById('abtResults').classList.remove('abt-show');
+    document.getElementById('abtResults').style.display = 'none';
+    document.getElementById('abtLoading').classList.remove('abt-show');
+    document.getElementById('abtBody').style.display = 'none';
+    document.getElementById('abtIntro').style.display = 'block';
+  };
+
+  /* ═══════════════════════════════════════
+     SHOW DIAGNOSIS
+  ═══════════════════════════════════════ */
+  function showDiagnosis(dxKey) {
+    document.getElementById('abtBody').style.display = 'none';
+    const loading = document.getElementById('abtLoading');
+    loading.classList.add('abt-show');
+
+    setTimeout(()=>{
+      loading.classList.remove('abt-show');
+      const dx = DIAGNOSES[dxKey];
+      if(!dx) return;
+      const container = document.getElementById('abtResults');
+
+      const sevClass = dx.severity==='easy'?'abt-sev-easy':dx.severity==='medium'?'abt-sev-medium':'abt-sev-hard';
+      const sevEmoji = dx.severity==='easy'?'🟢':dx.severity==='medium'?'🟡':'🔴';
+
+      const arrowSVG = '<svg viewBox="0 0 16 16" fill="none"><path d="M4 12l8-8M4 4h8v8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+      container.innerHTML = `
+        <div class="abt-header">
+          <div class="abt-header-icon">
+            <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F4671A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+          </div>
+          <h2 class="abt-title">Diagnosis <span class="abt-title-accent">Complete</span></h2>
+        </div>
+
+        <div class="abt-diag-card">
+          <div class="abt-severity ${sevClass}">${sevEmoji} ${dx.severityLabel}</div>
+          <div class="abt-diag-body">
+            <div class="abt-diag-title">${dx.title}</div>
+            <div class="abt-diag-cause">${dx.cause}</div>
+            <div class="abt-steps">
+              ${dx.steps.map((s,i)=>`
+                <div class="abt-step">
+                  <div class="abt-step-num">${i+1}</div>
+                  <div class="abt-step-text">${s}</div>
+                </div>
+              `).join('')}
+            </div>
+            ${dx.products.length > 0 ? `
+              <div class="abt-products-label">🛒 Recommended Products</div>
+              <div class="abt-product-links">
+                ${dx.products.map(p=>`<a class="abt-product-link" href="${p.url}">${p.name} ${arrowSVG}</a>`).join('')}
+              </div>
+            ` : ''}
+            ${dx.tip ? `<div class="abt-protip"><strong>💡 Pro Tip:</strong> ${dx.tip}</div>` : ''}
+          </div>
+        </div>
+
+        <div class="abt-notfixed">
+          <div class="abt-notfixed-title">Still not fixed?</div>
+          <div class="abt-notfixed-text">Some problems have multiple causes. Try the wizard again with different answers, or check our full troubleshooting guide for advanced diagnostics.</div>
+          <button class="abt-btn abt-btn-back" onclick="abtRetake()" style="margin-right:8px;">↻ Try Again</button>
+          <a class="abt-btn abt-btn-primary" href="/airbrush-troubleshooting-guide/" style="text-decoration:none;">Full Guide</a>
+        </div>
+
+        <div class="abt-cta-section">
+          <a class="abt-cta-link" href="/best-airbrush-for-beginners/">
+            Browse Airbrush Reviews
+            <svg width="18" height="18" viewBox="0 0 16 16" fill="none"><path d="M6 3l5 5-5 5" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+          <br>
+          <button class="abt-retake" onclick="abtRetake()">↻ Diagnose Another Problem</button>
+        </div>
+      `;
+
+      container.style.display = 'block';
+      requestAnimationFrame(()=>container.classList.add('abt-show'));
+    },1100);
+  }
+
+})();
+</script>

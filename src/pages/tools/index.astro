@@ -1,0 +1,68 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const tools = [
+  {
+    slug: 'airbrush-quiz',
+    icon: '🎯',
+    name: 'Airbrush Finder Quiz',
+    desc: 'Answer 6 questions and get matched with the right airbrush for your style, surface, and budget.',
+    time: '3 min',
+  },
+  {
+    slug: 'troubleshooter',
+    icon: '🔧',
+    name: 'Airbrush Troubleshooter',
+    desc: 'Diagnose spitting, clogging, uneven spray, and other common airbrush problems step by step.',
+    time: '2 min',
+  },
+  {
+    slug: 'paint-selector',
+    icon: '🎨',
+    name: 'Paint Selector',
+    desc: 'Find the right paint type for your surface, finish, and application — airbrush-ready formulas only.',
+    time: '2 min',
+  },
+  {
+    slug: 'compare',
+    icon: '⚖️',
+    name: 'Compare Airbrushes',
+    desc: 'Side-by-side specs comparison of popular airbrush models to make the buying decision easier.',
+    time: '5 min',
+  },
+];
+---
+<BaseLayout title="Interactive Tools | AirbrushDOC" description="Free interactive airbrush tools — find the right airbrush, diagnose problems, compare models, and choose paint.">
+  <main class="abd-container">
+    <div class="blg-page-header">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>Tools</span>
+      </nav>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title">Interactive <span class="blg-page-title-accent">Tools</span></h1>
+        <span class="blg-post-count">{tools.length} tools</span>
+      </div>
+      <div class="blg-header-line"></div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; padding: 32px 0 80px;">
+      {tools.map(t => (
+        <a href={`/tools/${t.slug}/`} class="abd-tool-card" style="padding: 28px 24px; gap: 16px;">
+          <div style="font-size: 2rem;">{t.icon}</div>
+          <div>
+            <div class="abd-tool-name" style="font-size: 1.1rem; margin-bottom: 8px;">{t.name}</div>
+            <p class="abd-tool-desc" style="font-size: 0.88rem; line-height: 1.6;">{t.desc}</p>
+          </div>
+          <div style="margin-top: auto; font-size: 0.75rem; color: var(--abd-text-muted); display: flex; align-items: center; gap: 6px;">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+            </svg>
+            {t.time}
+          </div>
+        </a>
+      ))}
+    </div>
+  </main>
+</BaseLayout>
