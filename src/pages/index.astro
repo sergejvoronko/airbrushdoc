@@ -43,14 +43,16 @@ const features = [
     <div class="abd-hero-full-bg" style="background-image: url('/images/airbrushdoc.webp');"></div>
     <div class="abd-hero-full-overlay"></div>
     <div class="abd-hero-full-content">
-      <div class="abd-hero-eyebrow">✦ Trusted by 5,000+ airbrush artists since 2010</div>
-      <h1 class="abd-hero-full-title">
-        Master Airbrush Art<br /><span class="abd-hero-title-accent">From Beginner to Pro</span>
-      </h1>
-      <p class="abd-hero-full-subtitle">
-        Expert equipment reviews, step-by-step tutorials, and free stencils to level up your airbrush game — whatever your skill level or budget.
-      </p>
-      <div class="abd-hero-cta">
+      <div class="abd-hero-left">
+        <div class="abd-hero-eyebrow">✦ Trusted by 5,000+ airbrush artists since 2010</div>
+        <h1 class="abd-hero-full-title">
+          Master Airbrush Art<br /><span class="abd-hero-title-accent">From Beginner to Pro</span>
+        </h1>
+        <p class="abd-hero-full-subtitle">
+          Expert equipment reviews, step-by-step tutorials, and free stencils to level up your airbrush game — whatever your skill level or budget.
+        </p>
+      </div>
+      <div class="abd-hero-right">
         <a href="/blog/" class="abd-btn-primary">Browse Articles</a>
         <a href="/tools/airbrush-quiz/" class="abd-btn-ghost" style="border-color: rgba(255,255,255,0.3); color: #fff;">Find Your Airbrush →</a>
       </div>
@@ -274,23 +276,32 @@ const features = [
 }
 .abd-hero-full-content {
   position: relative; z-index: 1;
-  max-width: 720px; margin: 0 auto;
-  padding: 80px 24px;
-  text-align: center;
+  max-width: var(--abd-max-w); width: 100%;
+  padding: 80px 32px;
+  display: flex; align-items: center;
+  justify-content: space-between; gap: 48px;
+}
+.abd-hero-left {
+  flex: 1; min-width: 0;
+}
+.abd-hero-right {
+  flex-shrink: 0;
+  display: flex; flex-direction: column;
+  align-items: flex-end; gap: 16px;
 }
 .abd-hero-full-title {
   font-family: var(--abd-font-display);
-  font-size: clamp(2.2rem, 6vw, 4rem);
+  font-size: clamp(2.2rem, 5vw, 3.6rem);
   font-weight: 800; color: #fff;
   line-height: 1.1; letter-spacing: -0.02em;
   margin-bottom: 20px;
   text-shadow: 0 2px 20px rgba(0,0,0,0.5);
 }
 .abd-hero-full-subtitle {
-  font-size: clamp(1rem, 2vw, 1.15rem);
+  font-size: clamp(0.95rem, 1.8vw, 1.1rem);
   color: rgba(255,255,255,0.8);
-  line-height: 1.7; margin-bottom: 32px;
-  max-width: 580px; margin-left: auto; margin-right: auto;
+  line-height: 1.7;
+  max-width: 520px;
 }
 .abd-hero-full .abd-hero-eyebrow {
   margin-bottom: 20px;
@@ -298,7 +309,6 @@ const features = [
   border-color: rgba(244,103,26,0.3);
   color: #FF8A3D;
 }
-.abd-hero-full .abd-hero-cta { justify-content: center; }
 
 /* ═══ STATS STRIP ═══ */
 .abd-stats-strip {
@@ -420,6 +430,10 @@ const features = [
 }
 .abd-testi-name { font-weight: 600; color: var(--abd-text); font-size: 0.88rem; }
 
+@media (max-width: 768px) {
+  .abd-hero-full-content { flex-direction: column; align-items: flex-start; gap: 32px; padding: 60px 24px; }
+  .abd-hero-right { align-items: flex-start; flex-direction: row; flex-wrap: wrap; }
+}
 @media (max-width: 560px) {
   .abd-hero-full { min-height: 440px; }
   .abd-features-grid { grid-template-columns: 1fr 1fr; }
