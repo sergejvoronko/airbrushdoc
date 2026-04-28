@@ -396,10 +396,10 @@ img { max-width: 100%; height: auto; display: block; }
    SINGLE POST — LAYOUT
 ================================================================ */
 .abd-post-wrap {
-  max-width: var(--abd-wide-w);
+  max-width: var(--abd-max-w);
   margin: 0 auto; padding: 36px 24px;
   display: grid;
-  grid-template-columns: 1fr 240px;
+  grid-template-columns: 1fr 260px;
   gap: 48px; align-items: start;
 }
 .abd-post-content { min-width: 0; }
