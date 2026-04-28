@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["air pressure switch", "how to set air pressure switch", "pressure switch", "pressure switch setting", "pressure switch wiring"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/pressure_switch1.jpg"
+heroImage: "/images/wp-uploads/pressure_switch1.webp"
 ---
 
 Just a few days ago I received a comment on [**Silent airbrush compressor**](http://www.airbrushdoc.com/tipstricks/silent-compressor/) article with a question about **air pressure switch**. The question was really reasonable because I actually never included any exact instruction on how to set up a pressure switch. I was thinking to update the article, but after a while I decided it will be better just to write another entry. The previous article was too long already and I didn't want to make it even longer, otherwise nobody will read it untill the end.

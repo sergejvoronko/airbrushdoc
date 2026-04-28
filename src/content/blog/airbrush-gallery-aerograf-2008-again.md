@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["aerograf gallery", "airbrush auto", "airbrush car", "airbrush gallery", "airbrush photo", "car art", "car exhibition", "car gallery", "inspiration", "russian airbrush"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/DSC00499.jpg"
+heroImage: "/images/wp-uploads/DSC00499.webp"
 ---
 
 Well yes, again! Why? If you follow my site you know that I have posted a gallery from this Russian exhibition event for everyone who loves airbrush. Yes I'm posting the gallery again but this time there is more. More pictures, more angles, more details, better resolution and even some works that weren't there before. The gallery may take a while to load as there is 360 images...

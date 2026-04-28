@@ -6,7 +6,7 @@ category: "download"
 tags: ["airbrush fire", "airbrush fire reference", "fire reference pack", "reference for airbrush"]
 readingTime: 2
 draft: false
-heroImage: "/images/wp-uploads/fire-reference-pack.jpg"
+heroImage: "/images/wp-uploads/fire-reference-pack.webp"
 ---
 
 Many people use [reference pictures](http://www.airbrushdoc.com/download/) to make their work easier and to make final painting look more realistic.

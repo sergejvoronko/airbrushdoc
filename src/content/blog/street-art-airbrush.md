@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush", "Danemark artist", "garden-spray airbrush", "homemade airbrush", "Per Corell", "street art", "street art stencils"]
 readingTime: 6
 draft: false
-heroImage: "/images/wp-uploads/street-art-silverscreen.jpg"
+heroImage: "/images/wp-uploads/street-art-silverscreen.webp"
 ---
 
 *Not that long ago I received a message from **Danish Street Artist** name **Per Corell** who decided to share something with me and **readers of **my blog. It was a working concept of his **Street Airbrush**. He gave me a link to YouTube where I could see these videos about building a **Street Airbrush** (probably the best and cheapest you have ever seen). It is a plain garden-sprayer with a hand pump as a compressor and a cheap, one function airbrush put in instead of the garden-sprayers hose and nozzle. All in all under one hour of work and you can build such system for **under $30**.*

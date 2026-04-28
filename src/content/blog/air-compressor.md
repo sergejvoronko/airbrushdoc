@@ -6,7 +6,7 @@ category: "beginners"
 tags: ["airbrush best beginners compressor", "airbrush compressor", "airbrush gun rentals in san diego", "airbrushing", "best affordable compressor for airbrushing", "diaphragm", "homemade airbrush compressor", "iwata compressor", "iwata great white", "oil-less compressor", "paasche d500", "piston compressor", "power jet", "silent compressor", "sprint jet", "suggestions on airbrush compressor for more than one gun", "types of airbrush guns"]
 readingTime: 14
 draft: false
-heroImage: "/images/wp-uploads/yhst-80343540264639_2149_36926939.jpeg"
+heroImage: "/images/wp-uploads/yhst-80343540264639_2149_36926939.webp"
 ---
 
 So here I am again with a second part of my series that I've started recently. First part was about [***airbrush guns***](http://www.airbrushdoc.com/beginners/choose-airbrush/), where I described all the types of airbrush guns that exist out there on the market and I've brought a few professional advises that I believe could help you to choose the right airbrush gun.

@@ -6,7 +6,7 @@ category: "beginners"
 tags: ["airbrush", "airbrush acrylic", "airbrush color", "airbrush colour", "airbrush paint", "airbrush tattoo", "aquaflow", "auto air", "autoair", "candy colors", "color", "colour", "com-art", "createx", "golden artist colors", "house of kolor", "how to choose the right airbrush color", "liquitex", "medea body art", "paint", "spectra-tex", "totally tattoo", "Urethane paint", "wicked colors"]
 readingTime: 22
 draft: false
-heroImage: "/images/wp-uploads/airbrush-paints.jpg"
+heroImage: "/images/wp-uploads/airbrush-paints.webp"
 ---
 
 Let's assume that you have all the equipment that is required for [airbrushing](http://www.airbrushdoc.com). You've got [airbrush gun](http://www.airbrushdoc.com/beginners/choose-airbrush/) and [compressor](http://www.airbrushdoc.com/beginners/air-compressor/). You also know what you are going to paint and what surface are you going to paint. The only thing missing is proper paint. When you're starting out you can experiment but I think if you knew something about all the paints available on the market you could save some time and frustration as well.  This article is a compilation and consists of three parts. You don't have to read all of it, that's why I included these links:

@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["aerograf gallery", "airbrush pic", "car gallery", "russian airbrush"]
 readingTime: 1
 draft: false
-heroImage: "/images/wp-uploads/aerografpro1.jpg"
+heroImage: "/images/wp-uploads/aerografpro1.webp"
 ---
 
 Get inspired by another [**airbrush car gallery**](http://www.airbrushdoc.com/gallery/) exhibition show from our eastern friends from Russia. Enjoy :)

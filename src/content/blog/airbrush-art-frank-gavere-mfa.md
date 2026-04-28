@@ -6,7 +6,7 @@ category: "gallery"
 tags: []
 readingTime: 6
 draft: false
-heroImage: "/images/wp-uploads/Frank-Gavere-Airbrush-Art.jpg"
+heroImage: "/images/wp-uploads/Frank-Gavere-Airbrush-Art.webp"
 ---
 
 *Today I'm presenting to you an **airbrush artist** with not that usual airbrush **painting techniques**. Forget about skulls and fire for a moment, forget about getting realistic and dive into Contemporary Art. This is **Frank Gavere**, his **airbrush art** and also his story.*

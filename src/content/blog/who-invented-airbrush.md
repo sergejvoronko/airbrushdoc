@@ -6,7 +6,7 @@ category: "history"
 tags: ["abner peeler", "airbrush invention", "andy penaluna", "Liberty Walkup", "who invented airbrush"]
 readingTime: 6
 draft: false
-heroImage: "/images/wp-uploads/airbrush-invention1.jpg"
+heroImage: "/images/wp-uploads/airbrush-invention1.webp"
 ---
 
 This is my first blog post and I have no clue how to start but my first idea was to find something about the history of airbrush and post it here. When I started my search (to my surprise) I've found lots of websites about history of airbrush oriented only to history of airbrush.

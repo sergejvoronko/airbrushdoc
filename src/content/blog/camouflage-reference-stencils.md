@@ -6,7 +6,7 @@ category: "download"
 tags: ["camouflage", "camouflage reference", "digi camo", "digital camo", "digital camouflage stencils", "reference pack to download"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/Camouflage-pattern-5.jpg"
+heroImage: "/images/wp-uploads/Camouflage-pattern-5.webp"
 ---
 
 A long time ago I've prepared a **reference pack to download** with a name **Camouflage** and actually I have forgotten about it. Last week I've received an email from one subscriber named Marc. He was asking about **digital camouflage stencils**. So I jumped on that topic and decided to create a few stencils. After some time spent creating them I realized I've had **reference** material, so I decided to add that to today's article too. But what kind of article would it be if it had just pictures.

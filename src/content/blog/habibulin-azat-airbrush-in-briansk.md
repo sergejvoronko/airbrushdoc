@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["aquarium", "gallery", "mural", "wall airbrush", "wall painting"]
 readingTime: 1
 draft: false
-heroImage: "/images/wp-uploads/aquarium_03.jpg"
+heroImage: "/images/wp-uploads/aquarium_03.webp"
 ---
 
 Hello all! I didn't want to write too much about this airbrush work, but wanted to share at least the four pictures of interesting solution of a wall **airbrush painting** inside a flat.

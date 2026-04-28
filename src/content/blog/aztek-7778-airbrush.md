@@ -6,7 +6,7 @@ category: "airbrush-reviews"
 tags: ["airbrush nozzle", "airbrush review", "airbrush reviews", "aztek", "aztek 4709", "aztek 4809", "aztek 7778", "aztek review", "nozzle"]
 readingTime: 11
 draft: false
-heroImage: "/images/wp-uploads/aztek_4809.jpg"
+heroImage: "/images/wp-uploads/aztek_4809.webp"
 ---
 
 Every starting airbrush artist or scale-modeller will get to a point in his life when he has to decide which airbrush to buy. I've planed to create this category for a long time but I could never find the right moment to start it off.

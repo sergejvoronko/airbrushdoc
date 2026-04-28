@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "airbrush electric kettle", "nice motif for airbrush", "ochre color", "photorealistic shadow", "step by step airbrush", "UNREALTECH.RU"]
 readingTime: 12
 draft: false
-heroImage: "/images/wp-uploads/airbrush-story-of-love-42.jpg"
+heroImage: "/images/wp-uploads/airbrush-story-of-love-42.webp"
 ---
 
 *[UNREALTECH.RU](http://www.unrealtech.ru) is a** great airbrush website** for everyone who can read cyrillic and knows something about airbrush. Last time I've had nice chat with author and founder of that site and he gave me the permission to use his website as my source of information. As most of my visitors come from USA and other countries that understand english, I think that one more source of any useful info can have only positive impact. You may have seen some of their stuff in the post [airbrushing toilet seats](http://www.airbrushdoc.com/gallery/airbrushed-toilet-seats/). Here is another tutorial from them, so, enjoy it!*

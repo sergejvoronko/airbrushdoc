@@ -6,7 +6,7 @@ category: "airbrush-reviews"
 tags: ["AB-117", "airbrush", "airbrush review", "airbrush reviews", "Evolution Two in One", "Finespray Quick Release", "german airbrush", "harder and steenbeck", "quality airbrush"]
 readingTime: 7
 draft: false
-heroImage: "/images/wp-uploads/Harder-and-Steenback-Evolution.jpg"
+heroImage: "/images/wp-uploads/Harder-and-Steenback-Evolution.webp"
 ---
 
 Maybe you all remember that I have mentioned this **airbrush** before. I did not do a review, I just showed some tips on** [how to tweak evolution airbrush](http://www.airbrushdoc.com/tipstricks/tuning-airbrush-evolution/)**. I admit it is not that perfect and needs some more adjusting. But when I posted a review on **[Aztek 7778](http://www.airbrushdoc.com/airbrush-reviews/aztek-7778-airbrush/)** I decided to continue with more reviews. I'll start with one I have at home - **Evolution Two in One** from **Harder  and Steenbeck**.

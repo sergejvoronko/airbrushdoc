@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["air compressor made from fridge compressor", "airbrush compressor", "airbrush pressure sensor", "ccs pressure switch", "compressor tank", "diy air compressor pressure switch", "diy airbrush compressor", "how to make airbrush compressor with fridge compressor", "pressure switch", "refrigerator air compressor diy", "regulator", "silent airbrush compressor", "silent compressor"]
 readingTime: 7
 draft: false
-heroImage: "/images/wp-uploads/silent_airbrush_compressor.jpg"
+heroImage: "/images/wp-uploads/silent_airbrush_compressor.webp"
 ---
 
 I have posted an article about [silent home-made airbrush compressor](http://www.airbrushdoc.com/tipstricks/homemade-airbrush-compressor/) before. It was a free translation of article I have found at one of the resources from eastern Europe I use. Then I decided to build (diy air compressor) myself and since I have found few tips to make this compressor more comfortable to use with less maintenance effort.

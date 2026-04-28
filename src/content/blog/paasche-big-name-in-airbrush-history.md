@@ -6,7 +6,7 @@ category: "history"
 tags: ["airbrush D-D", "airbrush history", "first airbrush air eraser", "first single action airbrush", "jens andreas paasche", "jens paasche", "paasche AB", "paasche air brush catalog", "paasche airbrush", "paasche airbrush company", "paasche bulletin", "Paasche model H", "Paasche model N", "paasche patent", "single action airbrush DD"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/Jens-working-on-airbrushes-1910.jpg"
+heroImage: "/images/wp-uploads/Jens-working-on-airbrushes-1910.webp"
 ---
 
 [**Airbrush history**](http://www.airbrushdoc.com/history/) of the 20th century starts with name **PAASCHE**.

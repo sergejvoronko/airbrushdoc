@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush stencils", "corel draw tutorial", "corel draw x5", "corel how to", "corel paint", "design a stencil", "how to corel draw", "layers in corel", "making stencils", "printable stencils"]
 readingTime: 8
 draft: false
-heroImage: "/images/wp-uploads/Corel-Multilayer-original1.jpg"
+heroImage: "/images/wp-uploads/Corel-Multilayer-original1.webp"
 ---
 
 I have posted article called "[How to Make a Stencil in CoreDRAW](http://www.airbrushdoc.com/tipstricks/how-to-make-a-stencil-in-coreldraw/)" before. Out of this article I got an e-mail from one of my readers last Sunday.

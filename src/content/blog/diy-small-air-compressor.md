@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "airbrush compressor", "diy air compressor", "diy compressor", "homemade compressor", "small air compressor", "small compressor"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/diy-compressor1.jpg"
+heroImage: "/images/wp-uploads/diy-compressor1.webp"
 ---
 
 *You might say "Another DIY Compressor?" - but it's not just the same thing. Usually if you make one yourself it will take some space at your work place and using this space in your home premises is just out of question. This is actually the reason this fella has been build.

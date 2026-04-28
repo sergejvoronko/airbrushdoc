@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "Airbrush Fitto", "auto motives", "Mike Lavallee", "real fire effect", "skull drawings", "skulls"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/airbrush_scull_4.jpg"
+heroImage: "/images/wp-uploads/airbrush_scull_4.webp"
 ---
 
 Do you remember the first time when someone told you about **AIRBRUSH**, what associations did you get with that word? To be honest I found it on Internet before anybody mentioned it to me, so I wasn't confused as I got a lot of the pictures right away. But when one of my friends asked me:

@@ -6,7 +6,7 @@ category: "general"
 tags: ["airbrush co2", "airbrush nitrogen", "airbrush water", "water in air source"]
 readingTime: 6
 draft: false
-heroImage: "/images/wp-uploads/Per-Corell.jpg"
+heroImage: "/images/wp-uploads/Per-Corell.webp"
 ---
 
 *Last time when I posted article about good airbrush websites I’ve mentioned one website with article titled as “[Another way of tuning airbrushes](http://communicats.blogspot.sk/2012/09/an-other-way-of-tuning-airbrushes.html)”. This article was talking about the **quality of water used for mixing colors**, its effect on your artwork and provided some solutions.*

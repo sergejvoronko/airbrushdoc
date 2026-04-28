@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["aerograf gallery", "airbrush auto", "airbrush car", "airbrush gallery", "airbrush photo", "russian airbrush", "Sergei Monahov"]
 readingTime: 2
 draft: false
-heroImage: "/images/wp-uploads/Airbrush_Gallery__075.jpg"
+heroImage: "/images/wp-uploads/Airbrush_Gallery__075.webp"
 ---
 
 Whilst I'm working on my next article I don't want my readers to stay dry. That's why I'm giving you another portion of airbrush gallery and I hope it will stimulate your imagination, just a bit, and maybe you will get some ideas for your next project. 

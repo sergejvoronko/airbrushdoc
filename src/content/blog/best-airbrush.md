@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "best airbrush", "chinese airbrush", "Evolution", "H&amp;S", "harder and steenbeck", "Infinity", "Iwata", "Iwata Revolution", "paasche talon", "Richpen"]
 readingTime: 9
 draft: false
-heroImage: "/images/wp-uploads/airbrush.jpg"
+heroImage: "/images/wp-uploads/airbrush.webp"
 ---
 
 Today I'm going to improve one of my earliest article about choosing [the best airbrush](http://www.airbrushdoc.com/beginners/choose-airbrush/) with price ranges and describing them a bit more into detail. I’m also going to mention Chinese tools and maybe I will swear for some time but that’s how I feel.

@@ -6,7 +6,7 @@ category: "beginners"
 tags: ["air hose", "airbrush cleaning station", "airbrush holder", "airbrush lube", "airbrush supply", "buy airbrush", "kabuki tape", "masking tape", "nylon precision brush set", "superlube"]
 readingTime: 6
 draft: false
-heroImage: "/images/wp-uploads/airbrush-lube.jpg"
+heroImage: "/images/wp-uploads/airbrush-lube.webp"
 ---
 
 First of all, today's article is for true **airbrush beginners**. If you are just thinking to **start airbrushin**g and maybe just looking for some more info then please continue reading. Those of you with some experience may read on and maybe leave a comment with additional, useful info. For a long time I've been thinking that I am still missing something here. But I could not find out what it is. Maybe because of  the amount of information and all those advises I had to go through in past two weeks about getting into airbrushing. I have extended some of my old articles that have been extensive already and I've totally forgotten about **basic airbrush needs**. Just to sum up the whole story about getting into airbrushing, there is more tools you need to begin. Some of them are optional but some are a "**MUST HAVE**", according to my own experience.

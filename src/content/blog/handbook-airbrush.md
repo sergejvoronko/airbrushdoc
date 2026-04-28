@@ -6,7 +6,7 @@ category: "history"
 tags: ["airbrush", "airbrush handbook", "first airbrush book", "handbook"]
 readingTime: 1
 draft: false
-heroImage: "/images/wp-uploads/first-airbrush-book.jpg"
+heroImage: "/images/wp-uploads/first-airbrush-book.webp"
 ---
 
 **First Airbrush Book** was a complex document full of woodcuts depicting every aspect of its use, giving detailed technique instructions on to how to achieve the best results. One of the books is "**LW MFG Co booklet**" from 1884. Enjoy reading it! :)

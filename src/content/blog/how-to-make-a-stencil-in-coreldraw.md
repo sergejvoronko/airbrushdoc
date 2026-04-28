@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["bitmap editor", "cdr", "Corel draw", "corel photo paint", "coreldraw", "how to corel", "how to stencil", "outline trace", "photoshop", "stencil", "vector editor"]
 readingTime: 8
 draft: false
-heroImage: "/images/wp-uploads/stencil_7.jpg"
+heroImage: "/images/wp-uploads/stencil_7.webp"
 ---
 
 Stencils became part of our everyday airbrush artistic work and many people are asking for some instructions on how to make a stencil. I've asked at many places "***What final format would you prefer for a stencil***" if you want to print it yourself on a printer or perhaps if you have access to a plotter, which is better option when it comes to cutting out the stencil and you can make stencil with much better details.

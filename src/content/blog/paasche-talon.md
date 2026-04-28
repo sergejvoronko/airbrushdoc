@@ -6,7 +6,7 @@ category: "airbrush-reviews"
 tags: ["airbrush review", "airbrush reviews", "paasche talon", "talon review"]
 readingTime: 8
 draft: false
-heroImage: "/images/wp-uploads/Paasche-Talon-Review-crown-aircap-2.jpg"
+heroImage: "/images/wp-uploads/Paasche-Talon-Review-crown-aircap-2.webp"
 ---
 
 Today's review candidate is a dual action, gravity feed, internal mix airbrush called Paasche **Talon** from **Paasche Airbrush Company**. First of all I want to say that without **[ChicagoAirbrushSupply.com](http://www.chicagoairbrushsupply.com/)** this review will not be possible. Thank you guys!

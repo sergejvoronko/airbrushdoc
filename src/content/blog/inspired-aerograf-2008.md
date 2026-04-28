@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["aerograf", "airbrush art gallery", "airbrush pic", "car gallery", "inspiration", "russian airbrush"]
 readingTime: 1
 draft: false
-heroImage: "/images/wp-uploads/aerograf_20081.jpg"
+heroImage: "/images/wp-uploads/aerograf_20081.webp"
 ---
 
 Here comes first of unusual blog posts in a new category - a [gallery](http://www.airbrushdoc.com/gallery/) from **Aerografpro.ru** ...

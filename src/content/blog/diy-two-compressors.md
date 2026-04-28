@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["air compressor", "airbrush compressor", "diy compressor", "fridge compressor", "home made compressor", "kompresor", "refrigerator compressor", "silent airbrush", "silent compressor", "two compressors"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/dyi-two-compressor2.jpg"
+heroImage: "/images/wp-uploads/dyi-two-compressor2.webp"
 ---
 
 Today I'd like to share a story I've found on my greatest resource for **building compressors **[scalemodels.ru](http://scalemodels.ru). First of all it caught my eye. On visual side it looks like factory made model, but nope, it was home-made and as author states he "planned it to be a compact, low-budget project". But when he started he couldn't stop. And the result? - not very compact and not that low-budget at all, but how **beautiful** it is... 

@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["abrasive ultra-fine", "airbrush", "needle", "polish", "polishing"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/polishing-the-needle1.jpg"
+heroImage: "/images/wp-uploads/polishing-the-needle1.webp"
 ---
 
 Hi everyone! I've been working on some improvements for my needles lately. Well - not really improvements but let's say **maintenance**. The thing is, even if you belong to group of people that never done such a thing as **polishing the needles**, behold! Trust me - one day you will have to do it anyway.

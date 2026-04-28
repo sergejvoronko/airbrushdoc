@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "bonnet", "car", "hood", "step by step guide", "tiger", "tutorial"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/Airbrush-Tiger-Car-Hood.jpg"
+heroImage: "/images/wp-uploads/Airbrush-Tiger-Car-Hood.webp"
 ---
 
 *The tiger ([Panthera tigris](http://en.wikipedia.org/wiki/Panthera_tigris)) is the largest cat species, this means that this animal has some power. But that's just a fact that actually may be one of the reasons why people want them painted or maybe simply because it's the most beautiful beast out there?*

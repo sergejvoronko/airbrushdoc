@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "airbrush art", "airbrush discussion", "free hand airbrush", "freehand", "Mike Lavallee", "stencils", "talent"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/talent-and-airbrush1.jpg"
+heroImage: "/images/wp-uploads/talent-and-airbrush1.webp"
 ---
 
 As I have read a lot of airbrush tutorials and watched many videos I got the feeling that if you want to do airbrush you don't have to be an artist nor talented at all. All you have to know is how to use airbrush and that's it.

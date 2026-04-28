@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["646 reducer", "647 reducer", "649 reducer", "airbrush", "color wheel", "federal standard color", "nitro color", "nitro paint", "Nitrocellulose Based Lacquer Paint", "red nitro color", "shell silver nitro"]
 readingTime: 9
 draft: false
-heroImage: "/images/wp-uploads/Nitro-paint.jpg"
+heroImage: "/images/wp-uploads/Nitro-paint.webp"
 ---
 
 Many times I've run into a situation when I was out of paint. Not because I wanted to, I just wasn't checking the amount of paint I've had and because I don't do artistic work too often, it just happens - from time to time. Recently I ran into the same situation and after one of my Facebook fans pulled a similar situation out I decided to write a post.

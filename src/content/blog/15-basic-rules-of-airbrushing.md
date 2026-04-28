@@ -6,7 +6,7 @@ category: "beginners"
 tags: ["airbrush", "airbrush advices", "airbrush golden rule", "airbrush rules", "airbrush safety", "airbrush tips", "airbrush wd-40", "butanol", "danger paints", "drop airbrush", "glycerine", "golden rule of airbrushing", "opaque finish", "paint drips", "poisonous pigments", "proper reducer", "spitting paint", "thick paint", "tip dry"]
 readingTime: 9
 draft: false
-heroImage: "/images/wp-uploads/airbrush-schema1.jpg"
+heroImage: "/images/wp-uploads/airbrush-schema1.webp"
 ---
 
 Our readers who have painted a few pieces on their own are probably not that interested in reading any poems because most of their mistakes were already made and probably fixed too and they know how to deal with it next time as they found the solution to every wrong step by themselves.

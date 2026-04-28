@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["air pressure switch", "diy air pressure switch", "home made air pressure switch", "pressure switch"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/home-made-pressure-switch1.jpg"
+heroImage: "/images/wp-uploads/home-made-pressure-switch1.webp"
 ---
 
 There is no secret that many Airbrushists love to use DIY stuff as it comes much cheaper and they can spend more money for a good [**airbrush gun**](http://www.airbrushdoc.com/sqeez/).

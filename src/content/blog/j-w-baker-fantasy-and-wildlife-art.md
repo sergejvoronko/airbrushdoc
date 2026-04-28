@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["acrylic and oil", "airbrush artist", "airbrush gallery", "Fantasy Art", "gallery", "J W Baker", "Sandi Baker", "Wildlife Art", "Wolf Song Studio"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/JWBaker.jpg"
+heroImage: "/images/wp-uploads/JWBaker.webp"
 ---
 
 Some time ago I got in touch with one very specific and great artist. His name is **J W Baker**. He represents one half of the artistic duo **[Wolf Song Studio](http://wolfsongstudio.com/)**. The other half is his wife [Sandi Baker](http://sandibaker.wolfsongstudio.com/).

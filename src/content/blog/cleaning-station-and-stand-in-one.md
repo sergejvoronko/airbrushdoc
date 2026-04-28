@@ -6,7 +6,7 @@ category: "general"
 tags: ["airbrush", "airbrush cleaning station", "airbrush stand", "cleaning station", "diy cleaning station", "filter"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/Airbrush-Cleaning-Station-9.jpg"
+heroImage: "/images/wp-uploads/Airbrush-Cleaning-Station-9.webp"
 ---
 
 *This build was born when its author read previous article [Airbrush Cleaning Station](http://www.airbrushdoc.com/tipstricks/free-airbrush-cleaning-station-really/). The article motivated this guy to build that station for himself and make it more useful (Sergej).*

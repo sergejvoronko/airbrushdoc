@@ -6,7 +6,7 @@ category: "history"
 tags: ["1893", "airbrush Chicago exposition", "chicago", "Chicago exposition", "exposition"]
 readingTime: 2
 draft: false
-heroImage: "/images/wp-uploads/Chicago_Worlds_Columbian_Exposition_1893.jpg"
+heroImage: "/images/wp-uploads/Chicago_Worlds_Columbian_Exposition_1893.webp"
 ---
 
 The American people were a composite of the world and the Columbus celebration was intended as a truly international event. The fourth centennial of the discovery of the new world was in 1892 and this was the intended date.

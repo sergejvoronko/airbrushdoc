@@ -6,7 +6,7 @@ category: "airbrush-reviews"
 tags: ["3L air tank", "air compressor", "airbrush compressor", "as189", "Cheap air compressor", "Chinese airbrush compressor", "compressor reviews", "review"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/as189-14.jpg"
+heroImage: "/images/wp-uploads/as189-14.webp"
 ---
 
 A long time ago when I wrote my first [airbrush review](http://www.airbrushdoc.com/airbrush-reviews/) I mentioned that I will try to get my hands on airbrush compressors too and give most reliable review I can.

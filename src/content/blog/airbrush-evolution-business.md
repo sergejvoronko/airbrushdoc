@@ -6,7 +6,7 @@ category: "history"
 tags: ["airbrush business", "airbrush evolution", "airbrush history", "history", "Liberty Walkup"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/LIBERTY-WALKUP.png"
+heroImage: "/images/wp-uploads/LIBERTY-WALKUP.webp"
 ---
 
 [Peeler’s](http://www.airbrushdoc.com/history/who-invented-airbrush/) design still needed considerable development to make it a viable business proposition. [**Charles Burdick**](http://www.airbrushdoc.com/history/airbrush-charles-burdick/) and **Liberty Walkup** were willing to invest in the idea and paid $700 dollars for the initial design followed by another $150 for two updated prototypes.

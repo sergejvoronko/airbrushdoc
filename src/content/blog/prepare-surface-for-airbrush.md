@@ -92,7 +92,7 @@ I’ll show three different methods and compare them. As an example I use one en
 
 So, this hood has base coat on and a few layers of clear coat. To achieve maximal adhesion we have to get rid of “**the gloss**” and make surface **matt**. This can be done with [abrasive](http://en.wikipedia.org/wiki/Abrasive) **sandpaper** or **[Scotch-Brites](/go/scotch-brite)**. They are going to make micro scratches on the surface and the paint is going to hold thanks to that.
 
-![Prepare Car Surface 1 how to airbrush on metal](/images/wp-uploads/Prepare-Car-Surface-1-500x278.jpg)
+![Prepare Car Surface 1 how to airbrush on metal](/images/wp-uploads/Prepare-Car-Surface-1-500x278.webp)
 
 The right side of the hood is going to be processed on dry and for that I’m using **abrasive sandpaper** with grit **P800** (for dry sanding!) and **Scoth-Brite UltraFine** (abrasive sponge) from [3M](https://airbrushdoc.com/go/3m-ultrafine).
 
@@ -106,7 +106,7 @@ Middle part of the hood is going to be done with **Scoth-Brite Multi-Flex** an
 
 This method is the easiest and probably the most comfortable. The positive thing of using sandpaper and sponge at the same time is that we cut the time of preparing and consumptions of materials.
 
-![sandpaper sandsponge how to airbrush on metal](/images/wp-uploads/sandpaper-sandsponge-500x207.jpg)
+![sandpaper sandsponge how to airbrush on metal](/images/wp-uploads/sandpaper-sandsponge-500x207.webp)
 
 We can use only **UltraFine abrasive sponges** but this will take much more time and we will be forced to use much more of these “not cheap” sponges.
 
@@ -122,7 +122,7 @@ In case if you planing on painting smaller surfaces (phone, laptop, PC case) tha
 
 ### Wet Sanding With Sandpaper P1000
 
-![waterdry P1000 how to airbrush on metal](/images/wp-uploads/waterdry-P1000-300x145.jpg)
+![waterdry P1000 how to airbrush on metal](/images/wp-uploads/waterdry-P1000-300x145.webp)
 
 In this case we have to use sandpaper for wet sanding (sometimes it has mark **Wetordry**). The process is very easy too as all you need to do is make the surface wet while sanding.
 
@@ -130,21 +130,21 @@ Here the most of beginners get into trouble as it is a bit difficult to understa
 
 ### Scotch-Brite Multi-Flex and 50018 Scuff-it matt-gel
 
-![50018 scuff it mattgel how to airbrush on metal](/images/wp-uploads/50018-scuff-it-mattgel-150x150.jpg.webp)
+![50018 scuff it mattgel how to airbrush on metal](/images/wp-uploads/50018-scuff-it-mattgel-150x150.webp.webp)
 
-![Scotch Brite Multi Flex how to airbrush on metal](/images/wp-uploads/Scotch-Brite-Multi-Flex-150x150.jpg.webp)
+![Scotch Brite Multi Flex how to airbrush on metal](/images/wp-uploads/Scotch-Brite-Multi-Flex-150x150.webp.webp)
 
 Here we’re going to rub **special matt gel** (50018) onto surface with special sheets (**Multi-Flex**). At the start we squeeze a bit of gel onto surface and spray it with water. Then we mull it in the way like trying to rub the gel into the surface but not with really big effort. After all, the surface should look like this.
 
 To check if the surface is matt enough we have to wipe dry a small part.
 
-![surface with mattgel applied how to airbrush on metal](/images/wp-uploads/surface-with-mattgel-applied-500x213.jpg)
+![surface with mattgel applied how to airbrush on metal](/images/wp-uploads/surface-with-mattgel-applied-500x213.webp)
 
 Here is finished surface after all three methods and in my opinion they all give almost exact same finish, so the only thing to consider is cost or comfort of the particular technique.
 
 [GALLERY]
 
-![closer look prepared surface how to airbrush on metal](/images/wp-uploads/closer-look-prepared-surface-1000x437.jpg)
+![closer look prepared surface how to airbrush on metal](/images/wp-uploads/closer-look-prepared-surface-1000x437.webp)
 
 If you clear coat it again or just polish the surface, it will get the previous glossy look and you will not see the scratches. The thing is when preparing the surface the proper way is to be able to bring **original surface look** back without the hassle (if you’ve changed your mind).
 
@@ -288,7 +288,7 @@ DO NOT USE **wax or oil based sealer** as then nothing will adhere to this sur
 
 ### Why do we need any primer for our painting?
 
-![Water based Wood Primer airbrush on wood](/images/wp-uploads/Water_based_Wood_Primer.jpg.webp)
+![Water based Wood Primer airbrush on wood](/images/wp-uploads/Water_based_Wood_Primer.webp.webp)
 
 A primer/sealer paint seals the surface of wood so the paint does not soak into it. At the same time some of the natural oils in wood might react with the paint and cause it to discolor. Sealer provides you with even, glossy finish after the wood is painted. Todays primers are mostly water-based and dry very quickly.
 

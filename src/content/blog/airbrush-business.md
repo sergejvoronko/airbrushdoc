@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "airbrush business", "airbrush company", "airbrush cost", "art businnes", "art marketing", "artworks", "how to run a small business"]
 readingTime: 7
 draft: false
-heroImage: "/images/wp-uploads/how-much-for-art1.jpg"
+heroImage: "/images/wp-uploads/how-much-for-art1.webp"
 ---
 
 Every beginner or even advanced **artist** doing **airbrush** has heard this question: "*How Much?*". What I mean is that every time when you paint for someone, if it's just a friendly favor or part of your business, it requires some **background finances** which you should include in your bill. It does depend on** art-work dimensions**. If you do something for you friend on A4 size paper I'll bet you won't dare to ask money but if you do a car you should acknowledge your client, even if it's your friend, that it might cost something.

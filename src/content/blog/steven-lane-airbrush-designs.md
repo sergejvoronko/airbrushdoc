@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush art", "airbrush artist", "airbrush designs", "airbrush helmet", "airbrush pc", "airbrush sculptures", "australian airbrush", "steven lane"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/pc-case-airbrush-4.jpg"
+heroImage: "/images/wp-uploads/pc-case-airbrush-4.webp"
 ---
 
 *Today's story is from **Steven Lane**, Australian artist, who started using airbrush just a while ago but already loves it. What is also interesting is that he does not limit himself to some special "one" particular style and I feel like he may give you some motivation to try something new. It's also a help to someone with imagination or perhaps [brings back the inspiration](http://www.airbrushdoc.com/discussion/how-to-get-inspiration-for-your-airbrush-art/). Steven Lane will show us some of his airbrush designs and will tell us his story.*

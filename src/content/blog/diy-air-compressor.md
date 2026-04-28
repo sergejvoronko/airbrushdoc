@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "airbrush compressor", "diy air compressor", "diy compressor", "homemade compressor"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/Albastrelu-Viorel.jpg"
+heroImage: "/images/wp-uploads/Albastrelu-Viorel.webp"
 ---
 
 Just a few weeks ago I received a question from one of my Facebook follower asking me if I can share his work with my audience.

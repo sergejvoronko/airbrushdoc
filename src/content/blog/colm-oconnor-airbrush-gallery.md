@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush acrylic", "airbrush gallery", "canvas", "Colm O'Connor", "Fallen Stars", "free hugs", "murals", "pop art", "The Sky and the Ground", "Wexford art"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/Colm-Oconnor-Art-19.jpg"
+heroImage: "/images/wp-uploads/Colm-Oconnor-Art-19.webp"
 ---
 
 One day I got an e-mail from guy named Colm, an Irish based airbrush artist. He discovered this website and he liked it. We exchanged few messages and I went to see his portfolio page where I got hit by lighting as what I saw was not an usual airbrush stuff you see every day. I asked him if it's going to be ok if I make an article about him and share his work with the rest of the world on my website. I couldn't promise him a big popularity as my page is not that popular (yet) as I want it to be (I started just ONE month ago) but I'm sure my audience is going to grow when I post something as original as Colm's work.

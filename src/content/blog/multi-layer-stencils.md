@@ -6,7 +6,7 @@ category: "download"
 tags: ["airbrush stencils free", "celebrity", "corel stencils", "coreldraw", "download stencil", "free wall stencils", "multi layer stencils", "stencil"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/multilayer-stencils.jpg"
+heroImage: "/images/wp-uploads/multilayer-stencils.webp"
 ---
 
 Anyone hungry for **stencils**? I've updated my freebies page with some new, **one layer stencils**. Whilst preparing new **stencils** for my celebrity theme I noticed that **celebrities** look better and show more character if they have more color shades then only two. As I've been posting guides for [making stencils](http://www.airbrushdoc.com/tipstricks/how-to-make-a-stencil-in-coreldraw/) and [making multilayer stencils](http://www.airbrushdoc.com/tipstricks/how-to-make-layered-stencil-in-coreldraw/) I have not yet added any of layered stuff to my freebies.

@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush compressor", "can I put car oil in my compressor", "compressor", "compressor oil", "motor oil", "oil advise", "synthetic oil for compressor"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/Compressor_oil.jpg"
+heroImage: "/images/wp-uploads/Compressor_oil.webp"
 ---
 
 In my opinion one of the most important things about your [**compressor**](http://www.airbrushdoc.com/beginners/air-compressor/) is to use the right oil and change it periodically - that will ensure a long life for the compressor. Especially if you built it yourselves following my article about [**Homemade Compressor**](http://www.airbrushdoc.com/?p=32). If you have bought a professional one you will find the relevant information in the manual.

@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush auto", "airbrush car", "airbrush gallery", "airbrush photo", "car art", "car gallery", "Ilnur Mansurov", "russian airbrush", "Vlad Mamotov"]
 readingTime: 2
 draft: false
-heroImage: "/images/wp-uploads/airbrush_gallery_31.jpg"
+heroImage: "/images/wp-uploads/airbrush_gallery_31.webp"
 ---
 
 An airbrush exhibition where no words are required. Another [**airbrush gallery**](http://www.airbrushdoc.com/gallery/) because I didn't have time to finish my article. I had some problems with my computer so I had to deal with that. But I want my readers to stay tuned to what they like probably the most [**"airbrushing"**](http://www.airbrushdoc.com) ;-). This gallery comes from east and it has been on my hard drive for a long long time...

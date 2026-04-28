@@ -6,7 +6,7 @@ category: "discussion"
 tags: []
 readingTime: 1
 draft: false
-heroImage: "/images/wp-uploads/airbrush-infographic.jpg"
+heroImage: "/images/wp-uploads/airbrush-infographic.webp"
 ---
 
 Hello all! Those of you who follows me from the start may remember that I had an article about [airbrush guns](http://www.airbrushdoc.com/beginners/choose-airbrush/) and separatelly about [airbrush paits](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/) and now when I got this **airbrush infographic** from **Roger Usher** who is behind [http://www.airbrushsupplyonline.com/](http://www.airbrushsupplyonline.com/) it actually made it kind of easier to follow. 

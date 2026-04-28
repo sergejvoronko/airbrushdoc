@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "airbrush guide", "airbrush lesson", "airbrush tutorial", "how to airbrush"]
 readingTime: 7
 draft: false
-heroImage: "/images/wp-uploads/airbrush-tutorial-scorpio-031.jpg"
+heroImage: "/images/wp-uploads/airbrush-tutorial-scorpio-031.webp"
 ---
 
 *This is an awesome airbrushing guide from Russian airbrush artist **Sergei Alexandrovich Antonov**. He owns an airbrush studio in Moscow and same as many of us, he also loves to share his art methods and techniques with all people interested in airbrushing. I hope you're going to enjoy and learn something new from this step by step tutorial, the result of which is breath-taking.*

@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush art", "airbrush artist", "airbrush gallery", "Alexey Sulkovskiym", "artist from Ukraine", "Алексей Сулковский"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/airbrush-art-alexej-sulkovskij-12.jpg"
+heroImage: "/images/wp-uploads/airbrush-art-alexej-sulkovskij-12.webp"
 ---
 
 *For a long time we didn't have any **airbrush artist** presenting his **art gallery** here. *

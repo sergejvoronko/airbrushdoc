@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush", "airbrush art", "airbrush artist", "airbrush video", "dexter airbrush", "dominican airbrush"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/257747_175296609278944_982511616_o.jpg"
+heroImage: "/images/wp-uploads/257747_175296609278944_982511616_o.webp"
 ---
 
 Just a small quote from *[DEXTER](http://www.imdb.com/title/tt0773262/)* at the start:

@@ -6,7 +6,7 @@ category: "history"
 tags: ["airbrush", "Charles Burdick", "Doctor Allan Devilbiss", "thayer and chandler", "Walkup Airbrush"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/Charles-Burdick.jpg"
+heroImage: "/images/wp-uploads/Charles-Burdick.webp"
 ---
 
 Another important name in history of [**Airbrush**](http://www.airbrushdoc.com) apart from ***Liberty Walkup**,* ***Thayer and Chandler** *or ***Paasche** *is *Charles Burdick*.

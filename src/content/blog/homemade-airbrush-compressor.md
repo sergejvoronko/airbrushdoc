@@ -6,7 +6,7 @@ category: "general"
 tags: ["airbrush compressor", "diy airbrush compressor", "diy compressor", "fridge compressor", "homemade airbrush compressor", "homemade airbrush compressor fridge", "how to make airbrush compressor with fridge compressor", "silent airbrush comp"]
 readingTime: 16
 draft: false
-heroImage: "/images/wp-uploads/compressor09.png"
+heroImage: "/images/wp-uploads/compressor09.webp"
 ---
 
 I've been surfing the net the other day trying to find some airbrush compressors and found out the availability is very good so anyone can buy [**airbrush compressor**](http://www.airbrushdoc.com/beginners/air-compressor/) online with no hassle. Of course for a good one you will have to pay nice bunch of money. But at the same time I found really interesting solution for those of you that prefer some DIY over shopping. Here it is: **homemade airbrush compressor**.

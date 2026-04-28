@@ -6,7 +6,7 @@ category: "how-to"
 tags: ["Carnegie Museum of Natural History", "Carnotaurus", "Genesis Heat Set “Oil” paints", "Golden Acrylic", "Kato Polyclay", "painting polymer clay", "polymer", "wicked colors"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/forest-rogers-art.png"
+heroImage: "/images/wp-uploads/forest-rogers-art.webp"
 ---
 
 *I would love to welcome here everyone who is still following us and all who remember when we had an entry about **painting on polymer clay**. If you liked the recommendation from Megan then today's entry is definitely for you. A few days back I got an email from **Forest Rogers** who actually works with polymer clay a lot. She did share some of her knowledge with me and I proposed to write another entry on this topic as I think as much information we share the more we know and then we get better and better.*

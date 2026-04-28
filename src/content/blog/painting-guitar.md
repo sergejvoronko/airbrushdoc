@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["Custom Guitar Airbrushing", "painting guitar", "video"]
 readingTime: 6
 draft: false
-heroImage: "/images/wp-uploads/painting-guitar-9.jpg"
+heroImage: "/images/wp-uploads/painting-guitar-9.webp"
 ---
 
 Have you ever got into a trouble painting a guitar? Today's post has taken more than over two weeks to come out even though the final piece could have been already done; it was actually done in two days but let me tell you everything step by step.

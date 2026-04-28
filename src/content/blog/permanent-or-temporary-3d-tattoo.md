@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["3d tattoo", "body art", "First body art", "oldest arts", "permanent or temporary 3d tattoo", "permanent tattoo", "simple tattoo", "tattoo", "temporary tattoo", "temporary tattoo airbrush"]
 readingTime: 2
 draft: false
-heroImage: "/images/wp-uploads/3D-tattoo-stamp1.jpg"
+heroImage: "/images/wp-uploads/3D-tattoo-stamp1.webp"
 ---
 
 A small piercing or small **tattoo** are not going to surprise anyone these days. There are people who even make **tattoos** that looks like scars. I don't know who would like these things because even a simple tattoo taking about the third of your body gives a strange feeling when you see people looking at you.

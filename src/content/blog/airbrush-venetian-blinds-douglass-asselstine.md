@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["10W40", "Airbrush Venetian Blinds", "diy compressor", "Douglass Asselstine", "venetian blinds"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/airbrush-venetian-blinds-11.jpg"
+heroImage: "/images/wp-uploads/airbrush-venetian-blinds-11.webp"
 ---
 
 Recently I received e-mail from a guy who just wanted to thank me for an advice which I didn't even think anyone has read. Here is the message from **Douglass Asselstine** :

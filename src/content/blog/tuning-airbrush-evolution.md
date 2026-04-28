@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush cup lid", "double action airbrush", "Evolution airbrush", "Evolution Two in One", "fix airbrush"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/evolution_2_in_1.jpg"
+heroImage: "/images/wp-uploads/evolution_2_in_1.webp"
 ---
 
 When you buy a new [airbrush](http://www.airbrushdoc.com) it's nice clean and shiny and if you will clean it after every use be sure it is going to work for many years. I use [this airbrush](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-evolution-two-in-one/) for four years and I love it. Some of its specs from official website:

@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "airbrush needle", "bent airbrush needle", "bent needle", "broken nozzle", "fix airbrush needle", "how to fix bent airbrush needle"]
 readingTime: 8
 draft: false
-heroImage: "/images/wp-uploads/Bent-Airbrush-Needle.jpg"
+heroImage: "/images/wp-uploads/Bent-Airbrush-Needle.webp"
 ---
 
 Yes, we've all been there. Bent needle is the most common problem for all airbrush artists.

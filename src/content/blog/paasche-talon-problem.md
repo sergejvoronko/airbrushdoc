@@ -6,7 +6,7 @@ category: "airbrush-reviews"
 tags: ["bad airbrush", "bad experience", "bad paasche talon", "paasche talon", "problems"]
 readingTime: 7
 draft: false
-heroImage: "/images/wp-uploads/paasche_talon.jpg"
+heroImage: "/images/wp-uploads/paasche_talon.webp"
 ---
 
 Do you remember a while back I've posted [Paasche Talon](http://www.airbrushdoc.com/airbrush-reviews/paasche-talon/) airbrush review here? If you've read it you surely got the feeling that it is an amazing airbrush.

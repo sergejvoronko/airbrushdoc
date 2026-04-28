@@ -6,7 +6,7 @@ category: "beginners"
 tags: ["airbrush guns", "best airbrush gun", "double action airbrush", "gravity feed", "homemade airbrush compressor", "how to choose an airbrush gun", "how to choose the right airbrush", "Hybrid feed airbrush", "Iwata", "Paasche", "single action airbrush", "siphone feed", "types of airbrush guns"]
 readingTime: 13
 draft: false
-heroImage: "/images/wp-uploads/iwata-micron-2.jpg"
+heroImage: "/images/wp-uploads/iwata-micron-2.webp"
 ---
 
 Why do we have to choose the best *airbrush gun*? I think that many of my visitors were dealing with this question and if you have landed on this page then you probably have the same question too. Have you seriously been thinking of doing airbrush but didn't buy any equipment yet? Well, I decided to start a series of articles that deal with beginner's problems. "***Which Airbrush gun to buy****?***" or "***Which airbrush gun is the best?***"

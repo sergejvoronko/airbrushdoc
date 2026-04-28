@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "airbrush cleaning station", "clean airbrush", "cleaning airbrush", "cleaning station", "how to clean airbrush", "make airbrush cleaning station"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/airbrush-cleaning-station.jpg"
+heroImage: "/images/wp-uploads/airbrush-cleaning-station.webp"
 ---
 
 When I need to clean my airbrush I usually use some pieces of paper that I don’t need and just spray over them but sometimes I accidentally spray on something I didn't want to and the result is a big mess. I have heard that out there exist something called [**cleaning station**](http://www.airbrushdoc.com/tipstricks/cleaning-station-and-stand-in-one/) for [**airbrush**](http://www.airbrushdoc.com).

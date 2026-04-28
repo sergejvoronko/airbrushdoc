@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["adhesion loss", "airbrush", "corrosion", "matting", "orange peel", "paint", "paint and dust", "paint defects", "paint fish eye", "paint stains", "runs", "slow drying", "solvent penetration", "yellowing"]
 readingTime: 13
 draft: false
-heroImage: "/images/wp-uploads/paint-defects1.jpg"
+heroImage: "/images/wp-uploads/paint-defects1.webp"
 ---
 
 It took me a bit of time to come up with the idea for today's post. I have not received any materials from sponsors for a long time to make a review. Only recently I received something but it will take time to prepare everything and write some good stuff.

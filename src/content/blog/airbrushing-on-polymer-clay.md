@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["Alsa paint", "auto air", "createx", "painting polymer clay", "polymer clay"]
 readingTime: 11
 draft: false
-heroImage: "/images/wp-uploads/PolymerClay.jpg"
+heroImage: "/images/wp-uploads/PolymerClay.webp"
 ---
 
 **Polymer clay**, an unusual topic for airbrush blog? Well, not that unusual for many artists doing sculpting. **Painting on clay** is not as simple as it might look like because you have to count with the material properties and **clay** has also to be **baked to give it durability and permanency**. I am not a professional in this area but to stay on top of our topic "**airbrushing**" I will try to describe everything I know about clay from applying paint on top of it, what type of paint you can use, what preparation you need and all around it. I collected all this information from my research and from friend for the past week.

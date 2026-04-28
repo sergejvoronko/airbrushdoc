@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush nozzle", "airbrush seal", "aurita 2 airbrush", "aurita2", "how to nozzle", "nozzle", "seal"]
 readingTime: 4
 draft: false
-heroImage: "/images/wp-uploads/airbrush_nozzle_packing1.jpg"
+heroImage: "/images/wp-uploads/airbrush_nozzle_packing1.webp"
 ---
 
 Once I've had airbrush "**Aurita 2.0**" which worked just fine for me at the time.

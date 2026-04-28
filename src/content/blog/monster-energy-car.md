@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush monster energy logo", "airbrush zambia", "black mat car", "levin car", "monster energy car"]
 readingTime: 8
 draft: false
-heroImage: "/images/wp-uploads/Monster-Energy-Theme-Car-23.jpg"
+heroImage: "/images/wp-uploads/Monster-Energy-Theme-Car-23.webp"
 ---
 
 *Today's post is from my friend Joseph from Zambia. He has sent me much more stuff that I could enter into one article so you could expect more later on. Now just enjoy simple tutorial with lots of pictures.* 

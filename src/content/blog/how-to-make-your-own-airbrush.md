@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush", "ball pen airbrush", "brass airbrush", "diy airbrush", "diy airbrush schema", "home made airbrush", "syringe airbrush"]
 readingTime: 5
 draft: false
-heroImage: "/images/wp-uploads/Home-made-airbrush-91.jpg"
+heroImage: "/images/wp-uploads/Home-made-airbrush-91.webp"
 ---
 
 The idea to write this article came to me when I found a video of **homemade airbrush** on the web. I got curious and started to look for some more. First, I didn't believe that there are many people making their own airbrushes but you'll be surprised that the number is huge. I've chosen the best of them (in my opinion) and included it in this post.

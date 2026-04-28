@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush cell phone", "airbrush gallery", "airbrush mobile phone", "airbrush phone gallery", "airbrushed phone", "phone gallery"]
 readingTime: 2
 draft: false
-heroImage: "/images/wp-uploads/phone_airbrush1.jpg"
+heroImage: "/images/wp-uploads/phone_airbrush1.webp"
 ---
 
 You can airbrush almost everything! My next unconventional [gallery](http://www.airbrushdoc.com/gallery/) represents pure art from world of mobile (cell) phones. Yes, this time it is gallery of airbrushed phones. I guess one would need a microscope to do something like this :).

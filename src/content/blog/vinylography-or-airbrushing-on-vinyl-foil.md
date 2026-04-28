@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush", "airbrushing on vinyl", "art", "painting portrait", "step by step airbrush", "vinyl", "vinylography"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/Airbrush-on-vinyl-21.jpg"
+heroImage: "/images/wp-uploads/Airbrush-on-vinyl-21.webp"
 ---
 
 **What is Vinylography?** Perhaps you may have heard of airbrushing on vinyl foil or at least about vinyl. Very often in airbrushing vinyl has been used for stenciling but some manufacturers went further and created a special foil that can be painted first in comfort of your home and then just been taken out and placed onto your car.

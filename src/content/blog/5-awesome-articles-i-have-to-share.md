@@ -6,7 +6,7 @@ category: "discussion"
 tags: ["airbrush progress", "airbrush tattoo", "awesome articles", "diy compressor", "Fra Bartolomeo", "homemade airbrush compressor", "Jason Jones", "Mike Lavalle", "mini compressor", "silent compressor", "skull contest", "skull progress", "temporary tattoo"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/compressor1.jpg"
+heroImage: "/images/wp-uploads/compressor1.webp"
 ---
 
 Today I decided to post something that got my attention. When I was surfing the Net or clicked a link on Facebook I have found some cool articles to read. I share this articles here because I think many of my readers would like to read them too, maybe some of you already have. Anyway I'm sure this articles deserve to be mentioned.

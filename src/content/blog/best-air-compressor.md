@@ -6,7 +6,7 @@ category: "beginners"
 tags: ["air compressor price", "air compressor tank", "best air compressor", "compressor regulator", "compressor types", "oil free compressor", "oil-less compressor", "quiet air compressor"]
 readingTime: 7
 draft: false
-heroImage: "/images/wp-uploads/Air_Compressors.jpg"
+heroImage: "/images/wp-uploads/Air_Compressors.webp"
 ---
 
 You might be curious, why the hell is that dude writing all that stuff all over again? Didn't he write something on how to choose the right air compressor? Yes indeed, but it was a long time ago and to be honest even I don't remember what it was about. After extending the [best airbrush](http://www.airbrushdoc.com/beginners/choose-airbrush/) article for [price ranges](http://www.airbrushdoc.com/discussion/best-airbrush/) I checked the one about [compressors](http://www.airbrushdoc.com/beginners/air-compressor/) again and found out that not everything has been said.

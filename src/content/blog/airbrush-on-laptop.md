@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush gallery", "airbrush notebook", "airbrush on laptop", "airbrush on plastic surface", "airbrushed laptop"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/airbrush-on-laptop-19.jpg"
+heroImage: "/images/wp-uploads/airbrush-on-laptop-19.webp"
 ---
 
 I haven't published any gallery on this blog for quite a long time and for this I feel terrible. Recently I've started writing a series about surface preparation and as a preview to my next part about preparing plastic surface I decided to show you what can be painted on things made of plastic and how cool it might look. The thinking didn't take a long time before I've found a great candidate. As I found out from my little Internet research, one of the most popular surface to paint on in this area is laptop surface.

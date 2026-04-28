@@ -6,7 +6,7 @@ category: "airbrush-reviews"
 tags: ["airbrush review", "airbrush reviews", "bad airbrush", "chinese airbrush", "master airbrush", "needle offset", "nozzle offset"]
 readingTime: 7
 draft: false
-heroImage: "/images/wp-uploads/Master-Airbrush-Review-7.jpg"
+heroImage: "/images/wp-uploads/Master-Airbrush-Review-7.webp"
 ---
 
 In today's **airbrush review** I decided to start with quote from one of emails I'm getting from my readers "*It seems like you have reviewed the top models of several brands. On the other end of the spectrum, I realized there are some unknown manufacturers offer something that looks like the high-end airbrushes, e.g., Iwata CM-C Plus. I hope you won't find my suggestions boring. I suppose most people won't have the budget to buy many airbrushes & many like myself has learn things the hard way wasting $ on the quest to find the most right tool.*"

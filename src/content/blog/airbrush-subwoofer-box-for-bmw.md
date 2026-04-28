@@ -6,7 +6,7 @@ category: "gallery"
 tags: []
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/car-airbrush.jpg"
+heroImage: "/images/wp-uploads/car-airbrush.webp"
 ---
 
 One day my brother got an idea that the sound in his car is missing something. That "something" was in low frequency range, so not thinking for too long he decided that he needs sub-woofer speaker box. As one of our friends has a hobby very closely related to building car audio he asked him to make something that will fit nicely into the trunk so he can have a nice sound.

@@ -6,14 +6,14 @@ category: "airbrush-reviews"
 tags: ["airbrush", "airbrush distance cap", "airbrush Quick Fix", "airbrush review", "airbrush reviews", "Evolution airbrush", "harder and steenbeck", "Infinity 2in1", "infinity airbrush", "Infinity Two in One", "self centering nozzle"]
 readingTime: 6
 draft: false
-heroImage: "/images/wp-uploads/Harder-Steenbeck-Infinity-8.jpg"
+heroImage: "/images/wp-uploads/Harder-Steenbeck-Infinity-8.webp"
 ---
 
 I'm going to talk about **Infinity Two in One** from **Harder and Steenbeck**. I have posted a review for [**Evolution airbrush**](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-evolution-two-in-one/) from same manufacturer last week, and I was getting replies mostly about Infinity, so I decided to make separate review for this one too. The main purpose of this review is to compare these two airbrush guns.
 
 This airbrush isn't mine (I don't own it); I borrowed it just for review purpose only. So let's see what we've got in here... I'm not going to show unpacking process as I think box is not as important as it's quality and performance. Anyway, here is the box:
 
-![](/images/wp-uploads/Harder-Steenbeck-Infinity-12.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-12.webp)
 
 This airbrush is rated as **Hi-End class airbrush**. It means that it is one of the top-notch [airbrushes](http://www.airbrushdoc.com/beginners/choose-airbrush/) you can get on the market these days and because of that not everyone can afford it.
 

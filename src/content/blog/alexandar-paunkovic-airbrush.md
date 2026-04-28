@@ -6,7 +6,7 @@ category: "gallery"
 tags: ["airbrush", "airbrush art", "artist", "gallery", "video"]
 readingTime: 3
 draft: false
-heroImage: "/images/wp-uploads/cropped-header-airbrushdoc1.jpg"
+heroImage: "/images/wp-uploads/cropped-header-airbrushdoc1.webp"
 ---
 
 *He didn't ask to post his gallery here, it's been me who has been asking. I visit [the orange airbrush forum](http://airbrushforum.org/) from time to time and once I saw a nice portrait. I checked the rest of art from the same author and I have to say he is a one talented fella. I just asked him to share his art with us and here it is.*
