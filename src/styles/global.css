@@ -334,8 +334,8 @@ img { max-width: 100%; height: auto; display: block; }
 .blg-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 400px;
   gap: 24px; padding: 24px 0 0;
-  align-items: start;
 }
 @media (max-width: 960px) { .blg-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 560px) { .blg-grid { grid-template-columns: 1fr; } }
@@ -351,6 +351,7 @@ img { max-width: 100%; height: auto; display: block; }
   transition: all 0.3s;
   text-decoration: none !important; color: inherit;
   display: flex; flex-direction: column;
+  height: 100%;
 }
 .abd-card:hover {
   border-color: var(--abd-border-light);
@@ -358,7 +359,7 @@ img { max-width: 100%; height: auto; display: block; }
   box-shadow: 0 8px 28px rgba(0,0,0,0.35);
 }
 .abd-card-img {
-  width: 100%; aspect-ratio: 3/2;
+  width: 100%; height: 220px; flex-shrink: 0;
   background: var(--abd-surface2); overflow: hidden;
 }
 .abd-card-img img {
