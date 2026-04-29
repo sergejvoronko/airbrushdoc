@@ -161,6 +161,15 @@ img { max-width: 100%; height: auto; display: block; }
 .abd-nav a:hover::after, .abd-nav a[aria-current="page"]::after {
   transform: scaleX(1);
 }
+.abd-nav-book {
+  background: var(--abd-orange) !important;
+  color: #fff !important;
+  border-radius: var(--abd-radius-xs) !important;
+  font-weight: 600 !important;
+  margin-left: 8px;
+}
+.abd-nav-book::after { display: none !important; }
+.abd-nav-book:hover { background: var(--abd-orange-hover) !important; color: #fff !important; }
 
 /* Mobile menu */
 .abd-menu-toggle {

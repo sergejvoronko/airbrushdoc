@@ -18,6 +18,7 @@ const nav = [
   { label: 'Guides', href: '/guides/' },
   { label: 'Tools', href: '/tools/' },
   { label: 'About', href: '/about/' },
+  { label: 'Book', href: '/book/', highlight: true },
 ];
 ---
 <!doctype html>
@@ -54,7 +55,9 @@ const nav = [
 
       <nav class="abd-nav" aria-label="Main navigation">
         {nav.map(n => (
-          <a href={n.href} aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>
+          <a href={n.href}
+             class={n.highlight ? 'abd-nav-book' : undefined}
+             aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>
             {n.label}
           </a>
         ))}
