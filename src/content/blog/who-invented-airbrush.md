@@ -15,11 +15,11 @@ Thanks to this research I've found lots of useful and interesting information. A
 
 ## So... Who invented airbrush?
 
-The first website that deserves to be mentioned is  by **Dr. Andy Penaluna** who's been researching the history of airbrush for over 25 years. This website covers its full history.[![capture_penaluna_site](http://airbrushdoc.com/wp-content/uploads/2010/12/penaluna.png)](http://airbrushdoc.com/wp-content/uploads/2010/12/penaluna.png)
+The first website that deserves to be mentioned is  by **Dr. Andy Penaluna** who's been researching the history of airbrush for over 25 years. This website covers its full history.![capture_penaluna_site](/images/wp-uploads/penaluna.webp)
 
 On the next picture is Andy alias "**Doctor Airbrush**" with original painting made by an early airbrush at the turn of 19th/20th century! To be honest I think the photograph has to be old as Andy looks much older today. Having the huge interest in the instrument and the integration of airbrush into our everyday lives, he made few records of its origin, wrote around **100,000** illustrated thesis on the subject and has been presenting "**original working 1885 model**" at international exhibitions where he is glad to demonstrate its use.
 
-[![](http://airbrushdoc.com/wp-content/uploads/2010/12/AirbrushMuseum.png)](http://airbrushdoc.com/wp-content/uploads/2010/12/AirbrushMuseum.png)
+![](/images/wp-uploads/AirbrushMuseum.webp)
 
 Another site [Airbrushmuseum.com](http://www.airbrushmuseum.com/) provides look from different angle on the invention of airbrush and in my opinion it possesses more material (e.g. scans of certificates and books) about history. You can even ask the author to send you scans of **all airbrush certificates**. Well that's the best sites I've found on web. Below are my own notes and links which I hope are easy to read.
 
@@ -27,7 +27,7 @@ Another site [Airbrushmuseum.com](http://www.airbrushmuseum.com/) provides look
 
 ### Abner Peeler (1879)
 
-[![](http://airbrushdoc.com/wp-content/uploads/2010/12/1859peeler.jpg)](http://airbrushdoc.com/wp-content/uploads/2010/12/1859peeler.jpg)
+![](/images/wp-uploads/1859peeler.webp)
 
 **Abner Peeler** was an inventive genius. He's been one of many unrecognized heroes of the period and came from a family who were jewelers by trade and inventors as a sideline. He has been designing mostly **sewing machines** and has developed an **early version of typewriter** (some 20 years before one was even patented!) and also some **airguns** that were considered unfair weapons as they would not be heard by the enemy when they were fired!
 
@@ -35,7 +35,7 @@ Abner Peeler sold the original model of airbrush for $10. [Tweet This!](http://c
 
 And went on to sell the patent to the [**Walkup Brothers**](http://www.airbrushdoc.com/history/airbrush-evolution-business/) in 1882 for $700. Quite a sum of money for that time. **Peeler** was not the only one to develop his own ideas and he always sold them whenever possible. It is for this reason that the [**Walkups**](http://www.airbrushdoc.com/history/airbrush-evolution-business/) were able to build a company based on Peeler’s ideas.
 
-> [![First airbrush painting](http://airbrushdoc.com/wp-content/uploads/2010/12/1878Firstairbrushpainting-150x150.jpg)](http://airbrushdoc.com/wp-content/uploads/2010/12/1878Firstairbrushpainting.jpg)
+> ![First airbrush painting](/images/wp-uploads/1878Firstairbrushpainting.webp)
 > This is the **first airbrush painting** made by **Peeler's first airbrush**.
 > 
 > It's not that bad considering the fact that it hasn't been very comfortable to use the airbrush :)
@@ -52,13 +52,13 @@ This patent was filed on June 20th, 1876 and granted on September 19, 1876.
 
 Needless to say **Penaluna** mentions that depending on the definition of paint distribution, **Airbrush was patented in 1876** (Patent Number 182,389) by [**Francis Edgar Stanley**](http://en.wikipedia.org/wiki/Francis_Edgar_Stanley) of [Newton, Massachusetts](http://en.wikipedia.org/wiki/Newton,_Massachusetts).
 
-[![](http://airbrushdoc.com/wp-content/uploads/2010/12/airbrush_fe_stanley_longfellow_244px-150x150.jpg)](http://airbrushdoc.com/wp-content/uploads/2010/12/airbrush_fe_stanley_longfellow_244px.jpg)[![](http://airbrushdoc.com/wp-content/uploads/2010/12/stanley-150x150.jpg)](http://airbrushdoc.com/wp-content/uploads/2010/12/stanley.jpg)[![](http://airbrushdoc.com/wp-content/uploads/2010/12/airbrush_fe_stanley_1876_01_355px-150x150.jpg)](http://airbrushdoc.com/wp-content/uploads/2010/12/airbrush_fe_stanley_1876_01_355px.jpg)Stanley and his twin brother later invented process for continuous coating of photographic plates (**Stanley Dry Plate Company**) but are perhaps best known for their [Stanley Steamer](http://en.wikipedia.org/wiki/Stanley_Steamer). Unfortunately no artistic images that used this "paint distributor / atomizer" do exist or are as yet known.
+![](/images/wp-uploads/airbrush_fe_stanley_longfellow_244px.webp)![](/images/wp-uploads/stanley.webp)![](/images/wp-uploads/airbrush_fe_stanley_1876_01_355px.webp)Stanley and his twin brother later invented process for continuous coating of photographic plates (**Stanley Dry Plate Company**) but are perhaps best known for their [Stanley Steamer](http://en.wikipedia.org/wiki/Stanley_Steamer). Unfortunately no artistic images that used this "paint distributor / atomizer" do exist or are as yet known.
 
 The **airbrush** that was first given the name **Air Brush**, was developed by **Abner Peeler**
 
 and used a **hand-operated [compressor](http://www.airbrushdoc.com/tipstricks/homemade-airbrush-compressor/)**, and the inventor patented it "for the painting of [watercolors](http://en.wikipedia.org/wiki/Watercolor) and other artistic purposes". It was rather crude, being based on a number of spare parts in a jeweller’s workshop such as old screwdrivers and welding torches.
 
-[![](http://airbrushdoc.com/wp-content/uploads/2010/12/pat01_peeler00256852-1s.gif)](http://airbrushdoc.com/wp-content/uploads/2010/12/pat01_peeler00256852-1s.gif)
+[![](/images/wp/2010/12/pat01_peeler00256852-1s.gif)](/images/wp/2010/12/pat01_peeler00256852-1s.gif)
 
 It took 4 years of further development before a truly practical device was developed.
 So now you see that it wasn't that easy to use the airbrush at that period :)

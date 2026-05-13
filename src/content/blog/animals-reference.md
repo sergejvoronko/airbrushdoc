@@ -2,7 +2,7 @@
 title: "Ultimate Animals Airbrush Reference Images Pack"
 description: "From time to time I post some stuff that helps us to do our work much easier. Many of us use airbrush reference pictures on the daily basis."
 pubDate: 2011-05-05
-category: "download"
+category: "gallery"
 tags: ["airbrush reference", "animal reference", "bear reference", "dog reference", "horse reference", "reference picture", "tiger", "tiger reference", "wolf reference"]
 readingTime: 2
 draft: false
@@ -15,7 +15,29 @@ From time to time I post some stuff that helps us to do our job much easier. Man
 
 Here are some examples
 
-[gallery type="rectangular" ids="3047,3049,3050,3051,3052,3053,3054,3055,3056,3057,3058,3059,3061,3062,3063,3064,3065,3066,3067,3068,3069"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_1.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_10.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_14.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_22.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_24.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_32.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_41.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_44.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_52.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_54.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_56.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_66.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_73.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_94.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_97.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_115.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_123.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_124.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_137.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Rferences_149.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Tigers_Reference_Pack.webp" loading="lazy" /></div>
+</div>
 
  
 [sociallocker id="12884"] 
@@ -27,7 +49,20 @@ http://ge.tt/3CdWXkq/v/1
 
 Here are some examples
 
-[gallery type="rectangular" ids="3078,3079,3080,3081,3082,3083,3084,3085,3086,3087,3088,3089"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_5.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_6.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_7.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_9.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_13.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_15.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_17.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_20.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_28.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_45.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_46.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wolf_reference_50.webp" loading="lazy" /></div>
+</div>
 
 The Pack has 26MB.
 [sociallocker id="12884"] 
@@ -39,7 +74,20 @@ http://ge.tt/3CdWXkq/v/3
 
 Here are some examples
 
-[gallery type="rectangular" ids="3092,3093,3094,3095,3096,3097,3098,3099,3100,3101,3102,3103"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_7.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_9.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_11.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_12.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_17.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_19.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_22.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_25.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_32.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_41.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_46.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animals_reference_55.webp" loading="lazy" /></div>
+</div>
 
 The Pack has 35MB.
 [sociallocker id="12884"] 

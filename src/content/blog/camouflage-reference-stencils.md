@@ -2,7 +2,7 @@
 title: "Camouflage Reference and Stencils"
 description: "Preview of camouflage references with option to download, also a preview of stencils with option to download and of coarse some recommendations"
 pubDate: 2012-04-03
-category: "download"
+category: "gallery"
 tags: ["camouflage", "camouflage reference", "digi camo", "digital camo", "digital camouflage stencils", "reference pack to download"]
 readingTime: 5
 draft: false
@@ -41,13 +41,36 @@ You can always do everything by yourself, that's why I prepared the material bel
 
 Here is some preview from the pack.
 
-[gallery link="file" type="rectangular" ids="7556,7557,7558,7559,7560,7561,7562,7563,7564,7565,7566,7567"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-1.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-3.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-9.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-4.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-1.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-3.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-1.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-19.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-22.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-10.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-11.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-5.webp" loading="lazy" /></div>
+</div>
 
 ## Camouflage Stencils
 
 It took me much more time to prepare these stencils comparing to the pack above. This is just a preview.
 
-[gallery link="file" type="rectangular" ids="7569,7570,7571,7572,7574,7575,7576,7577,7578"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo1-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo2-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo3-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo4-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo6-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/capcamo-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/grass-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/tigerstripe-preview.webp" loading="lazy" /></div>
+</div>
 
 Here is the link ([ge.tt](http://ge.tt/9R7JdlF/v/7)) to one of the stencils. In order to get access to the rest you have to be a subscriber (it is totally free) and you can have the stencil ready to print in your favorite program.
 

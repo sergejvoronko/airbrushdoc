@@ -28,9 +28,71 @@ const {
 const formattedDate = pubDate.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
 const formattedUpdated = updatedDate?.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
 const pageUrl = `https://airbrushdoc.com/blog/${slug}/`;
-const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1).replace(/-/g, ' ');
+const CAT_LABELS: Record<string, string> = {
+  'airbrush-reviews': 'Reviews',
+  'beginners': 'Beginners',
+  'discussion': 'Discussion',
+  'download': 'Downloads',
+  'gallery': 'Gallery',
+  'guides': 'Guides',
+  'history': 'History',
+  'tipstricks': 'Tips & Tricks',
+  'video': 'Video',
+};
+const categoryLabel = CAT_LABELS[category] ?? (category.charAt(0).toUpperCase() + category.slice(1).replace(/-/g, ' '));
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": title,
+  "description": description,
+  "url": pageUrl,
+  "datePublished": pubDate.toISOString(),
+  ...(updatedDate && { "dateModified": updatedDate.toISOString() }),
+  "author": { "@type": "Person", "name": "AirbrushDOC", "url": "https://airbrushdoc.com/about/" },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AirbrushDOC",
+    "url": "https://airbrushdoc.com",
+    "logo": { "@type": "ImageObject", "url": "https://airbrushdoc.com/images/airbrushdoc-logo.webp" }
+  },
+  ...(heroImage && { "image": { "@type": "ImageObject", "url": `https://airbrushdoc.com${heroImage}`, "alt": heroImageAlt || title } }),
+  "mainEntityOfPage": { "@type": "WebPage", "@id": pageUrl },
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://airbrushdoc.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://airbrushdoc.com/blog/" },
+    { "@type": "ListItem", "position": 3, "name": title, "item": pageUrl },
+  ],
+};
+
+const faqSchema = faqs.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.q,
+    "acceptedAnswer": { "@type": "Answer", "text": f.a },
+  })),
+} : null;
 ---
-<BaseLayout title={`${title} | AirbrushDOC`} description={description} image={heroImage}>
+<BaseLayout
+  title={`${title} | AirbrushDOC`}
+  description={description}
+  image={heroImage}
+  canonicalURL={pageUrl}
+  ogType="article"
+  ogArticlePubDate={pubDate.toISOString()}
+  ogArticleModDate={updatedDate?.toISOString()}
+>
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(articleSchema)} />
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(breadcrumbSchema)} />
+  {faqSchema && <script type="application/ld+json" slot="head" set:html={JSON.stringify(faqSchema)} />}
+
   <div class="abd-reading-progress" aria-hidden="true">
     <div class="abd-reading-progress-fill" id="readingProgress"></div>
   </div>
@@ -41,7 +103,7 @@ const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1).repla
 
         <header class="abd-post-header">
           <div class="abd-post-header-top">
-            <a href={`/blog/?cat=${category}`} class="abd-category-badge">{categoryLabel}</a>
+            <a href={`/${category}/`} class="abd-category-badge">{categoryLabel}</a>
           </div>
           <h1 class="abd-post-title">{title}</h1>
           <div class="abd-meta-row">
@@ -86,7 +148,7 @@ const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1).repla
           <div class="abd-author-bio-avatar">A</div>
           <div class="abd-author-bio-info">
             <div class="abd-author-bio-label">Written by</div>
-            <div class="abd-author-bio-name">AirbrushDOC</div>
+            <div class="abd-author-bio-name"><a href="/about/" class="abd-author-name-link">AirbrushDOC</a></div>
             <p class="abd-author-bio-text">Airbrush artist and educator sharing practical techniques, honest equipment reviews, and step-by-step guides for artists at every level.</p>
           </div>
         </div>
@@ -97,16 +159,31 @@ const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1).repla
           <div class="abd-newsletter-inner">
             <div class="abd-newsletter-title">New guides, reviews and techniques</div>
             <p class="abd-newsletter-text">Get notified when new content is published — no spam, unsubscribe any time.</p>
-            <form class="abd-newsletter-form" data-ml-form>
-              <input class="abd-newsletter-input" type="email" placeholder="Your email address" required />
-              <button class="abd-newsletter-btn" type="submit">Subscribe</button>
-            </form>
+            <div class="ml-embedded" data-form="d5CS8H"></div>
           </div>
         </div>
 
         <div class="abd-comments">
           <div class="abd-comments-title">Comments</div>
           <div id="remark42"></div>
+          <script is:inline>
+            var remark_config = {
+              host:       "https://comments.airbrushdoc.com",
+              site_id:    "airbrushdoc",
+              components: ["embed"],
+              theme:      "dark",
+              locale:     "en",
+              show_rss_subscription: false,
+            };
+            (function(c) {
+              for (var i = 0; i < c.length; i++) {
+                var d = document, s = d.createElement("script");
+                s.src = remark_config.host + "/web/" + c[i] + ".js";
+                s.defer = true;
+                (d.head || d.body).appendChild(s);
+              }
+            })(remark_config.components || ["embed"]);
+          </script>
         </div>
 
       </article>
@@ -135,6 +212,13 @@ const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1).repla
       </aside>
     </div>
   </main>
+
+  <div class="abd-lightbox" id="abdLightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+    <button class="abd-lightbox-close" id="abdLightboxClose" aria-label="Close">&#x2715;</button>
+    <button class="abd-lightbox-prev" id="abdLightboxPrev" aria-label="Previous image">&#x2039;</button>
+    <img class="abd-lightbox-img" id="abdLightboxImg" src="" alt="" />
+    <button class="abd-lightbox-next" id="abdLightboxNext" aria-label="Next image">&#x203a;</button>
+  </div>
 
   <script>
     // Reading progress
@@ -176,5 +260,67 @@ const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1).repla
         item?.classList.toggle('abd-open');
       });
     });
+
+    // Lightbox
+    (() => {
+      const lb    = document.getElementById('abdLightbox');
+      const lbImg = document.getElementById('abdLightboxImg') as HTMLImageElement;
+      const lbClose = document.getElementById('abdLightboxClose');
+      const lbPrev  = document.getElementById('abdLightboxPrev');
+      const lbNext  = document.getElementById('abdLightboxNext');
+      if (!lb || !lbImg) return;
+
+      let images: string[] = [];
+      let current = 0;
+
+      function open(srcs: string[], index: number) {
+        images  = srcs;
+        current = index;
+        lbImg.src = images[current];
+        lb.classList.add('open');
+        document.body.style.overflow = 'hidden';
+        const multi = images.length > 1;
+        lbPrev!.style.display = multi ? '' : 'none';
+        lbNext!.style.display = multi ? '' : 'none';
+      }
+
+      function close() {
+        lb.classList.remove('open');
+        document.body.style.overflow = '';
+        lbImg.src = '';
+      }
+
+      function go(delta: number) {
+        current = (current + delta + images.length) % images.length;
+        lbImg.src = images[current];
+      }
+
+      // Gallery items — each gallery is its own navigation set
+      document.querySelectorAll('.abd-gallery').forEach(gallery => {
+        const imgs = Array.from(gallery.querySelectorAll<HTMLImageElement>('.abd-gallery-item img'));
+        const srcs = imgs.map(i => i.src);
+        imgs.forEach((img, idx) => {
+          img.closest('.abd-gallery-item')!.addEventListener('click', () => open(srcs, idx));
+        });
+      });
+
+      // Single content images (not inside a gallery)
+      document.querySelectorAll<HTMLImageElement>('.abd-content img').forEach(img => {
+        if (img.closest('.abd-gallery')) return;
+        img.addEventListener('click', () => open([img.src], 0));
+      });
+
+      lbClose!.addEventListener('click', close);
+      lbPrev!.addEventListener('click', () => go(-1));
+      lbNext!.addEventListener('click', () => go(1));
+      lb.addEventListener('click', e => { if (e.target === lb) close(); });
+
+      document.addEventListener('keydown', e => {
+        if (!lb.classList.contains('open')) return;
+        if (e.key === 'Escape')     close();
+        if (e.key === 'ArrowLeft')  go(-1);
+        if (e.key === 'ArrowRight') go(1);
+      });
+    })();
   </script>
 </BaseLayout>

@@ -52,7 +52,7 @@ Big effect on the bill, especially in **car airbrushing** has:
 
 ## Spray Booth
 
-![](/wp-content/uploads/2012/01/spray-booth-250x177.jpg)
+![](/images/wp-uploads/spray-booth.webp)
 When painting a car you have to use it. Apart of its huge price, the maintenance and running it costs money too.
 
 For example, average **Spray Booth** will consume around **10L of fuel** and about **8kW/h** of electric energy, per hour. For full process, painting and  drying you will need 3 hours, so it will be 24,000W used in 3 hours (just to compare - a turned on 100W light bulb will consume 300W in the same time laps). So, you have to count with 'nice' electric bills. Plus expenses to mask everything you don't want to paint, some solvent to clean the spray gun after work, single-use filters, etc.
@@ -67,7 +67,7 @@ This is another item that affects the final bill. It depends on how you value yo
 
 There is huge difference if you have to paint some logo, sign or a tiger where you have to work more on its fur, much more. Another fact is that many new cars have a lot of single-use parts and should have these replaced while assembling it all back (door cover mounting for example). If you try to save here, the creaking noise will give your client a headache and he'll be back.
 
-![](/wp-content/uploads/2012/01/list-250x151.jpg)Many factors influence our guess, so **how to find out and value the proper cost for your art?** To give the perfect answer is very, very difficult. I think that best solution is that you make a list where you include every step you have to do to paint particular part (for example one door or a hood or a roof). Don't put the exact number, make some range (from...up to...). When you have every piece of car you can think of listed and estimated cost of the materials for those parts separately, you can sum it up (scratch off some steps that you will have to do just once if you do the whole car at once) and you will get the idea of how much it can cost you to paint the whole car (you should give it the range as well).
+![](/images/wp-uploads/list.webp)Many factors influence our guess, so **how to find out and value the proper cost for your art?** To give the perfect answer is very, very difficult. I think that best solution is that you make a list where you include every step you have to do to paint particular part (for example one door or a hood or a roof). Don't put the exact number, make some range (from...up to...). When you have every piece of car you can think of listed and estimated cost of the materials for those parts separately, you can sum it up (scratch off some steps that you will have to do just once if you do the whole car at once) and you will get the idea of how much it can cost you to paint the whole car (you should give it the range as well).
 
 Make a price list for your art as well. Give yourself a price for square meter or square foot and make a range as well (lowest level will be for simple art, highest for greatest fine art), then you can easily estimate the value by the size of art that customer demands.
 

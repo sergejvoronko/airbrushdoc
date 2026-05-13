@@ -8,8 +8,9 @@ readingTime: 7
 draft: false
 heroImage: "/images/wp-uploads/Master-Airbrush-Review-7.webp"
 ---
+## Master Airbrush BD-200: Budget Option Review
 
-In today's **airbrush review** I decided to start with quote from one of emails I'm getting from my readers "*It seems like you have reviewed the top models of several brands. On the other end of the spectrum, I realized there are some unknown manufacturers offer something that looks like the high-end airbrushes, e.g., Iwata CM-C Plus. I hope you won't find my suggestions boring. I suppose most people won't have the budget to buy many airbrushes & many like myself has learn things the hard way wasting $ on the quest to find the most right tool.*"
+In today's **airbrush review** I decided to start with quote from one of emails I'm getting from my readers "*It seems like you have reviewed the top models of several brands. On the other end of the spectrum, I realized there are some unknown manufacturers offer something that looks like the high-end airbrushes, e.g., Iwata CM-C Plus. I hope you won't find my suggestions boring. I suppose most people won't have the budget to buy many airbrushes & many like myself has learn things the hard way wasting $ on the quest to find the most right tool.*"
 
 I don't have that particular airbrush that looks like **[Iwata CM-C Plus](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/)** to make a decent review but I happened to have the one that looks exactly as **Iwata CM-B** and that costs under 40 bucks with delivery and everything. The manufacturer is from China and the brush is called **Master Airbrush BD-200**.
 
@@ -17,63 +18,75 @@ It is a double action airbrush with regulation of paint amount. On the first loo
 
 So let's see if this is good stuff for small money.
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-36.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-36.jpg)
+## Physical Design and Appearance
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-4.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-4.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-36.webp)
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-10.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-10.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-4.webp)
+
+![](/images/wp-uploads/Master-Airbrush-Review-10.webp)
 
 A few closeups at the tool so you can see how it actually looks.
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-11.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-11.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-11.webp)
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-13.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-13.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-13.webp)
 
-You may see from the pictures above how this airbrush looks after some time and what the use of different paints and reducers  may cause for the chrome look (especially seen on the cup).
+You may see from the pictures above how this airbrush looks after some time and what the use of different paints and reducers  may cause for the chrome look (especially seen on the cup).
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-14.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-14.jpg)
+## Internal Components and Build Quality
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-15.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-15.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-14.webp)
+
+![](/images/wp-uploads/Master-Airbrush-Review-15.webp)
 
 Let's take it apart to see how it looks on the inside.
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-20.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-20.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-20.webp)
+
+### Needle Quality
 
 Closer look at the needle.
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-17.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-17.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-17.webp)
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-22.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-22.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-22.webp)
 
 I would like to apologize for my dirty hands but I think all painters will understand why they are dirty and that sometimes it is really difficult to get rid of all that paint.
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-24.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-24.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-24.webp)
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-25.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-25.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-25.webp)
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-26.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-26.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-26.webp)
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-27.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-27.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-27.webp)
+
+## Materials and Durability Issues
 
 In my opinion, so far this airbrush has too much useless parts that fail their purpose (if I compare it to any good brand airbrush). The quality of materials used for this tool is fairly good as in this price range you can't expect more. Huge minus here is that all the sealing (O-rings) are made of rubber so any good reducer will destroy them all very quickly. To solve this there is a small tweak that you can read [here](http://www.airbrushdoc.com/tipstricks/tuning-airbrush-evolution/).
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-32.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-32.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-32.webp)
+
+### Paint Compatibility
 
 I find it very difficult to control this airbrush while using **Createx** and **Auto-Air** paints. But with finer pigment ([Nitro](http://www.airbrushdoc.com/tipstricks/airbrushing-with-nitros/)) it works better until reducer will make its work on the packing.
 
 The best solution is probably to use **china ink** or something similar as it is very soft, does not smell and it's not toxic. Of course the use is limited (Can't do car airbrushing for example).
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-34.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-34.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-34.webp)
 
-[![](/wp-content/uploads/2012/03/Master-Airbrush-Review-36.jpg)](/wp-content/uploads/2012/03/Master-Airbrush-Review-36.jpg)
+![](/images/wp-uploads/Master-Airbrush-Review-36.webp)
+
+## Needle Centering and Performance Problems
 
 Another thing that I would like to point out is needle centering. Well it is far from something called **self-centering nozzle system** I mentioned in [H&S Infinity Review](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-infinity-review/). Actually there is no way to center the needle the proper way and it is not centered at all, the whole time. I could not make a proper snapshot so I made a drawing just to show you how it is actually centered :).
 
-[![](/wp-content/uploads/2012/03/master-airbrush-centering1.jpg)](/wp-content/uploads/2012/03/master-airbrush-centering1.jpg)
+![](/images/wp-uploads/master-airbrush-centering1.webp)
 
 1. needle, 2. nozzle, 3. air, 4. nozzle cap
 
-As you can see that the quality of needle and nozzle is very poor, **they are offset**. What does offset mean for everyday airbrushist? After you push the air and open the paint, offset will cause delay of paint delivery and paint is in different amount that you actually need. After a bit of time the paint won't come out at all so you'll be forced to pull the trigger even more to bring at least some paint but there is already a significant amount of paint collected inside that will just spit out at once and will make a blot on your painting. Very disappointing.
+As you can see that the quality of needle and nozzle is very poor, **they are offset**. What does offset mean for everyday airbrushist? After you push the air and open the paint, offset will cause delay of paint delivery and paint is in different amount that you actually need. After a bit of time the paint won't come out at all so you'll be forced to pull the trigger even more to bring at least some paint but there is already a significant amount of paint collected inside that will just spit out at once and will make a blot on your painting. Very disappointing.
 
 ## Conclusion
 
@@ -83,4 +96,4 @@ With this airbrush you can fix some scratches, paint some models, [cell phones](
 
 If you have tried something similar or have any other airbrushes that make bad name for airbrush art, please tell us in comments below and don't forget to tell your friends to be aware of such brands.
 
-I'm not saying that all Chinese airbrushes are bad and I'll be glad to check any other Chinese airbrush guns hoping they will score much better.
+I'm not saying that all Chinese airbrushes are bad and I'll be glad to check any other Chinese airbrush guns hoping they will score much better.

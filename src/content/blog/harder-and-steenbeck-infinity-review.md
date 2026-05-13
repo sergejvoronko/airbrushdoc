@@ -28,13 +28,13 @@ This airbrush is rated as **Hi-End class airbrush**. It means that it is one of 
 
 and the airbrush itself. The box isn't something like in set of **[Aztek 7778](http://www.airbrushdoc.com/airbrush-reviews/aztek-7778-airbrush/)** but it's nice too. This is basic set only, but there are more parts you can buy separately such as nozzles with different sizes, protective lids for cups (as the basic set comes without lids).
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-19-500x309.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-19.webp)
 
 ## The Technology of Infinity
 
 Similar to the previous patient it is equipped with **self-centering socket-type nozzle. **The pros of this nozzle is that it has no threads and fixes by nozzle cap from one side and by air pressure on the Teflon seal from other side.
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-2-500x238.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-2.webp)
 
 The trigger is regulated (by excenter technology), so it could be set to different levels (adjustable trigger resistance). This particular property makes this airbrush real double action.
 
@@ -42,29 +42,29 @@ That's not everything yet. The "**Quick-Fix**" mechanism adjusts the needle trav
 
 Quick adjust and release mechanism comes with a numbered dial. If you need a fine line detail all you do during your work is that you push the quick-fix button at the back of the airbrush, set the dial to desired (pre-tested) maximum and draw your line.
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-20-500x333.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-20.webp)
 
 On the next picture you can see two screws in opened quick fix (One is responsible for needle extinction and one for trigger adjustment). If you want to spray larger area pull the quick-fix button out and you are in full paint flow capacity. Push it back and you will get to fixed dial spray level again.
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-16-500x304.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-16.webp)
 
 Swap of the needle caps is literally plug and play. In combination with distance cap, ***Harder and Steenbeck Infinity Two in One ***becomes almost unbeatable.
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-10.gif)
+![](/images/wp/2011/05/Harder-Steenbeck-Infinity-10.gif)
 
 Two cups are beveled so it gives it some plus even comparing to Iwata and especially if you don't use a lid. To have a beveled cup is great because you can hold the brush even at accurate angle without spilling paint (that's probably the reason they ship it without lids, but you can additionally buy it if your type of work requires it).
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-21-500x333.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-21.webp)
 
 ## Cleaning of Infinity
 
 When it comes to cleaning, you will not have a problem pulling the gun apart and clean it, just be careful with the fine needle. Don't worry if you are taking the airbrush apart for first time because when you start putting it all back again you find that all parts will fit one way only.
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-18-500x334.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-18.webp)
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-22-500x333.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-22.webp)
 
-![](/wp-content/uploads/2011/05/Harder-Steenbeck-Infinity-23-500x333.jpg)
+![](/images/wp-uploads/Harder-Steenbeck-Infinity-23.webp)
 
 ## Functionality
 

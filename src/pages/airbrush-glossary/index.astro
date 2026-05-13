@@ -1,0 +1,198 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const terms = await getCollection('glossary');
+const sorted = terms.sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const CATEGORY_LABELS: Record<string, string> = {
+  equipment: 'Equipment',
+  technique: 'Technique',
+  paint: 'Paint & Materials',
+  measurement: 'Measurement',
+  problems: 'Problems & Fixes',
+  maintenance: 'Maintenance',
+};
+
+const categories = Object.keys(CATEGORY_LABELS);
+
+const byLetter: Record<string, typeof sorted> = {};
+for (const term of sorted) {
+  const letter = term.data.title[0].toUpperCase();
+  if (!byLetter[letter]) byLetter[letter] = [];
+  byLetter[letter].push(term);
+}
+const letters = Object.keys(byLetter).sort();
+---
+<BaseLayout
+  title="Airbrush Glossary — Complete A-Z Dictionary | AirbrushDOC"
+  description="Complete airbrush glossary with 55+ terms explained. From atomization and CFM to viscosity and zenithal priming — everything you need to know."
+>
+  <main class="abd-container">
+    <div class="blg-page-header">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>Airbrush Glossary</span>
+      </nav>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title">Airbrush <span class="blg-page-title-accent">Glossary</span></h1>
+        <span class="blg-post-count">{sorted.length} terms</span>
+      </div>
+      <p style="color: var(--abd-text-muted); font-size: 0.92rem; margin: 8px 0 0; max-width: 600px;">
+        Every airbrush term explained — from first-time questions to advanced technique vocabulary.
+      </p>
+      <div class="blg-header-line"></div>
+    </div>
+
+    <div class="gloss-category-bar">
+      <a class="gloss-cat-chip gloss-cat-active" href="#all">All</a>
+      {categories.map(cat => (
+        <a class="gloss-cat-chip" href={`#cat-${cat}`}>{CATEGORY_LABELS[cat]}</a>
+      ))}
+    </div>
+
+    <div class="gloss-alpha-nav">
+      {letters.map(l => (
+        <a href={`#letter-${l}`} class="gloss-alpha-link">{l}</a>
+      ))}
+    </div>
+
+    <div class="gloss-grid" id="all">
+      {letters.map(letter => (
+        <div class="gloss-letter-group">
+          <div class="gloss-letter-anchor" id={`letter-${letter}`}></div>
+          <h2 class="gloss-letter-heading">{letter}</h2>
+          <div class="gloss-terms-row">
+            {byLetter[letter].map(term => (
+              <a
+                href={`/airbrush-glossary/${term.data.slug}/`}
+                class="gloss-term-card"
+                id={`cat-${term.data.category}`}
+              >
+                <div class="gloss-term-name">{term.data.title}</div>
+                {term.data.description && (
+                  <div class="gloss-term-desc">{term.data.description}</div>
+                )}
+                <div class="gloss-term-cat">{CATEGORY_LABELS[term.data.category] ?? term.data.category}</div>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+.gloss-category-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 24px;
+}
+.gloss-cat-chip {
+  padding: 5px 14px;
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  border: 1px solid var(--abd-border);
+  color: var(--abd-text-muted);
+  text-decoration: none;
+  transition: all 0.15s;
+}
+.gloss-cat-chip:hover,
+.gloss-cat-active {
+  background: var(--abd-accent);
+  color: #fff;
+  border-color: var(--abd-accent);
+}
+.gloss-alpha-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0 0 36px;
+  padding: 12px 16px;
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-radius: 8px;
+}
+.gloss-alpha-link {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--abd-text);
+  transition: background 0.15s;
+}
+.gloss-alpha-link:hover {
+  background: var(--abd-accent);
+  color: #fff;
+}
+.gloss-grid {
+  padding-bottom: 80px;
+}
+.gloss-letter-group {
+  margin-bottom: 40px;
+  position: relative;
+}
+.gloss-letter-anchor {
+  position: absolute;
+  top: -80px;
+}
+.gloss-letter-heading {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--abd-accent);
+  margin: 0 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--abd-border);
+}
+.gloss-terms-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+}
+.gloss-term-card {
+  display: block;
+  padding: 16px 18px;
+  border: 1px solid var(--abd-border);
+  border-radius: 8px;
+  text-decoration: none;
+  background: var(--abd-surface);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.gloss-term-card:hover {
+  border-color: var(--abd-accent);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.gloss-term-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--abd-text);
+  margin-bottom: 4px;
+}
+.gloss-term-desc {
+  font-size: 0.8rem;
+  color: var(--abd-text-muted);
+  line-height: 1.4;
+  margin-bottom: 8px;
+}
+.gloss-term-cat {
+  font-size: 0.72rem;
+  color: var(--abd-accent);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+@media (max-width: 640px) {
+  .gloss-terms-row {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+</style>

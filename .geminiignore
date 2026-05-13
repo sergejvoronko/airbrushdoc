@@ -1,0 +1,31 @@
+# Dependencies and Build Artifacts
+node_modules/
+dist/
+build/
+.astro/
+
+# Logs and System Files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+
+# Environment and Sensitive Data
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# IDE and Editor Folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project-Specific Large Folders (Optional)
+# If you have a huge 'public' folder with videos/images, ignore it to save tokens
+# public/assets/videos/

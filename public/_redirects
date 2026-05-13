@@ -1,0 +1,155 @@
+# WordPress post URL redirects
+# /{category}/{slug}/ -> /blog/{slug}/ (301 permanent)
+
+/airbrush-reviews/airbrush-compressor-as189-review/  /blog/airbrush-compressor-as189-review/  301
+/airbrush-reviews/aztek-7778-airbrush/  /blog/aztek-7778-airbrush/  301
+/airbrush-reviews/badger-renegade-airbrush-review/  /blog/badger-renegade-airbrush-review/  301
+/airbrush-reviews/harder-and-steenbeck-evolution-two-in-one/  /blog/harder-and-steenbeck-evolution-two-in-one/  301
+/airbrush-reviews/harder-and-steenbeck-infinity-review/  /blog/harder-and-steenbeck-infinity-review/  301
+/airbrush-reviews/iwata-custom-micron-c-plus/  /blog/iwata-custom-micron-c-plus/  301
+/airbrush-reviews/master-airbrush-review/  /blog/master-airbrush-review/  301
+/airbrush-reviews/paasche-talon-problem/  /blog/paasche-talon-problem/  301
+/airbrush-reviews/paasche-talon/  /blog/paasche-talon/  301
+/beginners/15-basic-rules-of-airbrushing/  /blog/15-basic-rules-of-airbrushing/  301
+/beginners/advanced-guide-to-airbrush-colors/  /blog/advanced-guide-to-airbrush-colors/  301
+/beginners/air-compressor/  /blog/best-air-compressor/  301
+/beginners/airbrush-co2/  /blog/airbrush-co2/  301
+/beginners/best-air-compressor/  /blog/best-air-compressor/  301
+/beginners/choose-airbrush/  /blog/choose-airbrush/  301
+/beginners/cleaning-station-and-stand-in-one/  /blog/cleaning-station-and-stand-in-one/  301
+/beginners/homemade-airbrush-compressor/  /blog/homemade-airbrush-compressor/  301
+/beginners/i-want-to-do-airbrush-where-do-i-start/  /blog/i-want-to-do-airbrush-where-do-i-start/  301
+/beginners/prepare-surface-for-airbrush/  /blog/prepare-surface-for-airbrush/  301
+/beginners/start-airbrushing/  /blog/start-airbrushing/  301
+/beginners/tools-for-airbrush/  /blog/tools-for-airbrush/  301
+/discussion/5-awesome-articles-i-have-to-share/  /blog/5-awesome-articles-i-have-to-share/  301
+/discussion/airbrush-a-tiger/  /blog/airbrush-a-tiger/  301
+/discussion/airbrush-black-t-shirt-hulk/  /blog/airbrush-black-t-shirt-hulk/  301
+/discussion/airbrush-business/  /blog/airbrush-business/  301
+/discussion/airbrush-car-in-photoshop/  /blog/airbrush-car-in-photoshop/  301
+/discussion/airbrush-infographic/  /blog/airbrush-infographic/  301
+/discussion/airbrush-profit-not-making-knock-offs/  /blog/airbrush-profit-not-making-knock-offs/  301
+/discussion/airbrush-tutorial-scorpio/  /blog/airbrush-tutorial-scorpio/  301
+/discussion/airbrushing-on-polymer-clay/  /blog/airbrushing-on-polymer-clay/  301
+/discussion/airbrushing-with-nitros/  /blog/airbrushing-with-nitros/  301
+/discussion/best-airbrush/  /blog/best-airbrush/  301
+/discussion/diy-air-compressor/  /blog/diy-air-compressor/  301
+/discussion/diy-air-pressure-switch/  /blog/diy-air-pressure-switch/  301
+/discussion/diy-small-air-compressor/  /blog/diy-small-air-compressor/  301
+/discussion/diy-two-compressors/  /blog/diy-two-compressors/  301
+/discussion/fix-bent-needle/  /blog/fix-bent-needle/  301
+/discussion/fix-nozzle-bearing/  /blog/fix-nozzle-bearing/  301
+/discussion/free-airbrush-cleaning-station-really/  /blog/free-airbrush-cleaning-station-really/  301
+/discussion/how-to-get-inspiration-for-your-airbrush-art/  /blog/how-to-get-inspiration-for-your-airbrush-art/  301
+/discussion/how-to-make-a-stencil-in-coreldraw/  /blog/how-to-make-a-stencil-in-coreldraw/  301
+/discussion/how-to-make-layered-stencil-in-coreldraw/  /blog/how-to-make-layered-stencil-in-coreldraw/  301
+/discussion/how-to-make-your-own-airbrush/  /blog/how-to-make-your-own-airbrush/  301
+/discussion/how-to-polish-airbrush-needle/  /blog/how-to-polish-airbrush-needle/  301
+/discussion/how-to-set-up-the-air-pressure-switch/  /blog/how-to-set-up-the-air-pressure-switch/  301
+/discussion/oil-compressor/  /blog/oil-compressor/  301
+/discussion/paint-defects/  /blog/paint-defects/  301
+/discussion/red-airbrush-tutorial/  /blog/red-airbrush-tutorial/  301
+/discussion/silent-compressor/  /blog/silent-compressor/  301
+/discussion/talent-and-airbrushing/  /blog/talent-and-airbrushing/  301
+/discussion/the-story-of-love-airbrush-on-electric-kettle/  /blog/the-story-of-love-airbrush-on-electric-kettle/  301
+/discussion/tuning-airbrush-evolution/  /blog/tuning-airbrush-evolution/  301
+/discussion/what-is-my-art-worth/  /blog/what-is-my-art-worth/  301
+/download/50-skull-stencils-ai-cdr-eps-jpg/  /blog/50-skull-stencils-ai-cdr-eps-jpg/  301
+/download/fire-reference-pack-part2/  /blog/fire-reference-pack-part2/  301
+/download/fire-reference-pack/  /blog/fire-reference-pack/  301
+/download/multi-layer-stencils/  /blog/multi-layer-stencils/  301
+/download/ultimate-skull-reference-pack/  /blog/ultimate-skull-reference-pack/  301
+/gallery/airbrush-art-alexey-sulkovskiy/  /blog/airbrush-art-alexey-sulkovskiy/  301
+/gallery/airbrush-art-frank-gavere-mfa/  /blog/airbrush-art-frank-gavere-mfa/  301
+/gallery/airbrush-art-marlon-navarro/  /blog/airbrush-art-marlon-navarro/  301
+/gallery/airbrush-gallery-104img/  /blog/airbrush-gallery-104img/  301
+/gallery/airbrush-gallery-2/  /blog/airbrush-gallery-2/  301
+/gallery/airbrush-gallery-3/  /blog/airbrush-gallery-3/  301
+/gallery/airbrush-gallery-aerograf-2008-again/  /blog/airbrush-gallery-aerograf-2008-again/  301
+/gallery/airbrush-gallery/  /blog/airbrush-gallery/  301
+/gallery/airbrush-on-laptop/  /blog/airbrush-on-laptop/  301
+/gallery/airbrush-phone/  /blog/airbrush-phone/  301
+/gallery/airbrush-shockwave/  /blog/airbrush-shockwave/  301
+/gallery/airbrush-subwoofer-box-for-bmw/  /blog/airbrush-subwoofer-box-for-bmw/  301
+/gallery/airbrush-venetian-blinds-douglass-asselstine/  /blog/airbrush-venetian-blinds-douglass-asselstine/  301
+/gallery/airbrushed-ice-hockey-helmets/  /blog/airbrushed-ice-hockey-helmets/  301
+/gallery/airbrushed-toilet-seats/  /blog/airbrushed-toilet-seats/  301
+/gallery/alexandar-paunkovic-airbrush/  /blog/alexandar-paunkovic-airbrush/  301
+/gallery/animals-reference/  /blog/animals-reference/  301
+/gallery/camouflage-reference-stencils/  /blog/camouflage-reference-stencils/  301
+/gallery/colm-oconnor-airbrush-gallery/  /blog/colm-oconnor-airbrush-gallery/  301
+/gallery/federico-marrero-airbrush-art/  /blog/federico-marrero-airbrush-art/  301
+/gallery/free-stencils/  /blog/free-stencils/  301
+/gallery/habibulin-azat-airbrush-in-briansk/  /blog/habibulin-azat-airbrush-in-briansk/  301
+/gallery/inspired-aerograf-2008/  /blog/inspired-aerograf-2008/  301
+/gallery/inspired-again-aerografpro-ru/  /blog/inspired-again-aerografpro-ru/  301
+/gallery/j-w-baker-fantasy-and-wildlife-art/  /blog/j-w-baker-fantasy-and-wildlife-art/  301
+/gallery/monster-energy-car/  /blog/monster-energy-car/  301
+/gallery/mural-in-bedroom-video/  /blog/mural-in-bedroom-video/  301
+/gallery/painting-guitar/  /blog/painting-guitar/  301
+/gallery/permanent-or-temporary-3d-tattoo/  /blog/permanent-or-temporary-3d-tattoo/  301
+/gallery/real-fire-skulls/  /blog/real-fire-skulls/  301
+/gallery/steven-lane-airbrush-designs/  /blog/steven-lane-airbrush-designs/  301
+/gallery/street-art-airbrush/  /blog/street-art-airbrush/  301
+/gallery/vinylography-or-airbrushing-on-vinyl-foil/  /blog/vinylography-or-airbrushing-on-vinyl-foil/  301
+/history/1893-columbian-exposition-chicago/  /blog/1893-columbian-exposition-chicago/  301
+/history/airbrush-charles-burdick/  /blog/airbrush-charles-burdick/  301
+/history/airbrush-evolution-business/  /blog/airbrush-evolution-business/  301
+/history/handbook-airbrush/  /blog/handbook-airbrush/  301
+/history/paasche-big-name-in-airbrush-history/  /blog/paasche-big-name-in-airbrush-history/  301
+/history/who-invented-airbrush/  /blog/who-invented-airbrush/  301
+/tipstricks/painting-polymer-clay-forest-rogers/  /blog/painting-polymer-clay-forest-rogers/  301
+/video/airbrush-ducati-bike-exstudio/  /blog/airbrush-ducati-bike-exstudio/  301
+/video/art4car-airbrush-on-carbon-nissan-gtr/  /blog/art4car-airbrush-on-carbon-nissan-gtr/  301
+/video/hyperrealistic-art-marcello-barenghi/  /blog/hyperrealistic-art-marcello-barenghi/  301
+
+# Removed posts — 410 Gone (tells Google to deindex)
+/video/hyperrealistic-art-marcello-barenghi/    /410  410
+/video/art4car-airbrush-on-carbon-nissan-gtr/   /410  410
+/video/airbrush-ducati-bike-exstudio/           /410  410
+/discussion/how-to-get-inspiration-for-your-airbrush-art/  /410  410
+/blog/hyperrealistic-art-marcello-barenghi/     /410  410
+/blog/art4car-airbrush-on-carbon-nissan-gtr/    /410  410
+/blog/airbrush-ducati-bike-exstudio/            /410  410
+/blog/how-to-get-inspiration-for-your-airbrush-art/  /410  410
+
+# New article slugs — root-level aliases so links in content work
+/best-airbrush-for-beginners-2026/          /blog/best-airbrush-for-beginners-2026/          301
+/best-airbrush-kit-2026/                    /blog/best-airbrush-kit-2026/                    301
+/how-to-clean-airbrush/                     /blog/how-to-clean-airbrush/                     301
+/best-airbrush-for-miniatures/              /blog/best-airbrush-for-miniatures/              301
+/gravity-feed-vs-siphon-feed/               /blog/gravity-feed-vs-siphon-feed/               301
+/airbrush-needle-sizes/                     /blog/airbrush-needle-sizes/                     301
+/how-to-thin-acrylic-paint-for-airbrush/    /blog/how-to-thin-acrylic-paint-for-airbrush/    301
+/best-airbrush-for-t-shirts/               /blog/best-airbrush-for-t-shirts/                301
+/iwata-vs-harder-steenbeck/                 /blog/iwata-vs-harder-steenbeck/                 301
+/airbrush-accessories/                      /blog/airbrush-accessories/                      301
+/airbrush-troubleshooting-guide/            /blog/airbrush-troubleshooting-guide/            301
+/best-airbrush-for-cake-decorating/         /blog/best-airbrush-for-cake-decorating/         301
+/airbrush-faq/                              /blog/airbrush-faq/                              301
+/diy-airbrush-compressor/                   /blog/diy-airbrush-compressor/                   301
+
+# Slug variant aliases (links in content use alternate slugs)
+/airbrush-troubleshooting/                  /blog/airbrush-troubleshooting-guide/            301
+/airbrush-needle-sizes-explained/            /blog/airbrush-needle-sizes/                     301
+/gravity-feed-vs-siphon-feed-airbrush/      /blog/gravity-feed-vs-siphon-feed/               301
+/best-compressor-for-airbrush/              /blog/best-air-compressor/                       301
+/beginners/preparing-surfaces-for-airbrush/ /blog/prepare-surface-for-airbrush/             301
+
+# PrettyLinks affiliate redirects
+/go/3m-ultrafine  https://amzn.to/4sE64yL  301
+/go/badger-stynylrez-primer  https://amzn.to/46NUdpy  301
+/go/vallejo-surface-primer  https://amzn.to/40SIP8p  301
+/go/ak-interactive-gen-primer  https://amzn.to/46Ryvkt  301
+/go/citadel-spray-primers  https://amzn.to/4bdWCLD  301
+
+# Category index redirects
+/tipstricks/    /guides/    301
+/download/      /freebies/  301
+
+# Download posts → freebies page (content gated behind subscription)
+/blog/50-skull-stencils-ai-cdr-eps-jpg/    /freebies/    301
+/blog/fire-reference-pack/                  /freebies/    301
+/blog/fire-reference-pack-part2/            /freebies/    301
+/blog/multi-layer-stencils/                 /freebies/    301
+/blog/ultimate-skull-reference-pack/        /freebies/    301

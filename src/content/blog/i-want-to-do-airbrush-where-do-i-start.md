@@ -2,6 +2,8 @@
 title: "I Want to Do Airbrush. Where Do I Start?"
 description: "No matter if you just want to try or want to start airbrushing for sure or you manage to make money already, important thing is that you do it because it is you"
 pubDate: 2011-11-25
+heroImage: "/images/i-want-to-do-airbrush-where-do-i-start.webp"
+heroImageAlt: "Beginner unpacking their first airbrush kit"
 category: "beginners"
 tags: ["airbrush", "airbrush aditional income", "airbrush beginner", "hobby", "hobby as business", "killing time with airbrush", "learn airbrush", "make money", "making money", "mastering skills", "skills", "start airbrushing"]
 readingTime: 6

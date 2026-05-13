@@ -17,11 +17,27 @@ My name is **Aleksandar Paunkovic**. I am 18 years old and I live in Serbia. Vid
 
 My first art made with airbrush was portrait of **Robert de Niro**.
 
-[![Robert-de-Niro](/wp-content/uploads/2013/01/Robert-de-Niro-660x465.jpg)](/wp-content/uploads/2013/01/Robert-de-Niro.jpg)
+![Robert-de-Niro](/images/wp-uploads/Robert-de-Niro.webp)
 
 Here is the gallery that I've made with airbrush. Some of these artworks are really huge in dimensions.
 
-[gallery link="file" type="rectangular" ids="10161,10146,10160,10159,10158,10157,10155,10154,10153,10152,10151,10150,10149,10148,10147"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/yoda.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Gandalf.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Shepard-from-Mass-Effect-3-video-game.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-Downey-Jr.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-de-Niro-and-air-compressor.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-de-Niro-airbrush.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Rihana-aurbrush-portrait.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Liam-Neeson-as-Ras-al-Ghul-airbrush.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Gladiator-airbrush.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/first-metal-airbrush.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/customer-airbrush.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/custom-airbrush-1.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Crysis-Nanosuit-airbrush.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/BruceLee-airbrush.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Anthony-Hopkins-airbrush.webp" loading="lazy" /></div>
+</div>
 
 On YouTube you can watch some of my time lapse videos of airbrushing. Here are two of them.
 
@@ -41,8 +57,24 @@ And I use some paint from local seller for painting on walls, good enough for th
 
 Of course I didn't learn to be artist in those 10 months. I have had some experience with art before I've taken airbrush into my hands. Here are some drawings I have made with Graphite Pencils or my first drawing experience with charcoal - Portrait of Joker:
 
-[gallery link="file" type="rectangular" ids="10163,10164,10165,10166,10167,10168"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Armin-Mersmann.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Drawing.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Heath-Ledger.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Heath-Ledger-Joker-charcoal.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Hugh-Laurie.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Jean-Reno.webp" loading="lazy" /></div>
+</div>
 
-![avatar](/wp-content/uploads/2013/01/avatar.png)If you like my art you can follow my [YouTube channel](http://www.youtube.com/user/PaunArt) or become my [Facebook](http://www.facebook.com/Paunart) fan
-
-*You see that even with not the best quality airbrush you can create a great art. I think he deserves to be recognized as an artist, so please share the love...*
+<div class="abd-author-credit">
+  <img class="abd-author-avatar" src="/images/wp-uploads/avatar.webp" alt="Alexandar Paunkovic" />
+  <div class="abd-author-body">
+    <div class="abd-author-name">Alexandar Paunkovic</div>
+    <p class="abd-author-bio">Self-taught airbrush artist producing photorealistic portraits and automotive pieces with an entry-level Chinese airbrush (0.2mm nozzle).</p>
+    <div class="abd-author-links">
+      <a class="abd-author-link" href="http://www.youtube.com/user/PaunArt" target="_blank" rel="noopener">YouTube</a>
+      <a class="abd-author-link" href="http://www.facebook.com/Paunart" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <p class="abd-author-note">Even with not the best quality airbrush you can create great art. He deserves to be recognized — please share the love.</p>
+  </div>
+</div>

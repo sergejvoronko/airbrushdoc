@@ -5,7 +5,7 @@ pubDate: 2014-08-21
 category: "download"
 tags: ["airbrush fire", "airbrush fire reference", "fire reference pack", "reference for airbrush"]
 readingTime: 2
-draft: false
+draft: true
 heroImage: "/images/wp-uploads/fire-reference-pack.webp"
 ---
 
@@ -14,12 +14,25 @@ This pack was downloaded from one famous torrent tracker and I hope author of th
 
 ### Description of Fire Reference Pictures Pack
 
-- 254 pictures
+- over 250 high quality pictures
 - Various resolution, covering different aspects of fire.
 
 ### Samples of Fire Reference Pictures
 
-[gallery link="file" type="rectangular" ids="615,617,618,619,620,621,622,623,624,625,626,627"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/fire-reference-pack.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/aftermath-20.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp/2011/01/animations-24.gif" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/blazes-2.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/burning-cars-12.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/burning-man-5.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/candle-14.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/firefighters-13.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/fire-juggler-33.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/flames-3.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/matches-11.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wildfire-7.webp" loading="lazy" /></div>
+</div>
 
 ## Further Notes
 
@@ -29,9 +42,7 @@ I bet many of you are wondering how to make fire with the airbrush. It's kind of
 
 You may notice that there is not many pictures of smoke - that's because I'll cover smoke in the next pack, so stick around. Any comments are welcome. If you want to request or contribute to this pack you can find the contact information in 'readme.txt' file.
 Size of this pack is 145MB
-[sociallocker id="12884"]
-http://ge.tt/3CdWXkq/v/4
 
-## pass: airbrushDOC
+https://drive.google.com/file/d/115FiCWrWjxWFq-bVHXk_jSiyKGEX2Udw/view?usp=sharing
 
-[/sociallocker]
+

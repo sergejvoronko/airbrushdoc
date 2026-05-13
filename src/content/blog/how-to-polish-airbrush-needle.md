@@ -2,7 +2,7 @@
 title: "How to Polish Airbrush Needle?"
 description: "How to polish airbrush needle? Even if you belong to group of people that never done such thing as polishing the needle, be hold, I promise that one day you wil"
 pubDate: 2013-03-22
-category: "discussion"
+category: "guides"
 tags: ["abrasive ultra-fine", "airbrush", "needle", "polish", "polishing"]
 readingTime: 5
 draft: false

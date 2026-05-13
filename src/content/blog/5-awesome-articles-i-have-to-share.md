@@ -2,7 +2,7 @@
 title: "5 Awesome Articles I Have to Share"
 description: "When I was surfing the Net or clicked a link on facebook I have found some cool stuff to read and I share it here.."
 pubDate: 2011-03-29
-category: "discussion"
+category: "guides"
 tags: ["airbrush progress", "airbrush tattoo", "awesome articles", "diy compressor", "Fra Bartolomeo", "homemade airbrush compressor", "Jason Jones", "Mike Lavalle", "mini compressor", "silent compressor", "skull contest", "skull progress", "temporary tattoo"]
 readingTime: 3
 draft: false
@@ -13,7 +13,7 @@ Today I decided to post something that got my attention. When I was surfing the 
 
 ## FRA BARTOLOMMEO OF S. MARCO
 
-![](/wp-content/uploads/2011/03/artist-life.jpg)
+![](/images/wp-uploads/artist-life.webp)
 
 This one doesn't have that much to do with airbrushing but a lot about art. A bit of history or **biography of painter** of Florence,  **Fra Bartolomeo** (1472-1517). Really nice reading. To be honest I had to read it a few times as I got confused a couple of times by these names :).
 
@@ -21,7 +21,7 @@ This one doesn't have that much to do with airbrushing but a lot about art. A bi
 
 ## AIRBRUSH TATTOOS FOR FUN
 
-![](/wp-content/uploads/2011/03/temporary-tatoo-500x186.jpg)
+![](/images/wp-uploads/temporary-tatoo.webp)
 
 Really short and clear article from [blog-health-talk](http://blog-health-talk.virtuowl.com/health-and-your-body/tattoo-art/tattoo-airbushing/). This article contains some tips and advises for a party with **tatoo** or** temporary tatoo** solutions (as author says - try first before you go for a real one ...)
 
@@ -29,7 +29,7 @@ Really short and clear article from [blog-health-talk](http://blog-health-talk.v
 
 ## DIY MINI SILENT COMPRESSOR
 
-![](/wp-content/uploads/2011/03/compressor.jpg)
+![](/images/wp-uploads/compressor.webp)
 
 Jason Jones writes on his blog about his hobbies. One of the hobbies happened to be DIY compressors. He has few articles on the topic but this one deserves special attention. Even that I have built a few compressors by myself ([diy compressor](http://www.airbrushdoc.com/tipstricks/homemade-airbrush-compressor/) and [diy compressor 2](http://www.airbrushdoc.com/tipstricks/silent-compressor/)) they always looked like home-made. This guy made it look as it was manufactured. Spectacular job and awesome finish. If you would want to build compressor at home, you definitely have to read this article.
 
@@ -37,7 +37,7 @@ Jason Jones writes on his blog about his hobbies. One of the hobbies happened to
 
 ## THE LONG AND DUSTY ROAD...
 
-![](/wp-content/uploads/2011/03/mike.jpg)
+![](/images/wp-uploads/mike.webp)
 
 This article is special because it's written by my idol :).  I think Everyone knows **Mike Lavallee**. Lately I found out that he has a blog so I started to read it. To my surprise Mike has a good, human, easy to read type of writing. In this article he writes about his beginnings in car airbrushing. Awesome reading. Check his other posts as well.
 
@@ -45,7 +45,7 @@ This article is special because it's written by my idol :).  I think Everyone k
 
 ## SKULL CONTEST ENTRY
 
-![](/wp-content/uploads/2011/03/pharaohscale.jpg)
+![](/images/wp-uploads/pharaohscale.webp)
 
 The last one I present here doesn't have much to read, it's airbrushing work progress for **Skull contest entry on TheAirbrushForum **from start to finish. This one made it to the top 5 because I like that post and I'm big fan of the forum.
 

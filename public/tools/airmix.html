@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>AirMix — Airbrush Studio App</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Fraunces:ital,opsz,wght@0,9..144,700;1,9..144,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#0e1117; --bg2:#161b24; --bg3:#1c2535; --bg4:#232f42;
+  --orange:#F4671A; --ob:#FF7B2E; --og:rgba(244,103,26,0.13); --ob10:rgba(244,103,26,0.08);
+  --white:#edf2f8; --muted:#6a7d95; --dim:#2d3a4d; --border:#1c2a3a;
+  --green:#2ecc71; --blue:#3498db; --purple:#9b59b6; --red:#e74c3c;
+  --r:10px; --r-sm:7px; --r-lg:16px;
+  --nav-h:58px; --header-h:54px; --safe-b:env(safe-area-inset-bottom,0px);
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{height:100%}
+body{height:100%;font-family:'Outfit',sans-serif;background:var(--bg);color:var(--white);overflow:hidden;-webkit-tap-highlight-color:transparent}
+
+/* ── HEADER ── */
+.header{position:fixed;top:0;left:0;right:0;z-index:100;height:var(--header-h);background:var(--bg2);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 16px;gap:10px}
+.logo{font-family:'Fraunces',serif;font-size:1.15rem;font-weight:700;flex-shrink:0}.logo span{color:var(--orange)}
+.header-title{flex:1;font-size:.85rem;font-weight:600;color:var(--muted);text-align:center}
+.header-badge{background:var(--og);border:1px solid rgba(244,103,26,.25);border-radius:100px;padding:3px 10px;font-size:.65rem;font-weight:700;color:var(--orange);letter-spacing:.05em;white-space:nowrap}
+
+/* ── BOTTOM NAV ── */
+.nav{position:fixed;bottom:0;left:0;right:0;z-index:100;height:calc(var(--nav-h) + var(--safe-b));padding-bottom:var(--safe-b);background:var(--bg2);border-top:1px solid var(--border);display:flex;align-items:stretch}
+.nav-item{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;cursor:pointer;transition:all .15s;color:var(--muted);border:none;background:none;font-family:'Outfit',sans-serif;position:relative}
+.nav-item.active{color:var(--orange)}
+.nav-item.active::before{content:'';position:absolute;top:0;left:25%;right:25%;height:2px;background:var(--orange);border-radius:0 0 3px 3px}
+.nav-item svg{width:20px;height:20px}
+.nav-item span{font-size:.58rem;font-weight:600}
+
+/* ── PAGES ── */
+.pages{position:fixed;top:var(--header-h);left:0;right:0;bottom:calc(var(--nav-h) + var(--safe-b));overflow:hidden}
+.page{position:absolute;inset:0;overflow-y:auto;display:none;padding:16px;padding-bottom:24px}
+.page.active{display:block}
+.page::-webkit-scrollbar{width:3px}.page::-webkit-scrollbar-track{background:transparent}.page::-webkit-scrollbar-thumb{background:var(--dim);border-radius:2px}
+
+/* ── SHARED COMPONENTS ── */
+.page-header{margin-bottom:18px}
+.page-title{font-family:'Fraunces',serif;font-size:1.5rem;font-weight:700;line-height:1.1;margin-bottom:4px}
+.page-title span{color:var(--orange)}
+.page-sub{font-size:.8rem;color:var(--muted);line-height:1.5}
+
+.card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r-lg);padding:16px;margin-bottom:12px}
+.card-title{font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--orange);margin-bottom:12px;display:flex;align-items:center;gap:6px}
+
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:10px 18px;border-radius:var(--r);font-family:'Outfit',sans-serif;font-weight:700;font-size:.82rem;cursor:pointer;border:none;transition:all .15s;white-space:nowrap}
+.btn:active{transform:scale(.96)}
+.btn-primary{background:var(--orange);color:white}.btn-primary:active{background:var(--ob)}
+.btn-ghost{background:var(--bg3);border:1px solid var(--border);color:var(--muted)}.btn-ghost:hover{color:var(--white)}
+.btn-sm{padding:6px 12px;font-size:.72rem}
+.btn-danger{background:rgba(231,76,60,.15);border:1px solid rgba(231,76,60,.3);color:#e74c3c}
+.btn-success{background:rgba(46,204,113,.15);border:1px solid rgba(46,204,113,.3);color:var(--green)}
+
+.form-row{margin-bottom:12px}
+.form-label{font-size:.7rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:5px;display:block}
+.form-input{width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:var(--r-sm);padding:10px 12px;color:var(--white);font-family:'Outfit',sans-serif;font-size:.85rem;outline:none;transition:border-color .15s}
+.form-input:focus{border-color:rgba(244,103,26,.5)}
+.form-input::placeholder{color:var(--muted)}
+select.form-input{cursor:pointer}
+textarea.form-input{resize:vertical;min-height:80px}
+
+.form-row-2{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
+.form-row-3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:12px}
+
+.tag{display:inline-flex;align-items:center;gap:4px;padding:3px 8px;border-radius:100px;font-size:.65rem;font-weight:700}
+.tag-orange{background:var(--og);color:var(--orange);border:1px solid rgba(244,103,26,.25)}
+.tag-green{background:rgba(46,204,113,.1);color:var(--green);border:1px solid rgba(46,204,113,.25)}
+.tag-blue{background:rgba(52,152,219,.1);color:var(--blue);border:1px solid rgba(52,152,219,.25)}
+.tag-red{background:rgba(231,76,60,.1);color:var(--red);border:1px solid rgba(231,76,60,.25)}
+
+.slider-row{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.slider-row label{font-size:.72rem;color:var(--muted);min-width:70px}
+.slider-row .sv{font-size:.72rem;color:var(--orange);min-width:32px;text-align:right}
+input[type=range]{flex:1;-webkit-appearance:none;height:4px;background:var(--bg4);border-radius:2px;outline:none}
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:18px;height:18px;border-radius:50%;background:var(--orange);cursor:pointer}
+
+.toggle-row{display:flex;align-items:center;justify-content:space-between;padding:10px 0;border-bottom:1px solid var(--border)}
+.toggle-row:last-child{border-bottom:none}
+.toggle-label{font-size:.82rem;color:var(--white)}
+.toggle-sub{font-size:.7rem;color:var(--muted);margin-top:2px}
+.tog{position:relative;width:44px;height:26px;background:var(--bg4);border-radius:13px;cursor:pointer;transition:background .2s;flex-shrink:0;border:1px solid var(--border)}
+.tog.on{background:var(--orange);border-color:var(--orange)}
+.tog::after{content:'';position:absolute;width:20px;height:20px;background:white;border-radius:50%;top:2px;left:2px;transition:left .2s;box-shadow:0 1px 4px rgba(0,0,0,.3)}
+.tog.on::after{left:20px}
+
+.empty-state{text-align:center;padding:40px 20px;color:var(--muted)}
+.empty-state .es-icon{font-size:2.5rem;margin-bottom:10px;display:block}
+.empty-state p{font-size:.85rem;line-height:1.6;margin-bottom:14px}
+
+.search-bar{display:flex;gap:8px;margin-bottom:14px}
+.search-input{flex:1;background:var(--bg3);border:1px solid var(--border);border-radius:var(--r);padding:10px 14px;color:var(--white);font-family:'Outfit',sans-serif;font-size:.85rem;outline:none}
+.search-input:focus{border-color:rgba(244,103,26,.4)}
+.search-input::placeholder{color:var(--muted)}
+
+.list-item{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:14px;margin-bottom:8px;cursor:pointer;transition:all .15s;display:flex;gap:12px;align-items:flex-start}
+.list-item:active{border-color:rgba(244,103,26,.3);background:var(--og)}
+.list-item-body{flex:1;min-width:0}
+.list-item-title{font-weight:700;font-size:.9rem;margin-bottom:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.list-item-sub{font-size:.72rem;color:var(--muted);line-height:1.5}
+.list-item-icon{width:40px;height:40px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1.2rem;flex-shrink:0}
+
+.modal-overlay{position:fixed;inset:0;z-index:200;background:rgba(0,0,0,.7);backdrop-filter:blur(4px);display:none;align-items:flex-end;justify-content:center}
+.modal-overlay.open{display:flex}
+.modal{background:var(--bg2);border-radius:20px 20px 0 0;border-top:1px solid var(--border);width:100%;max-height:90vh;overflow-y:auto;padding:0 16px 32px}
+.modal-handle{width:36px;height:4px;background:var(--dim);border-radius:2px;margin:12px auto 0}
+.modal-title{font-family:'Fraunces',serif;font-size:1.1rem;font-weight:700;padding:12px 0 16px;border-bottom:1px solid var(--border);margin-bottom:16px}
+.modal-title span{color:var(--orange)}
+
+/* ─────────────────────────────────
+   PAGE 1 — FORMULA LOGGER
+───────────────────────────────── */
+.formula-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:8px}
+.formula-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r-lg);padding:14px;cursor:pointer;transition:all .2s;position:relative;overflow:hidden}
+.formula-card:active{border-color:rgba(244,103,26,.4);transform:scale(.98)}
+.formula-card-name{font-weight:700;font-size:.85rem;margin-bottom:6px;line-height:1.2}
+.formula-card-swatches{display:flex;gap:3px;margin-bottom:6px;border-radius:5px;overflow:hidden;height:10px}
+.formula-card-swatch{flex:1;height:100%}
+.formula-card-meta{font-size:.65rem;color:var(--muted);line-height:1.6}
+.formula-card-brand{display:inline-block;background:var(--og);color:var(--orange);border-radius:4px;padding:1px 6px;font-size:.6rem;font-weight:700;margin-bottom:4px}
+.formula-card-del{position:absolute;top:8px;right:8px;background:rgba(231,76,60,.15);border:none;color:#e74c3c;width:22px;height:22px;border-radius:5px;font-size:.75rem;cursor:pointer;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .15s}
+.formula-card:hover .formula-card-del{opacity:1}
+
+/* Mix builder */
+.mix-parts{display:flex;flex-direction:column;gap:6px;margin-bottom:10px}
+.mix-part-row{display:flex;gap:8px;align-items:center}
+.mix-part-color{width:32px;height:32px;border-radius:6px;border:2px solid var(--border);cursor:pointer;flex-shrink:0}
+.mix-part-name{flex:1;min-width:0}
+.mix-part-ratio{width:60px}
+.mix-part-remove{background:none;border:none;color:var(--muted);cursor:pointer;font-size:1rem;padding:4px;flex-shrink:0}
+.mix-part-remove:active{color:var(--red)}
+.color-input-hidden{opacity:0;position:absolute;width:0;height:0}
+
+.mix-preview{height:18px;border-radius:6px;overflow:hidden;display:flex;margin-bottom:8px}
+.mix-preview-seg{height:100%;transition:flex .3s}
+
+/* ─────────────────────────────────
+   PAGE 2 — RATIO CALCULATOR
+───────────────────────────────── */
+.ratio-result{background:linear-gradient(135deg,var(--og),var(--ob10));border:1px solid rgba(244,103,26,.25);border-radius:var(--r-lg);padding:20px;text-align:center;margin-bottom:12px}
+.ratio-big{font-family:'Fraunces',serif;font-size:2.8rem;font-weight:700;color:var(--orange);line-height:1}
+.ratio-label{font-size:.78rem;color:var(--muted);margin-top:4px}
+.ratio-visual{display:flex;height:32px;border-radius:8px;overflow:hidden;margin:14px 0;border:1px solid var(--border)}
+.ratio-seg{display:flex;align-items:center;justify-content:center;font-size:.65rem;font-weight:700;transition:flex .4s}
+.ratio-seg.paint{background:#F4671A;color:white}
+.ratio-seg.reducer{background:#1c3a5c;color:#7ab;border-left:2px solid var(--border)}
+
+.warning-box{border-radius:var(--r);padding:12px 14px;margin-bottom:8px;font-size:.78rem;line-height:1.5;display:flex;gap:8px;align-items:flex-start}
+.warning-box .wi{font-size:1rem;flex-shrink:0;margin-top:1px}
+.warning-warn{background:rgba(241,196,83,.1);border:1px solid rgba(241,196,83,.3);color:#f1c453}
+.warning-ok{background:rgba(46,204,113,.1);border:1px solid rgba(46,204,113,.25);color:var(--green)}
+.warning-bad{background:rgba(231,76,60,.1);border:1px solid rgba(231,76,60,.25);color:var(--red)}
+
+.psi-gauge{position:relative;height:80px;margin:10px 0}
+.psi-arc{width:100%;height:80px}
+
+.preset-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.chip{padding:6px 12px;border-radius:100px;font-size:.72rem;font-weight:600;cursor:pointer;border:1px solid var(--border);background:var(--bg3);color:var(--muted);transition:all .15s}
+.chip:active{transform:scale(.95)}
+.chip.active{background:var(--og);border-color:rgba(244,103,26,.4);color:var(--orange)}
+
+/* ─────────────────────────────────
+   PAGE 3 — PROJECT LOGBOOK
+───────────────────────────────── */
+.project-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r-lg);padding:14px;margin-bottom:10px;cursor:pointer;transition:all .15s}
+.project-card:active{border-color:rgba(244,103,26,.35);transform:scale(.99)}
+.project-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:8px}
+.project-title{font-weight:700;font-size:.95rem}
+.project-date{font-size:.65rem;color:var(--muted)}
+.project-tags{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px}
+.project-paints{display:flex;gap:4px;margin-top:8px;flex-wrap:wrap}
+.project-paint-dot{width:14px;height:14px;border-radius:50%;border:1.5px solid rgba(255,255,255,.15);flex-shrink:0}
+.project-meta{display:flex;gap:14px;margin-top:8px}
+.project-meta-item{font-size:.7rem;color:var(--muted)}
+.project-meta-item strong{color:var(--white)}
+.project-notes{font-size:.75rem;color:var(--muted);line-height:1.5;margin-top:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+/* ─────────────────────────────────
+   PAGE 4 — NEEDLE / NOZZLE GUIDE
+───────────────────────────────── */
+.guide-tabs{display:flex;gap:4px;background:var(--bg3);padding:4px;border-radius:var(--r);margin-bottom:14px;border:1px solid var(--border)}
+.guide-tab{flex:1;padding:8px;border-radius:var(--r-sm);font-size:.72rem;font-weight:700;cursor:pointer;border:none;background:transparent;color:var(--muted);font-family:'Outfit',sans-serif;transition:all .15s;text-align:center}
+.guide-tab.active{background:var(--orange);color:white}
+
+.needle-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r-lg);padding:14px;margin-bottom:8px}
+.needle-size{font-family:'Fraunces',serif;font-size:1.6rem;font-weight:700;color:var(--orange)}
+.needle-name{font-size:.8rem;color:var(--muted);margin-bottom:8px}
+.needle-bars{display:flex;flex-direction:column;gap:4px;margin-bottom:8px}
+.needle-bar-row{display:flex;align-items:center;gap:8px}
+.needle-bar-label{font-size:.65rem;color:var(--muted);width:60px}
+.needle-bar-track{flex:1;height:6px;background:var(--bg4);border-radius:3px;overflow:hidden}
+.needle-bar-fill{height:100%;border-radius:3px;background:var(--orange);transition:width .4s}
+.needle-tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.needle-best-for{font-size:.72rem;color:var(--muted);margin-bottom:6px;line-height:1.5}
+
+.brand-filter{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:12px}
+.psi-table{width:100%;border-collapse:collapse}
+.psi-table th{font-size:.65rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--orange);padding:8px 10px;text-align:left;border-bottom:1px solid var(--border)}
+.psi-table td{font-size:.78rem;padding:8px 10px;border-bottom:1px solid rgba(30,42,56,.5);vertical-align:top}
+.psi-table tr:last-child td{border-bottom:none}
+
+/* ─────────────────────────────────
+   PAGE 5 — COLOR HARMONY
+───────────────────────────────── */
+.color-wheel-wrap{display:flex;justify-content:center;margin:10px 0 16px}
+canvas#wheelCanvas{border-radius:50%;cursor:crosshair;touch-action:none}
+.harmony-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-bottom:14px}
+.harmony-swatch{border-radius:var(--r);aspect-ratio:1;cursor:pointer;border:2px solid transparent;transition:all .2s;position:relative}
+.harmony-swatch.selected{border-color:white;transform:scale(1.08)}
+.harmony-swatch-label{position:absolute;bottom:-16px;left:50%;transform:translateX(-50%);font-size:.55rem;color:var(--muted);white-space:nowrap}
+
+.harmony-mode-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:12px}
+.harmony-mode-btn{padding:10px;border-radius:var(--r-sm);border:1px solid var(--border);background:var(--bg3);color:var(--muted);font-family:'Outfit',sans-serif;font-size:.72rem;font-weight:600;cursor:pointer;text-align:center;transition:all .15s}
+.harmony-mode-btn.active{background:var(--og);border-color:rgba(244,103,26,.4);color:var(--orange)}
+
+.paint-match-list{display:flex;flex-direction:column;gap:6px}
+.paint-match{display:flex;align-items:center;gap:10px;background:var(--bg3);border-radius:var(--r-sm);padding:10px 12px;border:1px solid var(--border)}
+.paint-match-dot{width:32px;height:32px;border-radius:8px;flex-shrink:0;border:1.5px solid rgba(255,255,255,.1)}
+.paint-match-info{flex:1;min-width:0}
+.paint-match-name{font-size:.8rem;font-weight:700}
+.paint-match-brand{font-size:.65rem;color:var(--muted)}
+.paint-match-code{font-size:.65rem;color:var(--orange);font-weight:600}
+.paint-match-dist{font-size:.65rem;color:var(--muted)}
+
+/* Scrollbar on modals */
+.modal::-webkit-scrollbar{width:3px}.modal::-webkit-scrollbar-thumb{background:var(--dim);border-radius:2px}
+
+@media(min-width:600px){
+  .formula-grid{grid-template-columns:repeat(3,1fr)}
+  .form-row-2{grid-template-columns:repeat(3,1fr)}
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="logo">Air<span>Mix</span></div>
+  <div class="header-title" id="headerTitle">Formula Logger</div>
+  <div class="header-badge">Beta</div>
+</div>
+
+<!-- PAGES -->
+<div class="pages">
+
+  <!-- ══════════════════════════════════
+       PAGE 1: FORMULA LOGGER
+  ══════════════════════════════════ -->
+  <div class="page active" id="page-formulas">
+    <div class="page-header">
+      <div class="page-title">Paint <span>Formulas</span></div>
+      <div class="page-sub">Save and reproduce your perfect mixes every time</div>
+    </div>
+
+    <div class="search-bar">
+      <input class="search-input" id="formulaSearch" placeholder="🔍  Search formulas..." oninput="filterFormulas()">
+      <button class="btn btn-primary btn-sm" onclick="openModal('formulaModal')">+ New</button>
+    </div>
+
+    <div id="formulaGrid" class="formula-grid"></div>
+    <div id="formulaEmpty" class="empty-state" style="display:none">
+      <span class="es-icon">🧪</span>
+      <p>No formulas saved yet.<br>Tap <strong>+ New</strong> to create your first mix.</p>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       PAGE 2: RATIO CALCULATOR
+  ══════════════════════════════════ -->
+  <div class="page" id="page-ratio">
+    <div class="page-header">
+      <div class="page-title">Ratio <span>Calculator</span></div>
+      <div class="page-sub">Get perfect paint-to-reducer ratios for any setup</div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">⚙️ Your Setup</div>
+      <div class="form-row">
+        <label class="form-label">Paint Brand</label>
+        <select class="form-input" id="rcBrand" onchange="calcRatio()">
+          <option value="createx">Createx (standard)</option>
+          <option value="createx-wicked">Wicked Colors (Createx)</option>
+          <option value="autoair">Auto-Air Colors</option>
+          <option value="etac">E'TAC EFX</option>
+          <option value="com-art">Com-Art</option>
+          <option value="badger">Badger Air-Opaque</option>
+          <option value="golden">Golden High Flow</option>
+          <option value="vallejo">Vallejo Air</option>
+          <option value="tamiya">Tamiya Lacquer</option>
+          <option value="house-of-kolor">House of Kolor</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <label class="form-label">Substrate / Surface</label>
+        <select class="form-input" id="rcSubstrate" onchange="calcRatio()">
+          <option value="tshirt">T-Shirt / Fabric</option>
+          <option value="canvas">Canvas</option>
+          <option value="bodyart">Body Art / Face</option>
+          <option value="model">Scale Model / Miniature</option>
+          <option value="automotive">Automotive / Metal</option>
+          <option value="leather">Leather</option>
+          <option value="plastic">Plastic / Resin</option>
+          <option value="paper">Paper / Illustration</option>
+          <option value="nail">Nail Art</option>
+          <option value="cake">Cake / Food</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <label class="form-label">Airbrush PSI: <span id="rcPsiLabel" style="color:var(--orange)">15</span> PSI</label>
+        <input type="range" id="rcPsi" min="5" max="45" value="15" oninput="document.getElementById('rcPsiLabel').textContent=this.value;calcRatio()">
+      </div>
+      <div class="form-row">
+        <label class="form-label">Needle Size</label>
+        <select class="form-input" id="rcNeedle" onchange="calcRatio()">
+          <option value="0.2">0.2mm — Ultra fine detail</option>
+          <option value="0.3" selected>0.3mm — Fine detail</option>
+          <option value="0.4">0.4mm — General purpose</option>
+          <option value="0.5">0.5mm — Medium coverage</option>
+          <option value="0.8">0.8mm — Broad strokes</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <label class="form-label">Application Type</label>
+        <div class="preset-chips" id="rcApplication">
+          <div class="chip active" data-app="detail">Fine Detail</div>
+          <div class="chip" data-app="general">General</div>
+          <div class="chip" data-app="base">Base Coat</div>
+          <div class="chip" data-app="fade">Fades/Blends</div>
+          <div class="chip" data-app="opaque">Opaque Coverage</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="ratioResult" class="ratio-result">
+      <div class="ratio-big" id="ratioDisplay">3 : 1</div>
+      <div class="ratio-label" id="ratioDesc">Paint : Reducer (parts)</div>
+      <div class="ratio-visual">
+        <div class="ratio-seg paint" id="ratioPaint" style="flex:3">🎨 Paint</div>
+        <div class="ratio-seg reducer" id="ratioReducer" style="flex:1">💧 Reducer</div>
+      </div>
+    </div>
+
+    <div id="ratioWarnings"></div>
+
+    <div class="card">
+      <div class="card-title">📏 Volume Calculator</div>
+      <div class="form-row-2">
+        <div>
+          <label class="form-label">Total Volume (ml)</label>
+          <input class="form-input" type="number" id="vcTotal" value="5" min="1" max="100" oninput="calcVolume()">
+        </div>
+        <div>
+          <label class="form-label">Ratio (paint:reducer)</label>
+          <input class="form-input" type="text" id="vcRatio" value="3:1" oninput="calcVolume()">
+        </div>
+      </div>
+      <div id="vcResult" style="background:var(--bg3);border:1px solid var(--border);border-radius:var(--r-sm);padding:12px;font-size:.82rem;line-height:2;text-align:center"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">💡 Reducer Quick Reference</div>
+      <table class="psi-table" style="width:100%">
+        <thead><tr><th>Brand</th><th>Recommended Reducer</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Createx</td><td>4011 Reducer</td><td>1–2 drops per 5ml</td></tr>
+          <tr><td>Wicked Colors</td><td>4011 / 4012 Balancing Clear</td><td>Start 10–15% reducer</td></tr>
+          <tr><td>Auto-Air</td><td>4011 or water</td><td>Distilled water works</td></tr>
+          <tr><td>E'TAC EFX</td><td>EFX Reducer</td><td>Very little needed</td></tr>
+          <tr><td>Tamiya</td><td>Lacquer Thinner X-20A</td><td>Ventilate well</td></tr>
+          <tr><td>Golden High Flow</td><td>Airbrush Medium</td><td>Or distilled water</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       PAGE 3: PROJECT LOGBOOK
+  ══════════════════════════════════ -->
+  <div class="page" id="page-projects">
+    <div class="page-header">
+      <div class="page-title">Project <span>Logbook</span></div>
+      <div class="page-sub">Track every piece you've ever sprayed</div>
+    </div>
+
+    <div class="search-bar">
+      <input class="search-input" id="projectSearch" placeholder="🔍  Search projects..." oninput="filterProjects()">
+      <button class="btn btn-primary btn-sm" onclick="openModal('projectModal')">+ Log</button>
+    </div>
+
+    <div style="display:flex;gap:6px;margin-bottom:12px;overflow-x:auto;padding-bottom:4px">
+      <div class="chip active" data-filter="all" onclick="setProjectFilter(this,'all')">All</div>
+      <div class="chip" data-filter="in-progress" onclick="setProjectFilter(this,'in-progress')">In Progress</div>
+      <div class="chip" data-filter="completed" onclick="setProjectFilter(this,'completed')">Completed</div>
+      <div class="chip" data-filter="fabric" onclick="setProjectFilter(this,'fabric')">Fabric</div>
+      <div class="chip" data-filter="automotive" onclick="setProjectFilter(this,'automotive')">Auto</div>
+      <div class="chip" data-filter="model" onclick="setProjectFilter(this,'model')">Models</div>
+    </div>
+
+    <div id="projectList"></div>
+    <div id="projectEmpty" class="empty-state" style="display:none">
+      <span class="es-icon">📓</span>
+      <p>No projects logged yet.<br>Tap <strong>+ Log</strong> to record your first project.</p>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       PAGE 4: NEEDLE/NOZZLE GUIDE
+  ══════════════════════════════════ -->
+  <div class="page" id="page-guide">
+    <div class="page-header">
+      <div class="page-title">Needle & <span>Nozzle</span></div>
+      <div class="page-sub">Find the right setup for every task</div>
+    </div>
+
+    <div class="guide-tabs">
+      <button class="guide-tab active" onclick="switchGuideTab('needles',this)">Needle Sizes</button>
+      <button class="guide-tab" onclick="switchGuideTab('psi',this)">PSI Guide</button>
+      <button class="guide-tab" onclick="switchGuideTab('brands',this)">By Brand</button>
+    </div>
+
+    <div id="guideNeedles">
+      <div class="brand-filter" id="needleFilter">
+        <div class="chip active" data-nf="all" onclick="filterNeedles(this,'all')">All Uses</div>
+        <div class="chip" data-nf="detail" onclick="filterNeedles(this,'detail')">Detail</div>
+        <div class="chip" data-nf="general" onclick="filterNeedles(this,'general')">General</div>
+        <div class="chip" data-nf="coverage" onclick="filterNeedles(this,'coverage')">Coverage</div>
+        <div class="chip" data-nf="fabric" onclick="filterNeedles(this,'fabric')">Fabric</div>
+      </div>
+      <div id="needleCards"></div>
+    </div>
+
+    <div id="guidePsi" style="display:none">
+      <div class="card">
+        <div class="card-title">💨 PSI Ranges by Task</div>
+        <table class="psi-table">
+          <thead><tr><th>Task</th><th>PSI Range</th><th>Tips</th></tr></thead>
+          <tbody id="psiTableBody"></tbody>
+        </table>
+      </div>
+      <div class="card">
+        <div class="card-title">⚠️ Common PSI Mistakes</div>
+        <div id="psiMistakes"></div>
+      </div>
+    </div>
+
+    <div id="guideBrands" style="display:none">
+      <div id="brandCards"></div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       PAGE 5: COLOR HARMONY
+  ══════════════════════════════════ -->
+  <div class="page" id="page-color">
+    <div class="page-header">
+      <div class="page-title">Color <span>Harmony</span></div>
+      <div class="page-sub">Build palettes and find real paint matches</div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🎨 Base Color</div>
+      <div style="display:flex;gap:10px;align-items:center;margin-bottom:12px">
+        <div id="baseColorSwatch" style="width:52px;height:52px;border-radius:var(--r);border:2px solid var(--border);cursor:pointer;flex-shrink:0;background:#F4671A" onclick="document.getElementById('baseColorPicker').click()"></div>
+        <input type="color" id="baseColorPicker" value="#F4671A" style="display:none" oninput="updateHarmony()">
+        <div style="flex:1">
+          <input class="form-input" id="hexInput" value="#F4671A" placeholder="#HEX" style="margin-bottom:6px" oninput="hexChanged()">
+          <div style="display:flex;gap:6px;font-size:.7rem;color:var(--muted)" id="hslDisplay"></div>
+        </div>
+      </div>
+      <div class="color-wheel-wrap"><canvas id="wheelCanvas" width="200" height="200"></canvas></div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🔄 Harmony Mode</div>
+      <div class="harmony-mode-grid">
+        <button class="harmony-mode-btn active" data-mode="complementary" onclick="setHarmonyMode(this)">Complementary</button>
+        <button class="harmony-mode-btn" data-mode="triadic" onclick="setHarmonyMode(this)">Triadic</button>
+        <button class="harmony-mode-btn" data-mode="analogous" onclick="setHarmonyMode(this)">Analogous</button>
+        <button class="harmony-mode-btn" data-mode="split" onclick="setHarmonyMode(this)">Split-Comp</button>
+        <button class="harmony-mode-btn" data-mode="tetradic" onclick="setHarmonyMode(this)">Tetradic</button>
+        <button class="harmony-mode-btn" data-mode="monochromatic" onclick="setHarmonyMode(this)">Monochromatic</button>
+      </div>
+      <div style="position:relative;padding-top:28px;margin-bottom:6px">
+        <div class="harmony-grid" id="harmonySwatches"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🛒 Real Paint Matches</div>
+      <div class="form-row">
+        <select class="form-input" id="matchBrand" onchange="updateMatches()">
+          <option value="all">All Brands</option>
+          <option value="createx">Createx</option>
+          <option value="autoair">Auto-Air</option>
+          <option value="wicked">Wicked Colors</option>
+          <option value="etac">E'TAC</option>
+          <option value="com-art">Com-Art</option>
+        </select>
+      </div>
+      <div class="paint-match-list" id="paintMatchList"></div>
+    </div>
+  </div>
+
+</div><!-- end pages -->
+
+<!-- BOTTOM NAV -->
+<div class="nav">
+  <button class="nav-item active" onclick="switchPage('formulas',this)">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 3H5a2 2 0 00-2 2v4m6-6h10a2 2 0 012 2v4M9 3v18m0 0h10a2 2 0 002-2V9M9 21H5a2 2 0 01-2-2V9m0 0h18"/></svg>
+    <span>Formulas</span>
+  </button>
+  <button class="nav-item" onclick="switchPage('ratio',this)">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3v3a2 2 0 01-2 2H3m18 0h-3a2 2 0 01-2-2V3m0 18v-3a2 2 0 012-2h3M3 16h3a2 2 0 012 2v3"/></svg>
+    <span>Ratios</span>
+  </button>
+  <button class="nav-item" onclick="switchPage('projects',this)">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14,2 14,8 20,8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+    <span>Logbook</span>
+  </button>
+  <button class="nav-item" onclick="switchPage('guide',this)">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+    <span>Guide</span>
+  </button>
+  <button class="nav-item" onclick="switchPage('color',this)">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="13.5" cy="6.5" r="2.5"/><circle cx="17.5" cy="10.5" r="2.5"/><circle cx="8.5" cy="7.5" r="2.5"/><circle cx="6.5" cy="12.5" r="2.5"/><path d="M12 22c4.42 0 8-1.79 8-4s-3.58-4-8-4c-1.5 0-2.91.27-4.08.74"/><path d="M4 20s0-3 4-4.5"/></svg>
+    <span>Colors</span>
+  </button>
+</div>
+
+<!-- ══════════════════════════════
+     MODALS
+══════════════════════════════ -->
+<!-- Formula Modal -->
+<div class="modal-overlay" id="formulaModal" onclick="if(event.target===this)closeModal('formulaModal')">
+  <div class="modal">
+    <div class="modal-handle"></div>
+    <div class="modal-title">New <span>Formula</span></div>
+    <div class="form-row"><label class="form-label">Formula Name</label><input class="form-input" id="fName" placeholder="e.g. Candy Red, Sky Blue"></div>
+    <div class="form-row-2">
+      <div><label class="form-label">Paint Brand</label>
+        <select class="form-input" id="fBrand">
+          <option>Createx</option><option>Wicked Colors</option><option>Auto-Air</option><option>E'TAC EFX</option><option>Com-Art</option><option>Badger</option><option>Golden</option><option>Vallejo</option><option>Tamiya</option><option>House of Kolor</option><option>Custom</option>
+        </select>
+      </div>
+      <div><label class="form-label">Surface</label>
+        <select class="form-input" id="fSurface">
+          <option>Fabric</option><option>Canvas</option><option>Model</option><option>Automotive</option><option>Leather</option><option>Plastic</option><option>Paper</option><option>Body Art</option>
+        </select>
+      </div>
+    </div>
+    <div class="form-row">
+      <label class="form-label">PSI Setting</label>
+      <input class="form-input" type="number" id="fPsi" placeholder="e.g. 15" min="1" max="60">
+    </div>
+    <div class="form-row">
+      <label class="form-label" style="display:flex;justify-content:space-between">Mix Parts <button class="btn btn-ghost btn-sm" onclick="addMixPart()" style="padding:2px 8px;font-size:.65rem">+ Add</button></label>
+      <div class="mix-parts" id="mixParts"></div>
+      <div class="mix-preview" id="mixPreview"></div>
+    </div>
+    <div class="form-row">
+      <label class="form-label">Reducer Ratio</label>
+      <input class="form-input" id="fReducerRatio" placeholder="e.g. 3:1 paint to reducer">
+    </div>
+    <div class="form-row">
+      <label class="form-label">Notes</label>
+      <textarea class="form-input" id="fNotes" placeholder="Tip dry? Curing time? Anything special..."></textarea>
+    </div>
+    <div style="display:flex;gap:8px;margin-top:4px">
+      <button class="btn btn-ghost" style="flex:1" onclick="closeModal('formulaModal')">Cancel</button>
+      <button class="btn btn-primary" style="flex:2" onclick="saveFormula()">💾 Save Formula</button>
+    </div>
+  </div>
+</div>
+
+<!-- Project Modal -->
+<div class="modal-overlay" id="projectModal" onclick="if(event.target===this)closeModal('projectModal')">
+  <div class="modal">
+    <div class="modal-handle"></div>
+    <div class="modal-title">Log <span>Project</span></div>
+    <div class="form-row"><label class="form-label">Project Name</label><input class="form-input" id="pName" placeholder="e.g. Custom helmet, Portrait commission"></div>
+    <div class="form-row-2">
+      <div><label class="form-label">Category</label>
+        <select class="form-input" id="pCategory">
+          <option value="fabric">Fabric / T-Shirt</option><option value="automotive">Automotive</option><option value="model">Scale Model</option><option value="canvas">Canvas / Fine Art</option><option value="bodyart">Body Art</option><option value="leather">Leather</option><option value="other">Other</option>
+        </select>
+      </div>
+      <div><label class="form-label">Status</label>
+        <select class="form-input" id="pStatus">
+          <option value="in-progress">In Progress</option><option value="completed">Completed</option><option value="paused">Paused</option>
+        </select>
+      </div>
+    </div>
+    <div class="form-row-3">
+      <div><label class="form-label">PSI</label><input class="form-input" type="number" id="pPsi" placeholder="15"></div>
+      <div><label class="form-label">Needle</label><input class="form-input" id="pNeedle" placeholder="0.3mm"></div>
+      <div><label class="form-label">Hours</label><input class="form-input" type="number" id="pHours" placeholder="2"></div>
+    </div>
+    <div class="form-row"><label class="form-label">Paints Used (comma separated)</label><input class="form-input" id="pPaints" placeholder="e.g. Createx Candy Red, Auto-Air White"></div>
+    <div class="form-row"><label class="form-label">Client / Purpose</label><input class="form-input" id="pClient" placeholder="Personal, Commission, etc."></div>
+    <div class="form-row"><label class="form-label">Notes & Technique</label><textarea class="form-input" id="pNotes" placeholder="What worked, what didn't, techniques used..."></textarea></div>
+    <div style="display:flex;gap:8px;margin-top:4px">
+      <button class="btn btn-ghost" style="flex:1" onclick="closeModal('projectModal')">Cancel</button>
+      <button class="btn btn-primary" style="flex:2" onclick="saveProject()">💾 Save Project</button>
+    </div>
+  </div>
+</div>
+
+<!-- Detail Modals -->
+<div class="modal-overlay" id="formulaDetailModal" onclick="if(event.target===this)closeModal('formulaDetailModal')">
+  <div class="modal"><div class="modal-handle"></div><div id="formulaDetailContent"></div></div>
+</div>
+<div class="modal-overlay" id="projectDetailModal" onclick="if(event.target===this)closeModal('projectDetailModal')">
+  <div class="modal"><div class="modal-handle"></div><div id="projectDetailContent"></div></div>
+</div>
+
+<script>
+// ════════════════════════════════════════
+// NAVIGATION
+// ════════════════════════════════════════
+const pageTitles={formulas:'Formula Logger',ratio:'Ratio Calculator',projects:'Project Logbook',guide:'Needle & Nozzle Guide',color:'Color Harmony'};
+
+function switchPage(name,el){
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(b=>b.classList.remove('active'));
+  document.getElementById('page-'+name).classList.add('active');
+  el.classList.add('active');
+  document.getElementById('headerTitle').textContent=pageTitles[name];
+  if(name==='color')initColorWheel();
+  if(name==='ratio')calcRatio();
+  if(name==='guide')initGuide();
+}
+
+function openModal(id){document.getElementById(id).classList.add('open');}
+function closeModal(id){document.getElementById(id).classList.remove('open');}
+
+// ════════════════════════════════════════
+// LOCAL STORAGE
+// ════════════════════════════════════════
+function loadData(key,def){try{return JSON.parse(localStorage.getItem('airmix_'+key))||def;}catch{return def;}}
+function saveData(key,val){try{localStorage.setItem('airmix_'+key,JSON.stringify(val));}catch{}}
+
+// ════════════════════════════════════════
+// PAGE 1 — FORMULA LOGGER
+// ════════════════════════════════════════
+let formulas=loadData('formulas',[]);
+let mixParts=[];
+
+function renderFormulas(list){
+  const grid=document.getElementById('formulaGrid');
+  const empty=document.getElementById('formulaEmpty');
+  grid.innerHTML='';
+  if(!list.length){empty.style.display='block';return;}
+  empty.style.display='none';
+  list.forEach((f,i)=>{
+    const card=document.createElement('div');
+    card.className='formula-card';
+    const swatches=f.parts.map(p=>`<div class="formula-card-swatch" style="background:${p.color};flex:${p.ratio}"></div>`).join('');
+    card.innerHTML=`
+      <div class="formula-card-brand">${f.brand||'Custom'}</div>
+      <div class="formula-card-name">${f.name}</div>
+      <div class="formula-card-swatches">${swatches||'<div style="flex:1;background:var(--bg4)"></div>'}</div>
+      <div class="formula-card-meta">PSI: ${f.psi||'—'} · ${f.surface||'—'}<br>${f.reducerRatio||''}</div>
+      <button class="formula-card-del" onclick="delFormula(${i},event)">✕</button>`;
+    card.addEventListener('click',()=>showFormulaDetail(f));
+    grid.appendChild(card);
+  });
+}
+
+function filterFormulas(){
+  const q=document.getElementById('formulaSearch').value.toLowerCase();
+  renderFormulas(formulas.filter(f=>f.name.toLowerCase().includes(q)||((f.brand||'').toLowerCase().includes(q))));
+}
+
+function delFormula(i,e){
+  e.stopPropagation();
+  if(!confirm('Delete formula?'))return;
+  formulas.splice(i,1);saveData('formulas',formulas);renderFormulas(formulas);
+}
+
+function showFormulaDetail(f){
+  const swatches=f.parts.map(p=>`<div style="background:${p.color};flex:${p.ratio};min-width:20px;height:100%;display:flex;align-items:center;justify-content:center;font-size:.6rem;font-weight:700;color:rgba(255,255,255,.8)">${p.ratio}</div>`).join('');
+  document.getElementById('formulaDetailContent').innerHTML=`
+    <div class="modal-title">${f.name} <span style="font-size:.75rem;font-family:'Outfit',sans-serif;color:var(--muted)">${f.brand}</span></div>
+    <div style="height:40px;border-radius:var(--r);overflow:hidden;display:flex;margin-bottom:14px;border:1px solid var(--border)">${swatches||'<div style="flex:1;background:var(--bg4)"></div>'}</div>
+    ${f.parts.map(p=>`<div style="display:flex;align-items:center;gap:10px;margin-bottom:8px"><div style="width:28px;height:28px;border-radius:6px;background:${p.color};flex-shrink:0;border:1.5px solid rgba(255,255,255,.1)"></div><div style="flex:1;font-size:.82rem">${p.name||'Paint'}</div><div style="font-size:.78rem;color:var(--orange);font-weight:700">×${p.ratio}</div></div>`).join('')}
+    <div style="background:var(--bg3);border-radius:var(--r-sm);padding:12px;margin:12px 0;font-size:.78rem;display:grid;grid-template-columns:1fr 1fr;gap:8px">
+      <div><div style="color:var(--muted);font-size:.65rem;margin-bottom:2px">PSI</div><strong>${f.psi||'—'}</strong></div>
+      <div><div style="color:var(--muted);font-size:.65rem;margin-bottom:2px">Surface</div><strong>${f.surface||'—'}</strong></div>
+      <div><div style="color:var(--muted);font-size:.65rem;margin-bottom:2px">Reducer Ratio</div><strong>${f.reducerRatio||'—'}</strong></div>
+      <div><div style="color:var(--muted);font-size:.65rem;margin-bottom:2px">Saved</div><strong>${f.date||'—'}</strong></div>
+    </div>
+    ${f.notes?`<div style="font-size:.78rem;color:var(--muted);line-height:1.6;background:var(--bg3);border-radius:var(--r-sm);padding:12px">${f.notes}</div>`:''}
+    <button class="btn btn-ghost" style="width:100%;margin-top:14px" onclick="closeModal('formulaDetailModal')">Close</button>`;
+  openModal('formulaDetailModal');
+}
+
+// Mix Parts Builder
+function addMixPart(){
+  const colors=['#F4671A','#3498db','#2ecc71','#e74c3c','#9b59b6','#f1c453','#1abc9c','#e67e22'];
+  const id=Date.now();
+  const color=colors[document.getElementById('mixParts').children.length%colors.length];
+  mixParts.push({id,color,name:'',ratio:1});
+  renderMixParts();
+}
+
+function renderMixParts(){
+  const container=document.getElementById('mixParts');
+  container.innerHTML='';
+  mixParts.forEach((p,i)=>{
+    const row=document.createElement('div');row.className='mix-part-row';
+    row.innerHTML=`<div class="mix-part-color" style="background:${p.color}" onclick="pickPartColor(${i})"></div>
+      <input class="form-input mix-part-name" placeholder="Paint name" value="${p.name}" oninput="mixParts[${i}].name=this.value;updateMixPreview()">
+      <input class="form-input mix-part-ratio" type="number" min="0.5" max="20" step="0.5" value="${p.ratio}" oninput="mixParts[${i}].ratio=parseFloat(this.value)||1;updateMixPreview()">
+      <button class="mix-part-remove" onclick="mixParts.splice(${i},1);renderMixParts()">✕</button>`;
+    container.appendChild(row);
+  });
+  updateMixPreview();
+}
+
+function pickPartColor(i){
+  const inp=document.createElement('input');inp.type='color';inp.value=mixParts[i].color;
+  inp.addEventListener('input',e=>{mixParts[i].color=e.target.value;renderMixParts();});
+  document.body.appendChild(inp);inp.click();setTimeout(()=>inp.remove(),100);
+}
+
+function updateMixPreview(){
+  const prev=document.getElementById('mixPreview');
+  const total=mixParts.reduce((s,p)=>s+(parseFloat(p.ratio)||1),0)||1;
+  prev.innerHTML=mixParts.map(p=>`<div class="mix-preview-seg" style="background:${p.color};flex:${(parseFloat(p.ratio)||1)/total}"></div>`).join('');
+}
+
+function saveFormula(){
+  const name=document.getElementById('fName').value.trim();
+  if(!name)return alert('Please enter a formula name');
+  formulas.unshift({
+    id:Date.now(),name,brand:document.getElementById('fBrand').value,
+    surface:document.getElementById('fSurface').value,psi:document.getElementById('fPsi').value,
+    parts:[...mixParts],reducerRatio:document.getElementById('fReducerRatio').value,
+    notes:document.getElementById('fNotes').value,date:new Date().toLocaleDateString()
+  });
+  saveData('formulas',formulas);renderFormulas(formulas);
+  closeModal('formulaModal');resetFormulaForm();
+}
+
+function resetFormulaForm(){
+  ['fName','fPsi','fReducerRatio','fNotes'].forEach(id=>document.getElementById(id).value='');
+  mixParts=[];renderMixParts();
+}
+
+// Seed sample formulas
+if(!formulas.length){
+  formulas=[
+    {id:1,name:'Sunset Orange',brand:'Createx',surface:'Fabric',psi:'15',parts:[{color:'#F4671A',name:'Candy Orange',ratio:3},{color:'#ffcc44',name:'Trans Yellow',ratio:1}],reducerRatio:'3:1',notes:'Best sprayed wet on wet for smooth fade.',date:'Mar 1, 2025'},
+    {id:2,name:'Deep Ocean',brand:'Auto-Air',surface:'Canvas',psi:'12',parts:[{color:'#1a3a5c',name:'Marine Blue',ratio:2},{color:'#2a9d8f',name:'Teal Shift',ratio:1},{color:'#edf2f8',name:'Trans White',ratio:0.5}],reducerRatio:'4:1',notes:'Add pearl shimmer for metallic look.',date:'Feb 20, 2025'},
+    {id:3,name:'Chrome Base',brand:'House of Kolor',surface:'Automotive',psi:'30',parts:[{color:'#c0c0c0',name:'Chrome Silver',ratio:1}],reducerRatio:'1:1',notes:'Requires lacquer reducer. Ventilate!',date:'Feb 10, 2025'},
+  ];
+  saveData('formulas',formulas);
+}
+renderFormulas(formulas);
+
+// ════════════════════════════════════════
+// PAGE 2 — RATIO CALCULATOR
+// ════════════════════════════════════════
+const RATIO_DATA={
+  createx:{base:{detail:'4:1',general:'3:1',base:'2:1',fade:'5:1',opaque:'2:1'},thinnerNote:'Createx 4011 Reducer or 4030 Shield',psiRange:[10,25]},
+  'createx-wicked':{base:{detail:'5:1',general:'4:1',base:'3:1',fade:'6:1',opaque:'3:1'},thinnerNote:'Createx 4011 or Balancing Clear 4012',psiRange:[12,22]},
+  autoair:{base:{detail:'4:1',general:'3:1',base:'2:1',fade:'5:1',opaque:'2:1'},thinnerNote:'Createx 4011 or distilled water',psiRange:[10,20]},
+  etac:{base:{detail:'10:1',general:'8:1',base:'6:1',fade:'12:1',opaque:'5:1'},thinnerNote:'EFX Reducer — very little needed',psiRange:[8,18]},
+  'com-art':{base:{detail:'6:1',general:'4:1',base:'3:1',fade:'8:1',opaque:'3:1'},thinnerNote:'Com-Art Reducer or distilled water',psiRange:[10,20]},
+  badger:{base:{detail:'4:1',general:'3:1',base:'2:1',fade:'4:1',opaque:'2:1'},thinnerNote:'Badger Airbrush Medium',psiRange:[12,25]},
+  golden:{base:{detail:'5:1',general:'3:1',base:'2:1',fade:'6:1',opaque:'2:1'},thinnerNote:'Golden Airbrush Medium or distilled water',psiRange:[10,20]},
+  vallejo:{base:{detail:'4:1',general:'3:1',base:'2:1',fade:'5:1',opaque:'2:1'},thinnerNote:'Vallejo Thinner or airbrush medium',psiRange:[12,20]},
+  tamiya:{base:{detail:'2:1',general:'1.5:1',base:'1:1',fade:'2:1',opaque:'1:1'},thinnerNote:'Tamiya X-20A Lacquer Thinner ⚠️ ventilate',psiRange:[15,30]},
+  'house-of-kolor':{base:{detail:'1.5:1',general:'1:1',base:'1:1',fade:'2:1',opaque:'1:1'},thinnerNote:'HOK Reducer RU series',psiRange:[25,45]},
+};
+
+let currentApp='detail';
+document.querySelectorAll('#rcApplication .chip').forEach(c=>{
+  c.addEventListener('click',()=>{
+    document.querySelectorAll('#rcApplication .chip').forEach(x=>x.classList.remove('active'));
+    c.classList.add('active');currentApp=c.dataset.app;calcRatio();
+  });
+});
+
+function calcRatio(){
+  const brand=document.getElementById('rcBrand').value;
+  const psi=parseInt(document.getElementById('rcPsi').value);
+  const needle=parseFloat(document.getElementById('rcNeedle').value);
+  const data=RATIO_DATA[brand]||RATIO_DATA.createx;
+  const ratio=data.base[currentApp]||'3:1';
+  const [p,r]=ratio.split(':').map(Number);
+
+  document.getElementById('ratioDisplay').textContent=ratio;
+  document.getElementById('ratioPaint').style.flex=p;
+  document.getElementById('ratioReducer').style.flex=r;
+  document.getElementById('ratioDesc').textContent=`Paint : Reducer · ${data.thinnerNote}`;
+
+  // Warnings
+  const warns=[];
+  if(psi>30&&needle<=0.3)warns.push({t:'warn',msg:'⚠️ High PSI with fine needle can cause tip-dry. Try lowering to 15–20 PSI or add 10–15% more reducer.'});
+  if(psi<10)warns.push({t:'warn',msg:'⚠️ PSI below 10 may cause splattering and inconsistent flow. Minimum 10–12 PSI recommended.'});
+  if(psi>=data.psiRange[0]&&psi<=data.psiRange[1])warns.push({t:'ok',msg:`✅ ${psi} PSI is in the ideal range (${data.psiRange[0]}–${data.psiRange[1]} PSI) for ${brand}.`});
+  if(psi>data.psiRange[1])warns.push({t:'bad',msg:`❌ ${psi} PSI is above the recommended max for this brand (${data.psiRange[1]} PSI). Overspray and bleed risk.`});
+  if(needle<=0.2&&currentApp==='base')warns.push({t:'warn',msg:'⚠️ 0.2mm needle is very fine for base coating. Consider 0.4–0.5mm for better coverage.'});
+  if(brand==='tamiya')warns.push({t:'warn',msg:'⚠️ Lacquer paints — use in ventilated area. Wear respirator. Not suitable for body art.'});
+
+  const wEl=document.getElementById('ratioWarnings');
+  wEl.innerHTML=warns.map(w=>`<div class="warning-box ${w.t==='ok'?'warning-ok':w.t==='bad'?'warning-bad':'warning-warn'}"><div>${w.msg}</div></div>`).join('');
+  calcVolume();
+}
+
+function calcVolume(){
+  const total=parseFloat(document.getElementById('vcTotal').value)||5;
+  const ratioStr=document.getElementById('vcRatio').value||'3:1';
+  const parts=ratioStr.split(':').map(Number);
+  if(parts.length!==2||parts.some(isNaN)){document.getElementById('vcResult').textContent='Invalid ratio';return;}
+  const sum=parts[0]+parts[1];
+  const paint=(total*parts[0]/sum).toFixed(2);
+  const reducer=(total*parts[1]/sum).toFixed(2);
+  document.getElementById('vcResult').innerHTML=`<strong style="color:var(--orange)">${paint} ml</strong> paint + <strong style="color:#7ab">${reducer} ml</strong> reducer = <strong style="color:var(--white)">${total} ml</strong> total`;
+}
+
+// ════════════════════════════════════════
+// PAGE 3 — PROJECT LOGBOOK
+// ════════════════════════════════════════
+let projects=loadData('projects',[]);
+let projectFilter='all';
+
+const STATUS_COLORS={completed:'tag-green','in-progress':'tag-orange',paused:'tag-blue'};
+const CAT_ICONS={fabric:'👕',automotive:'🚗',model:'🎖️',canvas:'🖼️',bodyart:'🎭',leather:'👜',other:'📦'};
+
+function renderProjects(list){
+  const el=document.getElementById('projectList');
+  const empty=document.getElementById('projectEmpty');
+  el.innerHTML='';
+  if(!list.length){empty.style.display='block';return;}
+  empty.style.display='none';
+  list.forEach((p,i)=>{
+    const card=document.createElement('div');card.className='project-card';
+    const paintDots=(p.paints||[]).slice(0,8).map((_,pi)=>{
+      const hue=(pi*47+30)%360;
+      return `<div class="project-paint-dot" style="background:hsl(${hue},65%,55%)" title="${_}"></div>`;
+    }).join('');
+    card.innerHTML=`
+      <div class="project-header">
+        <div class="project-title">${p.name}</div>
+        <div class="project-date">${p.date||''}</div>
+      </div>
+      <div class="project-tags">
+        <span class="tag ${STATUS_COLORS[p.status]||'tag-blue'}">${p.status||'—'}</span>
+        <span class="tag tag-blue">${CAT_ICONS[p.category]||'📦'} ${p.category||'—'}</span>
+        ${p.client?`<span class="tag tag-orange">👤 ${p.client}</span>`:''}
+      </div>
+      ${p.notes?`<div class="project-notes">${p.notes}</div>`:''}
+      <div class="project-meta">
+        ${p.psi?`<div class="project-meta-item"><strong>${p.psi}</strong> PSI</div>`:''}
+        ${p.needle?`<div class="project-meta-item"><strong>${p.needle}</strong> needle</div>`:''}
+        ${p.hours?`<div class="project-meta-item"><strong>${p.hours}h</strong></div>`:''}
+      </div>
+      ${paintDots?`<div class="project-paints">${paintDots}</div>`:''}`;
+    card.addEventListener('click',()=>showProjectDetail(p,i));
+    el.appendChild(card);
+  });
+}
+
+function filterProjects(){
+  const q=document.getElementById('projectSearch').value.toLowerCase();
+  let list=projects.filter(p=>p.name.toLowerCase().includes(q)||(p.notes||'').toLowerCase().includes(q));
+  if(projectFilter!=='all')list=list.filter(p=>p.status===projectFilter||p.category===projectFilter);
+  renderProjects(list);
+}
+
+function setProjectFilter(el,filter){
+  document.querySelectorAll('#page-projects .chip').forEach(c=>c.classList.remove('active'));
+  el.classList.add('active');projectFilter=filter;filterProjects();
+}
+
+function showProjectDetail(p,i){
+  document.getElementById('projectDetailContent').innerHTML=`
+    <div class="modal-title">${CAT_ICONS[p.category]||'📦'} <span>${p.name}</span></div>
+    <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px">
+      <span class="tag ${STATUS_COLORS[p.status]||'tag-blue'}">${p.status}</span>
+      <span class="tag tag-blue">${p.category}</span>
+      ${p.client?`<span class="tag tag-orange">👤 ${p.client}</span>`:''}
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:14px">
+      <div style="background:var(--bg3);border-radius:var(--r-sm);padding:10px;text-align:center"><div style="font-size:.6rem;color:var(--muted);margin-bottom:2px">PSI</div><strong>${p.psi||'—'}</strong></div>
+      <div style="background:var(--bg3);border-radius:var(--r-sm);padding:10px;text-align:center"><div style="font-size:.6rem;color:var(--muted);margin-bottom:2px">Needle</div><strong>${p.needle||'—'}</strong></div>
+      <div style="background:var(--bg3);border-radius:var(--r-sm);padding:10px;text-align:center"><div style="font-size:.6rem;color:var(--muted);margin-bottom:2px">Hours</div><strong>${p.hours||'—'}</strong></div>
+    </div>
+    ${p.paints&&p.paints.length?`<div style="margin-bottom:12px"><div style="font-size:.65rem;color:var(--muted);margin-bottom:6px;text-transform:uppercase;letter-spacing:.06em">Paints Used</div>${p.paints.map(pt=>`<div style="font-size:.8rem;padding:4px 0;color:var(--white)">· ${pt}</div>`).join('')}</div>`:''}
+    ${p.notes?`<div style="font-size:.8rem;color:var(--muted);line-height:1.7;background:var(--bg3);border-radius:var(--r-sm);padding:12px;margin-bottom:14px">${p.notes}</div>`:''}
+    <div style="display:flex;gap:8px">
+      <button class="btn btn-danger btn-sm" onclick="delProject(${i});closeModal('projectDetailModal')">Delete</button>
+      <button class="btn btn-ghost" style="flex:1" onclick="closeModal('projectDetailModal')">Close</button>
+    </div>`;
+  openModal('projectDetailModal');
+}
+
+function delProject(i){if(!confirm('Delete project?'))return;projects.splice(i,1);saveData('projects',projects);filterProjects();}
+
+function saveProject(){
+  const name=document.getElementById('pName').value.trim();
+  if(!name)return alert('Please enter a project name');
+  const paintsRaw=document.getElementById('pPaints').value;
+  projects.unshift({
+    id:Date.now(),name,category:document.getElementById('pCategory').value,
+    status:document.getElementById('pStatus').value,psi:document.getElementById('pPsi').value,
+    needle:document.getElementById('pNeedle').value,hours:document.getElementById('pHours').value,
+    paints:paintsRaw?paintsRaw.split(',').map(s=>s.trim()).filter(Boolean):[],
+    client:document.getElementById('pClient').value,
+    notes:document.getElementById('pNotes').value,date:new Date().toLocaleDateString()
+  });
+  saveData('projects',projects);filterProjects();closeModal('projectModal');
+  ['pName','pPsi','pNeedle','pHours','pPaints','pClient','pNotes'].forEach(id=>document.getElementById(id).value='');
+}
+
+if(!projects.length){
+  projects=[
+    {id:1,name:'Skull Helmet Commission',category:'automotive',status:'completed',psi:'25',needle:'0.3mm',hours:'8',paints:['HOK Kandy Apple Red','HOK White','HOK Black Base'],client:'Client: Mike R.',notes:'Used candy coating over silver base. 3 candy layers for depth. Clearcoat with 4:1 HOK UFO.',date:'Feb 28, 2025'},
+    {id:2,name:'Sunset Dragon T-Shirt',category:'fabric',status:'in-progress',psi:'15',needle:'0.3mm',hours:'3',paints:['Createx Orange','Createx Candy Yellow','Createx Black'],client:'Personal',notes:'Working on the fade from orange to yellow. Need to tighten up the scale detail.',date:'Mar 5, 2025'},
+  ];
+  saveData('projects',projects);
+}
+renderProjects(projects);
+
+// ════════════════════════════════════════
+// PAGE 4 — NEEDLE / NOZZLE GUIDE
+// ════════════════════════════════════════
+const NEEDLES=[
+  {size:'0.15mm',name:'Ultra Micro',bestFor:'Extreme fine line work, photorealism, portrait details, tiny text',tags:['detail'],detail:95,coverage:10,speed:30,psi:[8,14],note:'Requires very thin paint, low PSI. Tip-dry is common. Keep paint flowing.'},
+  {size:'0.2mm',name:'Extra Fine',bestFor:'Fine lines, portrait hair, delicate stencil work, nail art',tags:['detail'],detail:90,coverage:20,speed:40,psi:[10,18],note:'Great for portraits. Use 5:1 ratio or thinner. Flush frequently.'},
+  {size:'0.3mm',name:'Fine',bestFor:'General detail, lettering, moderate stencil, illustration',tags:['detail','general'],detail:75,coverage:45,speed:60,psi:[12,22],note:'The most versatile size. Good balance of detail and flow.'},
+  {size:'0.4mm',name:'Medium',bestFor:'General airbrushing, fades, backgrounds, t-shirt art',tags:['general','fabric'],detail:55,coverage:65,speed:75,psi:[15,28],note:'Best all-rounder for fabric and canvas. Easy to control.'},
+  {size:'0.5mm',name:'Medium-Large',bestFor:'Background gradients, large stencils, base coats on fabric',tags:['general','coverage','fabric'],detail:40,coverage:80,speed:85,psi:[15,30],note:'Good for quick coverage and soft fades on large surfaces.'},
+  {size:'0.8mm',name:'Large',bestFor:'Fast base coats, priming, large murals, automotive primers',tags:['coverage'],detail:20,coverage:95,speed:95,psi:[20,40],note:'Not for detail. Use for laying down base color quickly.'},
+];
+
+const PSI_DATA=[
+  {task:'Portrait / Realism',range:'8–15 PSI',tips:'Low PSI for control. Use fine needle (0.2–0.3mm). Build in thin transparent layers.'},
+  {task:'T-Shirt Art',range:'12–20 PSI',tips:'Medium PSI. 0.3–0.5mm needle. Fabric absorbs paint so thicker ratios work.'},
+  {task:'Automotive Base',range:'25–35 PSI',tips:'Higher PSI for even coverage. Use professional-grade reducer. Maintain consistent distance.'},
+  {task:'Fine Lines / Text',range:'8–14 PSI',tips:'Low PSI, 0.2–0.3mm needle. Keep airbrush close to surface (1–2cm).'},
+  {task:'Fades / Gradients',range:'15–25 PSI',tips:'Consistent pressure for smooth transitions. Thin paint well. Work quickly while wet.'},
+  {task:'Body Art',range:'10–18 PSI',tips:'Use only body-art certified paints. Low PSI reduces overspray on skin.'},
+  {task:'Scale Models',range:'10–20 PSI',tips:'Low PSI for small models. Use fine needle. Multiple thin coats over primer.'},
+  {task:'Nail Art',range:'8–12 PSI',tips:'Very low PSI. 0.2–0.3mm needle. Work at 3–5cm from nail surface.'},
+];
+
+const PSI_MISTAKES=[
+  {icon:'❌',text:'Too high PSI with fine needle → tip dry, fish eyes, splatter'},
+  {icon:'❌',text:'Too low PSI with thick paint → spitting, uneven flow, clogging'},
+  {icon:'❌',text:'Varying PSI mid-stroke → banding and uneven fade'},
+  {icon:'✅',text:'Always test on scrap before committing to your piece'},
+  {icon:'✅',text:'Increase PSI 2–3 PSI if splattering at a given distance'},
+];
+
+const BRANDS=[
+  {name:'Iwata',models:['Custom Micron C+','Eclipse HP-CS','Hi-Line HP-CH','Revolution CR','Neo CN Gravity'],notes:'Japanese precision. Gravity-feed preferred for detail. CM0.18mm for extreme realism.'},
+  {name:'Badger',models:['Patriot 105','Krome','Sotar 20/20','Renegade Velocity','Anthem'],notes:'American brand, tough and reliable. Sotar is excellent for portrait work.'},
+  {name:'Harder & Steenbeck',models:['Infinity CR Plus','Evolution 2-in-1','Ultra','Grafo'],notes:'German engineering. Infinity is top choice for fine detail. Excellent regulator.'},
+  {name:'Paasche',models:['VL Siphon','Talon','Raptor','H Series'],notes:'Entry-level to pro. VL is a classic workhorse. Great for beginners learning control.'},
+  {name:'Sparmax',models:['DH-125','SP-20X','MAX-3'],notes:'Good value. Reliable for t-shirt and general art. Easy to maintain.'},
+  {name:'KKMOON / Generic',models:['0.3mm Gravity','0.5mm Siphon'],notes:'Beginner entry. Fine for practice. Upgrade when ready for professional work.'},
+];
+
+let currentGuideTab='needles';
+let needleFilter='all';
+
+function initGuide(){
+  // Needle cards
+  renderNeedleCards();
+  // PSI table
+  const tbody=document.getElementById('psiTableBody');
+  tbody.innerHTML=PSI_DATA.map(r=>`<tr><td><strong>${r.task}</strong></td><td><span class="tag tag-orange">${r.range}</span></td><td style="color:var(--muted)">${r.tips}</td></tr>`).join('');
+  // PSI mistakes
+  document.getElementById('psiMistakes').innerHTML=PSI_MISTAKES.map(m=>`<div class="warning-box ${m.icon==='✅'?'warning-ok':'warning-bad'}"><div class="wi">${m.icon}</div><div>${m.text}</div></div>`).join('');
+  // Brand cards
+  document.getElementById('brandCards').innerHTML=BRANDS.map(b=>`
+    <div class="needle-card">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:6px">
+        <div style="font-weight:700;font-size:1rem">${b.name}</div>
+      </div>
+      <div class="needle-best-for" style="margin-bottom:8px">${b.notes}</div>
+      <div style="font-size:.7rem;color:var(--muted)">Popular models:</div>
+      <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:5px">${b.models.map(m=>`<span class="tag tag-blue">${m}</span>`).join('')}</div>
+    </div>`).join('');
+}
+
+function renderNeedleCards(){
+  const cards=document.getElementById('needleCards');
+  cards.innerHTML='';
+  NEEDLES.filter(n=>needleFilter==='all'||n.tags.includes(needleFilter)).forEach(n=>{
+    const card=document.createElement('div');card.className='needle-card';
+    card.innerHTML=`
+      <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:2px">
+        <div class="needle-size">${n.size}</div>
+        <span class="tag tag-orange">${n.psi[0]}–${n.psi[1]} PSI</span>
+      </div>
+      <div class="needle-name">${n.name}</div>
+      <div class="needle-best-for">${n.bestFor}</div>
+      <div class="needle-bars">
+        <div class="needle-bar-row"><span class="needle-bar-label">Detail</span><div class="needle-bar-track"><div class="needle-bar-fill" style="width:${n.detail}%;background:#F4671A"></div></div><span style="font-size:.6rem;color:var(--muted);width:28px;text-align:right">${n.detail}%</span></div>
+        <div class="needle-bar-row"><span class="needle-bar-label">Coverage</span><div class="needle-bar-track"><div class="needle-bar-fill" style="width:${n.coverage}%;background:#3498db"></div></div><span style="font-size:.6rem;color:var(--muted);width:28px;text-align:right">${n.coverage}%</span></div>
+        <div class="needle-bar-row"><span class="needle-bar-label">Speed</span><div class="needle-bar-track"><div class="needle-bar-fill" style="width:${n.speed}%;background:#2ecc71"></div></div><span style="font-size:.6rem;color:var(--muted);width:28px;text-align:right">${n.speed}%</span></div>
+      </div>
+      <div style="font-size:.7rem;color:#7ab;margin-top:4px;font-style:italic">${n.note}</div>`;
+    cards.appendChild(card);
+  });
+}
+
+function filterNeedles(el,filter){
+  document.querySelectorAll('#needleFilter .chip').forEach(c=>c.classList.remove('active'));
+  el.classList.add('active');needleFilter=filter;renderNeedleCards();
+}
+
+function switchGuideTab(tab,el){
+  document.querySelectorAll('.guide-tab').forEach(t=>t.classList.remove('active'));el.classList.add('active');
+  document.getElementById('guideNeedles').style.display='none';
+  document.getElementById('guidePsi').style.display='none';
+  document.getElementById('guideBrands').style.display='none';
+  document.getElementById('guide'+tab.charAt(0).toUpperCase()+tab.slice(1)).style.display='block';
+  currentGuideTab=tab;
+}
+
+// ════════════════════════════════════════
+// PAGE 5 — COLOR HARMONY
+// ════════════════════════════════════════
+let harmonyMode='complementary';
+let baseColor={h:20,s:90,l:53}; // F4671A approx
+
+const PAINT_DB=[
+  {name:'Candy Orange',brand:'Createx',code:'5050',h:20,s:95,l:50},{name:'Trans Yellow',brand:'Createx',code:'5008',h:55,s:95,l:55},
+  {name:'Candy Red',brand:'Createx',code:'5040',h:0,s:90,l:45},{name:'Candy Blue',brand:'Createx',code:'5310',h:210,s:85,l:45},
+  {name:'Candy Green',brand:'Createx',code:'5360',h:130,s:80,l:40},{name:'Trans White',brand:'Createx',code:'5000',h:0,s:0,l:97},
+  {name:'Trans Black',brand:'Createx',code:'5602',h:0,s:0,l:10},{name:'Candy Tangerine',brand:'Createx',code:'5060',h:30,s:90,l:50},
+  {name:'Trans Magenta',brand:'Createx',code:'5030',h:330,s:85,l:45},{name:'Candy Burgundy',brand:'Createx',code:'5042',h:350,s:80,l:35},
+  {name:'Sky Blue',brand:'Auto-Air',code:'4122',h:200,s:70,l:60},{name:'Violet',brand:'Auto-Air',code:'4180',h:270,s:75,l:45},
+  {name:'Bright Yellow',brand:'Auto-Air',code:'4102',h:50,s:95,l:55},{name:'Pure White',brand:'Auto-Air',code:'4001',h:0,s:0,l:98},
+  {name:'Silver Metallic',brand:'Auto-Air',code:'4641',h:0,s:5,l:70},{name:'Gold Metallic',brand:'Auto-Air',code:'4645',h:45,s:80,l:55},
+  {name:'Wicked Orange',brand:'Wicked',code:'W030',h:22,s:92,l:52},{name:'Wicked Blue',brand:'Wicked',code:'W020',h:215,s:88,l:45},
+  {name:'Wicked Red',brand:'Wicked',code:'W010',h:5,s:88,l:48},{name:'Wicked White',brand:'Wicked',code:'W000',h:0,s:0,l:98},
+  {name:'Carbon Black',brand:'Wicked',code:'W600',h:0,s:0,l:8},{name:'Fluorescent Pink',brand:'E\'TAC',code:'FPK',h:340,s:95,l:60},
+  {name:'Fluorescent Green',brand:'E\'TAC',code:'FGR',h:115,s:95,l:55},{name:'Fluorescent Orange',brand:'E\'TAC',code:'FOR',h:25,s:100,l:55},
+];
+
+function hslToHex(h,s,l){
+  s/=100;l/=100;const a=s*Math.min(l,1-l);const f=n=>{const k=(n+h/30)%12;const c=l-a*Math.max(Math.min(k-3,9-k,1),-1);return Math.round(255*c).toString(16).padStart(2,'0');};
+  return '#'+f(0)+f(8)+f(4);
+}
+
+function hexToHsl(hex){
+  let r=parseInt(hex.slice(1,3),16)/255,g=parseInt(hex.slice(3,5),16)/255,b=parseInt(hex.slice(5,7),16)/255;
+  const max=Math.max(r,g,b),min=Math.min(r,g,b);let h,s,l=(max+min)/2;
+  if(max===min){h=s=0;}else{const d=max-min;s=l>.5?d/(2-max-min):d/(max+min);switch(max){case r:h=((g-b)/d+(g<b?6:0))/6;break;case g:h=((b-r)/d+2)/6;break;case b:h=((r-g)/d+4)/6;break;}}
+  return{h:Math.round(h*360),s:Math.round(s*100),l:Math.round(l*100)};
+}
+
+function getHarmonyColors(h,s,l,mode){
+  const base={h,s,l};
+  switch(mode){
+    case'complementary':return[base,{h:(h+180)%360,s,l},{h,s,l:Math.max(20,l-20)},{h:(h+180)%360,s,l:Math.min(80,l+20)},{h,s:Math.max(20,s-30),l:Math.min(80,l+25)}];
+    case'triadic':return[base,{h:(h+120)%360,s,l},{h:(h+240)%360,s,l},{h,s,l:Math.max(20,l-25)},{h:(h+120)%360,s,l:Math.min(80,l+20)}];
+    case'analogous':return[base,{h:(h+30)%360,s,l},{h:(h-30+360)%360,s,l},{h:(h+60)%360,s,l},{h:(h-60+360)%360,s,l}];
+    case'split':return[base,{h:(h+150)%360,s,l},{h:(h+210)%360,s,l},{h,s,l:Math.max(20,l-20)},{h:(h+150)%360,s:Math.max(30,s-20),l:Math.min(80,l+20)}];
+    case'tetradic':return[base,{h:(h+90)%360,s,l},{h:(h+180)%360,s,l},{h:(h+270)%360,s,l},{h,s,l:Math.min(80,l+20)}];
+    case'monochromatic':return[base,{h,s,l:Math.max(20,l-20)},{h,s,l:Math.min(85,l+20)},{h,s:Math.max(20,s-30),l},{h,s:Math.min(100,s+10),l:Math.max(25,l-30)}];
+    default:return[base];
+  }
+}
+
+function updateHarmony(){
+  const hex=document.getElementById('baseColorPicker').value;
+  const hsl=hexToHsl(hex);
+  baseColor=hsl;
+  document.getElementById('baseColorSwatch').style.background=hex;
+  document.getElementById('hexInput').value=hex;
+  document.getElementById('hslDisplay').textContent=`H:${hsl.h}° S:${hsl.s}% L:${hsl.l}%`;
+  renderHarmonySwatches();
+  updateMatches();
+  drawWheel();
+}
+
+function hexChanged(){
+  const v=document.getElementById('hexInput').value;
+  if(/^#[0-9a-fA-F]{6}$/.test(v)){document.getElementById('baseColorPicker').value=v;updateHarmony();}
+}
+
+function renderHarmonySwatches(){
+  const colors=getHarmonyColors(baseColor.h,baseColor.s,baseColor.l,harmonyMode);
+  const grid=document.getElementById('harmonySwatches');
+  const labels=['Base','H1','H2','H3','H4'];
+  grid.innerHTML=colors.map((c,i)=>{
+    const hex=hslToHex(c.h,c.s,c.l);
+    return`<div style="display:flex;flex-direction:column;align-items:center;gap:6px">
+      <div style="width:100%;aspect-ratio:1;border-radius:var(--r);background:${hex};cursor:pointer;border:${i===0?'2px solid white':'2px solid transparent'};transition:transform .15s;box-shadow:0 4px 12px rgba(0,0,0,.3)" onclick="selectHarmonyColor('${hex}')" title="${hex}"></div>
+      <span style="font-size:.55rem;color:var(--muted)">${hex}</span>
+    </div>`;
+  }).join('');
+}
+
+function selectHarmonyColor(hex){
+  document.getElementById('baseColorPicker').value=hex;
+  updateHarmony();
+}
+
+function setHarmonyMode(el){
+  document.querySelectorAll('.harmony-mode-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');harmonyMode=el.dataset.mode;renderHarmonySwatches();updateMatches();
+}
+
+function colorDist(h1,s1,l1,h2,s2,l2){
+  const dh=Math.min(Math.abs(h1-h2),360-Math.abs(h1-h2));
+  return Math.sqrt(dh*dh+(s1-s2)*(s1-s2)+(l1-l2)*(l1-l2));
+}
+
+function updateMatches(){
+  const colors=getHarmonyColors(baseColor.h,baseColor.s,baseColor.l,harmonyMode);
+  const brandFilter=document.getElementById('matchBrand').value;
+  let db=brandFilter==='all'?PAINT_DB:PAINT_DB.filter(p=>p.brand.toLowerCase().replace(/[^a-z]/g,'').includes(brandFilter.replace('-','').toLowerCase()));
+
+  // Find best match per harmony color
+  const matches=[];
+  colors.forEach(c=>{
+    const sorted=[...db].sort((a,b)=>colorDist(c.h,c.s,c.l,a.h,a.s,a.l)-colorDist(c.h,c.s,c.l,b.h,b.s,b.l));
+    const best=sorted[0];
+    if(best&&!matches.find(m=>m.code===best.code))matches.push({...best,targetHex:hslToHex(c.h,c.s,c.l)});
+  });
+
+  const list=document.getElementById('paintMatchList');
+  list.innerHTML=matches.map(m=>{
+    const hex=hslToHex(m.h,m.s,m.l);
+    return`<div class="paint-match">
+      <div style="display:flex;gap:4px;flex-shrink:0">
+        <div class="paint-match-dot" style="background:${m.targetHex}" title="Target"></div>
+        <div class="paint-match-dot" style="background:${hex}" title="Paint"></div>
+      </div>
+      <div class="paint-match-info">
+        <div class="paint-match-name">${m.name}</div>
+        <div class="paint-match-brand">${m.brand} · <span class="paint-match-code">${m.code}</span></div>
+      </div>
+      <div class="paint-match-dist" style="font-size:.6rem;text-align:right"><div style="color:var(--orange);font-weight:700">${hex}</div></div>
+    </div>`;
+  }).join('');
+}
+
+// Color Wheel
+let wheelInitialized=false;
+function initColorWheel(){if(wheelInitialized)return;wheelInitialized=true;drawWheel();}
+
+function drawWheel(){
+  const canvas=document.getElementById('wheelCanvas');
+  if(!canvas)return;
+  const ctx=canvas.getContext('2d');
+  const cx=100,cy=100,r=95;
+  ctx.clearRect(0,0,200,200);
+  for(let angle=0;angle<360;angle++){
+    const rad=(angle-90)*Math.PI/180;
+    const grad=ctx.createRadialGradient(cx,cy,0,cx,cy,r);
+    grad.addColorStop(0,'hsl('+angle+',0%,100%)');
+    grad.addColorStop(0.5,'hsl('+angle+',80%,60%)');
+    grad.addColorStop(1,'hsl('+angle+',100%,30%)');
+    ctx.beginPath();ctx.moveTo(cx,cy);
+    ctx.arc(cx,cy,r,rad,rad+0.02);ctx.closePath();
+    ctx.fillStyle=grad;ctx.fill();
+  }
+  // White center
+  const cgrad=ctx.createRadialGradient(cx,cy,0,cx,cy,r*0.3);
+  cgrad.addColorStop(0,'rgba(255,255,255,.95)');cgrad.addColorStop(1,'rgba(255,255,255,0)');
+  ctx.beginPath();ctx.arc(cx,cy,r,0,Math.PI*2);ctx.fillStyle=cgrad;ctx.fill();
+  // Current color dot
+  const angle=(baseColor.h-90)*Math.PI/180;
+  const dist=r*(baseColor.s/100)*0.85;
+  const px=cx+Math.cos(angle)*dist,py=cy+Math.sin(angle)*dist;
+  ctx.beginPath();ctx.arc(px,py,8,0,Math.PI*2);
+  ctx.fillStyle=hslToHex(baseColor.h,baseColor.s,baseColor.l);ctx.fill();
+  ctx.strokeStyle='white';ctx.lineWidth=2.5;ctx.stroke();
+}
+
+function wheelPick(e){
+  const canvas=document.getElementById('wheelCanvas');
+  const rect=canvas.getBoundingClientRect();
+  const x=(e.touches?e.touches[0].clientX:e.clientX)-rect.left;
+  const y=(e.touches?e.touches[0].clientY:e.clientY)-rect.top;
+  const cx=100,cy=100,r=95;
+  const dx=x-cx,dy=y-cy;
+  const dist=Math.sqrt(dx*dx+dy*dy);
+  if(dist>r)return;
+  let h=Math.round((Math.atan2(dy,dx)*180/Math.PI+90+360)%360);
+  let s=Math.min(100,Math.round((dist/r)*100));
+  baseColor={h,s,l:55};
+  const hex=hslToHex(h,s,55);
+  document.getElementById('baseColorPicker').value=hex;
+  document.getElementById('baseColorSwatch').style.background=hex;
+  document.getElementById('hexInput').value=hex;
+  document.getElementById('hslDisplay').textContent=`H:${h}° S:${s}% L:55%`;
+  renderHarmonySwatches();updateMatches();drawWheel();
+}
+
+document.getElementById('wheelCanvas').addEventListener('click',wheelPick);
+document.getElementById('wheelCanvas').addEventListener('touchend',e=>{e.preventDefault();wheelPick(e);});
+
+// Init
+calcRatio();
+calcVolume();
+initGuide();
+updateHarmony();
+</script>
+</body>
+</html>

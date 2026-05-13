@@ -27,10 +27,10 @@ By 1885 Airbrush production was in full swing and **Liberty Walkup** was able to
 
 ## 1885 – The Production Model Airbrush
 
-[![](/wp-content/uploads/2010/12/walkup.jpg)](/wp-content/uploads/2010/12/walkup.jpg)[![](/wp-content/uploads/2010/12/85patpro.jpg)](/wp-content/uploads/2010/12/85patpro.jpg)[![](/wp-content/uploads/2010/12/incase.jpg)](/wp-content/uploads/2010/12/incase.jpg)
+![](/images/wp-uploads/walkup.webp)![](/images/wp-uploads/85patpro.webp)![](/images/wp-uploads/incase.webp)
 
 **Patented in January 1885**, the production model Airbrush came in a smart black case complete with spare needles in a glass jar and a toolkit comprising of a screwdriver and tweezers. The two spare paint spoons at the top of the box were spare parts that could be ordered separately from a parts catalogue. Mass production techniques were employed so each airbrush carried an individual number on the reverse of the handle to identify it.
 
-[![patent 1883](/wp-content/uploads/2010/12/pat02_walkup00285325-2l-1.png)](/wp-content/uploads/2010/12/pat02_walkup00285325-2l.gif)[![patent 1884](/wp-content/uploads/2010/12/pat03_walkup00298138l-1.png)](/wp-content/uploads/2010/12/pat03_walkup00298138l.gif)[![patent 1885](/wp-content/uploads/2010/12/pat04_walkup00310754l-1.png)](/wp-content/uploads/2010/12/pat04_walkup00310754l.gif)The complete working kit including a pump and air tank would cost the purchaser $40 although a 6% discount was available for C.O.D. orders. This price soon rose to $50 as sales rose via offices in New York, Philadelphia and Chicago.
+![patent 1883](/images/wp-uploads/pat02_walkup00285325-2l-1.webp)![patent 1884](/images/wp-uploads/pat03_walkup00298138l-1.webp)![patent 1885](/images/wp-uploads/pat04_walkup00310754l-1.webp)The complete working kit including a pump and air tank would cost the purchaser $40 although a 6% discount was available for C.O.D. orders. This price soon rose to $50 as sales rose via offices in New York, Philadelphia and Chicago.
 
 Source:[andypenaluna.com](http://thecommunicationspace.com/profile/AndyPenaluna), [airbrushmuseum.com](http://www.airbrushmuseum.com/)

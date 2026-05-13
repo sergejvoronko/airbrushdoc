@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Stencil Creator — Design & Export Airbrush Stencils | AirbrushDOC"
+  description="Free browser-based stencil creator. Draw, adjust, and export print-ready airbrush stencils as PNG or PDF — no installation required."
+>
+  <main class="abd-container" style="padding-bottom: 0;">
+    <div class="blg-page-header" style="margin-bottom: 20px;">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <a href="/tools/">Tools</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>Stencil Creator</span>
+      </nav>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title">Stencil <span class="blg-page-title-accent">Creator</span></h1>
+      </div>
+      <p style="color: var(--abd-text-muted); font-size: 0.92rem; margin: 6px 0 0; max-width: 580px;">
+        Draw freehand, use shapes and text, then export your stencil as PNG or PDF — ready to print and cut.
+        Works entirely in your browser, no account needed.
+      </p>
+      <div class="blg-header-line" style="margin-top: 16px;"></div>
+    </div>
+  </main>
+
+  <div class="stencil-frame-wrap">
+    <iframe
+      src="/tools/stencil-creator.html"
+      title="Stencil Creator"
+      class="stencil-frame"
+      allowfullscreen
+    ></iframe>
+  </div>
+</BaseLayout>
+
+<style>
+.stencil-frame-wrap {
+  width: 100%;
+  height: calc(100vh - 260px);
+  min-height: 560px;
+  border-top: 1px solid var(--abd-border);
+}
+.stencil-frame {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+@media (max-width: 768px) {
+  .stencil-frame-wrap {
+    height: calc(100vh - 220px);
+    min-height: 480px;
+  }
+}
+</style>

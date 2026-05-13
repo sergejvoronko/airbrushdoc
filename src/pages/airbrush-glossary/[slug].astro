@@ -1,0 +1,166 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const terms = await getCollection('glossary');
+  return terms.map(term => ({
+    params: { slug: term.data.slug },
+    props: { term },
+  }));
+}
+
+const { term } = Astro.props;
+const { Content } = await render(term);
+
+const CATEGORY_LABELS: Record<string, string> = {
+  equipment: 'Equipment',
+  technique: 'Technique',
+  paint: 'Paint & Materials',
+  measurement: 'Measurement',
+  problems: 'Problems & Fixes',
+  maintenance: 'Maintenance',
+};
+
+const allTerms = await getCollection('glossary');
+const related = allTerms
+  .filter(t => t.data.slug !== term.data.slug && t.data.category === term.data.category)
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 6);
+---
+<BaseLayout
+  title={`${term.data.title} — Airbrush Glossary | AirbrushDOC`}
+  description={term.data.description ?? `What is ${term.data.title}? Full explanation with context, tips, and related airbrush terms.`}
+>
+  <main class="abd-container">
+    <div class="blg-page-header">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <a href="/airbrush-glossary/">Glossary</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>{term.data.title}</span>
+      </nav>
+      <div class="gloss-detail-meta">
+        <span class="gloss-detail-cat">{CATEGORY_LABELS[term.data.category] ?? term.data.category}</span>
+      </div>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title">{term.data.title}</h1>
+      </div>
+      <div class="blg-header-line"></div>
+    </div>
+
+    <div class="gloss-detail-layout">
+      <article class="gloss-detail-content prose">
+        <Content />
+      </article>
+
+      <aside class="gloss-detail-sidebar">
+        <div class="gloss-sidebar-box">
+          <div class="gloss-sidebar-title">More {CATEGORY_LABELS[term.data.category] ?? 'Terms'}</div>
+          <ul class="gloss-sidebar-list">
+            {related.map(t => (
+              <li><a href={`/airbrush-glossary/${t.data.slug}/`}>{t.data.title}</a></li>
+            ))}
+          </ul>
+          <a href="/airbrush-glossary/" class="gloss-sidebar-all">View all terms →</a>
+        </div>
+      </aside>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+.gloss-detail-meta {
+  margin: 4px 0 8px;
+}
+.gloss-detail-cat {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--abd-accent);
+  background: color-mix(in srgb, var(--abd-accent) 12%, transparent);
+  padding: 3px 10px;
+  border-radius: 20px;
+}
+.gloss-detail-layout {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 48px;
+  padding: 32px 0 80px;
+  align-items: start;
+}
+.gloss-detail-content {
+  max-width: 680px;
+}
+.gloss-detail-content :global(p) {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  color: var(--abd-text);
+  margin-bottom: 1.2em;
+}
+.gloss-detail-content :global(strong) {
+  color: var(--abd-text);
+}
+.gloss-detail-content :global(a) {
+  color: var(--abd-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.gloss-detail-content :global(a:hover) {
+  opacity: 0.8;
+}
+.gloss-sidebar-box {
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-radius: 10px;
+  padding: 20px;
+  position: sticky;
+  top: 100px;
+}
+.gloss-sidebar-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--abd-text-muted);
+  margin-bottom: 14px;
+}
+.gloss-sidebar-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.gloss-sidebar-list a {
+  color: var(--abd-text);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.15s;
+}
+.gloss-sidebar-list a:hover {
+  color: var(--abd-accent);
+}
+.gloss-sidebar-all {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--abd-accent);
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 8px;
+  padding-top: 14px;
+  border-top: 1px solid var(--abd-border);
+}
+@media (max-width: 900px) {
+  .gloss-detail-layout {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .gloss-sidebar-box {
+    position: static;
+  }
+}
+</style>

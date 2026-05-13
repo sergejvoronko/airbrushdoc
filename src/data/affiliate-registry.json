@@ -1,0 +1,130 @@
+[
+  {
+    "product": "Harder & Steenbeck Ultra",
+    "keywords": ["harder steenbeck ultra", "h&s ultra", "harder & steenbeck ultra"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B08...",
+    "commission": "amazon",
+    "category": "airbrush",
+    "tier": "premium"
+  },
+  {
+    "product": "Harder & Steenbeck Infinity",
+    "keywords": ["harder steenbeck infinity", "h&s infinity", "infinity airbrush"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B07...",
+    "commission": "amazon",
+    "category": "airbrush",
+    "tier": "premium"
+  },
+  {
+    "product": "Iwata Eclipse HP-CS",
+    "keywords": ["iwata eclipse", "hp-cs", "iwata hp cs"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B000...",
+    "commission": "amazon",
+    "category": "airbrush",
+    "tier": "midrange"
+  },
+  {
+    "product": "Iwata Neo CN",
+    "keywords": ["iwata neo", "iwata neo cn", "neo cn airbrush"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B001...",
+    "commission": "amazon",
+    "category": "airbrush",
+    "tier": "budget"
+  },
+  {
+    "product": "Badger Renegade Krome",
+    "keywords": ["badger renegade", "renegade krome", "badger krome"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B003...",
+    "commission": "amazon",
+    "category": "airbrush",
+    "tier": "midrange"
+  },
+  {
+    "product": "Master Airbrush G22",
+    "keywords": ["master airbrush", "master g22", "g22 airbrush"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B002...",
+    "commission": "amazon",
+    "category": "airbrush",
+    "tier": "budget"
+  },
+  {
+    "product": "Paasche Talon",
+    "keywords": ["paasche talon", "talon airbrush"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B004...",
+    "commission": "amazon",
+    "category": "airbrush",
+    "tier": "midrange"
+  },
+  {
+    "product": "Sparmax AC-501X Compressor",
+    "keywords": ["sparmax compressor", "sparmax ac-501", "ac501"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B005...",
+    "commission": "amazon",
+    "category": "compressor",
+    "tier": "midrange"
+  },
+  {
+    "product": "Iwata Smart Jet Compressor",
+    "keywords": ["iwata smart jet", "smart jet compressor", "iwata compressor"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B006...",
+    "commission": "amazon",
+    "category": "compressor",
+    "tier": "premium"
+  },
+  {
+    "product": "AS-186 Mini Compressor",
+    "keywords": ["as-186", "as186 compressor", "mini airbrush compressor"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B008...",
+    "commission": "amazon",
+    "category": "compressor",
+    "tier": "budget"
+  },
+  {
+    "product": "Vallejo Model Air Paint Set",
+    "keywords": ["vallejo model air", "vallejo airbrush paint", "vallejo paint set"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B009...",
+    "commission": "amazon",
+    "category": "paint",
+    "tier": "midrange"
+  },
+  {
+    "product": "Createx Colors",
+    "keywords": ["createx colors", "createx airbrush paint", "createx"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B010...",
+    "commission": "amazon",
+    "category": "paint",
+    "tier": "midrange"
+  },
+  {
+    "product": "Badger Stynylrez Primer",
+    "keywords": ["stynylrez", "badger primer", "airbrush primer"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B011...",
+    "commission": "amazon",
+    "category": "paint",
+    "tier": "midrange"
+  },
+  {
+    "product": "Airbrush Cleaning Kit",
+    "keywords": ["airbrush cleaning kit", "airbrush cleaner", "cleaning needles"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B012...",
+    "commission": "amazon",
+    "category": "accessories",
+    "tier": "budget"
+  },
+  {
+    "product": "Airbrush Moisture Trap",
+    "keywords": ["moisture trap", "water trap airbrush", "airbrush filter"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B013...",
+    "commission": "amazon",
+    "category": "accessories",
+    "tier": "budget"
+  },
+  {
+    "product": "Medea Airbrush Cleaner",
+    "keywords": ["medea airbrush cleaner", "medea cleaner", "airbrush cleaning solution"],
+    "url": "PLACEHOLDER_AMAZON_ASIN_B014...",
+    "commission": "amazon",
+    "category": "accessories",
+    "tier": "budget"
+  }
+]

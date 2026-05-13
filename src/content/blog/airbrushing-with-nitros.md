@@ -2,7 +2,7 @@
 title: "Airbrushing With Nitros"
 description: "What if you don't have an access to professional airbrush paint and the only source you can get the paint from is \"home hardware store\"?"
 pubDate: 2011-08-02
-category: "discussion"
+category: "guides"
 tags: ["646 reducer", "647 reducer", "649 reducer", "airbrush", "color wheel", "federal standard color", "nitro color", "nitro paint", "Nitrocellulose Based Lacquer Paint", "red nitro color", "shell silver nitro"]
 readingTime: 9
 draft: false
@@ -47,7 +47,7 @@ If you want to work with** nitros**, you will have to mix them as the palette of
 
 It is good to get some schema of mixing colors, so you know which colors to mix to get the desired one. I decided to include this schema here, so you don't have to waste your time looking for it elsewhere.
 
-![](/wp-content/uploads/2011/07/color-wheel.gif)
+![](/images/wp/2011/07/color-wheel.gif)
 
 I think many of you are very familiar with this model. The colors connected with black line are primary ones, yellow is the second level of mixing (i.e. if you mix red and blue you get violet and so on). The blue line is the third level of mixing. The schema is universal as if you mix red-violet and red-orange you will get red color.
 
@@ -65,7 +65,7 @@ The marking in this standard is made of two letters FS (federal standard) and 5 
 
 Example: FS35237 -Opaque, grey, half-intensity; FS34092 - Opaque, green, intensive, dark-green-lightblue. Here is the picture as better example:
 
-![](/wp-content/uploads/2011/07/Federal-color-standard-500x858.jpg)
+![](/images/wp-uploads/Federal-color-standard.webp)
 
 If you want to find out more, follow this link - [Colorserver](http://colorserver.net).
 

@@ -5,7 +5,7 @@ pubDate: 2011-02-10
 category: "download"
 tags: ["50 skulls", "ai", "airbrush", "airbrush gallery", "airbrush photo", "airbrush skull", "airbrush skull stencil downloadable", "airbrush skulls", "airbrush stencils", "cdr", "eps", "free eps airbrush stencil", "free stencils", "skull", "skull art", "skull reference pack", "skull stencil", "skull stencils", "stencil", "stencils"]
 readingTime: 1
-draft: false
+draft: true
 heroImage: "/images/wp-uploads/50-scull-stencils1.webp"
 ---
 
@@ -26,9 +26,23 @@ Preview:
 
 Some examples:
 
-[gallery link="file" type="rectangular" ids="12802,942,945,946,947,948,949,950,951,952,953,954,955,956"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/50-scull-stencils1.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/50-scull-stencils.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_001_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_005_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_009_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_014_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_017_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_020_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_027_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_034_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_040_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_044_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_046_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_050_aerografpro.ru_.webp" loading="lazy" /></div>
+</div>
 
-[sociallocker id="12884"] 
-http://ge.tt/3CdWXkq/v/2
-Pass: airbrushDOC
-[/sociallocker]
+download link:
+https://drive.google.com/file/d/1U17mvsGNN_oTob8pRcJp410BJwv0iXH6/view?usp=sharing
+

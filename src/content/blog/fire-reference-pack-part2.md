@@ -5,7 +5,7 @@ pubDate: 2011-08-15
 category: "download"
 tags: ["airbrush", "airbrush reference", "fire pictures", "fire reference", "reference image"]
 readingTime: 1
-draft: false
+draft: true
 heroImage: "/images/wp-uploads/f_09.webp"
 ---
 
@@ -17,7 +17,20 @@ A second part of [fire reference](http://www.airbrushdoc.com/download/fire-refer
 
 ## Fire Samples
 
-[gallery link="file" type="rectangular" ids="4714,4721,4722,4723,4724,4725,4726,4727,4728,4729,4730,4731"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_03.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_01.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_04.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_09.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_17.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_21.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_23.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_32.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_40.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_02.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_07.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/f_10.webp" loading="lazy" /></div>
+</div>
 
 Download for free by using one of the buttons below:
 [sociallocker id="12884"]

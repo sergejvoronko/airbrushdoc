@@ -37,23 +37,23 @@ So let's see if it's true.
 
 For the asked money ***Aztek*** gives you a nice collection of tools. First thing you'll see is a nice box made of "red wood". I'm not a big expert so I can't tell if it's really a red wood but the box is really beautiful and stylish.
 
-[![](/wp-content/uploads/2011/05/aztek_7778_wood_box-500x306.jpg)](/wp-content/uploads/2011/05/aztek_7778_wood_box.jpg)
+![](/images/wp-uploads/aztek_7778_wood_box.webp)
 
-[![](/wp-content/uploads/2011/05/aztek_7778-500x352.jpg)](/wp-content/uploads/2011/05/aztek_7778.jpg)In the box you can find:
+![](/images/wp-uploads/aztek_7778.webp)In the box you can find:
 
 	- airbrush itself
 
 	- silk pocket for airbrush (not that important but still gives you nice feeling)
 
-![](/wp-content/uploads/2011/05/aztek_pocket-500x270.jpg)
+![](/images/wp-uploads/aztek_pocket.webp)
 
 	- air-hose and all the connectors you need to connect it to your compressor
 
-![](/wp-content/uploads/2011/05/aztek_hose_reductor-500x435.jpg)
+![](/images/wp-uploads/aztek_hose_reductor.webp)
 
 	- and a special cap to connect the airbrush to a can with compressed air.
 
-[![](/wp-content/uploads/2011/05/aztek_cap-500x416.jpg)](/wp-content/uploads/2011/05/aztek_cap.jpg)
+![](/images/wp-uploads/aztek_cap.webp)
 
 ## Large set of Nozzle tips
 
@@ -85,7 +85,7 @@ These are described as gravity and siphon here but I would say that it is gravit
 
 	- **special reservoir** 2.5ml that can be taken apart into two pieces (very comfortable to use if you change nozzle tips very often as when you take the tip off paint won't leak)
 
-[![](/wp-content/uploads/2011/05/aztek_reseirvoir_2-500x437.jpg)](/wp-content/uploads/2011/05/aztek_reseirvoir_2.jpg)And one more 12ml with a bit similar but kind of different construction. The only one without lid.
+![](/images/wp-uploads/aztek_reseirvoir_2.webp)And one more 12ml with a bit similar but kind of different construction. The only one without lid.
 
 ## Special Tool Key
 
@@ -97,7 +97,7 @@ This key can be used for three different purposes:
 
 	- For cleaning the airbrush canal
 
-**[![](/wp-content/uploads/2011/05/aztek_key1-500x381.jpg)](/wp-content/uploads/2011/05/aztek_key1.jpg)**
+**![](/images/wp-uploads/aztek_key1.webp)**
 
 ## User Manual
 
@@ -109,7 +109,7 @@ Nozzle tips itself don't have any description on them (only thing that describes
 
 They strongly advice you to use those tips as per instructions (following the rules). Otherwise you can have spits, sprays or clogging. For example difference between acrylic and non acrylic nozzle tip
 
-[![](/wp-content/uploads/2011/05/aztek_nozzles-500x185.jpg)](/wp-content/uploads/2011/05/aztek_nozzles.jpg)even finish of nozzle tip for acrylic paint helps to prevent clogging and gives it the right air flow. But you have to be careful with this one as the end of needle is totally unprotected. Generally the storage of nozzle tips is designed very well what protects them and you can see all of them in at the same time without the need to shake the box.[![](/wp-content/uploads/2011/05/aztek_nozzle_in-cover.jpg)](/wp-content/uploads/2011/05/aztek_nozzle_in-cover.jpg)
+![](/images/wp-uploads/aztek_nozzles.webp)even finish of nozzle tip for acrylic paint helps to prevent clogging and gives it the right air flow. But you have to be careful with this one as the end of needle is totally unprotected. Generally the storage of nozzle tips is designed very well what protects them and you can see all of them in at the same time without the need to shake the box.![](/images/wp-uploads/aztek_nozzle_in-cover.webp)
 
 ## Different Sets
 
@@ -117,27 +117,27 @@ To my surprise **Aztek** has more sets similar to this one in their offer (total
 
 ### Aztek 7778 is the most expensive but most completed set.
 
-**Aztek 4809** - has several nozzle tips limited to 6 (tan, grey, turquoise, white, black and red or orange - not sure). Reservoirs are the same but instead of 12ml one there is another special 2.5ml one. There is no pocket for airbrush storage. Not sure about hose, as when you check the images on internet it is not in the box, but e-shop has it listed in specifications.  Also there is no lid for can with compressed air but instead of tool key there is connector for compressor.[![](/wp-content/uploads/2011/05/aztek_4809-500x336.jpg)](/wp-content/uploads/2011/05/aztek_4809.jpg)**Aztek 4709** - is the same as 4809 but airbrush body is plastic (so it is probably the cheapest one)[![](/wp-content/uploads/2011/05/aztec_4709-500x345.jpg)](/wp-content/uploads/2011/05/aztec_4709.jpg)
+**Aztek 4809** - has several nozzle tips limited to 6 (tan, grey, turquoise, white, black and red or orange - not sure). Reservoirs are the same but instead of 12ml one there is another special 2.5ml one. There is no pocket for airbrush storage. Not sure about hose, as when you check the images on internet it is not in the box, but e-shop has it listed in specifications.  Also there is no lid for can with compressed air but instead of tool key there is connector for compressor.![](/images/wp-uploads/aztek_4809.webp)**Aztek 4709** - is the same as 4809 but airbrush body is plastic (so it is probably the cheapest one)![](/images/wp-uploads/aztec_4709.webp)
 
 ## Design and Usefulness
 
 I'm not sure how to explain or review the design as this is a bit different from what many pro's are used to see and use. Unusual design.
 
-[![](/wp-content/uploads/2011/05/aztek_airbrush_and_hose-500x195.jpg)](/wp-content/uploads/2011/05/aztek_airbrush_and_hose.jpg)Personally I would say light and comfortable in hand. Balance and weight claimed by manufacturer are really one of the pros of this tool. Hose connected to the rear was a bit unusual for me as I felt that it can't be good but after some time I even forgot that there is something different. The pedal is fluent with a bit more of resistance than I expected. If you go to your local shop and they have this on offer, ask the seller to hold it in your hands so you will get the feeling  of it (I would recommend to do this when you buy any airbrush). E-shops don't have this ability so you have to believe everything you find on the internet.
+![](/images/wp-uploads/aztek_airbrush_and_hose.webp)Personally I would say light and comfortable in hand. Balance and weight claimed by manufacturer are really one of the pros of this tool. Hose connected to the rear was a bit unusual for me as I felt that it can't be good but after some time I even forgot that there is something different. The pedal is fluent with a bit more of resistance than I expected. If you go to your local shop and they have this on offer, ask the seller to hold it in your hands so you will get the feeling  of it (I would recommend to do this when you buy any airbrush). E-shops don't have this ability so you have to believe everything you find on the internet.
 
 The fitting of reservoirs is interesting - they can be done from any side so it doesn't matter if you're left- or right-handed. Fitting is easy and quick.
 
-[![](/wp-content/uploads/2011/05/aztek_reseirvoir-500x271.jpg)](/wp-content/uploads/2011/05/aztek_reseirvoir.jpg)Fitting the nozzle tip is easy as well. If you don't have enough power in your hands you can use the tool key to fix the nozzle.
+![](/images/wp-uploads/aztek_reseirvoir.webp)Fitting the nozzle tip is easy as well. If you don't have enough power in your hands you can use the tool key to fix the nozzle.
 
-[![](/wp-content/uploads/2011/05/nozzle_tip_conection-500x344.jpg)](/wp-content/uploads/2011/05/nozzle_tip_conection.jpg)And the magic wheel for switching the action regime
+![](/images/wp-uploads/nozzle_tip_conection.webp)And the magic wheel for switching the action regime
 
-[![](/wp-content/uploads/2011/05/aztek_wheel1-500x150.jpg)](/wp-content/uploads/2011/05/aztek_wheel1.jpg)First impression when you see the wheel - you may think that it's for control of needle move. In this case you just change the needle starting position. If we screw the needle to most right we get maximum flow of paint at all time (there you go - single action). But if you screw the needle to the most left the paint flow will be blocked and it won't work at all. So you will have to find a position somewhere in the middle which you're comfortable with. This can be done in 30 secs and I think that this kind of system can help to adjust the [airbrush](http://www.airbrushdoc.com) for special type of work. You can not only switch regimes but even adjust them.
+![](/images/wp-uploads/aztek_wheel1.webp)First impression when you see the wheel - you may think that it's for control of needle move. In this case you just change the needle starting position. If we screw the needle to most right we get maximum flow of paint at all time (there you go - single action). But if you screw the needle to the most left the paint flow will be blocked and it won't work at all. So you will have to find a position somewhere in the middle which you're comfortable with. This can be done in 30 secs and I think that this kind of system can help to adjust the [airbrush](http://www.airbrushdoc.com) for special type of work. You can not only switch regimes but even adjust them.
 
 ## Functionality
 
 Nice box, wide selection of nozzle tips and something on top – that's good, but how's about functionality, does it work as good as it looks? Well, much depends on how you will get used to it. With my skills I would say that nozzle tips spray very good. But if we look at width of final lines, hmmm.. not that awesome.
 
-[![](/wp-content/uploads/2011/05/aztek_nozzle_lines-500x188.jpg)](/wp-content/uploads/2011/05/aztek_nozzle_lines.jpg)**1 - 0.3mm (tan tip), 2 - 0.4mm two lines (black tip), 3 - 1.02mm (yellow tip), 4 - 0.5mm (red tip), 5 - 0.5mm (pink)**
+![](/images/wp-uploads/aztek_nozzle_lines.webp)**1 - 0.3mm (tan tip), 2 - 0.4mm two lines (black tip), 3 - 1.02mm (yellow tip), 4 - 0.5mm (red tip), 5 - 0.5mm (pink)**
 
 Number 5 on the picture was made with different pressure (hight in the middle, lower around it). With smallest tip (tan colour - 0.3mm) I could not get line thinner than 3mm. The black one (0.4mm) for acrylic colours was better in my opinion in quality and contrast. It really depends what kind of colour you're going to use and which nozzle tip. This set can give you a wide spectrum of possibilities with some restrictions in fine art. If I take the number of nozzle tips in this set I would expect more from it. Especially I was amazed by comfort when you need to change the tip or colour. The whole process is so quick that I spent about 30 minutes to test all the nozzle tips with base coat included.
 

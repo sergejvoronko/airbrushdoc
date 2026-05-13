@@ -18,28 +18,38 @@ The gunsmith **Jens Andreas Paasche** emigrated from Norway in 1900. For a while
 ## 1905 - Paasche First Airbrush Patent
 
 First Paasche's airbrush was patented in 1905. The grandfather of legendary **Paasche AB Turbo **(actually, Paasche has made some modernization and miniaturization for **Walkup design** to create this airbrush).
-[![](/wp-content/uploads/2011/10/paasche-first-patent-1905-1-500x804.gif)](/wp-content/uploads/2011/10/paasche-first-patent-1905-1-500x804.gif)
+![](/images/wp-uploads/paasche-first-patent-1905-1.webp)
 
 ## 1907 Another Paasche AB Airbrush
 
-[![](/wp-content/uploads/2011/10/paasche-patent-1907-1-500x802.gif)](/wp-content/uploads/2011/10/paasche-patent-1907-1-500x802.gif)
+![](/images/wp-uploads/paasche-patent-1907-1.webp)
 
-[![](/wp-content/uploads/2011/10/Airbrush_Paasche_A.jpg)](/wp-content/uploads/2011/10/Airbrush_Paasche_A.jpg)This airbrush had the side mounted trigger and the horizontal orientation of the **[Peeler](http://www.airbrushdoc.com/history/who-invented-airbrush/)/[Walkup](http://www.airbrushdoc.com/history/airbrush-evolution-business/) designs**. The body had **dual tube design**.
+![](/images/wp-uploads/Airbrush_Paasche_A.webp)This airbrush had the side mounted trigger and the horizontal orientation of the **[Peeler](http://www.airbrushdoc.com/history/who-invented-airbrush/)/[Walkup](http://www.airbrushdoc.com/history/airbrush-evolution-business/) designs**. The body had **dual tube design**.
 
 The needle sits deeper in the paint cup and makes it easier to pick up paint. Both airbrushes (1905 and 1907) had already something in common with present day airbrushes (separate reservoir for paint and finger trigger).
 
 ## 1908 Single Action Airbrush "DD"
 
 This airbrush had many configurations. Mostly the difference was in feeding. Some airbrushes were side feed, but most were bottom (siphon) feed airbrushes.
-[![](/wp-content/uploads/2011/10/paasche-patent-1908-500x759.jpg)](/wp-content/uploads/2011/10/paasche-patent-1908-500x759.jpg)
+![](/images/wp-uploads/paasche-patent-1908.webp)
 
 Here are some pictures of **Paasche airbrush model N** (seen on flyers  since 1920 till 1930). On the images below you can see something like **PAT'D Feb.25.08** - it is the exact date when Paasche patented his single action DD airbrush)
 
-[gallery type="rectangular" link="file" ids="5374,5373,5375,5376,5377,5378,5379,5380,5381"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AR0096.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AR0094.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AR0098.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AR0099.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AR0100.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AR0102.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AR0103.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/jAPaascheModelNEarly1900s.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AR0104.webp" loading="lazy" /></div>
+</div>
 
 On the 19th of January 1915 "**Paasche Airbrush Company**" has patented some new, positive modification of their airbrush and at the same time the company published their **first airbrush catalog**. It was 48 pages brochure called "**Paasche Air Brush Catalog**".
 
-[![](/wp-content/uploads/2011/10/1915_Paasche_airbrush_cat.jpg)](/wp-content/uploads/2011/10/1915_Paasche_airbrush_cat.jpg)
+![](/images/wp-uploads/1915_Paasche_airbrush_cat.webp)
 
 Only 28 of these pages are available and you can download this book [here](http://www.airbrushdoc.com/paaschecatalog).
 
@@ -47,8 +57,8 @@ After this one company publishes their catalogs on a few years basis (1923, 1926
 
 Two Paasche bulletins from 1929 and 1930 are still in **museum of airbrush in Chicago**.
 
-[![](/wp-content/uploads/2011/10/1929-Paasche-Bulletin-1.jpg)](/wp-content/uploads/2011/10/1929-Paasche-Bulletin-1.jpg)
-[![](/wp-content/uploads/2011/10/1930-Paasche-Bulletin-2.jpg)](/wp-content/uploads/2011/10/1930-Paasche-Bulletin-2.jpg)
+![](/images/wp-uploads/1929-Paasche-Bulletin-1.webp)
+![](/images/wp-uploads/1930-Paasche-Bulletin-2.webp)
 
 Note: On Bulletins it says "**Established 1905**" :) this is strange, as everybody says 1904.
 
@@ -56,7 +66,7 @@ Exactly at that time **Jens Paasche** patented **Airbrush Air Eraser**. It atomi
 
 In 50s and 60s all the airbrushes were able to change the position of needle by simple trigger movement. At that time Paasche produces **Double Action Airbrush (D-D)**. The paint flow is regulated by trigger already (Model H had manually regulated paint flow by screwing the nozzle tip). On the picture bellow **Model H** and **D-D** side by side.
 
-[![](/wp-content/uploads/2011/10/Airbrush_Paasche_model-H_DD2.jpg)](/wp-content/uploads/2011/10/Airbrush_Paasche_model-H_DD2.jpg)
+![](/images/wp-uploads/Airbrush_Paasche_model-H_DD2.webp)
 
 I could go into details, but I'm not going to. Maybe later I'll write something more. I just wanted you to know how it started and especially to mention the name **Jens Andreas Paasche**. If you want to know more, I would recommend to check [airbrush museum](http://www.airbrushmuseum.com/) website and especially [airbrush patents](http://www.airbrushmuseum.com/airbrush_patents_collected_numerical.html) page where you can see all the patents. Generally, **Paasche Airbrush Company** has made huge improvements to the airbrush concept and its development.
 
@@ -64,9 +74,9 @@ Not so long ago, in 2004, **Paasche Airbrush Company** has celebrated 100 years 
 
 The original factory was constructed in Chicago in 1922.  It was later expanded three times.  In 1984, needing more space for the ever increasing demand for airbrushes and industrial spray equipment, the factory was relocated to Harwood Height, Illinois.  In 2005 it was moved back to Chicago.
 
-[![Paasche Building 2007](/wp-content/uploads/2011/10/Paasche-Building-2007.jpg)](/wp-content/uploads/2011/10/Paasche-Building-2007.jpg)Paasche Airbrush is now operated by Jens A. Paasche's grandson John Paasche Pettersen, his wife Vallie Pettersen and their twin sons Brian and Steven Pettersen.
+![Paasche Building 2007](/images/wp-uploads/Paasche-Building-2007.webp)Paasche Airbrush is now operated by Jens A. Paasche's grandson John Paasche Pettersen, his wife Vallie Pettersen and their twin sons Brian and Steven Pettersen.
 
-[caption id="attachment_12736" align="aligncenter" width="798"][![](/wp-content/uploads/2011/10/PAASCHE-EMPLOYEES.jpg)](/wp-content/uploads/2011/10/PAASCHE-EMPLOYEES.jpg) Paasche Emplyees[/caption]
+[caption id="attachment_12736" align="aligncenter" width="798"]![](/images/wp-uploads/PAASCHE-EMPLOYEES.webp) Paasche Emplyees[/caption]
 
 Sources: [airbrush museum](http://www.airbrushmuseum.com/), [airbrushwiki](http://airbrushwiki.ru), [Andy Penaluna](http://thecommunicationspace.com/profile/AndyPenaluna)
 

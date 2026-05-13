@@ -39,7 +39,7 @@ In this airbrush gun the trigger controls airflow only. Paint volume is constant
 
 **Double-Action (DA)**
 
-Here one trigger controls both - the airflow and the paint flow. Pushing the trigger down lets air to flow and when you pull the trigger backwards paint will come into mixing chamber. The amount of paint depends on how far you pulled the trigger backwards. [![](/wp-content/uploads/2011/02/evolution_01_intro-150x150.gif)](/wp-content/uploads/2011/02/evolution_01_intro.gif)That means that you can change the amount of paint on the fly (no stopping, no adjusting). Double-action requires more skills and time to get used to it as you have to do two things at once (regulate the airflow and paint flow).
+Here one trigger controls both - the airflow and the paint flow. Pushing the trigger down lets air to flow and when you pull the trigger backwards paint will come into mixing chamber. The amount of paint depends on how far you pulled the trigger backwards. [![](/images/wp/2011/02/evolution_01_intro-150x150.gif)](/images/wp/2011/02/evolution_01_intro.gif)That means that you can change the amount of paint on the fly (no stopping, no adjusting). Double-action requires more skills and time to get used to it as you have to do two things at once (regulate the airflow and paint flow).
 
 > These airbrushes are good for detailed jobs and are very popular among scale modelers (but not all of them use double-action airbrushes as for their purpose single-action could be good enough).
 
@@ -49,24 +49,24 @@ This describes the way we feed our airbrush gun with paint.
 
 **Gravity feed (GF)**
 
-These airbrushes have a pain cup on the top or side of their body. The function is easy as it is based on the Earth gravity which pushes the paint down into mixing chamber where it gets mixed with air and sprayed.[![](/wp-content/uploads/2011/02/Airbrush_DeVilbiss_Dagr_Large-250x168.jpg)](/wp-content/uploads/2011/02/Airbrush_DeVilbiss_Dagr_Large.jpg)
+These airbrushes have a pain cup on the top or side of their body. The function is easy as it is based on the Earth gravity which pushes the paint down into mixing chamber where it gets mixed with air and sprayed.![](/images/wp-uploads/Airbrush_DeVilbiss_Dagr_Large.webp)
 
 Gravity feed airbrush doesn't need as high pressure as the siphon feed. This is big advantage when you paint fine-lines.
 
 **Siphon feed (SF)**
 
-**[![](/wp-content/uploads/2011/02/bad250-4-150x150.jpg)](/wp-content/uploads/2011/02/bad250-4.jpg)**This one has a bottle on the bottom (sometime it's called bottom feed) and as you can get from the name it works on the principle that there is a tube inside the bottle that goes from airbrush gun body. Blown air over the tube pulls the paint up into the mixing chamber. Big plus for this type is capacity as the bottles used there are bigger than the cup used in gravity feed airbrushes. This is a huge advantage when painting big objects (no stops to refill).
+**![](/images/wp-uploads/bad250-4.webp)**This one has a bottle on the bottom (sometime it's called bottom feed) and as you can get from the name it works on the principle that there is a tube inside the bottle that goes from airbrush gun body. Blown air over the tube pulls the paint up into the mixing chamber. Big plus for this type is capacity as the bottles used there are bigger than the cup used in gravity feed airbrushes. This is a huge advantage when painting big objects (no stops to refill).
 
 Now when choosing between these two I want to give you some advises. Gravity feed cups can vary in sizes and some of this guns have a possibility to change the cup, some are permanently fixed to the body (most cases). Some come with a lid on the cup and some don't. So which one do you choose, depends on the purpose of your airbrushing. If you're going to paint small details you'll probably prefer smaller cup, if you use acrylic paint you would prefer a cup with a lid. It does not mean that you have to buy exactly this, you can always make a lid (see [here](http://www.airbrushdoc.com/tips-and-tricrush/tuning-airbrush-evolution/), this is just a single example).
 For some of siphon feed airbrush guns you can buy a cup that can be mounted to the side of airbrush. This can cut the pressure needed to use it. But not every gun has this functionality.
 
-[![](/wp-content/uploads/2011/02/spectrum_paint_bottles-150x150.jpg)](/wp-content/uploads/2011/02/spectrum_paint_bottles.jpg)[![](/wp-content/uploads/2011/02/Spectrum2000-150x150.jpg)](/wp-content/uploads/2011/02/Spectrum2000.jpg)
+![](/images/wp-uploads/spectrum_paint_bottles.webp)![](/images/wp-uploads/Spectrum2000.webp)
 
 Maybe you'd want to check a really interesting tool for siphon feed airbrushes called "[SPECTRUM 2000](http://www.madisonartshop.com/spectrum-2000.html)" that allows you to have up to nine bottles of paint connected at the same time. I've never tried this, so this is just a note that siphon feed airbrush gun can have some advantage but I don't know if it's good.
 
 **Hybrid feed (HF)**
 
-As name says it is a hybrid of the two types above. Some guns have a rotation switch on their body so you can switch between cup and bottle. ![](/wp-content/uploads/2011/02/216_01-250x248.jpg)
+As name says it is a hybrid of the two types above. Some guns have a rotation switch on their body so you can switch between cup and bottle. ![](/images/wp-uploads/216_01.webp)
 
 Some airbrush guns with bottom feed can have a cup on the top that is used simultaneously with the bottle if you need to raise a paint volume (*assist feeding*).
 
@@ -76,7 +76,7 @@ Another two types which can categorize your airbrush depending on how it mixes t
 
 Internal mix atomizes the paint inside the body of airbrush gun, external outside the body.
 
-Good example of external mix type of airbrush gun is Paasche H.[![](/wp-content/uploads/2011/02/external-mix-250x100.jpg)](/wp-content/uploads/2011/02/external-mix.jpg) It has the paint nozzle below the airbrush body where it gets atomized, so the body stays clean as there is almost no paint inside it at all. But the internal mix type has usually finer finish than external one. If you prefer details you should choose the internal mix one and live with the fact that you have to clean it more often than external mix gun.
+Good example of external mix type of airbrush gun is Paasche H.![](/images/wp-uploads/external-mix.webp) It has the paint nozzle below the airbrush body where it gets atomized, so the body stays clean as there is almost no paint inside it at all. But the internal mix type has usually finer finish than external one. If you prefer details you should choose the internal mix one and live with the fact that you have to clean it more often than external mix gun.
 
 This is probably all the types of airbrush guns that exists at the present day.
 
@@ -122,13 +122,13 @@ I'm not promoting any brands here. These are professional advices and if you don
 
 If you check those links, the prices vary a lot. **IWATA** brand definitely belongs to a top brand of airbrushes out there, even if you think that they are too expensive, any professional will tell you that they have reasonable prices. My Bro uses **Iwata Custom Micron CM-C Plus** and he is more than satisfied. His first airbrush was **BD180** Gravity feed Double-action, but after he bought Iwata the whole experience has changed. He commented on difference between these two as "Heaven and Hell" I think that you get this. Here are some pictures of his gun.
 
-[![](/wp-content/uploads/2011/02/iwata-micron-1-500x375.jpg)](/wp-content/uploads/2011/02/iwata-micron-1.jpg)[![](/wp-content/uploads/2011/02/iwata-micron-2-500x375.jpg)](/wp-content/uploads/2011/02/iwata-micron-2.jpg)
+![](/images/wp-uploads/iwata-micron-1.webp)![](/images/wp-uploads/iwata-micron-2.webp)
 
 Which one you're going to buy will depend mostly on your financial situation. Don't forget that besides airbrush you have to get air compressor or build one (see [here](http://www.airbrushdoc.com/tips-and-tricks-airbrush/silent-compressor/) or [here](http://www.airbrushdoc.com/tips-and-tricks-airbrush/homemade-airbrush-compressor/)).
 
 At this point I have no more words to say and I hope that this article will help you a little. I'm counting on professionals who won't stay in shadow and will share their experiences in comments. This is it for *airbrush guns*, next time I want to say something about *[air compressors](http://www.airbrushdoc.com/beginners/air-compressor/)*.
 
 Here are some more results that I collected from airbrushdoc audience:
-![airbrush votes](/wp-content/uploads/2011/03/airbrush-votes3.jpg)
+![airbrush votes](/images/wp-uploads/airbrush-votes3.webp)
 
 Source: [Facebook fun page](http://facebook.com/airbrushdoc), [Wolf SongStudio](http://www.wolfsongstudio.com/)

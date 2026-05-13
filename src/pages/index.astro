@@ -6,31 +6,40 @@ import ArticleCard from '../components/ArticleCard.astro';
 const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
 const recent = allPosts
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 6);
+  .slice(0, 3);
+
+const pinnedSlugs = ['best-airbrush-for-beginners-2026', 'advanced-guide-to-airbrush-colors'];
+const pinnedPosts = pinnedSlugs.map(s => allPosts.find(p => p.id === s)).filter(Boolean);
 
 const testimonials = [
   {
     text: "It is good that you took the time to post a comprehensive listing of paint options. I wish more websites did so. The mainstream airbrush sites are sorely lacking on this point. Thanks!",
     author: "Barry Munden",
-    avatar: "/images/wp-uploads/barry1.jpg",
+    avatar: "/images/wp-uploads/barry1.webp",
   },
   {
     text: "One of the biggest things for me was having Walkup's 93 year old nephew tell me that he was so pleased that his family could now be recognized for all their efforts. History made real!! Keep up the good work.",
     author: "Andy Penaluna",
-    avatar: "/images/wp-uploads/andy-penaluna-e1437996862989.jpg",
+    avatar: "/images/wp-uploads/andy-penaluna-e1437996862989.webp",
   },
   {
     text: "This is my second time at your site. And now I realize you have designed a great site to study and learn from.",
     author: "Larry Potillo",
-    avatar: "/images/wp-uploads/larry_potillo.png",
+    avatar: "/images/wp-uploads/larry_potillo.webp",
   },
 ];
 
+const featureSvgs = [
+  `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`,
+  `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>`,
+  `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>`,
+  `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>`,
+];
 const features = [
-  { icon: "⭐", title: "Equipment Reviews", text: "We've tested airbrushes from Iwata, Badger, Paasche, Harder & Steenbeck and more — honest, hands-on, no fluff.", href: "/blog/?cat=reviews" },
-  { icon: "🎓", title: "Step-by-Step Tutorials", text: "From basic techniques to advanced multi-layer work. Real projects, real photos, practical tips at every skill level.", href: "/blog/?cat=tutorials" },
-  { icon: "📐", title: "Free Stencils", text: "Hundreds of free single-layer and premium multi-layer stencil designs — skulls, flames, tribal, camouflage, and more.", href: "/blog/?cat=stencils" },
-  { icon: "🔧", title: "Troubleshooting", text: "Spitting, clogging, uneven spray? Our interactive troubleshooter walks you through a fix in under 2 minutes.", href: "/tools/troubleshooter/" },
+  { icon: featureSvgs[0], title: "Equipment Reviews", text: "We've tested airbrushes from Iwata, Badger, Paasche, Harder & Steenbeck and more — honest, hands-on, no fluff.", href: "/airbrush-reviews/" },
+  { icon: featureSvgs[1], title: "Step-by-Step Tutorials", text: "From basic techniques to advanced multi-layer work. Real projects, real photos, practical tips at every skill level.", href: "/beginners/" },
+  { icon: featureSvgs[2], title: "Free Resources", text: "Subscribe and download skull stencils, fire reference packs, and multi-layer stencil designs — free with your newsletter signup.", href: "/freebies/" },
+  { icon: featureSvgs[3], title: "Troubleshooting", text: "Spitting, clogging, uneven spray? Our interactive troubleshooter walks you through a fix in under 2 minutes.", href: "/tools/troubleshooter/" },
 ];
 ---
 <BaseLayout
@@ -44,17 +53,19 @@ const features = [
     <div class="abd-hero-full-overlay"></div>
     <div class="abd-hero-full-content">
       <div class="abd-hero-left">
-        <div class="abd-hero-eyebrow">✦ Trusted by 5,000+ airbrush artists since 2010</div>
+        <div class="abd-hero-eyebrow">✦ Trusted by 5,000+ readers &amp; followers since 2010</div>
         <h1 class="abd-hero-full-title">
           Master Airbrush Art<br /><span class="abd-hero-title-accent">From Beginner to Pro</span>
         </h1>
+      </div>
+      <div class="abd-hero-right">
         <p class="abd-hero-full-subtitle">
           Expert equipment reviews, step-by-step tutorials, and free stencils to level up your airbrush game — whatever your skill level or budget.
         </p>
-      </div>
-      <div class="abd-hero-right">
-        <a href="/blog/" class="abd-btn-primary">Browse Articles</a>
-        <a href="/tools/airbrush-quiz/" class="abd-btn-ghost" style="border-color: rgba(255,255,255,0.3); color: #fff;">Find Your Airbrush →</a>
+        <div class="abd-hero-ctas">
+          <a href="/blog/" class="abd-btn-primary">Browse Articles</a>
+          <a href="/tools/airbrush-quiz/" class="abd-btn-ghost" style="border-color: rgba(255,255,255,0.3); color: #fff;">Find Your Airbrush →</a>
+        </div>
       </div>
     </div>
   </section>
@@ -74,7 +85,7 @@ const features = [
       <div class="abd-stat-sep"></div>
       <div class="abd-stat">
         <span class="abd-stat-num">5,000+</span>
-        <span class="abd-stat-label">Artists Helped</span>
+        <span class="abd-stat-label">Followers &amp; Subscribers</span>
       </div>
       <div class="abd-stat-sep"></div>
       <div class="abd-stat">
@@ -92,12 +103,74 @@ const features = [
     <div class="abd-features-grid">
       {features.map(f => (
         <a href={f.href} class="abd-feature-card">
-          <div class="abd-feature-icon">{f.icon}</div>
+          <div class="abd-feature-icon" set:html={f.icon}></div>
           <div class="abd-feature-name">{f.title}</div>
           <p class="abd-feature-desc">{f.text}</p>
           <span class="abd-feature-link">Learn more →</span>
         </a>
       ))}
+    </div>
+  </section>
+
+  <!-- ═══ START HERE — FEATURED GUIDES ═══ -->
+  <section class="abd-section abd-pinned-section">
+    <div class="abd-section-header">
+      <div>
+        <div class="abd-pinned-eyebrow">Start Here</div>
+        <h2 class="abd-section-title">Essential Guides</h2>
+      </div>
+      <a href="/blog/" class="abd-section-link">All articles →</a>
+    </div>
+    <div class="abd-pinned-grid">
+      {pinnedPosts.map((post, i) => {
+        const labels = ['Beginner Pick', 'Paint Guide'];
+        const colors = ['var(--abd-orange)', 'var(--abd-blue)'];
+        return (
+          <a href={`/blog/${post!.id}/`} class="abd-pinned-card">
+            {post!.data.heroImage && (
+              <div class="abd-pinned-img">
+                <img src={post!.data.heroImage} alt={post!.data.title} loading="lazy" />
+              </div>
+            )}
+            <div class="abd-pinned-body">
+              <span class="abd-pinned-badge" style={`color:${colors[i]};border-color:${colors[i]}22;background:${colors[i]}11`}>{labels[i]}</span>
+              <div class="abd-pinned-title">{post!.data.title}</div>
+              {post!.data.description && <p class="abd-pinned-desc">{post!.data.description}</p>}
+              <span class="abd-pinned-cta">Read guide →</span>
+            </div>
+          </a>
+        );
+      })}
+      <a href="/freebies/" class="abd-pinned-card">
+        <div class="abd-pinned-img" style="background: linear-gradient(135deg, #0f1a0f 0%, #1a2e1a 100%); display:flex; align-items:center; justify-content:center;">
+          <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="var(--abd-green)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        </div>
+        <div class="abd-pinned-body">
+          <span class="abd-pinned-badge" style="color:var(--abd-green);border-color:var(--abd-green)22;background:var(--abd-green)11">Free Resources</span>
+          <div class="abd-pinned-title">50 Skull Stencils, Fire Reference Pack &amp; More</div>
+          <p class="abd-pinned-desc">Subscribe and get stencil packs, high-res reference photos, and exclusive tools — free.</p>
+          <span class="abd-pinned-cta">Get free downloads →</span>
+        </div>
+      </a>
+    </div>
+
+    <div class="abd-resource-row">
+      <a href="/tools/" class="abd-resource-card">
+        <div class="abd-resource-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
+        <div class="abd-resource-text">
+          <div class="abd-resource-label">Interactive Tools</div>
+          <div class="abd-resource-desc">Airbrush finder quiz, troubleshooter, paint selector, and model comparison — 4 free tools.</div>
+        </div>
+        <span class="abd-resource-cta">Explore tools →</span>
+      </a>
+      <a href="/airbrush-glossary/" class="abd-resource-card">
+        <div class="abd-resource-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div>
+        <div class="abd-resource-text">
+          <div class="abd-resource-label">Airbrush Glossary</div>
+          <div class="abd-resource-desc">55 terms explained A–Z — from air pressure to viscosity. The reference every airbrush artist needs.</div>
+        </div>
+        <span class="abd-resource-cta">Browse glossary →</span>
+      </a>
     </div>
   </section>
 
@@ -134,25 +207,32 @@ const features = [
     </div>
     <div class="abd-tools-grid">
       <a href="/tools/airbrush-quiz/" class="abd-tool-card">
-        <div class="abd-tool-icon">🎯</div>
+        <div class="abd-tool-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></div>
         <div class="abd-tool-name">Airbrush Finder Quiz</div>
         <p class="abd-tool-desc">Answer 6 questions and get matched with the right airbrush for your style and budget.</p>
       </a>
       <a href="/tools/troubleshooter/" class="abd-tool-card">
-        <div class="abd-tool-icon">🔧</div>
+        <div class="abd-tool-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
         <div class="abd-tool-name">Troubleshooter</div>
         <p class="abd-tool-desc">Diagnose spitting, clogging, and uneven spray problems step by step.</p>
       </a>
       <a href="/tools/paint-selector/" class="abd-tool-card">
-        <div class="abd-tool-icon">🎨</div>
+        <div class="abd-tool-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="13.5" cy="6.5" r=".5" fill="currentColor"/><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"/><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"/><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"/><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0 1.648-.746 1.648-1.688 0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1 1.668-1.668h1.996c3.051 0 5.555-2.503 5.555-5.554C21.965 6.012 17.461 2 12 2z"/></svg></div>
         <div class="abd-tool-name">Paint Selector</div>
         <p class="abd-tool-desc">Find the right paint for your surface and application type.</p>
       </a>
       <a href="/tools/compare/" class="abd-tool-card">
-        <div class="abd-tool-icon">⚖️</div>
+        <div class="abd-tool-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="M7 21H17"/><path d="M12 3v18"/><path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/></svg></div>
         <div class="abd-tool-name">Compare Airbrushes</div>
         <p class="abd-tool-desc">Side-by-side specs of popular airbrush models.</p>
       </a>
+    </div>
+    <div style="margin-top: 20px; padding: 16px 20px; background: var(--abd-surface); border: 1px solid var(--abd-border); border-radius: var(--abd-radius); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;">
+      <div>
+        <span style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--abd-text-muted);">Reference</span>
+        <div style="font-size: 0.95rem; font-weight: 600; color: var(--abd-text); margin-top: 2px;">Airbrush Glossary — 55 terms explained A to Z</div>
+      </div>
+      <a href="/airbrush-glossary/" style="font-size: 0.85rem; font-weight: 600; color: var(--abd-orange); text-decoration: none; white-space: nowrap;">Browse Glossary →</a>
     </div>
   </section>
 
@@ -162,8 +242,8 @@ const features = [
       <h2 class="abd-section-title">Latest Articles</h2>
       <a href="/blog/" class="abd-section-link">View all →</a>
     </div>
-    <div class="blg-grid">
-      {recent.map(post => (
+    <div class="home-articles-grid">
+      {recent.map((post, i) => (
         <ArticleCard
           title={post.data.title}
           slug={post.id}
@@ -173,6 +253,7 @@ const features = [
           category={post.data.category}
           pubDate={post.data.pubDate}
           readingTime={post.data.readingTime}
+          featured={i === 0}
         />
       ))}
     </div>
@@ -197,31 +278,6 @@ const features = [
           <a href="/book/preview/" class="abd-book-promo-preview">Read free preview →</a>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- ═══ NEWSLETTER ═══ -->
-  <section style="background: var(--abd-surface); border-top: 1px solid var(--abd-border); border-bottom: 1px solid var(--abd-border); padding: 64px 24px;">
-    <div style="max-width: 560px; margin: 0 auto; text-align: center;">
-      <div style="font-size: 2rem; margin-bottom: 16px;">✉️</div>
-      <h2 style="font-family: var(--abd-font-display); font-size: clamp(1.5rem,3vw,2rem); font-weight: 700; color: var(--abd-text); margin-bottom: 12px;">
-        Free Stencils &amp; New Guides
-      </h2>
-      <p style="font-size: 0.95rem; color: var(--abd-text-dim); margin-bottom: 8px; line-height: 1.6;">
-        Join 5,000+ artists who get exclusive stencils, tutorials, and equipment reviews delivered to their inbox.
-      </p>
-      <ul style="list-style: none; margin-bottom: 28px; display: flex; flex-direction: column; gap: 6px; text-align: left; max-width: 280px; margin-left: auto; margin-right: auto;">
-        {['Free multi-layer stencil pack', 'Weekly technique tutorials', 'First access to new stencil releases', 'Exclusive equipment deals & reviews'].map(item => (
-          <li style="font-size: 0.85rem; color: var(--abd-text-dim); display: flex; align-items: center; gap: 8px;">
-            <span style="color: var(--abd-green); font-weight: 700;">✓</span>{item}
-          </li>
-        ))}
-      </ul>
-      <form class="abd-newsletter-form" style="max-width: 420px; margin: 0 auto 12px;" data-ml-form>
-        <input class="abd-newsletter-input" type="email" placeholder="Your email address" required />
-        <button class="abd-newsletter-btn" type="submit">Get My Free Stencils</button>
-      </form>
-      <p style="font-size: 0.75rem; color: var(--abd-text-muted);">We respect your privacy. Unsubscribe anytime.</p>
     </div>
   </section>
 
@@ -274,6 +330,28 @@ const features = [
     </div>
   </section>
 
+  <!-- ═══ NEWSLETTER ═══ -->
+  <section style="background: var(--abd-surface); border-top: 1px solid var(--abd-border); padding: 64px 24px;">
+    <div style="max-width: 560px; margin: 0 auto; text-align: center;">
+      <div style="margin-bottom: 16px; color: var(--abd-orange);"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></div>
+      <h2 style="font-family: var(--abd-font-display); font-size: clamp(1.5rem,3vw,2rem); font-weight: 700; color: var(--abd-text); margin-bottom: 12px;">
+        Free Downloads &amp; New Guides
+      </h2>
+      <p style="font-size: 0.95rem; color: var(--abd-text-dim); margin-bottom: 8px; line-height: 1.6;">
+        Join 5,000+ subscribers and get instant access to free stencils, reference packs, and exclusive tools.
+      </p>
+      <ul style="list-style: none; margin-bottom: 28px; display: flex; flex-direction: column; gap: 6px; text-align: left; max-width: 280px; margin-left: auto; margin-right: auto;">
+        {['50 skull stencils + fire reference pack', 'Access to exclusive subscriber tools', 'New guides & equipment reviews'].map(item => (
+          <li style="font-size: 0.85rem; color: var(--abd-text-dim); display: flex; align-items: center; gap: 8px;">
+            <span style="color: var(--abd-green); font-weight: 700;">✓</span>{item}
+          </li>
+        ))}
+      </ul>
+      <div class="ml-embedded" data-form="d5CS8H"></div>
+      <p style="font-size: 0.75rem; color: var(--abd-text-muted);">We respect your privacy. Unsubscribe anytime.</p>
+    </div>
+  </section>
+
 </BaseLayout>
 
 <style>
@@ -281,12 +359,12 @@ const features = [
 .abd-hero-full {
   position: relative;
   min-height: 560px;
-  display: flex; align-items: center; justify-content: center;
+  display: flex; align-items: flex-end; justify-content: center;
   overflow: hidden;
 }
 .abd-hero-full-bg {
-  position: absolute; inset: 0;
-  background-size: cover; background-position: center;
+  position: absolute; inset: 0 0 0 220px;
+  background-size: cover; background-position: center center;
   background-repeat: no-repeat;
   transform: scale(1.04);
   transition: transform 8s ease;
@@ -294,13 +372,23 @@ const features = [
 .abd-hero-full:hover .abd-hero-full-bg { transform: scale(1); }
 .abd-hero-full-overlay {
   position: absolute; inset: 0;
-  background: linear-gradient(135deg, rgba(10,10,10,0.88) 0%, rgba(14,14,14,0.72) 60%, rgba(14,14,14,0.6) 100%);
+  background: rgba(10,10,10,0.52);
+}
+.abd-hero-full-overlay::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(to right, rgba(10,10,10,1) 0%, rgba(10,10,10,1) 221px, rgba(10,10,10,0) 380px);
+}
+.abd-hero-full-overlay::after {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(to top, rgba(10,10,10,0.7) 0%, transparent 50%);
 }
 .abd-hero-full-content {
   position: relative; z-index: 1;
   max-width: var(--abd-max-w); width: 100%;
-  padding: 80px 32px;
-  display: flex; align-items: center;
+  padding: 48px 32px;
+  display: flex; align-items: flex-end;
   justify-content: space-between; gap: 48px;
 }
 .abd-hero-left {
@@ -309,7 +397,12 @@ const features = [
 .abd-hero-right {
   flex-shrink: 0;
   display: flex; flex-direction: column;
-  align-items: flex-end; gap: 16px;
+  align-items: flex-end; gap: 20px;
+  max-width: 360px;
+}
+.abd-hero-ctas {
+  display: flex; flex-wrap: wrap; gap: 16px;
+  justify-content: flex-end;
 }
 .abd-hero-full-title {
   font-family: var(--abd-font-display);
@@ -323,7 +416,7 @@ const features = [
   font-size: clamp(0.95rem, 1.8vw, 1.1rem);
   color: rgba(255,255,255,0.8);
   line-height: 1.7;
-  max-width: 520px;
+  text-align: right;
 }
 .abd-hero-full .abd-hero-eyebrow {
   margin-bottom: 20px;
@@ -383,7 +476,7 @@ const features = [
   border-radius: var(--abd-radius);
   padding: 24px 20px;
   text-decoration: none !important; color: inherit;
-  transition: all 0.3s;
+  transition: border-color 0.3s, transform 0.3s, box-shadow 0.3s, background 0.3s;
   display: flex; flex-direction: column; gap: 10px;
 }
 .abd-feature-card:hover {
@@ -392,7 +485,7 @@ const features = [
   box-shadow: 0 8px 24px rgba(0,0,0,0.3);
   background: var(--abd-orange-soft);
 }
-.abd-feature-icon { font-size: 1.8rem; }
+.abd-feature-icon { color: var(--abd-orange); display: flex; }
 .abd-feature-name {
   font-family: var(--abd-font-display);
   font-size: 1rem; font-weight: 700; color: var(--abd-text);
@@ -455,6 +548,8 @@ const features = [
 @media (max-width: 768px) {
   .abd-hero-full-content { flex-direction: column; align-items: flex-start; gap: 32px; padding: 60px 24px; }
   .abd-hero-right { align-items: flex-start; flex-direction: row; flex-wrap: wrap; }
+  .abd-hero-full-bg { inset: 0; }
+  .abd-hero-full-overlay::before { background: linear-gradient(to bottom, rgba(10,10,10,0.5) 0%, rgba(10,10,10,0.3) 100%); }
 }
 @media (max-width: 560px) {
   .abd-hero-full { min-height: 440px; }
@@ -468,8 +563,9 @@ const features = [
   padding: 64px 32px;
 }
 .abd-book-promo-inner {
-  max-width: var(--abd-max-w); margin: 0 auto;
+  max-width: 900px; margin: 0 auto;
   display: flex; align-items: center; gap: 56px;
+  justify-content: center;
 }
 .abd-book-promo-cover { flex-shrink: 0; display: flex; align-items: stretch; filter: drop-shadow(0 16px 32px rgba(0,0,0,0.6)); }
 .abd-book-mini-spine { width: 16px; background: linear-gradient(180deg,#c45010,#7a2e06); border-radius: 3px 0 0 3px; }
@@ -494,4 +590,125 @@ const features = [
 @media (max-width: 768px) {
   .abd-book-promo-inner { flex-direction: column; gap: 32px; }
 }
+
+/* ═══ START HERE — FEATURED GUIDES ═══ */
+.abd-pinned-section { border-top: 1px solid var(--abd-border); }
+.abd-pinned-eyebrow {
+  font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.12em; color: var(--abd-orange); margin-bottom: 4px;
+}
+.abd-pinned-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.abd-pinned-card {
+  display: flex; flex-direction: column;
+  background: var(--abd-surface); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius); overflow: hidden;
+  text-decoration: none !important; color: inherit;
+  transition: border-color 0.25s, transform 0.25s, box-shadow 0.25s;
+}
+.abd-pinned-card:hover {
+  border-color: var(--abd-orange);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
+.abd-pinned-img {
+  aspect-ratio: 16/9; overflow: hidden;
+}
+.abd-pinned-img img {
+  width: 100%; height: 100%; object-fit: cover;
+  transition: transform 0.4s ease;
+}
+.abd-pinned-card:hover .abd-pinned-img img { transform: scale(1.04); }
+.abd-pinned-body {
+  padding: 18px; display: flex; flex-direction: column; gap: 8px; flex: 1;
+}
+.abd-pinned-badge {
+  display: inline-block;
+  font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.08em; padding: 2px 8px;
+  border: 1px solid; border-radius: 100px;
+  width: fit-content;
+}
+.abd-pinned-title {
+  font-family: var(--abd-font-display);
+  font-size: 0.95rem; font-weight: 700; color: var(--abd-text);
+  line-height: 1.3;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.abd-pinned-desc {
+  font-size: 0.8rem; color: var(--abd-text-dim); line-height: 1.55;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  flex: 1;
+}
+.abd-pinned-cta {
+  font-size: 0.78rem; font-weight: 600; color: var(--abd-orange); margin-top: auto;
+}
+.abd-resource-row {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 16px;
+}
+.abd-resource-card {
+  display: flex; align-items: center; gap: 16px;
+  background: var(--abd-surface2); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius); padding: 18px 20px;
+  text-decoration: none !important; color: inherit;
+  transition: border-color 0.2s, background 0.2s;
+}
+.abd-resource-card:hover {
+  border-color: var(--abd-orange);
+  background: var(--abd-orange-soft);
+}
+.abd-resource-icon { color: var(--abd-orange); flex-shrink: 0; display: flex; }
+.abd-resource-text { flex: 1; min-width: 0; }
+.abd-resource-label {
+  font-family: var(--abd-font-display);
+  font-size: 0.95rem; font-weight: 700; color: var(--abd-text); margin-bottom: 3px;
+}
+.abd-resource-desc { font-size: 0.8rem; color: var(--abd-text-dim); line-height: 1.5; }
+.abd-resource-cta { font-size: 0.78rem; font-weight: 600; color: var(--abd-orange); flex-shrink: 0; }
+@media (max-width: 900px) {
+  .abd-pinned-grid { grid-template-columns: repeat(2, 1fr); }
+  .abd-pinned-grid > :last-child { display: none; }
+}
+@media (max-width: 560px) {
+  .abd-pinned-grid { grid-template-columns: 1fr; }
+  .abd-pinned-grid > :last-child { display: flex; }
+  .abd-resource-row { grid-template-columns: 1fr; }
+  .abd-resource-cta { display: none; }
+}
+
+/* ═══ HOME MAGAZINE ARTICLE GRID ═══ */
+.home-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto auto;
+  gap: 24px;
+  padding: 24px 0 0;
+}
+/* First card spans 2 columns — featured */
+.home-articles-grid > :first-child {
+  grid-column: 1 / span 2;
+}
+/* On tablet: collapse to 2-col, all equal */
+@media (max-width: 960px) {
+  .home-articles-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .home-articles-grid > :first-child {
+    grid-column: 1 / span 2;
+  }
+}
+/* On mobile: single column, uniform */
+@media (max-width: 560px) {
+  .home-articles-grid {
+    grid-template-columns: 1fr;
+  }
+  .home-articles-grid > :first-child {
+    grid-column: 1;
+  }
+}
+
 </style>

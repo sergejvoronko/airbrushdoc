@@ -1,24 +1,29 @@
 ---
 import '../styles/global.css';
+import CookieBanner from '../components/CookieBanner.astro';
 
 interface Props {
   title: string;
   description?: string;
   image?: string;
   canonicalURL?: string;
+  ogType?: string;
+  ogArticlePubDate?: string;
+  ogArticleModDate?: string;
 }
 
-const { title, description = 'The Airbrush Doc — Cures for Your Canvas. Guides, reviews, and techniques for airbrush artists.', image, canonicalURL } = Astro.props;
+const { title, description = 'The Airbrush Doc — Cures for Your Canvas. Guides, reviews, and techniques for airbrush artists.', image, canonicalURL, ogType = 'website', ogArticlePubDate, ogArticleModDate } = Astro.props;
 const siteUrl = 'https://airbrushdoc.com';
 const ogImage = image || '/images/og-default.webp';
 const canonical = canonicalURL || new URL(Astro.url.pathname, siteUrl).href;
 
 const nav = [
-  { label: 'Blog',  href: '/blog/' },
-  { label: 'Guides', href: '/guides/' },
-  { label: 'Tools', href: '/tools/' },
-  { label: 'About', href: '/about/' },
-  { label: 'Book', href: '/book/', highlight: true },
+  { label: 'Blog',     href: '/blog/' },
+  { label: 'Guides',   href: '/guides/' },
+  { label: 'Tools',    href: '/tools/' },
+  { label: 'Freebies', href: '/freebies/' },
+  { label: 'About',    href: '/about/' },
+  { label: 'Book',     href: '/book/', highlight: true },
 ];
 ---
 <!doctype html>
@@ -30,11 +35,14 @@ const nav = [
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
 
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content={ogType} />
   <meta property="og:url" content={canonical} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:image" content={`${siteUrl}${ogImage}`} />
+  {ogArticlePubDate && <meta property="article:published_time" content={ogArticlePubDate} />}
+  {ogArticleModDate && <meta property="article:modified_time" content={ogArticleModDate} />}
+  {ogType === 'article' && <meta property="article:author" content="AirbrushDOC" />}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
@@ -43,14 +51,38 @@ const nav = [
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
   <link rel="apple-touch-icon" href="/favicon.png" />
   <link rel="sitemap" href="/sitemap-index.xml" />
+  <slot name="head" />
+
+  <!-- MailerLite Universal -->
+  <script is:inline>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '1137328');
+  </script>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "AirbrushDOC",
+    "url": "https://airbrushdoc.com",
+    "description": "Expert airbrush guides, honest equipment reviews, step-by-step tutorials, and free stencils for artists at every level.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": { "@type": "EntryPoint", "urlTemplate": "https://airbrushdoc.com/blog/?q={search_term_string}" },
+      "query-input": "required name=search_term_string"
+    }
+  })} />
 </head>
 <body>
+  <a href="#main-content" class="abd-skip-link">Skip to main content</a>
   <div class="abd-top-bar"></div>
 
   <header class="abd-header">
     <div class="abd-header-inner">
       <a href="/" class="abd-logo" aria-label="AirbrushDOC home">
-        <img src="/images/logo-header.webp" alt="AirbrushDOC" style="max-height:60px;" />
+        <img src="/images/airbrushdoc-logo.webp" alt="AirbrushDOC" class="abd-logo-img" width="157" height="120" fetchpriority="high" />
       </a>
 
       <nav class="abd-nav" aria-label="Main navigation">
@@ -77,7 +109,9 @@ const nav = [
     </nav>
   </header>
 
-  <slot />
+  <div id="main-content" tabindex="-1">
+    <slot />
+  </div>
 
   <footer class="abd-footer">
     <div class="abd-footer-inner">
@@ -89,7 +123,8 @@ const nav = [
         <h4>Content</h4>
         <ul>
           <li><a href="/blog/">All Articles</a></li>
-          <li><a href="/guides/">Beginner Guides</a></li>
+          <li><a href="/beginners/">Beginner Articles</a></li>
+          <li><a href="/airbrush-glossary/">Glossary</a></li>
           <li><a href="/tools/">Interactive Tools</a></li>
         </ul>
       </div>
@@ -107,6 +142,8 @@ const nav = [
       <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
     </div>
   </footer>
+
+  <CookieBanner />
 
   <script>
     const toggle = document.getElementById('menuToggle');

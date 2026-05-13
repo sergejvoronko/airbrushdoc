@@ -20,5 +20,17 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
+# large download files — hosted externally (Google Drive)
+public/downloads/*.zip
+!public/downloads/multilayer-stencils-cdr.zip
+
 # jetbrains setting folder
 .idea/
+
+# old WordPress image archives — too large for git, served from CDN or local
+public/images/wp/
+public/images/wp-uploads/airbrush-infographic-full.webp
+
+# generated SEO audit reports
+ACTION-PLAN.md
+FULL-AUDIT-REPORT.md

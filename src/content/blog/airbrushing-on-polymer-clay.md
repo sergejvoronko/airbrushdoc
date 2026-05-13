@@ -2,7 +2,7 @@
 title: "Airbrushing On Polymer Clay"
 description: "Polymer clay, an unusual topic for airbrush blog? Well, not that unusual for many artists doing sculpting. Painting on clay is not as simple"
 pubDate: 2012-11-16
-category: "discussion"
+category: "guides"
 tags: ["Alsa paint", "auto air", "createx", "painting polymer clay", "polymer clay"]
 readingTime: 11
 draft: false
@@ -73,9 +73,9 @@ Megan was very excited about using Alsa paints as they have very good shades of 
 
 She is working on one project right now and has sent me two snaps.
 
-[![](/wp-content/uploads/2012/04/kirin-sculpture-500x669.jpg)](/wp-content/uploads/2012/04/kirin-sculpture.jpg)
+![](/images/wp-uploads/kirin-sculpture.webp)
 
-[![](/wp-content/uploads/2012/04/kirin-sculpture-2-500x669.jpg)](/wp-content/uploads/2012/04/kirin-sculpture-2.jpg)
+![](/images/wp-uploads/kirin-sculpture-2.webp)
 
 *This particular sculpture is a "**Kirin**" or "**QUILIN**" which is sort of an Asian unicorn, or their version of one. It's obviously a fantasy creature and so I've added my own idea's to what a Kirin might look like. The things on its neck are abalone shells which will act as the "scales" of the creature. It will have more of them along its back. After it's complete, it will have a Tibetan lamb hair mane and tail which is why it doesn't have hair yet.* Thank you Megan. I can't wait to see the progress and the final sculpture and also the results of your experiment. Dear reader, if you have anything to add please leave a comment or send us an [email](http://www.airbrushdoc.com/contact/). Otherwise don't forget to spread the love and share.
 

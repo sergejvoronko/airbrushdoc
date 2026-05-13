@@ -22,37 +22,77 @@ Currently he is in first year of study at Waterford IT doing his BA(Hons) Degree
 
 Here is a few ***murals***, both inside and out of "The Sky and the Ground" in Wexford.
 
-[gallery type="square" ids="1545,1546,1547"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/10.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/11.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/26.webp" loading="lazy" /></div>
+</div>
 
 **Exhibitions**
 
 In summer of 2010 Colm held his third exhibition, **POP**! It was received really well and he was later asked to exhibit in a gallery over the Wexford Opera Festival, the most important calendar event for arts in Wexford. These paintings are not airbrushed but acrylic on canvas and vary in size.
 
-[gallery type="square" ids="1548,1549,1551"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/23.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/21.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/25.webp" loading="lazy" /></div>
+</div>
 
-[![](/wp-content/uploads/2011/02/22.jpg)](/wp-content/uploads/2011/02/22.jpg)
+![](/images/wp-uploads/22.webp)
 
 ## FREE HUGS
 
 This piece was made for an end of year** art project**. The theme was based around characters, taking a photo he found and turning that person into the character that first came to Colm's mind (in this case a profile shot of a French bearded character with a face full of emotion). The finished piece is airbrushed acrylics, with ink and pencil thrown in for good measure. Who wouldn't want a free hug off this guy?!
-[![](/wp-content/uploads/2011/02/36.jpg)](/wp-content/uploads/2011/02/36.jpg)
+![](/images/wp-uploads/36.webp)
 
 Colm started airbrushing in June 2009 after a good friend of his talked him into trying it out and gave him a few tips. Within a couple of weeks he had a load of canvases sitting around the house with nowhere to hang them so Colm decided to hold his second exhibition called "**Fallen Stars**", it was a major success for him, selling out in 2 days! These are a selection of the paintings, they are all airbrushed acrylic on canvas and vary in size.
 
-[gallery type="circle" ids="1553,1554,1555,1556,1557,1558"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/03.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/05.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/06.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/07.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/08.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/09.webp" loading="lazy" /></div>
+</div>
 
-[![](/wp-content/uploads/2011/02/04.jpg)](/wp-content/uploads/2011/02/04.jpg)
+![](/images/wp-uploads/04.webp)
 
 ## Oldschool Love Note
 
 **Oldschool Love Note was one of the paintings in Colm's first ever exhibition**. It was his first attempt at doing realism with paint and airbrush and to his surprise this simple piece was the most popular painting of the exhibit. Finished with acrylics, airbrushed shading, and pencil for writing and line-work.
 
-[![](/wp-content/uploads/2011/02/37.jpg)](/wp-content/uploads/2011/02/37.jpg)
+![](/images/wp-uploads/37.webp)
 
 And here are some of Colms sketches and his other works:
 
-[gallery type="rectangular" ids="6084,6086,6087,6088,6089,6090,6091,6092,6093,6094,6095,6096,6097,6098,6099,6100,6101,6103,6102,6104,6105,6106,6107,6108"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-1.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-3.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-4.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-5.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-6.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-7.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-8.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-9.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-10.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-11.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-12.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-13.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-14.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-15.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-16.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-17.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-18.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-20.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-19.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-21.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-22.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-23.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-24.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Colm-Oconnor-Art-25.webp" loading="lazy" /></div>
+</div>
 
 This is all of airbrushing from Colm for this blog post, but you can always check any other of his works on his **[portfolio page](http://www.colmoconnor.com/)**, so feel free to have a look and if you like what you see, or know someone that might, get in contact with him!
 
-[![](/wp-content/uploads/2011/02/Colm-Oconnor-Art-2.jpg)](http://www.colmoconnor.com/)
+[![](/images/wp-uploads/Colm-Oconnor-Art-2.webp)](http://www.colmoconnor.com/)

@@ -1,0 +1,89 @@
+---
+---
+<div class="abd-cookie-banner" id="cookieBanner" role="dialog" aria-modal="true" aria-label="Cookie consent" aria-live="polite">
+  <div class="abd-cookie-inner">
+    <p class="abd-cookie-text">
+      This site uses cookies for analytics and affiliate tracking.
+      <a href="/affiliate-disclosure/#cookies">Learn more</a>
+    </p>
+    <div class="abd-cookie-actions">
+      <button class="abd-cookie-btn abd-cookie-decline" id="cookieDecline">Decline</button>
+      <button class="abd-cookie-btn abd-cookie-accept" id="cookieAccept">Accept</button>
+    </div>
+  </div>
+</div>
+
+<style>
+.abd-cookie-banner {
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999;
+  background: var(--abd-surface2);
+  border-top: 1px solid var(--abd-border);
+  padding: 14px 24px;
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+}
+.abd-cookie-banner.abd-cookie-show { transform: translateY(0); }
+.abd-cookie-inner {
+  max-width: var(--abd-max-w); margin: 0 auto;
+  display: flex; align-items: center; gap: 24px;
+  flex-wrap: wrap; justify-content: space-between;
+}
+.abd-cookie-text {
+  font-size: 0.82rem; color: var(--abd-text-dim); line-height: 1.5; margin: 0;
+}
+.abd-cookie-text a { color: var(--abd-orange); text-decoration: none; }
+.abd-cookie-text a:hover { text-decoration: underline; }
+.abd-cookie-actions { display: flex; gap: 10px; flex-shrink: 0; }
+.abd-cookie-btn {
+  font-size: 0.78rem; font-weight: 600; padding: 6px 16px;
+  border-radius: var(--abd-radius-s); cursor: pointer;
+  border: 1px solid; transition: all 0.2s;
+}
+.abd-cookie-decline {
+  background: transparent;
+  border-color: var(--abd-border-light);
+  color: var(--abd-text-dim);
+}
+.abd-cookie-decline:hover {
+  border-color: var(--abd-text-muted);
+  color: var(--abd-text);
+}
+.abd-cookie-accept {
+  background: var(--abd-orange);
+  border-color: var(--abd-orange);
+  color: #fff;
+}
+.abd-cookie-accept:hover { background: var(--abd-orange-hover); border-color: var(--abd-orange-hover); }
+@media (max-width: 560px) {
+  .abd-cookie-inner { flex-direction: column; gap: 12px; }
+  .abd-cookie-actions { width: 100%; }
+  .abd-cookie-btn { flex: 1; text-align: center; }
+}
+</style>
+
+<script>
+  const banner = document.getElementById('cookieBanner');
+  const consent = localStorage.getItem('abd-cookie-consent');
+  if (!consent && banner) {
+    setTimeout(() => banner.classList.add('abd-cookie-show'), 800);
+  }
+  const acceptBtn = document.getElementById('cookieAccept');
+  const declineBtn = document.getElementById('cookieDecline');
+
+  function dismiss() { banner?.classList.remove('abd-cookie-show'); }
+
+  acceptBtn?.addEventListener('click', () => { localStorage.setItem('abd-cookie-consent', 'accepted'); dismiss(); });
+  declineBtn?.addEventListener('click', () => { localStorage.setItem('abd-cookie-consent', 'declined'); dismiss(); });
+
+  // Basic focus trap
+  banner?.addEventListener('keydown', (e: KeyboardEvent) => {
+    if (!banner.classList.contains('abd-cookie-show')) return;
+    const focusable = banner.querySelectorAll<HTMLElement>('button, a[href]');
+    const first = focusable[0];
+    const last = focusable[focusable.length - 1];
+    if (e.key === 'Tab') {
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+  });
+</script>

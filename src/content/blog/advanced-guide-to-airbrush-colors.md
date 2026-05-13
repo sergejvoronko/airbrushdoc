@@ -82,7 +82,7 @@ I will mention, in my opinion, only the most popular brands on the market. If I 
 
 ### GOLDEN ARTIST COLORS
 
-![](/wp-content/uploads/2011/03/golden-500x153.jpg)
+![](/images/wp-uploads/golden.webp)
 Very popular brand that makes ***Opaque*** and ***Transparent*** lines espessially for airbrushing.
 
 **Opaque** - made from a 100% water-based acrylic emulsion and they claim that it's incorporating only the most lightfast pigments available, what results in exceptional permanency and performance.
@@ -109,7 +109,7 @@ They easily spray through the smallest nozzles available for airbrushes. They ca
 
 ### IWATA MEDEA
 
-![](/wp-content/uploads/2011/03/iwata-medea_logo-500x127.jpg)
+![](/images/wp-uploads/iwata-medea_logo.webp)
 **Comart Colors** by Medea website is considered to be one of the finest and most versatile professional airbrush colors in the world (***can't confirm that as I've never used it, if someone does please leave a comment***). Because of a common hydro-carbon base binder, **Com-Art** transparent and opaque colors can be used together without bleeding between colors. It's non-toxic, ready to use color specifically made for airbrushing. Also heavily pigmented and light fast, allowing for accurate 4 color separations. It provides smooth spraying, and dries instantly.
 
 **Textile colors** ***Medea Textile Colors** by **Jürek***. For spraying on a variety of surfaces, including leather, wood, canvas, textiles, silk and found objects. Now even sprays well on hard surfaces such as license plate tags, metals, plastics and more! After work Medea recommends to use **Medea topcoat** (water-based polyurethane) for a final durable finish. The “**Lube**” provides an exclusive wetting agent and a flow enhancer that allow four hours of hassle-free spraying. Additionally, the flow enhancer breaks down the surface tension and results in better fabric absorption (when applied to textiles) for greater wash-ability and wear.
@@ -130,7 +130,7 @@ This brand manufactures** IllumaAir, Lacquerol and BodyAir** airbrush colors.
 
 ### CREATEX COLORS
 
-![](/wp-content/uploads/2011/03/CXlogo-500x145.jpg)
+![](/images/wp-uploads/CXlogo.webp)
 This brand is probably the number one colors brand for airbrushes (my own subjective look). For airbrush they make a few lines like, Opaque, Transparent, Fluoroscent, Pearlized and Iridiscent.
 
 **Opaque** - Opaque Colors are solid colors intended to cover underlying colors and surfaces with 2 – 3 coats. Opaque Colors make excellent base colors. For many projects, starting with either Opaque White or Black works best; other color types will cover quicker with vivid, brighter effects compared to applying colors. Opaque colors work best with larger tip-sized airbrushes operated at higher PSI settings.
@@ -147,7 +147,7 @@ This brand is probably the number one colors brand for airbrushes (my own subjec
 
 All Wicked Colors are highly pigmented, transparent colors, which cover semi-opaque right out of the bottle, perfect for full color saturation with virtually no tip-dry. They work with all airbrush tip-sizes and air dry incredibly fast.
 
-![](/wp-content/uploads/2011/03/Auto_Air_Graphic-500x128.jpg)
+![](/images/wp-uploads/Auto_Air_Graphic.webp)
 
 Createx colors can be used for wood, fabric, glass, plaster, canvass, aluminium, leather, ceramic, poster boards, bricks, plastic ... So as you can see any surface is good to go. Requires heat air drying which results in **Self-cross linking **(combination of polymers or oligomers with a high acid content to upgrade the resistance properties):
 
@@ -165,14 +165,14 @@ These properties tell us that Createx are made with 'exterior grade' pigments. T
 
 ### AUTO-AIR COLORS from Createx
 
-![](/wp-content/uploads/2011/03/Createx_Logo-500x249.gif)
+![](/images/wp-uploads/Createx_Logo.gif)
 ***Auto Air Colors*** are premium water-based custom paints and work well for graphics over existing finishes and for complete paint jobs. Colors are inter-mixable for a limitless palette of colors & effects.
 
 **Pigment Candy Full Color Paint** are ready to spray out of the bottle without the need for mixing a catalyst or reducer. Colors may be thinned with Auto Air Reducer to achieve a lower viscosity when spraying with an airbrush. Auto Air Colors do not have a limited shelf life during use and their storage life exceeds 2 years. They may be top-coated with a urethane clear at any time after they’ve cured no matter how long the time past between painting and clearing. Auto-Air Colors are compatible with all urethane clears. They are lightfast and durable and contain less than 0.1% V.O.C. These Colors have been tested according to industry-wide accepted standards for fade resistance and durability.
 
 ### BADGER
 
-**![](/wp-content/uploads/2011/03/badgerlogo1.jpg)
+**![](/images/wp-uploads/badgerlogo1.webp)
 **
 
 ### TOTALLY TATTOO from BADGER
@@ -191,7 +191,7 @@ Spectra-Tex Airbrush Colors™ are highly pigmented and ready to use. Spectra-Te
 
 ### HOUSE OF KOLOR
 
-![](/wp-content/uploads/2011/03/house-of-kolor-logo.jpg)
+![](/images/wp-uploads/house-of-kolor-logo.webp)
 
 This brand does many things beside colors (stencils, reducers, etc...). Actually they have probably everything that artist doing automotive job will need. Even **Craig Fraser** recommends this brand as best brand for automotive (maybe he has contract with them - I don't know). I didn't want to say that they are bad, NOT at all; I just got that feeling at first. Well this guy just gave an example of brand you can use (if you have it in your local shop or can buy it online).
 
@@ -268,12 +268,12 @@ And here are some advices from Pro's...
 
 Well there is many more brands that make airbrush colors, I just brought some most famous. BTW I could not find any description about **Autobourne** or** DuPont **(these are very expensive). And there is many local paints in Germany, Russia ... but they are not popular in US for example. So I leave it on world market. I personally use **Createx Classic Colors** and I'm happy with them. Of course for automotive I will recommend to try **House of Kolor **or **Auto-Air**. Some of them are not that expensive so you can give a try to everyone and see for yourself which best suits you. At last I placed the questionnaire on my [Facebook fan page](http://www.facebook.com/airbrushdoc), about preferred pains. I got only 24 responses so I do not recommend following only this result because it is not really objective.
 
-![](/wp-content/uploads/2012/01/Screenfacebookquestion.jpg)
+![](/images/wp-uploads/Screenfacebookquestion.webp)
 
 I think that first of all you should choose color by purpose of use and then to choose the brand won't be that difficult.
 
 Here are some results I got by collecting votes on this blog:
-![airbrush paints voted](/wp-content/uploads/2011/05/votes.jpg)
+![airbrush paints voted](/images/wp-uploads/votes.webp)
 
 If you have any suggestion or notes about colors that you use please share it with us. Maybe I've missed some big brand or some specific color types so don't hesitate to leave a comment or send me an [e-mail](http://www.airbrushdoc.com/contact/). As usual don't forget to share this article in your social network (of course if you like it).
 

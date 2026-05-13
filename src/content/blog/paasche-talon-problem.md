@@ -8,6 +8,7 @@ readingTime: 7
 draft: false
 heroImage: "/images/wp-uploads/paasche_talon.webp"
 ---
+## My Initial Paasche Talon Review
 
 Do you remember a while back I've posted [Paasche Talon](http://www.airbrushdoc.com/airbrush-reviews/paasche-talon/) airbrush review here? If you've read it you surely got the feeling that it is an amazing airbrush.
 
@@ -16,6 +17,8 @@ I've also had mentioned it before couple of times. It definitely doesn't compare
 Just a few days back I've received an email which changed my opinion on this.
 
 I'm not saying that a good airbrush suddenly became a bad one, that's not the case. If you carefully read my previous post about [airbrush prices](http://www.airbrushdoc.com/discussion/best-airbrush/) you will see that not just me but even my bro who actually does more airbrushing than me has switched from [Iwata](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/) to that **Talon** I reviewed simply because it fits the purpose.
+
+## Bryan's Bad Experience with Paasche Talon
 
 ### So, what has happened?
 
@@ -40,19 +43,25 @@ Here is the whole message from Bryan:
 > First thing i noticed with the brush is that the name **Paasche Talon** engraved on it was not aligned as in the picture from the net. It was not even straight, almost like the brush moved during engraving. The engraved part was higher in location and from the numerous Talon photos I've seen, I have never seen one engraved in that position.
 > 
 > OK, I told myself that this was perhaps just a minor issue and perhaps from the photos on the web, optically wise the curves on the brush made the positioning different.
-> 
+
+### Quality Control Issues Found
+
 > Put my finger on the trigger and I immediately noticed that it was not as smooth as the Neo. I had to press a little harder on it and this without air pressure on the other side. But paint control movement was OK. Turned the head of the brush towards me and I could see that the nozzle was not aligned and had a weird round formation. Not belled or bent but not normal either. From first sight I thought it was normal for this brush.
 > 
 > I have a x20 magnifier and a closer look showed me that the nozzle was damaged right out of the box. This really pissed me off and I was really mad that I did not even swapped the other nozzle for tests.
 > 
 > I told myself that I waited too long for a faulty brush to come and I could not even try it. So I decided to give it a try anyway and hooked the supplied hose to it. Another surprise, the thread on the hose or the one on the air valve is somewhat too new and will not screw completely leaving a big air leak. I had to use a rubber fitter pliers to screw it completely and only then the leak stopped. I screw, unscrew and screw again till the connection was acceptable and I was able to do it with my fingers.
-> 
+
+### Performance Problems
+
 > Now upon trigger press for air, I could hear another air hiss somewhere in the airbrush other than the head. I looked for it but could not find it. The thing is that I can hear it like two air stream within the same brush and I can even stop it if I don't press completely on the trigger but this cannot be as we want to completely press and control only paint.
 > 
 > As I expected the brush performed badly with some water in it and bubbles in the cup, along with water coming out upon air action.
 > 
 > I was really angry about this as it was supposed to be the best between the two and i found myself with the **Neo** being 100x better that the **Talon**. I love my **Neo for Iwata** btw :)
-> 
+
+### Warranty and Customer Service Response
+
 > I mailed the shop where I bought the nightmare and explained to them the situation and sent the same mail to Paasche customer service. They replied the next day and asked me to send it back for warranty. They would replace it for me and send me a new package with no additional cost. I posted it the next day and they received it 10 days later.
 > 
 > I accepted but the experience was so bad that I started to look into other brands and perhaps same setup with different needles and nozzle. I started reading post on other users with **faulty Talons** and I can say that there are numerous faulty Talons out there.
@@ -67,6 +76,8 @@ Here is the whole message from Bryan:
 > 
 > Regards,
 > Bryan
+
+## Analysis and Concerns
 
 Thank you Bryan,
 

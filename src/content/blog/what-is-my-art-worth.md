@@ -17,7 +17,7 @@ This **infographic** is actually a translated work of [WeelkaDesign](http://vk.c
 
 ## Flayer for Your Customers
 
-[![](/wp-content/uploads/2012/12/Airbrush-Customer-Hint.jpg)](/wp-content/uploads/2012/12/Airbrush-Customer-Hint.jpg)
+![](/images/wp-uploads/Airbrush-Customer-Hint.webp)
 
 The project on the picture above is recommended and can be applied to any type of art created by artist. The artistic value is not included because this is a subject specific figure to every artist and in general it cannot be measured.
 

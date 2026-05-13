@@ -21,29 +21,38 @@ Nowadays I paint stuff for sale and also any pieces customized on customers requ
 
 ## My Airbrush Art
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-2.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-2.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-2.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-4.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-4.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-4.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-3.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-3.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-3.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-5-chanel-5.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-5-chanel-5.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-5-chanel-5.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-1.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-1.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-1.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-10.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-10.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-10.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-12.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-12.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-12.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-13.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-13.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-13.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-11-cat.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-11-cat.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-11-cat.webp)
 
-[![](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-16-phone.jpg)](/wp-content/uploads/2012/12/airbrush-art-alexej-sulkovskij-16-phone.jpg)
+![](/images/wp-uploads/airbrush-art-alexej-sulkovskij-16-phone.webp)
 
 Here are a few more snaps of my motor airbrushing.
 
-[gallery link="file" type="rectangular" ids="9637,9638,9639,9640,9645,9646,9648,9649"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-art-alexej-sulkovskij-6-bike3.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-art-alexej-sulkovskij-7-bike2.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-art-alexej-sulkovskij-8-bike.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-art-alexej-sulkovskij-9.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-art-alexej-sulkovskij-14-car-hod-2.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-art-alexej-sulkovskij-15-car-hood.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-art-alexej-sulkovskij-17.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-art-alexej-sulkovskij-18-bike.webp" loading="lazy" /></div>
+</div>
 
 *For those of you who'd like to contact Alexey, see some contact informations below:*
 

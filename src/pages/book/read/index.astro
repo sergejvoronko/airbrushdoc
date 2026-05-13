@@ -1,0 +1,672 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+const chapters = [
+  {
+    part: null,
+    num: 'Introduction',
+    title: 'Why This Book Exists',
+    img: '/images/book/intro.png',
+    topics: [
+      'Tutorials teach tricks — this book teaches thinking',
+      'How paint, air, distance and surface interact',
+      'How to use this book to get the most from it',
+      'What you need before starting (any brand will do)',
+    ],
+    desc: 'The difference between a hobbyist and a confident professional is not memorized techniques — it\'s deep principles. Once you understand why things work, you can figure out any technique yourself.',
+  },
+  {
+    part: 'Part One: Foundations',
+    num: 'Chapter 1',
+    title: 'Understanding Your Airbrush',
+    img: '/images/book/ch01.png',
+    topics: [
+      'The atomisation principle — how an airbrush actually works',
+      'Single-action vs dual-action: what matters and why',
+      'Gravity feed vs siphon feed',
+      'Needle sizes — 0.2 / 0.3 / 0.5mm and when to use each',
+    ],
+    desc: 'Before you can use an airbrush well, you need to understand what it actually is. Artists who develop fastest can feel what\'s happening inside the airbrush while they work.',
+  },
+  {
+    part: null,
+    num: 'Chapter 2',
+    title: 'Setting Up Your Workspace',
+    img: '/images/book/ch02.png',
+    topics: [
+      'Choosing and sizing your compressor correctly',
+      'Ventilation, respiration and safe working habits',
+      'Organising paints, tools and cleaning supplies',
+      'Ergonomics: lighting, seating, paint placement',
+    ],
+    desc: 'A badly set up workspace costs you hours every session. A well-designed one disappears — letting you focus entirely on the work in front of you.',
+  },
+  {
+    part: null,
+    num: 'Chapter 3',
+    title: 'Paint Science',
+    img: '/images/book/ch03.png',
+    topics: [
+      'Viscosity and thinning ratios for different nozzle sizes',
+      'Airbrush-ready paints vs adapting standard acrylics',
+      'Working windows, open time, and dry time',
+      'Mixing, colour matching, and storing mixed paint',
+    ],
+    desc: 'Paint behaviour is the most common source of frustration for beginners. Understanding what\'s happening chemically gives you total control over the material.',
+  },
+  {
+    part: null,
+    num: 'Chapter 4',
+    title: 'Your First Strokes',
+    img: '/images/book/ch04.png',
+    topics: [
+      'The trigger control drill — air first, then paint',
+      'Gradients from nothing: the foundational exercise',
+      'Dagger strokes for fine lines and hair',
+      'Dots: the most revealing test of your control',
+    ],
+    desc: 'The four exercises in this chapter will tell you more about your technique than a month of random painting. Do them in order, on white paper, before moving to anything else.',
+  },
+  {
+    part: 'Part Two: Core Techniques',
+    num: 'Chapter 5',
+    title: 'Surface Preparation',
+    img: '/images/book/ch05.png',
+    topics: [
+      'Metal, canvas, fabric and plastic — each needs something different',
+      'Primers, bonding agents and surface sealers',
+      'The texture vs smooth decision and when it matters',
+      'Common prep mistakes that cause adhesion failure later',
+    ],
+    desc: 'Paint doesn\'t fail in the middle of a project. It fails because of what you did — or didn\'t do — before you picked up the airbrush. Surface prep is where the job is won or lost.',
+  },
+  {
+    part: null,
+    num: 'Chapter 6',
+    title: 'Masking and Stenciling',
+    img: '/images/book/ch06.png',
+    topics: [
+      'Frisket film, liquid frisket and low-tack tape',
+      'Mylar and acetate stencils — cutting and registration',
+      'Hard vs soft edges: when to mask and when to freehand',
+      'Repeat patterns and multi-layer registration',
+    ],
+    desc: 'Masking is not a shortcut — it\'s a tool that enables work that would be impossible freehand. Knowing when to mask and when not to is a craft in itself.',
+  },
+  {
+    part: null,
+    num: 'Chapter 7',
+    title: 'Colour Theory',
+    img: '/images/book/ch07.png',
+    topics: [
+      'Hue, value and saturation as they apply to airbrushing',
+      'Working with transparent layers — colour shifts and glazing',
+      'Warm and cool shadow colours',
+      'Colour matching from reference and from memory',
+    ],
+    desc: 'Most colour problems are value problems. Understanding the three dimensions of colour — and which one to address first — eliminates the muddy results that frustrate almost every beginner.',
+  },
+  {
+    part: null,
+    num: 'Chapter 8',
+    title: 'Building Depth',
+    img: '/images/book/ch08.png',
+    topics: [
+      'The shadow-first, light-last layering approach',
+      'Transparent paint and how to stack colour without mud',
+      'Occlusion shadows — the most overlooked depth tool',
+      'Reflected light and why it makes the difference',
+    ],
+    desc: 'Flat painting comes from thinking about colour. Deep, three-dimensional painting comes from thinking about light. This chapter reorients your whole approach.',
+  },
+  {
+    part: 'Part Three: Style Masterclasses',
+    num: 'Chapter 9',
+    title: 'True Fire',
+    img: '/images/book/ch09.png',
+    topics: [
+      'Reference and anatomy of a convincing flame',
+      'The underpainting method — building fire from dark to light',
+      'Yellow, orange and the red leading edge',
+      'Micro-details: embers, smoke tendrils and heat haze',
+    ],
+    desc: 'Fire is one of the most requested airbrush subjects and one of the most misunderstood. The technique is counterintuitive — this chapter teaches the correct sequence from scratch.',
+  },
+  {
+    part: null,
+    num: 'Chapter 10',
+    title: 'Portraits',
+    img: '/images/book/ch10.png',
+    topics: [
+      'Skin tone mixing, layering and the right thinning ratios',
+      'Eye structure — the most important 10 minutes of any portrait',
+      'Shadow mapping from a reference photograph',
+      'Hair texture: the wet-on-wet and dry-layer techniques',
+    ],
+    desc: 'Portrait work requires understanding the human face as a three-dimensional object under a light source, not as a collection of features. This chapter teaches that shift in perception.',
+  },
+  {
+    part: null,
+    num: 'Chapter 11',
+    title: 'Lettering',
+    img: '/images/book/ch11.png',
+    topics: [
+      'Block, script and chrome letterform construction',
+      'The outline-and-fill sequence for clean edges',
+      'Gradients inside letterforms',
+      'Drop shadows, glows and inner highlights',
+    ],
+    desc: 'Airbrushed lettering combines fine line control with colour work and perspective. Mastered in the right sequence, it\'s one of the fastest ways to add value to any commission.',
+  },
+  {
+    part: null,
+    num: 'Chapter 12',
+    title: 'Camouflage',
+    img: '/images/book/ch12.png',
+    topics: [
+      'Military woodland, desert and urban camo patterns',
+      'Soft-edge organic shape technique without masking',
+      'Multi-layer colour builds for depth',
+      'Applying camo to curved and three-dimensional surfaces',
+    ],
+    desc: 'Camouflage is simultaneously one of the most forgiving and most systematic techniques in airbrushing. Done right, it\'s impossible to distinguish from the real thing.',
+  },
+  {
+    part: null,
+    num: 'Chapter 13',
+    title: 'Skulls',
+    img: '/images/book/ch13.png',
+    topics: [
+      'Skull anatomy for the airbrush artist',
+      'The dark-to-light build sequence on black',
+      'Adding drama with colour temperature shifts',
+      'From pencil sketch to finished painted piece',
+    ],
+    desc: 'The skull is one of the canonical subjects of airbrush art — and one of the best teachers of form, light and shadow. This chapter walks every stage from blank surface to final highlights.',
+  },
+  {
+    part: null,
+    num: 'Chapter 14',
+    title: 'Chrome & Metal',
+    img: '/images/book/ch14.png',
+    topics: [
+      'The value scale for chrome — from pure black to pure white',
+      'Reflected horizon lines and their placement',
+      'Colour temperature in metallic surfaces',
+      'Brushed steel, polished chrome and tinted mirror finishes',
+    ],
+    desc: 'Chrome is pure observation and pure value control. There is no colour mixing trick — only the correct placement of extreme darks against extreme lights. This chapter teaches that precision.',
+  },
+  {
+    part: 'Part Four: Troubleshooting',
+    num: 'Chapter 15',
+    title: 'Troubleshooting Encyclopedia',
+    img: '/images/book/ch15.png',
+    topics: [
+      'Spitting, splattering and uneven spray patterns',
+      'Paint not adhering — surface, primer and viscosity causes',
+      'Tip dry, needle drag and partial clogs',
+      'Pressure problems: compressor, hose and regulator diagnosis',
+    ],
+    desc: 'Every problem has a cause. This encyclopedia organises every common failure by symptom, with specific fixes for each. Bookmark this chapter — you will return to it throughout your career.',
+  },
+  {
+    part: 'Part Five: Business',
+    num: 'Chapter 16',
+    title: 'Pricing Your Work',
+    img: '/images/book/ch16.png',
+    topics: [
+      'Cost-based vs value-based pricing — and when to use each',
+      'How to position yourself in your local market',
+      'Quoting a custom job: the conversation and the numbers',
+      'Pricing templates for common commission types',
+    ],
+    desc: 'Most artists underprice for years because they\'re guessing. This chapter gives you a framework, not just a formula — so you can price confidently for any project.',
+  },
+  {
+    part: null,
+    num: 'Chapter 17',
+    title: 'Finding Clients',
+    img: '/images/book/ch17.png',
+    topics: [
+      'Building an online portfolio that works while you sleep',
+      'Local referral networks and how to activate them',
+      'Trade shows, custom shops and commission platforms',
+      'Keeping clients: repeat work and word-of-mouth growth',
+    ],
+    desc: 'The artists who build sustainable practices are not necessarily the most talented — they\'re the ones who understand how to make their work findable and their clients loyal.',
+  },
+];
+---
+<BaseLayout
+  title="Read — The Airbrush Technique Bible"
+  description="Online reader for The Airbrush Technique Bible. 17 chapters from foundations to professional results."
+>
+
+<div class="bk-reader" id="bookReader">
+
+  <!-- ── Cover page ── -->
+  <div class="bk-page bk-cover">
+    <div class="bk-cover-spine"></div>
+    <div class="bk-cover-body">
+      <div class="bk-cover-eyebrow">AirbrushDOC · Digital Edition</div>
+      <h1 class="bk-cover-title">The Airbrush<br/><span>Technique</span><br/>Bible</h1>
+      <p class="bk-cover-sub">From First Spray to Professional Results</p>
+      <div class="bk-cover-meta">
+        <span>17 Chapters</span>
+        <span class="bk-dot">·</span>
+        <span>5 Parts</span>
+        <span class="bk-dot">·</span>
+        <span>by AirbrushDOC</span>
+      </div>
+    </div>
+    <div class="bk-page-nav bk-cover-nav">
+      <button class="bk-nav-btn bk-nav-next" aria-label="Next page">Start Reading →</button>
+    </div>
+  </div>
+
+  <!-- ── Chapter pages ── -->
+  {chapters.map((ch, i) => (
+    <div class={`bk-page bk-chapter-page${ch.part ? ' bk-has-part' : ''}`} data-index={i + 1}>
+      <div class="bk-chapter-img-col">
+        <img src={ch.img} alt={ch.title} loading={i < 2 ? 'eager' : 'lazy'} />
+      </div>
+      <div class="bk-chapter-text-col">
+        {ch.part && <div class="bk-part-label">{ch.part}</div>}
+        <div class="bk-ch-num">{ch.num}</div>
+        <h2 class="bk-ch-title">{ch.title}</h2>
+        <p class="bk-ch-desc">{ch.desc}</p>
+        <ul class="bk-ch-topics">
+          {ch.topics.map(t => <li>{t}</li>)}
+        </ul>
+        <div class="bk-chapter-footer">
+          <span class="bk-page-counter">{i + 2} / {chapters.length + 2}</span>
+          <a href="/book/#buy" class="bk-buy-link">Get the full book →</a>
+        </div>
+      </div>
+    </div>
+  ))}
+
+  <!-- ── Back cover ── -->
+  <div class="bk-page bk-back-cover">
+    <div class="bk-back-inner">
+      <div class="bk-back-title">Stop watching tutorials.<br/>Start understanding.</div>
+      <p class="bk-back-sub">17 chapters. Every technique. Step-by-step projects.<br/>The troubleshooting guide you'll use for years.</p>
+      <a href="/book/#buy" class="bk-back-btn">Get the Airbrush Technique Bible — $27</a>
+      <div class="bk-back-guarantee">30-day money-back guarantee · No questions asked</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Page indicator -->
+<div class="bk-indicator" id="bkIndicator" aria-hidden="true">
+  <span id="bkCurrent">1</span> / <span id="bkTotal">{chapters.length + 2}</span>
+</div>
+
+<!-- Global nav arrows (hidden on cover which has its own) -->
+<button class="bk-float-btn bk-float-prev" id="bkPrev" aria-label="Previous page">‹</button>
+<button class="bk-float-btn bk-float-next" id="bkNext" aria-label="Next page">›</button>
+
+<script>
+  const reader = document.getElementById('bookReader') as HTMLElement;
+  const pages = Array.from(reader.querySelectorAll<HTMLElement>('.bk-page'));
+  const indicator = document.getElementById('bkIndicator')!;
+  const curEl = document.getElementById('bkCurrent')!;
+  const totalEl = document.getElementById('bkTotal')!;
+  const prevBtn = document.getElementById('bkPrev')!;
+  const nextBtn = document.getElementById('bkNext')!;
+
+  totalEl.textContent = String(pages.length);
+  let current = 0;
+
+  function goTo(idx: number) {
+    idx = Math.max(0, Math.min(pages.length - 1, idx));
+    current = idx;
+    reader.scrollTo({ left: idx * reader.clientWidth, behavior: 'smooth' });
+    curEl.textContent = String(idx + 1);
+    prevBtn.style.opacity = idx === 0 ? '0' : '1';
+    prevBtn.style.pointerEvents = idx === 0 ? 'none' : 'auto';
+    nextBtn.style.opacity = idx === pages.length - 1 ? '0' : '1';
+    nextBtn.style.pointerEvents = idx === pages.length - 1 ? 'none' : 'auto';
+  }
+
+  prevBtn.addEventListener('click', () => goTo(current - 1));
+  nextBtn.addEventListener('click', () => goTo(current + 1));
+
+  // Cover "Start Reading" button
+  reader.querySelector('.bk-nav-next')?.addEventListener('click', () => goTo(1));
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === 'ArrowDown') goTo(current + 1);
+    if (e.key === 'ArrowLeft'  || e.key === 'ArrowUp')   goTo(current - 1);
+  });
+
+  // Sync indicator on scroll (touch / trackpad)
+  let scrollTimer: ReturnType<typeof setTimeout>;
+  reader.addEventListener('scroll', () => {
+    clearTimeout(scrollTimer);
+    scrollTimer = setTimeout(() => {
+      const idx = Math.round(reader.scrollLeft / reader.clientWidth);
+      if (idx !== current) goTo(idx);
+    }, 80);
+  }, { passive: true });
+
+  goTo(0);
+</script>
+
+</BaseLayout>
+
+<style>
+  /* ═══ READER SHELL ═══ */
+  :global(body) { overflow: hidden; }
+
+  .bk-reader {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+  .bk-reader::-webkit-scrollbar { display: none; }
+
+  .bk-page {
+    flex-shrink: 0;
+    width: 100vw;
+    height: 100vh;
+    scroll-snap-align: start;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* ═══ COVER ═══ */
+  .bk-cover {
+    display: flex;
+    background: linear-gradient(150deg, #0c0c0c 0%, #111 50%, #0f0800 100%);
+    border-right: 1px solid rgba(244,103,26,0.15);
+  }
+  .bk-cover-spine {
+    width: 40px;
+    background: linear-gradient(180deg, #c45010 0%, #7a2e06 100%);
+    flex-shrink: 0;
+  }
+  .bk-cover-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 6vh 8vw;
+    gap: 2.5vh;
+  }
+  .bk-cover-eyebrow {
+    font-size: clamp(0.6rem, 1.2vw, 0.75rem);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: rgba(244,103,26,0.8);
+    font-weight: 600;
+  }
+  .bk-cover-title {
+    font-family: var(--abd-font-display);
+    font-size: clamp(3rem, 8vw, 7rem);
+    font-weight: 900;
+    line-height: 0.95;
+    color: #fff;
+    letter-spacing: -0.03em;
+    margin: 0;
+  }
+  .bk-cover-title span { color: var(--abd-orange); }
+  .bk-cover-sub {
+    font-size: clamp(0.8rem, 1.6vw, 1rem);
+    color: rgba(255,255,255,0.4);
+    font-style: italic;
+    margin: 0;
+  }
+  .bk-cover-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: clamp(0.7rem, 1.2vw, 0.82rem);
+    color: rgba(255,255,255,0.35);
+  }
+  .bk-dot { color: var(--abd-orange); opacity: 0.5; }
+  .bk-cover-nav {
+    position: absolute;
+    bottom: 5vh;
+    right: 6vw;
+  }
+  .bk-nav-btn {
+    background: var(--abd-orange);
+    color: #fff;
+    border: none;
+    font-size: clamp(0.75rem, 1.3vw, 0.9rem);
+    font-weight: 700;
+    padding: 12px 28px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.15s;
+    letter-spacing: 0.02em;
+  }
+  .bk-nav-btn:hover { background: var(--abd-orange-hover); transform: translateY(-1px); }
+
+  /* ═══ CHAPTER PAGES ═══ */
+  .bk-chapter-page {
+    display: grid;
+    grid-template-columns: 55% 45%;
+  }
+
+  .bk-chapter-img-col {
+    height: 100vh;
+    overflow: hidden;
+  }
+  .bk-chapter-img-col img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .bk-chapter-text-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5vh 5vw 5vh 4vw;
+    background: var(--abd-bg);
+    border-left: 1px solid var(--abd-border);
+    gap: 2vh;
+    overflow: hidden;
+  }
+
+  .bk-part-label {
+    font-size: clamp(0.55rem, 1vw, 0.68rem);
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--abd-orange);
+    font-weight: 700;
+    padding-bottom: 1.5vh;
+    border-bottom: 1px solid var(--abd-border);
+  }
+
+  .bk-ch-num {
+    font-size: clamp(0.6rem, 1vw, 0.72rem);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--abd-text-muted);
+    font-weight: 600;
+  }
+
+  .bk-ch-title {
+    font-family: var(--abd-font-display);
+    font-size: clamp(1.4rem, 3.5vw, 2.6rem);
+    font-weight: 800;
+    color: var(--abd-text);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin: 0;
+  }
+
+  .bk-ch-desc {
+    font-size: clamp(0.72rem, 1.3vw, 0.88rem);
+    color: var(--abd-text-dim);
+    line-height: 1.7;
+    margin: 0;
+    max-width: 42ch;
+  }
+
+  .bk-ch-topics {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8vh;
+  }
+  .bk-ch-topics li {
+    font-size: clamp(0.65rem, 1.15vw, 0.8rem);
+    color: var(--abd-text-dim);
+    padding-left: 16px;
+    position: relative;
+    line-height: 1.45;
+  }
+  .bk-ch-topics li::before {
+    content: '›';
+    position: absolute;
+    left: 0;
+    color: var(--abd-orange);
+  }
+
+  .bk-chapter-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 2vh;
+    border-top: 1px solid var(--abd-border);
+    margin-top: auto;
+  }
+  .bk-page-counter {
+    font-size: 0.7rem;
+    color: var(--abd-text-muted);
+  }
+  .bk-buy-link {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--abd-orange);
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .bk-buy-link:hover { opacity: 0.7; }
+
+  /* ═══ BACK COVER ═══ */
+  .bk-back-cover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #1a0a00 0%, #0f0f0f 70%);
+    border-left: 1px solid rgba(244,103,26,0.2);
+  }
+  .bk-back-inner {
+    text-align: center;
+    padding: 0 8vw;
+    max-width: 70ch;
+  }
+  .bk-back-title {
+    font-family: var(--abd-font-display);
+    font-size: clamp(1.8rem, 4vw, 3.2rem);
+    font-weight: 800;
+    color: #fff;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    margin-bottom: 3vh;
+  }
+  .bk-back-sub {
+    font-size: clamp(0.8rem, 1.4vw, 0.95rem);
+    color: rgba(255,255,255,0.55);
+    line-height: 1.7;
+    margin-bottom: 4vh;
+  }
+  .bk-back-btn {
+    display: inline-block;
+    background: var(--abd-orange);
+    color: #fff;
+    font-size: clamp(0.85rem, 1.5vw, 1rem);
+    font-weight: 700;
+    padding: 16px 40px;
+    border-radius: var(--abd-radius-s);
+    text-decoration: none;
+    transition: background 0.2s, transform 0.15s;
+    margin-bottom: 2vh;
+  }
+  .bk-back-btn:hover { background: var(--abd-orange-hover); transform: translateY(-1px); }
+  .bk-back-guarantee {
+    font-size: 0.72rem;
+    color: rgba(255,255,255,0.3);
+  }
+
+  /* ═══ NAVIGATION ═══ */
+  .bk-indicator {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.7rem;
+    color: rgba(255,255,255,0.35);
+    background: rgba(0,0,0,0.4);
+    padding: 5px 14px;
+    border-radius: 100px;
+    backdrop-filter: blur(8px);
+    pointer-events: none;
+    z-index: 100;
+    letter-spacing: 0.05em;
+  }
+
+  .bk-float-btn {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.35);
+    color: rgba(255,255,255,0.7);
+    border: 1px solid rgba(255,255,255,0.12);
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    font-size: 1.4rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    backdrop-filter: blur(8px);
+    transition: background 0.2s, color 0.2s, opacity 0.3s;
+  }
+  .bk-float-btn:hover { background: rgba(244,103,26,0.7); color: #fff; }
+  .bk-float-prev { left: 16px; }
+  .bk-float-next { right: 16px; }
+
+  /* ═══ PRINT / PDF ═══ */
+  @media print {
+    :global(header), :global(footer), :global(nav),
+    .bk-float-btn, .bk-indicator, .bk-buy-link { display: none !important; }
+
+    @page { size: A4 landscape; margin: 0; }
+
+    :global(body) { overflow: visible !important; }
+
+    .bk-reader {
+      display: block;
+      width: 297mm;
+      height: auto;
+      overflow: visible;
+    }
+
+    .bk-page {
+      width: 297mm;
+      height: 210mm;
+      page-break-after: always;
+      break-after: page;
+      overflow: hidden;
+    }
+
+    .bk-chapter-text-col { overflow: hidden; }
+  }
+</style>

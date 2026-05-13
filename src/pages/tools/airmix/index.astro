@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="AirMix — Airbrush Studio App | AirbrushDOC"
+  description="Free browser-based airbrush studio app. Paint formulas, ratio calculator, project logbook, needle & nozzle reference, and color harmony tools — all in one place."
+>
+  <main class="abd-container" style="padding-bottom: 0;">
+    <div class="blg-page-header" style="margin-bottom: 20px;">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <a href="/tools/">Tools</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>AirMix</span>
+      </nav>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title">Air<span class="blg-page-title-accent">Mix</span></h1>
+      </div>
+      <p style="color: var(--abd-text-muted); font-size: 0.92rem; margin: 6px 0 0; max-width: 580px;">
+        Your airbrush studio in the browser — paint formulas, ratio calculator, project logbook,
+        needle &amp; nozzle reference, and color harmony. No account needed.
+      </p>
+      <div class="blg-header-line" style="margin-top: 16px;"></div>
+    </div>
+  </main>
+
+  <div class="airmix-frame-wrap">
+    <iframe
+      src="/tools/airmix.html"
+      title="AirMix Airbrush Studio App"
+      class="airmix-frame"
+      allowfullscreen
+    ></iframe>
+  </div>
+</BaseLayout>
+
+<style>
+.airmix-frame-wrap {
+  width: 100%;
+  height: calc(100vh - 260px);
+  min-height: 580px;
+  border-top: 1px solid var(--abd-border);
+}
+.airmix-frame {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+@media (max-width: 768px) {
+  .airmix-frame-wrap {
+    height: calc(100vh - 220px);
+    min-height: 500px;
+  }
+}
+</style>

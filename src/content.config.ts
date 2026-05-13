@@ -28,4 +28,14 @@ const pages = defineCollection({
   }),
 });
 
-export const collections = { blog, pages };
+const glossary = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/glossary' }),
+  schema: z.object({
+    title: z.string(),
+    slug: z.string(),
+    category: z.string().default('general'),
+    description: z.string().optional(),
+  }),
+});
+
+export const collections = { blog, pages, glossary };

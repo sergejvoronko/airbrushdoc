@@ -1,0 +1,124 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+const CATEGORY_META: Record<string, { title: string; description: string; label: string }> = {
+  'airbrush-reviews': {
+    label: 'Airbrush Reviews',
+    title: 'Airbrush Reviews | AirbrushDOC',
+    description: 'Honest, hands-on reviews of airbrushes, compressors, and accessories from Iwata, Badger, Paasche, Harder & Steenbeck and more.',
+  },
+  'beginners': {
+    label: 'Beginner Guides',
+    title: 'Beginner Guides | AirbrushDOC',
+    description: 'Step-by-step guides for airbrush beginners — choosing your first airbrush, setting up, and mastering the basics.',
+  },
+  'discussion': {
+    label: 'Discussion & Tips',
+    title: 'Discussion & Tips | AirbrushDOC',
+    description: 'Airbrush tips, tricks, techniques, and discussions from the AirbrushDOC community.',
+  },
+  'download': {
+    label: 'Free Downloads',
+    title: 'Free Downloads | AirbrushDOC',
+    description: 'Free stencil packs, reference images, and downloadable resources for airbrush artists.',
+  },
+  'gallery': {
+    label: 'Airbrush Gallery',
+    title: 'Airbrush Gallery | AirbrushDOC',
+    description: 'Inspiring airbrush artwork, artist galleries, and project showcases from around the world.',
+  },
+  'history': {
+    label: 'Airbrush History',
+    title: 'Airbrush History | AirbrushDOC',
+    description: 'The history of airbrushing — from invention to modern art form.',
+  },
+  'tipstricks': {
+    label: 'Tips & Tricks',
+    title: 'Tips & Tricks | AirbrushDOC',
+    description: 'Practical airbrush tips, tricks, and how-to guides for better results.',
+  },
+  'guides': {
+    label: 'Guides',
+    title: 'Airbrush Guides | AirbrushDOC',
+    description: 'Step-by-step airbrush tutorials, DIY builds, technique walkthroughs, and how-to guides for every skill level.',
+  },
+  'video': {
+    label: 'Videos',
+    title: 'Videos | AirbrushDOC',
+    description: 'Airbrush video tutorials and demonstrations.',
+  },
+};
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
+
+  return Object.keys({
+    'airbrush-reviews': 1, 'beginners': 1, 'discussion': 1, 'download': 1,
+    'gallery': 1, 'guides': 1, 'history': 1, 'tipstricks': 1, 'video': 1,
+  }).map(cat => ({
+    params: { category: cat },
+    props: {
+      posts: allPosts
+        .filter(p => p.data.category === cat)
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { category } = Astro.params;
+const { posts } = Astro.props;
+const meta = CATEGORY_META[category!] ?? {
+  label: category,
+  title: `${category} | AirbrushDOC`,
+  description: `Articles in the ${category} category.`,
+};
+---
+<BaseLayout title={meta.title} description={meta.description}>
+  <main class="abd-container">
+    <div class="blg-page-header">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <a href="/blog/">Blog</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>{meta.label}</span>
+      </nav>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title"><span class="blg-page-title-accent">{meta.label}</span></h1>
+        <span class="blg-post-count">{posts.length} article{posts.length !== 1 ? 's' : ''}</span>
+      </div>
+      <p class="cat-description">{meta.description}</p>
+      <div class="blg-header-line"></div>
+    </div>
+
+    {posts.length === 0 ? (
+      <p style="color: var(--abd-text-muted); padding: 32px 0;">No articles in this category yet.</p>
+    ) : (
+      <div class="blg-grid">
+        {posts.map(post => (
+          <ArticleCard
+            title={post.data.title}
+            slug={post.id}
+            description={post.data.description}
+            heroImage={post.data.heroImage}
+            heroImageAlt={post.data.heroImageAlt}
+            category={post.data.category}
+            pubDate={post.data.pubDate}
+            readingTime={post.data.readingTime}
+          />
+        ))}
+      </div>
+    )}
+  </main>
+</BaseLayout>
+
+<style>
+.cat-description {
+  color: var(--abd-text-muted);
+  font-size: 0.95rem;
+  margin: 8px 0 0;
+  max-width: 640px;
+}
+</style>

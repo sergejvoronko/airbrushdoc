@@ -5,7 +5,7 @@ pubDate: 2026-04-28
 category: "general"
 tags: ["test"]
 readingTime: 2
-draft: false
+draft: true
 ---
 
 This is a test post. The site scaffold is working.

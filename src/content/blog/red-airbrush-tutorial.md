@@ -2,7 +2,7 @@
 title: "Airbrush Tutorial - Red on Red"
 description: "Today's airbrush tutorial is for everyone afraid of giving their car very contrast look. You can actually keep your car in same color you have..."
 pubDate: 2013-02-24
-category: "discussion"
+category: "guides"
 tags: ["airbrush car", "airbrush guide", "airbrush howto", "airbrush tutorial", "image on car", "one color airbush", "red car painting", "step by step airbrush"]
 readingTime: 7
 draft: false
@@ -35,7 +35,7 @@ Not really needed stuff: Laptop or PC and projector.
 
 Here is the design:
 
-[caption id="attachment_10512" align="aligncenter" width="625"][![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-01-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-01.jpg) Photoshop Design[/caption]
+[caption id="attachment_10512" align="aligncenter" width="625"]![](/images/wp-uploads/Red-airbrush-tutorial-01.webp) Photoshop Design[/caption]
 
  
 
@@ -43,85 +43,163 @@ The model is undressed and ready.
 Light on!...
 ACTION!!!
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-02-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-02.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-02.webp)
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-03-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-03.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-03.webp)
 
 As usual, first step is to get rid of glance using **Scotch-Brite** with abrasive paste. Now, for those who love comfort and can afford to use projector you can project your design right on the car but be careful as sometimes you can lose proportions and it will look like really bad art.
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-04-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-04.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-04.webp)
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-05-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-05.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-05.webp)
 
 Now we can start very easy (just not to make a lot of fumes as those may be sucked into the projector) sketching up the most bright parts with half opaque white base coat paint.
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-06-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-06.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-06.webp)
 
 Because the door isn't flat you can't sketch up all the stuff, so use your head and hands and do it the old way - some with stencils, some free hand.
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-07-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-07.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-07.webp)
 
 Everything with white base – bottom layer and bright parts.
 
-[gallery ids="10519,10520,10521" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-08.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-09.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-11.webp" loading="lazy" /></div>
+</div>
 
 Here I've tried to use the half-opaque ocher and brick red color **DeBeer** to see how it looks.
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-12-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-12.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-12.webp)
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-13-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-13.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-13.webp)
 
 To be honest I didn't like it so in this case just take thinner and textile wipes and wipe it down. First I wanted to wipe the whole door but then I decided to get rid of just some parts and I've spent some ridiculous long period of time doing this.
 
-[![](/wp-content/uploads/2013/02/Red-airbrush-tutorial-14-660x495.jpg)](/wp-content/uploads/2013/02/Red-airbrush-tutorial-14.jpg)
+![](/images/wp-uploads/Red-airbrush-tutorial-14.webp)
 
 Here I was experimenting with white and half opaque colors, sometime candy (yellow and orange DeBeer) for this kind of effects.
 
-[gallery ids="10526,10527,10528,10529,10530,10525" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-16.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-17.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-18.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-19.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-20.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-15.webp" loading="lazy" /></div>
+</div>
 
 Even the door handle so it won't stick out.
 
-[gallery ids="10531,10532,10533" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-21.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-22.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-23.webp" loading="lazy" /></div>
+</div>
 
 Now we got to the face.
 
-[gallery ids="10535,10536,10537" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-25.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-26.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-27.webp" loading="lazy" /></div>
+</div>
 
 All free hand, I've also spend some time making shadows on clothing.
 
-[gallery ids="10534,10538,10539,10540,10541,10542,10543,10544,10545" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-24.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-28.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-29.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-30.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-31.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-32.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-33.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-34.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-35.webp" loading="lazy" /></div>
+</div>
 
 If you used projector try to step away and see how it looks. You may need to fix all the errors created by projector, as you are not projecting on the flat surface some parts may be wider as they should be. This will require free handing again.
 
 Work with head.
 
-[gallery ids="10546,10547,10548,10549,10550,10551,10553,10552,10555" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-36.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-37.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-38.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-39.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-40.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-41.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-43.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-42.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-45.webp" loading="lazy" /></div>
+</div>
 
 The sword, reflections on it, textures.
 
-[gallery ids="10556,10557,10558" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-46.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-47.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-48.webp" loading="lazy" /></div>
+</div>
 
 Adding details and blinks.
 
-[gallery ids="10559,10560,10561" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-49.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-50.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-51.webp" loading="lazy" /></div>
+</div>
 
 Here's one special effect. With help of rubber glue (or glue for rubber to be exact) I've made a texture.
 
 All I did is to put the glue with my finger onto surface and waited until it's dry (you can even blow on it) then I rub it on in direction that was required. Because the glue is dry it creates interesting cracks.
 
-[gallery ids="10562,10563,10564" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-52.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-53.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-54.webp" loading="lazy" /></div>
+</div>
 
 Then we have to spray over with white base and take off the glue. I did some free-handing over it after all.
 
-[gallery ids="10565,10566,10567,10568,10569,10570" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-55.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-56.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-57.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-58.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-59.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-60.webp" loading="lazy" /></div>
+</div>
 
 In the process there is always a time when you have to check it out and think it through if the art is complete or if there is something missing. Also don't forget to leave your footprint.
 
-[gallery ids="10571,10572,10574,10573,10575,10576" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-61.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-62.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-64.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-63.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-65.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-66.webp" loading="lazy" /></div>
+</div>
 
 Snaps without and with clear coat and all back in place – the final result.
 
-[gallery ids="10579,10578,10576,10577,10580,10581,10582,10583,10584,10585,10586,10587" link="file"]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-69.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-68.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-66.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-67.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-70.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-71.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-72.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-73.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-74.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-75.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-76.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-77.webp" loading="lazy" /></div>
+</div>
 
 ## My conclusion
 
@@ -131,6 +209,6 @@ Also when talking to customer, reserve some more time for yourself in case of ne
 
 If you haven't notice, just to point it out, I didn't use black color at all, here I use and recommend for you too - blue, green and violet.
 
-![](/wp-content/uploads/2013/02/anton-e1361732897254.jpg) Author of tutorial - Kuyanov Anton (Куянов Антон) - [www.art-ka.ru](http://www.art-ka.ru/)
+![](/images/wp-uploads/anton-e1361732897254.webp) Author of tutorial - Kuyanov Anton (Куянов Антон) - [www.art-ka.ru](http://www.art-ka.ru/)
 
 *Sergej here. Do you like this tutorial? I love it! I've found some great tips. If you like it or know about someone who may like it too, please spread the love and share!*

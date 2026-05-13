@@ -15,7 +15,7 @@ When I started to search for a perfect airbrush I had some requirements. One of 
 
 I preferred an [airbrush](http://www.airbrushdoc.com) with **gravity feed**. Another reason to consider was good build and availability of spare parts for the gun - for a good price as well. I was checking even the quality of materials that airbrush is made of.
 
-[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-1-500x337.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-1.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-2-500x316.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-2.jpg)
+![](/images/wp-uploads/Harder-and-Steenback-Evolution-1.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-2.webp)
 
 ## Why did I choose Harder and Steenbeck?
 
@@ -31,15 +31,15 @@ I preferred an [airbrush](http://www.airbrushdoc.com) with **gravity feed**. Ano
 
 I have to admit, I prefered German firmness instead of Japanese quality. To my luck I found online shop in UK and ordered not only airbrush but "**Finespray Quick Release Body & Tail Kit AB-117**" and **Quick Fix** too.
 
-[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-8-500x308.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-8.jpg)
+![](/images/wp-uploads/Harder-and-Steenback-Evolution-8.webp)
 
 After five days it was on my desk.
 
-[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-4-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-4.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-5-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-5.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-6-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-6.jpg)
+![](/images/wp-uploads/Harder-and-Steenback-Evolution-4.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-5.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-6.webp)
 
 Then I started my painting tests. To be honest I was surprised with the results, I would say "delighted". It is light, well-balanced (some airbrushes are heavier in the front) and it lays into hand very well. After 30 minutes of experimenting I didn't feel any tiredness on my wrist or fingers. Control of paint flow is very easy and after using Quick fix it is even easier. Less frustration with control gave me more power to concentrate on art work.
 
-[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-7-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-7.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-9-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-9.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-10-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-10.jpg)
+![](/images/wp-uploads/Harder-and-Steenback-Evolution-7.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-9.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-10.webp)
 
 With this airbrush I got really thin and contrast lines, 0.1 - 0.2mm. I've tried to make small dots but maybe I didn't use a proper paint or maybe I need more practice (You'll see at the end).
 
@@ -47,17 +47,17 @@ With this airbrush I got really thin and contrast lines, 0.1 - 0.2mm. I've tried
 
 There were no problems. The canal for paint is easy to clean just with cotton buds. After just a little while bubbling the reducer in airbrush all paint was gone (literally all of it). I think these elements were polished to something we call German firmness. I have to admit they did a great job.
 
-[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-11-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-11.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-12-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-12.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-13-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-13.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-14-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-14.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-15-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-15.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-16-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-16.jpg)
+![](/images/wp-uploads/Harder-and-Steenback-Evolution-11.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-12.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-13.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-14.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-15.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-16.webp)
 
 The swap of nozzle and needle doesn't take more that 1 minute. In just two turns and quick fix goes off and gives an access to needle.
 
-[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-17-500x257.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-17.jpg)
+![](/images/wp-uploads/Harder-and-Steenback-Evolution-17.webp)
 
 Here are some lines with measuring-tape (in mm) - you can see how precise this tool is.
 
-[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-19-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-19.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-20-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-20.jpg)[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-21-150x150.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-21.jpg)
+![](/images/wp-uploads/Harder-and-Steenback-Evolution-19.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-20.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-21.webp)
 
-[![](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-18-500x348.jpg)](/wp-content/uploads/2011/05/Harder-and-Steenback-Evolution-18.jpg)
+![](/images/wp-uploads/Harder-and-Steenback-Evolution-18.webp)
 
 I hope that this is enough just to see that this is very good airbrush.
 

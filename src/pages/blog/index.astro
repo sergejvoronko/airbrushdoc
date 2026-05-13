@@ -3,12 +3,21 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 
-const catParam = Astro.url.searchParams.get('cat');
 const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
 const sorted = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const filtered = catParam ? sorted.filter(p => p.data.category === catParam) : sorted;
 
-const cats = [...new Set(sorted.map(p => p.data.category))].sort();
+const CAT_LABELS: Record<string, string> = {
+  'airbrush-reviews': 'Reviews',
+  'beginners': 'Beginners',
+  'discussion': 'Discussion',
+  'download': 'Downloads',
+  'gallery': 'Gallery',
+  'guides': 'Guides',
+  'history': 'History',
+  'tipstricks': 'Tips & Tricks',
+  'video': 'Video',
+};
+const cats = ['airbrush-reviews', 'beginners', 'discussion', 'download', 'gallery', 'guides', 'history', 'tipstricks', 'video'];
 const catCounts: Record<string, number> = {};
 sorted.forEach(p => { catCounts[p.data.category] = (catCounts[p.data.category] || 0) + 1; });
 ---
@@ -22,38 +31,94 @@ sorted.forEach(p => { catCounts[p.data.category] = (catCounts[p.data.category] |
       </nav>
       <div class="blg-title-row">
         <h1 class="blg-page-title">The <span class="blg-page-title-accent">AirbrushDOC</span> Blog</h1>
-        <span class="blg-post-count">{filtered.length} article{filtered.length !== 1 ? 's' : ''}</span>
+        <span class="blg-post-count">{sorted.length} article{sorted.length !== 1 ? 's' : ''}</span>
       </div>
       <div class="blg-header-line"></div>
     </div>
 
     <div class="blg-filter-bar">
       <div class="blg-filters">
-        <a class={`blg-filter-tab${!catParam ? ' blg-active' : ''}`} href="/blog/">
+        <a class="blg-filter-tab blg-active" href="/blog/">
           All Posts <span class="blg-filter-count">{sorted.length}</span>
         </a>
-        {cats.map(cat => (
-          <a class={`blg-filter-tab${catParam === cat ? ' blg-active' : ''}`} href={`/blog/?cat=${cat}`}>
-            {cat.charAt(0).toUpperCase() + cat.slice(1).replace(/-/g, ' ')}
+        {cats.filter(cat => (catCounts[cat] ?? 0) > 0).map(cat => (
+          <a class="blg-filter-tab" href={`/${cat}/`}>
+            {CAT_LABELS[cat] ?? cat}
             <span class="blg-filter-count">{catCounts[cat]}</span>
           </a>
         ))}
       </div>
     </div>
 
-    <div class="blg-grid">
-      {filtered.map(post => (
-        <ArticleCard
-          title={post.data.title}
-          slug={post.id}
-          description={post.data.description}
-          heroImage={post.data.heroImage}
-          heroImageAlt={post.data.heroImageAlt}
-          category={post.data.category}
-          pubDate={post.data.pubDate}
-          readingTime={post.data.readingTime}
+    <div class="blg-search-wrap">
+      <div class="blg-search-box">
+        <svg class="blg-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input
+          id="blgSearch"
+          class="blg-search-input"
+          type="search"
+          placeholder="Search articles…"
+          aria-label="Search articles"
+          autocomplete="off"
         />
+        <span id="blgSearchCount" class="blg-search-result-count" style="display:none"></span>
+      </div>
+    </div>
+
+    <div class="blg-grid" id="blgGrid">
+      {sorted.map(post => (
+        <div
+          class="blg-card-wrap"
+          data-search={[
+            post.data.title,
+            post.data.description ?? '',
+            CAT_LABELS[post.data.category] ?? post.data.category,
+          ].join(' ').toLowerCase()}
+        >
+          <ArticleCard
+            title={post.data.title}
+            slug={post.id}
+            description={post.data.description}
+            heroImage={post.data.heroImage}
+            heroImageAlt={post.data.heroImageAlt}
+            category={post.data.category}
+            pubDate={post.data.pubDate}
+            readingTime={post.data.readingTime}
+          />
+        </div>
       ))}
     </div>
+
+    <p id="blgNoResults" class="blg-no-results" style="display:none">No articles match your search.</p>
   </main>
+
+  <script>
+    const input = document.getElementById('blgSearch') as HTMLInputElement | null;
+    const countEl = document.getElementById('blgSearchCount');
+    const noResults = document.getElementById('blgNoResults');
+    const cards = Array.from(document.querySelectorAll<HTMLElement>('.blg-card-wrap'));
+
+    input?.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      if (!q) {
+        cards.forEach(c => c.style.display = '');
+        if (countEl) countEl.style.display = 'none';
+        if (noResults) noResults.style.display = 'none';
+        return;
+      }
+      let visible = 0;
+      cards.forEach(c => {
+        const match = (c.dataset.search ?? '').includes(q);
+        c.style.display = match ? '' : 'none';
+        if (match) visible++;
+      });
+      if (countEl) {
+        countEl.textContent = `${visible} result${visible !== 1 ? 's' : ''}`;
+        countEl.style.display = '';
+      }
+      if (noResults) noResults.style.display = visible > 0 ? 'none' : '';
+    });
+  </script>
 </BaseLayout>

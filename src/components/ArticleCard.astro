@@ -8,15 +8,33 @@ interface Props {
   category?: string;
   pubDate: Date;
   readingTime?: number;
+  featured?: boolean;
 }
-const { title, slug, description, heroImage, heroImageAlt, category = 'general', pubDate, readingTime } = Astro.props;
-const catLabel = category.charAt(0).toUpperCase() + category.slice(1).replace(/-/g, ' ');
+const { title, slug, description, heroImage, heroImageAlt, category = 'general', pubDate, readingTime, featured = false } = Astro.props;
+const CAT_LABELS: Record<string, string> = {
+  'airbrush-reviews': 'Reviews',
+  'beginners': 'Beginners',
+  'discussion': 'Discussion',
+  'download': 'Downloads',
+  'gallery': 'Gallery',
+  'guides': 'Guides',
+  'history': 'History',
+  'tipstricks': 'Tips & Tricks',
+  'video': 'Video',
+};
+const catLabel = CAT_LABELS[category] ?? (category.charAt(0).toUpperCase() + category.slice(1).replace(/-/g, ' '));
 const dateStr = pubDate.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' });
+
+const initials = title.split(' ').slice(0, 2).map(w => w[0]).join('').toUpperCase();
 ---
-<a href={`/blog/${slug}/`} class="abd-card">
-  {heroImage && (
+<a href={`/blog/${slug}/`} class={`abd-card${featured ? ' abd-card--featured' : ''}`}>
+  {heroImage ? (
     <div class="abd-card-img">
       <img src={heroImage} alt={heroImageAlt || title} loading="lazy" />
+    </div>
+  ) : (
+    <div class="abd-card-img abd-card-img--placeholder">
+      <span class="abd-card-placeholder-text">{initials}</span>
     </div>
   )}
   <div class="abd-card-body">
@@ -34,3 +52,34 @@ const dateStr = pubDate.toLocaleDateString('en-GB', { year: 'numeric', month: 's
     </div>
   </div>
 </a>
+
+<style>
+.abd-card-img--placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--abd-surface2) 0%, var(--abd-surface3) 100%);
+  border-bottom: 1px solid var(--abd-border);
+}
+.abd-card-placeholder-text {
+  font-family: var(--abd-font-display);
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--abd-border-m);
+  letter-spacing: -0.04em;
+  user-select: none;
+}
+.abd-card--featured .abd-card-img {
+  height: 280px;
+}
+.abd-card--featured .abd-card-placeholder-text {
+  font-size: 4rem;
+}
+.abd-card--featured .abd-card-title {
+  font-size: 1.3rem;
+  -webkit-line-clamp: 2;
+}
+.abd-card--featured .abd-card-excerpt {
+  -webkit-line-clamp: 3;
+}
+</style>

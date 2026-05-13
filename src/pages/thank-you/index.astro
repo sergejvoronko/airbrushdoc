@@ -1,0 +1,298 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const downloads = [
+  {
+    title: '50 Skull Stencils',
+    desc: '.ai, .cdr, .eps and .jpg formats — single-layer, print-ready.',
+    file: 'https://drive.google.com/uc?export=download&id=SKULLS_FILE_ID',
+    size: '11 MB',
+    icon: '💀',
+  },
+  {
+    title: 'Ultimate Skull Reference Pack',
+    desc: 'High-quality skull reference photos for painting and stencil work.',
+    file: 'https://drive.google.com/uc?export=download&id=REFERENCE_FILE_ID',
+    size: '146 MB',
+    icon: '📷',
+  },
+  {
+    title: 'Airbrush Fire Reference Pack (Parts 1 & 2)',
+    desc: 'Real flame photography for fire and smoke airbrush work.',
+    file: 'https://drive.google.com/uc?export=download&id=FIRE_REFERENCE_FILE_ID',
+    size: 'Included above',
+    icon: '🔥',
+  },
+  {
+    title: 'Multi-Layer Stencils (CorelDraw)',
+    desc: '10 professional multi-layer stencil designs in .cdr format.',
+    file: '/downloads/multilayer-stencils-cdr.zip',
+    size: '104 KB',
+    icon: '✂️',
+  },
+];
+
+const tools = [
+  {
+    icon: '🧪',
+    name: 'AirMix Studio',
+    desc: 'Paint ratio calculator, project logbook, needle & nozzle reference, and color harmony tool.',
+    href: '/tools/airmix/',
+  },
+  {
+    icon: '✂️',
+    name: 'Stencil Creator',
+    desc: 'Draw shapes and text freehand, then export as a print-ready PNG or PDF.',
+    href: '/tools/stencil-creator/',
+  },
+];
+---
+<BaseLayout
+  title="Welcome — Your Free Resources | AirbrushDOC"
+  description="Thank you for subscribing. Download your free stencils, reference packs, and access exclusive tools."
+>
+  <meta name="robots" content="noindex" slot="head" />
+
+  <main class="abd-container">
+
+    <div class="ty-hero">
+      <div class="ty-hero-check" aria-hidden="true">✓</div>
+      <h1 class="ty-hero-title">You're in. Here's everything.</h1>
+      <p class="ty-hero-sub">
+        Bookmark this page — it's your personal access hub. All downloads and tools are below.
+      </p>
+    </div>
+
+    <section class="ty-section">
+      <h2 class="ty-section-title">Free Downloads</h2>
+      <div class="ty-downloads-grid">
+        {downloads.map(d => (
+          <div class="ty-download-card">
+            <div class="ty-download-icon">{d.icon}</div>
+            <div class="ty-download-body">
+              <div class="ty-download-title">{d.title}</div>
+              <p class="ty-download-desc">{d.desc}</p>
+              <div class="ty-download-meta">{d.size}</div>
+            </div>
+            <a href={d.file} class="ty-download-btn" download>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                <polyline points="7 10 12 15 17 10"/>
+                <line x1="12" y1="15" x2="12" y2="3"/>
+              </svg>
+              Download
+            </a>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="ty-section">
+      <h2 class="ty-section-title">Exclusive Tools</h2>
+      <div class="ty-tools-grid">
+        {tools.map(t => (
+          <a href={t.href} class="ty-tool-card">
+            <div class="ty-tool-icon">{t.icon}</div>
+            <div class="ty-tool-body">
+              <div class="ty-download-title">{t.name}</div>
+              <p class="ty-download-desc">{t.desc}</p>
+            </div>
+            <span class="ty-tool-arrow">Open →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <div class="ty-book-banner">
+      <div class="ty-book-text">
+        <div class="ty-book-label">Ready to go further?</div>
+        <div class="ty-book-title">The Airbrush Technique Bible — 17 chapters, $27</div>
+        <p class="ty-book-desc">Every technique, surface, and style. Full troubleshooting encyclopedia included.</p>
+      </div>
+      <div class="ty-book-actions">
+        <a href="/book/" class="abd-btn-primary">Get the Book</a>
+        <a href="/book/preview/" class="ty-preview-link">Free preview →</a>
+      </div>
+    </div>
+
+  </main>
+</BaseLayout>
+
+<style>
+.ty-hero {
+  text-align: center;
+  padding: 56px 24px 48px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.ty-hero-check {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: var(--abd-orange);
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 24px;
+}
+.ty-hero-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 14px;
+}
+.ty-hero-sub {
+  font-size: 1rem;
+  color: var(--abd-text-dim);
+  line-height: 1.6;
+}
+.ty-section {
+  margin-bottom: 56px;
+}
+.ty-section-title {
+  font-family: var(--abd-font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--abd-border);
+}
+.ty-downloads-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.ty-download-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 20px;
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius);
+}
+.ty-download-icon {
+  font-size: 1.8rem;
+  flex-shrink: 0;
+  width: 40px;
+  text-align: center;
+}
+.ty-download-body {
+  flex: 1;
+  min-width: 0;
+}
+.ty-download-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--abd-text);
+  margin-bottom: 4px;
+}
+.ty-download-desc {
+  font-size: 0.85rem;
+  color: var(--abd-text-dim);
+  line-height: 1.5;
+  margin-bottom: 4px;
+}
+.ty-download-meta {
+  font-size: 0.75rem;
+  color: var(--abd-text-muted);
+}
+.ty-download-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  background: var(--abd-orange);
+  color: #fff;
+  border-radius: var(--abd-radius);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: opacity 0.15s;
+}
+.ty-download-btn:hover { opacity: 0.85; }
+.ty-tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+.ty-tool-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 20px 24px;
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-orange);
+  border-radius: var(--abd-radius);
+  text-decoration: none;
+  transition: border-color 0.15s;
+}
+.ty-tool-card:hover { border-color: var(--abd-orange); background: var(--abd-bg); }
+.ty-tool-icon { font-size: 2rem; flex-shrink: 0; }
+.ty-tool-body { flex: 1; }
+.ty-tool-arrow {
+  font-size: 0.85rem;
+  color: var(--abd-orange);
+  font-weight: 600;
+  white-space: nowrap;
+  flex-shrink: 0;
+  align-self: center;
+}
+.ty-book-banner {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius);
+  padding: 32px 36px;
+  margin-bottom: 64px;
+}
+.ty-book-text { flex: 1; min-width: 240px; }
+.ty-book-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--abd-text-muted);
+  margin-bottom: 8px;
+}
+.ty-book-title {
+  font-family: var(--abd-font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 8px;
+}
+.ty-book-desc {
+  font-size: 0.875rem;
+  color: var(--abd-text-dim);
+  line-height: 1.6;
+}
+.ty-book-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-shrink: 0;
+}
+.ty-preview-link {
+  font-size: 0.875rem;
+  color: var(--abd-orange);
+  text-decoration: none;
+}
+.ty-preview-link:hover { text-decoration: underline; }
+@media (max-width: 640px) {
+  .ty-download-card { flex-wrap: wrap; }
+  .ty-download-btn { width: 100%; justify-content: center; }
+  .ty-book-banner { flex-direction: column; gap: 24px; }
+  .ty-book-actions { flex-direction: column; align-items: flex-start; }
+}
+</style>

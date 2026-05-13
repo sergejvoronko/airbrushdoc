@@ -1,0 +1,378 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const freebies = [
+  {
+    title: '50 Skull Stencils',
+    desc: 'Skull stencils in .ai, .cdr, .eps and .jpg — ready to print and cut. Single-layer, high resolution.',
+    image: '/images/wp-uploads/50-scull-stencils1.webp',
+    formats: ['.ai', '.cdr', '.eps', '.jpg'],
+  },
+  {
+    title: 'Ultimate Skull Reference Pack',
+    desc: 'High-quality skull reference images for painting and stencil work. Use as inspiration or direct reference.',
+    image: '/images/wp-uploads/Human_Skull_2_by_rgstock777.webp',
+    formats: ['Reference images'],
+  },
+  {
+    title: 'Airbrush Fire Reference Pack',
+    desc: 'Two packs of fire and flame reference photos — real flames photographed for airbrush artists.',
+    image: '/images/wp-uploads/fire-reference-pack.webp',
+    formats: ['Reference images'],
+  },
+  {
+    title: 'Multi-Layer Stencils (CorelDraw)',
+    desc: '10 professional multi-layer stencils in CorelDraw format. Celebrity portraits and designs with multiple shading layers.',
+    image: '/images/wp-uploads/multilayer-stencils.webp',
+    formats: ['.cdr'],
+  },
+];
+
+const tools = [
+  {
+    icon: '🧪',
+    name: 'AirMix Studio',
+    desc: 'Paint ratio calculator, project logbook, needle & nozzle reference, and color harmony tool — all in one.',
+  },
+  {
+    icon: '✂️',
+    name: 'Stencil Creator',
+    desc: 'Draw freehand or use shapes and text, then export your stencil as a print-ready PNG or PDF.',
+  },
+];
+---
+<BaseLayout
+  title="Free Airbrush Stencils & Resources | AirbrushDOC"
+  description="Free skull stencils, fire reference packs, multi-layer CorelDraw stencils, and exclusive tools — available to subscribers. Subscribe free to unlock everything."
+>
+  <main class="abd-container">
+
+    <div class="blg-page-header">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>Freebies</span>
+      </nav>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title">Free <span class="blg-page-title-accent">Stencils & Resources</span></h1>
+      </div>
+      <div class="blg-header-line"></div>
+    </div>
+
+    <div class="fre-intro">
+      <p class="fre-intro-text">
+        Subscribe free and get instant access to all the downloads below — skull stencils, fire reference packs,
+        multi-layer CorelDraw stencils, and two exclusive tools. No spam. Unsubscribe any time.
+      </p>
+    </div>
+
+    <section class="fre-section">
+      <h2 class="fre-section-title">Free Downloads</h2>
+      <div class="fre-grid">
+        {freebies.map(item => (
+          <div class="fre-card fre-card--locked">
+            {item.image && (
+              <div class="fre-card-img">
+                <img src={item.image} alt={item.title} loading="lazy" />
+                <div class="fre-card-lock">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="28" height="28">
+                    <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+                    <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+                  </svg>
+                  <span>Subscribers only</span>
+                </div>
+              </div>
+            )}
+            <div class="fre-card-body">
+              <div class="fre-card-title">{item.title}</div>
+              <p class="fre-card-desc">{item.desc}</p>
+              <div class="fre-card-formats">
+                {item.formats.map(f => <span class="fre-format-tag">{f}</span>)}
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="fre-section">
+      <h2 class="fre-section-title">Exclusive Tools</h2>
+      <div class="fre-tools-grid">
+        {tools.map(t => (
+          <div class="fre-tool-card fre-card--locked">
+            <div class="fre-tool-icon">{t.icon}</div>
+            <div class="fre-tool-body">
+              <div class="fre-card-title">{t.name}</div>
+              <p class="fre-card-desc">{t.desc}</p>
+            </div>
+            <div class="fre-tool-lock">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18">
+                <rect x="3" y="11" width="18" height="11" rx="2"/>
+                <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+              </svg>
+              Subscribers only
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="fre-subscribe-box">
+      <div class="fre-subscribe-inner">
+        <div class="fre-subscribe-eyebrow">Free access — takes 30 seconds</div>
+        <h2 class="fre-subscribe-title">Subscribe to unlock everything</h2>
+        <p class="fre-subscribe-text">
+          Enter your email and you'll get a confirmation link. After confirming, you'll go straight
+          to the downloads page with all files ready.
+        </p>
+        <div class="ml-embedded" data-form="d5CS8H"></div>
+        <p class="fre-subscribe-note">No spam. Unsubscribe any time.</p>
+      </div>
+    </section>
+
+    <section class="fre-book-section">
+      <div class="fre-book-inner">
+        <div class="fre-book-text">
+          <div class="fre-book-eyebrow">Want to go deeper?</div>
+          <h2 class="fre-book-title">The Airbrush Technique Bible</h2>
+          <p class="fre-book-desc">
+            17 chapters covering every technique, surface, and style — from first spray to professional results.
+            Includes a complete Troubleshooting Encyclopedia and a business guide for airbrush artists.
+          </p>
+          <div class="fre-book-actions">
+            <a href="/book/" class="abd-btn-primary">Get the Book — $27</a>
+            <a href="/book/preview/" class="fre-book-preview">Read free preview →</a>
+          </div>
+        </div>
+        <div class="abd-book-mini-cover" aria-hidden="true">
+          <div class="abd-book-mini-spine"></div>
+          <div class="abd-book-mini-front">
+            <div class="abd-book-mini-title">The Airbrush<br>Technique<br>Bible</div>
+            <div class="abd-book-mini-badge">17 Chapters</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</BaseLayout>
+
+<style>
+.fre-intro {
+  max-width: 680px;
+  margin: 0 auto 48px;
+  text-align: center;
+}
+.fre-intro-text {
+  font-size: 1.05rem;
+  color: var(--abd-text-dim);
+  line-height: 1.7;
+}
+.fre-section {
+  margin-bottom: 56px;
+}
+.fre-section-title {
+  font-family: var(--abd-font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--abd-border);
+}
+.fre-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+.fre-card {
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius);
+  overflow: hidden;
+}
+.fre-card--locked {
+  opacity: 0.85;
+}
+.fre-card-img {
+  position: relative;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: var(--abd-bg);
+}
+.fre-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(3px) brightness(0.6);
+}
+.fre-card-lock {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.fre-card-body {
+  padding: 18px 20px 20px;
+}
+.fre-card-title {
+  font-family: var(--abd-font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 8px;
+}
+.fre-card-desc {
+  font-size: 0.875rem;
+  color: var(--abd-text-dim);
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+.fre-card-formats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.fre-format-tag {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: var(--abd-bg);
+  border: 1px solid var(--abd-border);
+  color: var(--abd-text-muted);
+  font-family: monospace;
+}
+.fre-tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+.fre-tool-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 20px 24px;
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius);
+}
+.fre-tool-icon {
+  font-size: 2rem;
+  flex-shrink: 0;
+}
+.fre-tool-body {
+  flex: 1;
+}
+.fre-tool-lock {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
+  color: var(--abd-text-muted);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fre-subscribe-box {
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-orange);
+  border-radius: var(--abd-radius);
+  padding: 48px 40px;
+  text-align: center;
+  margin-bottom: 56px;
+}
+.fre-subscribe-inner {
+  max-width: 520px;
+  margin: 0 auto;
+}
+.fre-subscribe-eyebrow {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--abd-orange);
+  margin-bottom: 12px;
+}
+.fre-subscribe-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(1.4rem, 3vw, 1.9rem);
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 14px;
+}
+.fre-subscribe-text {
+  font-size: 0.95rem;
+  color: var(--abd-text-dim);
+  line-height: 1.65;
+  margin-bottom: 28px;
+}
+.fre-form {
+  margin-bottom: 12px;
+}
+.fre-subscribe-note {
+  font-size: 0.75rem;
+  color: var(--abd-text-muted);
+}
+.fre-book-section {
+  border-top: 1px solid var(--abd-border);
+  padding-top: 48px;
+  margin-bottom: 64px;
+}
+.fre-book-inner {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+  flex-wrap: wrap;
+}
+.fre-book-text {
+  flex: 1;
+  min-width: 260px;
+}
+.fre-book-eyebrow {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--abd-text-muted);
+  margin-bottom: 10px;
+}
+.fre-book-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(1.3rem, 3vw, 1.75rem);
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 14px;
+}
+.fre-book-desc {
+  font-size: 0.95rem;
+  color: var(--abd-text-dim);
+  line-height: 1.7;
+  margin-bottom: 24px;
+}
+.fre-book-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.fre-book-preview {
+  font-size: 0.9rem;
+  color: var(--abd-orange);
+  text-decoration: none;
+}
+.fre-book-preview:hover {
+  text-decoration: underline;
+}
+@media (max-width: 600px) {
+  .fre-subscribe-box { padding: 32px 20px; }
+  .fre-book-inner { flex-direction: column; gap: 32px; }
+}
+</style>
