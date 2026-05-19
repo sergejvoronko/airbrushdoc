@@ -181,7 +181,7 @@ img { max-width: 100%; height: auto; display: block; }
   transform: scaleX(1);
 }
 .abd-nav-book {
-  background: var(--abd-orange) !important;
+  background: #B04C12 !important;
   color: #fff !important;
   border-radius: var(--abd-radius-xs) !important;
   font-weight: 600 !important;
