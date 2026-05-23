@@ -120,7 +120,7 @@ Now is the right time to present a few advises from professionals, that I've bee
 
 I'm not promoting any brands here. These are professional advices and if you don't believe them do some background research and find some more reviews.
 
-If you check those links, the prices vary a lot. **IWATA** brand definitely belongs to a top brand of airbrushes out there, even if you think that they are too expensive, any professional will tell you that they have reasonable prices. My Bro uses **Iwata Custom Micron CM-C Plus** and he is more than satisfied. His first airbrush was **BD180** Gravity feed Double-action, but after he bought Iwata the whole experience has changed. He commented on difference between these two as "Heaven and Hell" I think that you get this. Here are some pictures of his gun.
+If you check those links, the prices vary a lot. **IWATA** brand definitely belongs to a top brand of airbrushes out there, even if you think that they are too expensive, any professional will tell you that they have reasonable prices. My Bro uses [**Iwata Custom Micron CM-C Plus**](/go/iwata-custom-micron-cm-c) and he is more than satisfied. His first airbrush was **BD180** Gravity feed Double-action, but after he bought Iwata the whole experience has changed. He commented on difference between these two as "Heaven and Hell" I think that you get this. Here are some pictures of his gun.
 
 ![](/images/wp-uploads/iwata-micron-1.webp)![](/images/wp-uploads/iwata-micron-2.webp)
 

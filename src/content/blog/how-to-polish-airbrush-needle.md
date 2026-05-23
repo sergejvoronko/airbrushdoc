@@ -39,7 +39,7 @@ Logical? No? Doesn't matter, it is not that crucial but I'm doing it anyway. Eno
 
  	- Step 4 - Sand-paper **P2000**. Don't forget water.
 
- 	- Step 5 - Here I've used **Fine Abrasive Paste form 3M** on the backside of sand-paper (but you can use really anything (leather might be even better))
+ 	- Step 5 - Here I've used [**Fine Abrasive Paste form 3M**](/go/3m-fine-abrasive-paste) on the backside of sand-paper (but you can use really anything (leather might be even better))
 
  	- Step 6 - Last but not least **Ultra fine finishing abrasive paste** that I usually use for final touches when polishing a car.
 

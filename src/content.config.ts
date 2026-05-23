@@ -35,6 +35,7 @@ const glossary = defineCollection({
     slug: z.string(),
     category: z.string().default('general'),
     description: z.string().optional(),
+    heroImage: z.string().optional(),
   }),
 });
 

@@ -12,7 +12,7 @@ heroImage: "/images/wp-uploads/Master-Airbrush-Review-7.webp"
 
 In today's **airbrush review** I decided to start with quote from one of emails I'm getting from my readers "*It seems like you have reviewed the top models of several brands. On the other end of the spectrum, I realized there are some unknown manufacturers offer something that looks like the high-end airbrushes, e.g., Iwata CM-C Plus. I hope you won't find my suggestions boring. I suppose most people won't have the budget to buy many airbrushes & many like myself has learn things the hard way wasting $ on the quest to find the most right tool.*"
 
-I don't have that particular airbrush that looks like **[Iwata CM-C Plus](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/)** to make a decent review but I happened to have the one that looks exactly as **Iwata CM-B** and that costs under 40 bucks with delivery and everything. The manufacturer is from China and the brush is called **Master Airbrush BD-200**.
+I don't have that particular airbrush that looks like **[Iwata CM-C Plus](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/)** to make a decent review but I happened to have the one that looks exactly as [**Iwata CM-B**](/go/iwata-cm-b) and that costs under 40 bucks with delivery and everything. The manufacturer is from China and the brush is called **Master Airbrush BD-200**.
 
 It is a double action airbrush with regulation of paint amount. On the first look and touch you will think that this is solid and fine airbrush and maybe you will be curious why this tool is so cheap?
 

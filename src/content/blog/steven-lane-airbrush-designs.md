@@ -45,7 +45,7 @@ And started using some of the techniques that I was reading about on my **sculpt
 
 ## Tools, Equipment, and Materials
 
-For my equipment I now have 3 airbrushes: **Iwata HP-CP**, **Iwata Revolution CR** and a **Paasche Model H**. I've experimented with different types of paint but I've found that **Createx Wicked Colors** has been the best to work with, I also like to use ink, but that's only with my work on paper.
+For my equipment I now have 3 airbrushes: **Iwata HP-CP**, [**Iwata Revolution CR**](/go/iwata-revolution-cr) and a [**Paasche Model H**](/go/paasche-model-h). I've experimented with different types of paint but I've found that [**Createx Wicked Colors**](/go/createx-wicked-colors) has been the best to work with, I also like to use ink, but that's only with my work on paper.
 
 ## Airbrush Tricks and Techniques
 

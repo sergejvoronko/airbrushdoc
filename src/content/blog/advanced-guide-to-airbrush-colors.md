@@ -23,6 +23,8 @@ In the first part we're going to take a look at the types of paints, the differe
 
 If you know everything about types of colors just jump to paragraph numbered [**2**](#paintbrands).
 
+<a id="painttypes"></a>
+
 ## 1. TYPES
 
 Let's take a look at color types and how we can categorize them.
@@ -75,6 +77,8 @@ In terms of application, urethane colors are easier to apply and provide better 
 Benefit is that applied urethane dries quickly, so it cuts down on time that you spend waiting between coat applications. Usually in common practice it's two coats. Base-coat urethane followed with a clear coat. It is also recommended to wet-sand urethane before applying a clear coat.
 
 > **Urethane paints** are **toxic** and should be ***used with caution***. Because they contain isocyanines, airborne compounds that enter the lungs or skin, investigating proper precautions and aerating techniques are **important** when working with urethane.
+
+<a id="paintbrands"></a>
 
 ## 2. BRANDS
 
@@ -143,7 +147,7 @@ This brand is probably the number one colors brand for airbrushes (my own subjec
 
 **Iridiscent** - Luster pearl colors similar to Pearlized Colors but with an added hue shift apparent on contours and angles of light. Iridescent Colors have a shift from a lighter hue on direct views to a darker hue on side-cast views. Work best over Opaque White or Opaque Black.
 
-### WICKED COLORS from Createx
+### [WICKED COLORS from Createx](/go/createx-wicked-colors)
 
 All Wicked Colors are highly pigmented, transparent colors, which cover semi-opaque right out of the bottle, perfect for full color saturation with virtually no tip-dry. They work with all airbrush tip-sizes and air dry incredibly fast.
 
@@ -163,7 +167,7 @@ Createx colors can be used for wood, fabric, glass, plaster, canvass, aluminium,
 
 These properties tell us that Createx are made with 'exterior grade' pigments. This kind of color is usually called Automotive Color. They don't require dilution and work out of the bottle. For nozzle 0.5mm you need compressor 40-50 PSI and for smaller sizes of nozzle you'll be fine with lower PSI.
 
-### AUTO-AIR COLORS from Createx
+### [AUTO-AIR COLORS from Createx](/go/createx-auto-air-colors)
 
 ![](/images/wp-uploads/Createx_Logo.gif)
 ***Auto Air Colors*** are premium water-based custom paints and work well for graphics over existing finishes and for complete paint jobs. Colors are inter-mixable for a limitless palette of colors & effects.
@@ -226,54 +230,74 @@ This brand offers 4 lines of colors to choose from:
 
  	- You can find** E’tac** paints at[USA Airbrush](http://www.usairbrush.com/) , although for more info, I would visit their old website at [ETAC Airbrush](http://www.etac-airbrush.com/).
 
+<a id="proadvices"></a>
+
 ## 3. Pro Advices
 
-And here are some advices from Pro's...
+And here are some advices from Pro’s...
 
- 	- No. It's not ok to use **Createx** for tattoo. Yeah it's nontoxic, but it doesn't allow the skin to breath, and it's too thick. There are a number of temp tattoo paints available....totally tattoo, temptu..
+<div class="advice-bubble">No. It’s not ok to use <strong>Createx</strong> for tattoo. Yeah it’s nontoxic, but it doesn’t allow the skin to breath, and it’s too thick. There are a number of temp tattoo paints available....totally tattoo, temptu..</div>
 
- 	- **Badger Totally Tattoo** - After purchasing and trying 5 different types of body paint (stores from Florida all the way to Australia), I found that these Badger Totally Tattoo paints are the best. I conducted many tests and these proved to last the longest. Too bad there aren't bigger bottles.
+<div class="advice-bubble"><strong>Badger Totally Tattoo</strong> — After purchasing and trying 5 different types of body paint (stores from Florida all the way to Australia), I found that these Badger Totally Tattoo paints are the best. I conducted many tests and these proved to last the longest. Too bad there aren’t bigger bottles.</div>
 
- 	- **Badger Totally Tattoo** - These paints do what they say they do (stay on the skin). If you use a brush and alcohol as a thinner it is similar to using very fast drying gauche. The pigments mostly come from aluminum oxides (food coloring) carried with alcohol, Castor oil and some other ingredients that I could find very little information on. These are considered "safe" but I doubt that they are very gentle on the skin. I haven't had any reports of problems from the people I have painted on but I intend to only use these paints when more gentle cosmetics will not do the trick.
+<div class="advice-bubble"><strong>Badger Totally Tattoo</strong> — These paints do what they say they do (stay on the skin). If you use a brush and alcohol as a thinner it is similar to using very fast drying gauche. The pigments mostly come from aluminum oxides (food coloring) carried with alcohol, Castor oil and some other ingredients. These are considered "safe" but I doubt that they are very gentle on the skin. I haven’t had any reports of problems from the people I have painted on but I intend to only use these paints when more gentle cosmetics will not do the trick.</div>
 
- 	- **AUTO-AIR - **I think I am switching to other paint! Auto-air is driving me nuts. Have to be so careful with it. What is everybody using for paint that isn't water based? Custom shop or **House of color**? I need the inside scoop on what line has the best paint and colors.
+<div class="advice-bubble"><strong>AUTO-AIR</strong> — I think I am switching to other paint! Auto-air is driving me nuts. Have to be so careful with it. What is everybody using for paint that isn’t water based? Custom shop or <strong>House of color</strong>? I need the inside scoop on what line has the best paint and colors.</div>
 
- 	- **AUTO-AIR - **Love the Auto Air Paints! Basecoating, graphics, Fine detail airbrushing are a breeze!
+<div class="advice-bubble"><strong>AUTO-AIR</strong> — Love the Auto Air Paints! Basecoating, graphics, Fine detail airbrushing are a breeze!</div>
 
- 	- **AUTO-AIR - **this is the paint that I give the best percentage in quality and beautiful colors, I recommend this paint for all and that I was using a while earlier European paints, it's also very good quality but this is the one that I like so, I recommend...
+<div class="advice-bubble"><strong>AUTO-AIR</strong> — this is the paint that I give the best percentage in quality and beautiful colors, I recommend this paint for all and that I was using a while earlier European paints, it’s also very good quality but this is the one that I like so, I recommend...</div>
 
- 	- I've been using water based ever since I started (30 yrs. ago), started with **createx**, now it's all **auto air**!!! Really it is easy to work with, love to do stuff with a lot of layers, I really like the **Wicked line** too...
+<div class="advice-bubble">I’ve been using water based ever since I started (30 yrs. ago), started with <strong>Createx</strong>, now it’s all <strong>Auto Air</strong>!!! Really it is easy to work with, love to do stuff with a lot of layers, I really like the <strong>Wicked line</strong> too...</div>
 
- 	- Have been using **auto air** for 25 years. I airbrush and hand paint with it on all types of vehicles. Love the paint... Murals are all I do.
+<div class="advice-bubble">Have been using <strong>Auto Air</strong> for 25 years. I airbrush and hand paint with it on all types of vehicles. Love the paint... Murals are all I do.</div>
 
- 	- **Autobourne** - Autoborne airbrushes better than auto air so I would start with that and have a play and see what results you get. I use it pretty much 1:1 with reducer, this gives a nice transparent which is opaque enough for detail, and can also build color quickly.
+<div class="advice-bubble"><strong>Autobourne</strong> — Autoborne airbrushes better than auto air so I would start with that and have a play and see what results you get. I use it pretty much 1:1 with reducer, this gives a nice transparent which is opaque enough for detail, and can also build color quickly.</div>
 
- 	- I still use my **Wicked Colors** and will continue to use them but **House of Kolor** just simply outperforms them hands down...
+<div class="advice-bubble">I still use my <strong>Wicked Colors</strong> and will continue to use them but <strong>House of Kolor</strong> just simply outperforms them hands down...</div>
 
- 	- There are things to consider when using waterbase or waterborne as compared to using uros (urethane). Yeah there's the lay-down techniques, that's different. Instead of flash time, you heat set the paint. Because **Auto-Air** is an acrylic you have to use a physical key instead of a chemical bond so yeah there are a couple different steps for that as well. Does that mean that Auto-Air is crap? Nope! Just DIFFERENT!
+<div class="advice-bubble">There are things to consider when using waterbase or waterborne as compared to using uros (urethane). Instead of flash time, you heat set the paint. Because <strong>Auto-Air</strong> is an acrylic you have to use a physical key instead of a chemical bond so yeah there are a couple different steps for that as well. Does that mean that Auto-Air is crap? Nope! Just DIFFERENT!</div>
 
- 	- I'm not ready to deal with the toxicity issues involved with **Uros**, plus, I like being in the house. So I prefer **Createx**..
+<div class="advice-bubble">I’m not ready to deal with the toxicity issues involved with <strong>Uros</strong>, plus, I like being in the house. So I prefer <strong>Createx</strong>..</div>
 
- 	- Having used solvent based paint and used **Auto-Air** / **Wicked** I am definitely sticking with water based, from the cleanup alone it's so much better. With a drop or 2 of glycerol it flows a lot better.
+<div class="advice-bubble">Having used solvent based paint and used <strong>Auto-Air</strong> / <strong>Wicked</strong> I am definitely sticking with water based, from the cleanup alone it’s so much better. With a drop or 2 of glycerol it flows a lot better.</div>
 
- 	- **Autoborne** has done a lot to bridge the gap between **Auto-Air** and **Uros**, also there are other makes of water bourne paint to try.
+<div class="advice-bubble"><strong>Autobourne</strong> has done a lot to bridge the gap between <strong>Auto-Air</strong> and <strong>Uros</strong>, also there are other makes of water bourne paint to try.</div>
 
- 	- **Isn't the Autoborne the stuff that is 200 times the price of wicked and the exact same thing?** Yes, it's the same, but you can't get wicked in 4oz size ...... yet at least, and the color palette is different, except for some basics. They are the same as in the regular wicked line. The detail line of the wicked is ground finer than either and it's basically what I use on everything.
+<div class="advice-bubble"><strong>Isn’t the Autobourne the stuff that is 200 times the price of Wicked and the exact same thing?</strong> Yes, it’s the same, but you can’t get Wicked in 4oz size yet at least, and the color palette is different, except for some basics. The detail line of the Wicked is ground finer than either and it’s basically what I use on everything.</div>
 
- 	- **Golden airbrush colors** are one of my favorite airbrush paints. Why? Because they’re: easily accessible as most craft stores have them fairly inexpensive and great quality.
+<div class="advice-bubble"><strong>Golden airbrush colors</strong> are one of my favorite airbrush paints. Why? Because they’re easily accessible as most craft stores have them, fairly inexpensive, and great quality.</div>
 
- 	- My experience with the whole spectrum of airbrush paints is limited, but I am impressed with E’TAC so far. They flow great straight out of the bottle. I’ve ordered from them before, and they ship almost as quickly as you respond to email.
+<div class="advice-bubble">My experience with the whole spectrum of airbrush paints is limited, but I am impressed with <strong>E’TAC</strong> so far. They flow great straight out of the bottle. I’ve ordered from them before, and they ship almost as quickly as you respond to email.</div>
 
 ## Conclusion
 
-Well there is many more brands that make airbrush colors, I just brought some most famous. BTW I could not find any description about **Autobourne** or** DuPont **(these are very expensive). And there is many local paints in Germany, Russia ... but they are not popular in US for example. So I leave it on world market. I personally use **Createx Classic Colors** and I'm happy with them. Of course for automotive I will recommend to try **House of Kolor **or **Auto-Air**. Some of them are not that expensive so you can give a try to everyone and see for yourself which best suits you. At last I placed the questionnaire on my [Facebook fan page](http://www.facebook.com/airbrushdoc), about preferred pains. I got only 24 responses so I do not recommend following only this result because it is not really objective.
+Well there is many more brands that make airbrush colors, I just brought some most famous. BTW I could not find any description about **Autobourne** or** DuPont **(these are very expensive). And there is many local paints in Germany, Russia ... but they are not popular in US for example. So I leave it on world market. I personally use **Createx Classic Colors** and I'm happy with them. Of course for automotive I will recommend to try **House of Kolor **or **Auto-Air**. Some of them are not that expensive so you can give a try to everyone and see for yourself which best suits you. At last I placed the questionnaire on my [Facebook fan page](http://www.facebook.com/airbrushdoc), about preferred paints. I got only 24 responses so I do not recommend following only this result because it is not really objective.
 
-![](/images/wp-uploads/Screenfacebookquestion.webp)
+> **Facebook poll (24 votes) — "What paints do you use?"** Createx led, followed by Wicked Colors and Auto-Air — consistent with the full blog survey below.
 
 I think that first of all you should choose color by purpose of use and then to choose the brand won't be that difficult.
 
-Here are some results I got by collecting votes on this blog:
-![airbrush paints voted](/images/wp-uploads/votes.webp)
+Here are results collected from votes on this blog (222 total voters):
+
+<div class="poll-chart">
+  <p class="poll-chart-title">What Color Brand Do You Use for Your Airbrush? <span class="poll-chart-meta">222 votes</span></p>
+  <div class="poll-row"><span class="poll-name">Createx</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:36%"></div></div><span class="poll-pct">36%</span><span class="poll-votes">79</span></div>
+  <div class="poll-row"><span class="poll-name">Wicked Colors</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:31%"></div></div><span class="poll-pct">31%</span><span class="poll-votes">68</span></div>
+  <div class="poll-row"><span class="poll-name">Auto-Air</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:16%"></div></div><span class="poll-pct">16%</span><span class="poll-votes">36</span></div>
+  <div class="poll-row"><span class="poll-name">House of Kolor</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:11%"></div></div><span class="poll-pct">11%</span><span class="poll-votes">24</span></div>
+  <div class="poll-row"><span class="poll-name">Other</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:11%"></div></div><span class="poll-pct">11%</span><span class="poll-votes">24</span></div>
+  <div class="poll-row"><span class="poll-name">Golden Artist Colors</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:10%"></div></div><span class="poll-pct">10%</span><span class="poll-votes">23</span></div>
+  <div class="poll-row"><span class="poll-name">Badger</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:8%"></div></div><span class="poll-pct">8%</span><span class="poll-votes">18</span></div>
+  <div class="poll-row"><span class="poll-name">Iwata Medea</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:5%"></div></div><span class="poll-pct">5%</span><span class="poll-votes">12</span></div>
+  <div class="poll-row"><span class="poll-name">Liquitex</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:3%"></div></div><span class="poll-pct">3%</span><span class="poll-votes">7</span></div>
+  <div class="poll-row"><span class="poll-name">E'TAC</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:3%"></div></div><span class="poll-pct">3%</span><span class="poll-votes">7</span></div>
+  <div class="poll-row"><span class="poll-name">Automotive Base Coat</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:3%"></div></div><span class="poll-pct">3%</span><span class="poll-votes">7</span></div>
+  <div class="poll-row"><span class="poll-name">DuPont</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:1%"></div></div><span class="poll-pct">1%</span><span class="poll-votes">3</span></div>
+  <div class="poll-row"><span class="poll-name">Aquaflow</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:1%"></div></div><span class="poll-pct">1%</span><span class="poll-votes">2</span></div>
+  <div class="poll-row"><span class="poll-name">Temptu</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:0%"></div></div><span class="poll-pct">0%</span><span class="poll-votes">0</span></div>
+  <div class="poll-row"><span class="poll-name">Autobourne</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:0%"></div></div><span class="poll-pct">0%</span><span class="poll-votes">0</span></div>
+</div>
 
 If you have any suggestion or notes about colors that you use please share it with us. Maybe I've missed some big brand or some specific color types so don't hesitate to leave a comment or send me an [e-mail](http://www.airbrushdoc.com/contact/). As usual don't forget to share this article in your social network (of course if you like it).
 

@@ -29,7 +29,7 @@ http://www.youtube.com/embed/Ga3ibs6-lZw
 
 The tools that I used here was [Harder&Steenbeck Infinity](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-infinity-review/) airbrush, paper A3 Canson 370 g/m2.
 
-The paint that i used was water base colors (**Wicked from CREATEX**).
+The paint that i used was water base colors ([**Wicked from CREATEX**](/go/createx-wicked-colors)).
 
 And I've also used some masking paper and knife.
 

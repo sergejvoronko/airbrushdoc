@@ -18,7 +18,7 @@ faqs:
 
 Spending three hours masking a 1/48 Spitfire only to have your airbrush spit, clog, or blow out the panel lines is the kind of frustration that makes people quit the hobby — and it's almost always a tool mismatch problem, not a skill problem.
 
-**Quick answer: For most scale modellers working across Gunpla, military vehicles, and aircraft, the Iwata Eclipse HP-CS with a 0.3mm needle hits the best balance of control, paint compatibility, and long-term reliability. If you want to step up, the Harder & Steenbeck Infinity is the brush I'd buy if I were starting over today. Budget-conscious? The Iwata Neo CN will get you further than any cheap clone.**
+**Quick answer: For most scale modellers working across Gunpla, military vehicles, and aircraft, the [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs) with a 0.3mm needle hits the best balance of control, paint compatibility, and long-term reliability. If you want to step up, the [Harder & Steenbeck Infinity](/go/hs-infinity-two-in-one) is the brush I'd buy if I were starting over today. Budget-conscious? The [Iwata Neo CN](/go/iwata-neo-cn) will get you further than any cheap clone.**
 
 ---
 
@@ -58,13 +58,13 @@ Scale modelling paints are finicky, and PSI is where most beginners run into tro
 
 - **8–12 PSI**: Hairline details, pre-shading, panel line emphasis
 - **12–18 PSI**: Standard basecoating with Tamiya or Mr. Color thinned properly
-- **18–25 PSI**: Vallejo Model Air (which needs slightly more pressure due to its binder), primers, and Badger Stynylrez Primer specifically
+- **18–25 PSI**: [Vallejo Model Air](/go/vallejo-model-air) (which needs slightly more pressure due to its binder), primers, and [Badger Stynylrez Primer](/go/badger-stynylrez-primer) specifically
 
 Badger Stynylrez Primer is my go-to primer for all plastic model work — it bonds aggressively to styrene and resin, thins beautifully with water, and shoots clean at 18–20 PSI through a 0.3mm or 0.4mm needle. I've primed hundreds of Gundam kits with it and never had adhesion failures.
 
-For your compressor, the **Sparmax AC-501X** is my midrange recommendation — it has a tank, moisture separator, and a reliable regulator that holds pressure in the 10–25 PSI range without hunting. If budget is tight, the **AS-186 Mini Compressor** works, but get an **Airbrush Moisture Trap** added to your order immediately — tankless compressors without moisture control will put water droplets in your camo pattern at the worst moment.
+For your compressor, the [**Sparmax AC-501X**](/go/sparmax-ac501x) is my midrange recommendation — it has a tank, moisture separator, and a reliable regulator that holds pressure in the 10–25 PSI range without hunting. If budget is tight, the [**AS-186 Mini Compressor**](/go/as186-compressor) works, but get an **Airbrush Moisture Trap** added to your order immediately — tankless compressors without moisture control will put water droplets in your camo pattern at the worst moment.
 
-The **Iwata Smart Jet Compressor** is overkill for most modellers but worth it if you're airbrushing daily and want whisper-quiet operation in a shared space.
+The [**Iwata Smart Jet Compressor**](/go/iwata-smart-jet) is overkill for most modellers but worth it if you're airbrushing daily and want whisper-quiet operation in a shared space.
 
 ---
 
@@ -79,7 +79,7 @@ Thin with Tamiya X-20A or isopropyl alcohol at 1:1. They shoot beautifully throu
 Work in ventilated space — these are lacquers, full stop. Thin with Mr. Color Leveling Thinner at roughly 1:1.5. They produce the smoothest finish of any paint I've used on aircraft kits. Shoot at 12–18 PSI through a 0.3mm. The Harder & Steenbeck Infinity handles lacquers particularly well due to its Teflon-free seal design.
 
 ### Vallejo Model Air
-These are my recommendation for anyone who wants water-based paints that *actually* work out of an airbrush without heavy thinning. The **Vallejo Model Air Paint Set** is ready-to-spray in most cases — just add a drop or two of water or Vallejo's flow improver. Run them at 15–20 PSI; they need slightly more pressure than lacquers. The Iwata Eclipse HP-CS handles Vallejo without drama. The Badger Renegade Krome is also excellent with Vallejo — its needle geometry produces a fine, consistent fan pattern that's great for two-tone European armor schemes.
+These are my recommendation for anyone who wants water-based paints that *actually* work out of an airbrush without heavy thinning. The [**Vallejo Model Air Paint Set**](/go/vallejo-model-air-set) is ready-to-spray in most cases — just add a drop or two of water or Vallejo's flow improver. Run them at 15–20 PSI; they need slightly more pressure than lacquers. The Iwata Eclipse HP-CS handles Vallejo without drama. The [Badger Renegade Krome](/go/badger-renegade-krome) is also excellent with Vallejo — its needle geometry produces a fine, consistent fan pattern that's great for two-tone European armor schemes.
 
 ### Createx Colors
 Technically made for textiles but popular in the modelling community for weathering washes and certain base effects. Thin with their own reducer. They're thicker and benefit from a 0.4mm needle. Not my first choice for scale modelling specifically, but useful to have in the toolkit.
@@ -90,19 +90,19 @@ Technically made for textiles but popular in the modelling community for weather
 
 **Premium tier:**
 
-- **Harder & Steenbeck Infinity** — Best all-around for serious scale modellers. The split-needle system makes cleaning faster, which matters when you're swapping between Mr. Color lacquer and Tamiya acrylic in the same session. The main downside: the price. It's a genuine investment.
+- [**Harder & Steenbeck Infinity**](/go/hs-infinity-two-in-one) — Best all-around for serious scale modellers. The split-needle system makes cleaning faster, which matters when you're swapping between Mr. Color lacquer and Tamiya acrylic in the same session. The main downside: the price. It's a genuine investment.
 - **Harder & Steenbeck Ultra** — Better for ultra-fine detail, worse for quick basecoating. I'd only recommend it as a *second* airbrush for detail work, not as a sole tool.
 
 **Midrange tier:**
 
-- **Iwata Eclipse HP-CS** — My primary recommendation for intermediate modellers. It's reliable, widely serviced, shoots every paint I've ever thrown at it, and the cup size is generous enough for basecoating an entire 1/35 hull without refilling. The downside is that it's not the easiest to fully disassemble for deep cleaning.
-- **Badger Renegade Krome** — Excellent atomization, great customer service from Badger if anything goes wrong. I find it slightly finicky with thick metallics but outstanding for Vallejo and Tamiya.
+- [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) — My primary recommendation for intermediate modellers. It's reliable, widely serviced, shoots every paint I've ever thrown at it, and the cup size is generous enough for basecoating an entire 1/35 hull without refilling. The downside is that it's not the easiest to fully disassemble for deep cleaning.
+- [**Badger Renegade Krome**](/go/badger-renegade-krome) — Excellent atomization, great customer service from Badger if anything goes wrong. I find it slightly finicky with thick metallics but outstanding for Vallejo and Tamiya.
 - **Paasche Talon** — Solid, often underrated. The self-centering needle design reduces tip dry. My only criticism is that the trigger feel isn't as refined as the Iwata or H&S, which matters for modulation work where you're riding the trigger constantly.
 
 **Budget tier:**
 
-- **Iwata Neo CN** — If you're intermediate and budget-constrained, buy this over any clone. It's a real Iwata, manufactured to real tolerances. My experience is that students who start on the Neo CN develop better trigger control because it's honest about mistakes.
-- **Master Airbrush G22** — I've tested these and they work, but the tolerances are loose enough that you'll spend time chasing leaks and needle fit issues. Fine as a disposable tool for rough priming work; not fine as your primary brush.
+- [**Iwata Neo CN**](/go/iwata-neo-cn) — If you're intermediate and budget-constrained, buy this over any clone. It's a real Iwata, manufactured to real tolerances. My experience is that students who start on the Neo CN develop better trigger control because it's honest about mistakes.
+- [**Master Airbrush G22**](/go/master-airbrush-g22) — I've tested these and they work, but the tolerances are loose enough that you'll spend time chasing leaks and needle fit issues. Fine as a disposable tool for rough priming work; not fine as your primary brush.
 
 ---
 

@@ -321,6 +321,11 @@ const faqSchema = faqs.length > 0 ? {
         if (e.key === 'ArrowLeft')  go(-1);
         if (e.key === 'ArrowRight') go(1);
       });
+
+      document.querySelectorAll('.abd-content table td').forEach(td => {
+        if (td.textContent && td.textContent.includes('★'))
+          td.innerHTML = td.innerHTML.replace(/★/g, '<span class="star-gold">★</span>');
+      });
     })();
   </script>
 </BaseLayout>

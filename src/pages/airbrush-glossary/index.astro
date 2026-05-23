@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterBox from '../../components/NewsletterBox.astro';
 
 const terms = await getCollection('glossary');
 const sorted = terms.sort((a, b) => a.data.title.localeCompare(b.data.title));
@@ -46,9 +47,9 @@ const letters = Object.keys(byLetter).sort();
     </div>
 
     <div class="gloss-category-bar">
-      <a class="gloss-cat-chip gloss-cat-active" href="#all">All</a>
+      <button class="gloss-cat-chip gloss-cat-active" data-cat="all">All</button>
       {categories.map(cat => (
-        <a class="gloss-cat-chip" href={`#cat-${cat}`}>{CATEGORY_LABELS[cat]}</a>
+        <button class="gloss-cat-chip" data-cat={cat}>{CATEGORY_LABELS[cat]}</button>
       ))}
     </div>
 
@@ -60,7 +61,7 @@ const letters = Object.keys(byLetter).sort();
 
     <div class="gloss-grid" id="all">
       {letters.map(letter => (
-        <div class="gloss-letter-group">
+        <div class="gloss-letter-group" data-letter={letter}>
           <div class="gloss-letter-anchor" id={`letter-${letter}`}></div>
           <h2 class="gloss-letter-heading">{letter}</h2>
           <div class="gloss-terms-row">
@@ -68,7 +69,7 @@ const letters = Object.keys(byLetter).sort();
               <a
                 href={`/airbrush-glossary/${term.data.slug}/`}
                 class="gloss-term-card"
-                id={`cat-${term.data.category}`}
+                data-category={term.data.category}
               >
                 <div class="gloss-term-name">{term.data.title}</div>
                 {term.data.description && (
@@ -81,6 +82,11 @@ const letters = Object.keys(byLetter).sort();
         </div>
       ))}
     </div>
+
+    <NewsletterBox
+      title="New guides and tutorials in your inbox"
+      text="When a new article, technique breakdown, or resource drops — you'll be the first to know. No fluff."
+    />
   </main>
 </BaseLayout>
 
@@ -106,6 +112,11 @@ const letters = Object.keys(byLetter).sort();
   background: var(--abd-accent);
   color: #fff;
   border-color: var(--abd-accent);
+}
+button.gloss-cat-chip {
+  background: none;
+  cursor: pointer;
+  font-family: inherit;
 }
 .gloss-alpha-nav {
   display: flex;
@@ -196,3 +207,36 @@ const letters = Object.keys(byLetter).sort();
   }
 }
 </style>
+
+<script>
+  const chips = document.querySelectorAll<HTMLButtonElement>('.gloss-cat-chip');
+  const cards = document.querySelectorAll<HTMLElement>('.gloss-term-card');
+  const groups = document.querySelectorAll<HTMLElement>('.gloss-letter-group');
+  const countBadge = document.querySelector<HTMLElement>('.blg-post-count');
+  const totalCount = cards.length;
+
+  chips.forEach(chip => {
+    chip.addEventListener('click', () => {
+      const cat = chip.dataset.cat!;
+      chips.forEach(c => c.classList.remove('gloss-cat-active'));
+      chip.classList.add('gloss-cat-active');
+
+      let visible = 0;
+      cards.forEach(card => {
+        const show = cat === 'all' || card.dataset.category === cat;
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+
+      groups.forEach(group => {
+        const hasVisible = Array.from(group.querySelectorAll<HTMLElement>('.gloss-term-card'))
+          .some(c => c.style.display !== 'none');
+        group.style.display = hasVisible ? '' : 'none';
+      });
+
+      if (countBadge) {
+        countBadge.textContent = cat === 'all' ? `${totalCount} terms` : `${visible} terms`;
+      }
+    });
+  });
+</script>

@@ -139,7 +139,7 @@ Does not require any oil for a run. Some people will point it out that this type
 
 ### Diaphragm
 
-Some of this compressors don't have a steady airflow (I call it pulsing air flow).![](/images/wp-uploads/paasche_417J7DE8XQL._SL500_AA300_.webp) This could be compensated with a tank (receiver). If your airbrush is gravity feed and you are using very thin paint you can give it a try. (example **Paasche D500SR**![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B0001IA06A) can be used with airbrush gun Paasche VL). Diaphragm compressors achieve compression with the use of a flexing diaphragm that moves back and forth in a closed chamber. The design is an alteration of the reciprocating piston concept. The motion of the connecting rod under the diaphragm causes the flexing and only a short stroke is needed to generate similar pressure effects as those of a reciprocating piston compressor.
+Some of this compressors don't have a steady airflow (I call it pulsing air flow).![](/images/wp-uploads/paasche_417J7DE8XQL._SL500_AA300_.webp) This could be compensated with a tank (receiver). If your airbrush is gravity feed and you are using very thin paint you can give it a try. (example [**Paasche D500SR**](/go/paasche-d500sr) can be used with airbrush gun Paasche VL). Diaphragm compressors achieve compression with the use of a flexing diaphragm that moves back and forth in a closed chamber. The design is an alteration of the reciprocating piston concept. The motion of the connecting rod under the diaphragm causes the flexing and only a short stroke is needed to generate similar pressure effects as those of a reciprocating piston compressor.
 
 ### Piston
 

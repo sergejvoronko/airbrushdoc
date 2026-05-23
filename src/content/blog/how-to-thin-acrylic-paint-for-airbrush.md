@@ -45,7 +45,7 @@ Brand-specific and universal airbrush thinners contain flow improvers, surfactan
 
 **Recommended thinners:**
 
-- **Createx 4012 High Performance Reducer** — designed for Createx paints but works with most water-based acrylics. Excellent flow improvement.
+- [**Createx 4012 High Performance Reducer**](/go/createx-4012-reducer) — designed for Createx paints but works with most water-based acrylics. Excellent flow improvement.
 - **Vallejo Airbrush Thinner (71.261)** — specifically formulated for Vallejo Model Air and Game Air. Maintains color intensity.
 - **Tamiya X-20A Acrylic Thinner** — the standard for Tamiya acrylics. Not recommended for non-Tamiya paints (different chemistry).
 - **Liquitex Airbrush Medium** — formulated for fine art acrylics. Maintains binder strength even at high dilution.
@@ -88,21 +88,21 @@ Every paint brand has different starting viscosity, so "1:1" means different thi
 
 | Paint Brand & Line | Starting Ratio (Paint : Thinner) | Best Thinner | Notes |
 |---|---|---|---|
-| **Createx Airbrush Colors** | 1:1 for general, up to 1:4 for fine detail | Createx 4012 Reducer | Already thin; fine work needs heavy reduction |
-| **Createx Wicked/Illustration** | 1:1 to 1:2 | Createx 4012 Reducer | Higher pigment; less reduction needed |
-| **Vallejo Model Air** | Ready to spray (add 10–20% for fine detail) | Vallejo Airbrush Thinner | Designed for airbrush; minimal thinning needed |
-| **Vallejo Game Air** | Ready to spray (add 10–20% for fine detail) | Vallejo Airbrush Thinner | Same as Model Air |
-| **Vallejo Model Color** | 1:1 to 1:1.5 | Vallejo Airbrush Thinner | Brush paint; needs significant thinning |
-| **Citadel Air** | Ready to spray (add a few drops of thinner) | Water or Vallejo Thinner | Pre-thinned but benefits from a touch more |
-| **Citadel Base/Layer** | 1:1 to 1:2 | Water or Vallejo Thinner | Thick brush paints; need real thinning |
+| [**Createx Airbrush Colors**](/go/createx-airbrush-colors) | 1:1 for general, up to 1:4 for fine detail | Createx 4012 Reducer | Already thin; fine work needs heavy reduction |
+| [**Createx Wicked/Illustration**](/go/createx-wicked-colors) | 1:1 to 1:2 | Createx 4012 Reducer | Higher pigment; less reduction needed |
+| [**Vallejo Model Air**](/go/vallejo-model-air) | Ready to spray (add 10–20% for fine detail) | Vallejo Airbrush Thinner | Designed for airbrush; minimal thinning needed |
+| [**Vallejo Game Air**](/go/vallejo-game-air) | Ready to spray (add 10–20% for fine detail) | Vallejo Airbrush Thinner | Same as Model Air |
+| [**Vallejo Model Color**](/go/vallejo-model-color) | 1:1 to 1:1.5 | Vallejo Airbrush Thinner | Brush paint; needs significant thinning |
+| [**Citadel Air**](/go/citadel-air-paints) | Ready to spray (add a few drops of thinner) | Water or Vallejo Thinner | Pre-thinned but benefits from a touch more |
+| [**Citadel Base/Layer**](/go/citadel-base-layer-paints) | 1:1 to 1:2 | Water or Vallejo Thinner | Thick brush paints; need real thinning |
 | **Tamiya Acrylics (X/XF)** | 1:1 to 1:1.5 | Tamiya X-20A Thinner | Use ONLY Tamiya thinner (alcohol-based formula) |
-| **AK Interactive 3rd Gen** | Ready to spray (add 10%) | AK Thinner or Vallejo | Modern formula; very thin from bottle |
+| [**AK Interactive 3rd Gen**](/go/ak-interactive-gen-primer) | Ready to spray (add 10%) | AK Thinner or Vallejo | Modern formula; very thin from bottle |
 | **Golden High Flow** | Ready to spray | Golden Airbrush Medium | Pre-thinned to airbrush consistency |
 | **Golden Fluid Acrylics** | 1:1 to 1:2 | Golden Airbrush Medium | Fine art paint; add medium to preserve binder |
 | **Liquitex Soft Body** | 1:1 to 1:2 | Liquitex Airbrush Medium | Fine art paint; needs dedicated medium |
 | **Craft acrylics (Apple Barrel, FolkArt, etc.)** | 1:2 to 1:3 | Distilled water + flow improver | Very thick; coarse pigment may still clog |
-| **Badger Stynylrez (primer)** | Ready to spray (10–20% thinner for fine nozzles) | Distilled water | Shake very well before use |
-| **Vallejo Surface Primer** | Ready to spray to 1:0.5 | Vallejo Thinner or water | Thick from bottle; thin 10–30% |
+| [**Badger Stynylrez (primer)**](/go/badger-stynylrez-primer) | Ready to spray (10–20% thinner for fine nozzles) | Distilled water | Shake very well before use |
+| [**Vallejo Surface Primer**](/go/vallejo-surface-primer) | Ready to spray to 1:0.5 | Vallejo Thinner or water | Thick from bottle; thin 10–30% |
 
 **These are starting points.** You'll adjust based on your specific airbrush (needle size), working pressure, and desired effect. Fine detail at low PSI needs thinner paint. Coverage coats at higher PSI can use slightly thicker paint.
 

@@ -28,20 +28,20 @@ Before diving into details, here's a fast reference. Find your symptom, then jum
 
 | What's Happening | Most Likely Cause | Jump To |
 |---|---|---|
-| No paint coming out at all | Clog, empty cup, needle too far forward, no air | Problem #1 |
-| Paint spitting / sputtering in droplets | Paint too thick, low pressure, tip dry, moisture | Problem #2 |
-| Bubbles forming in the paint cup | Air leak at nozzle, cracked nozzle, loose head | Problem #3 |
-| Spider web patterns on surface | Paint too thin, pressure too high, too close | Problem #4 |
-| Spray pulls to one side | Bent needle tip | Problem #5 |
-| Rough / sandpaper texture on surface | Spraying too far away, paint drying mid-air | Problem #6 |
-| Orange peel texture | Paint droplets not flowing together, insufficient thinner | Problem #7 |
-| Paint sprays without pulling trigger back | Needle not seated, dirty nozzle, flared nozzle tip | Problem #8 |
-| Trigger feels stiff or sticky | Dry valve, paint in mechanism, needs lubrication | Problem #9 |
-| Paint leaking from back of airbrush | Worn needle seal / packing, pulled needle with paint loaded | Problem #10 |
-| Spray pattern pulsates / surges | Moisture in air line, inconsistent compressor, air leaks | Problem #11 |
-| Runs and pooling on surface | Too close, paint too thin, too much paint flow | Problem #12 |
-| Colors look muddy or contaminated | Incomplete cleaning between colors | Problem #13 |
-| Fine lines have fuzzy edges | Pressure too high, paint too thin, needle not sharp | Problem #14 |
+| No paint coming out at all | Clog, empty cup, needle too far forward, no air | [Problem #1](#problem-1-no-paint-coming-out-at-all) |
+| Paint spitting / sputtering in droplets | Paint too thick, low pressure, tip dry, moisture | [Problem #2](#problem-2-spitting-and-sputtering) |
+| Bubbles forming in the paint cup | Air leak at nozzle, cracked nozzle, loose head | [Problem #3](#problem-3-bubbles-in-the-paint-cup) |
+| Spider web patterns on surface | Paint too thin, pressure too high, too close | [Problem #4](#problem-4-spidering-spider-web-patterns) |
+| Spray pulls to one side | Bent needle tip | [Problem #5](#problem-5-off-center-spray-pulls-to-one-side) |
+| Rough / sandpaper texture on surface | Spraying too far away, paint drying mid-air | [Problem #6](#problem-6-rough--sandpaper-texture) |
+| Orange peel texture | Paint droplets not flowing together, insufficient thinner | [Problem #7](#problem-7-orange-peel-texture) |
+| Paint sprays without pulling trigger back | Needle not seated, dirty nozzle, flared nozzle tip | [Problem #8](#problem-8-paint-sprays-without-pulling-the-trigger-back) |
+| Trigger feels stiff or sticky | Dry valve, paint in mechanism, needs lubrication | [Problem #9](#problem-9-sticky-or-stiff-trigger) |
+| Paint leaking from back of airbrush | Worn needle seal / packing, pulled needle with paint loaded | [Problem #10](#problem-10-paint-leaking-from-the-back-of-the-airbrush) |
+| Spray pattern pulsates / surges | Moisture in air line, inconsistent compressor, air leaks | [Problem #11](#problem-11-pulsating--surging-spray) |
+| Runs and pooling on surface | Too close, paint too thin, too much paint flow | [Problem #12](#problem-12-runs-and-pooling) |
+| Colors look muddy or contaminated | Incomplete cleaning between colors | [Problem #13](#problem-13-muddy-or-contaminated-colors) |
+| Fine lines have fuzzy edges | Pressure too high, paint too thin, needle not sharp | [Problem #14](#problem-14-fuzzy-lines-cant-get-fine-detail) |
 
 ---
 

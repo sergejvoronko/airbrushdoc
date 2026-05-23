@@ -42,7 +42,7 @@ If you are an artist but never tried the airbrush I would recommend you to do it
 
 ### My YouTube Channel
 
-Here is just one of my YouTube videos the rest you can check on my channel. This particular piece was airbrushed on a car bonnet. The topic (Hulk) has been selected by the customer. I painted it with my **Paasche VL** and as paint I used **polyester inks**.
+Here is just one of my YouTube videos the rest you can check on my channel. This particular piece was airbrushed on a car bonnet. The topic (Hulk) has been selected by the customer. I painted it with my [**Paasche VL**](/go/paasche-vl) and as paint I used **polyester inks**.
 
 https://www.youtube.com/watch?v=wN2FKL6U2cI
 

@@ -42,17 +42,17 @@ Here's how the main options stack up:
 
 | Airbrush | Type | Needle | Best For | Price Tier |
 |---|---|---|---|---|
-| Iwata Eclipse HP-CS | Gravity, dual-action | 0.35mm | All-round 3D print work | Mid-range |
-| Badger Renegade Krome | Gravity, dual-action | 0.21mm | Fine resin detail | Mid-range |
+| [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs) | Gravity, dual-action | 0.35mm | All-round 3D print work | Mid-range |
+| [Badger Renegade Krome](/go/badger-renegade-krome) | Gravity, dual-action | 0.21mm | Fine resin detail | Mid-range |
 | Paasche Talon | Gravity, dual-action | 0.38mm | FDM priming + basecoats | Mid-range |
-| Iwata Neo CN | Gravity, dual-action | 0.35mm | Budget entry point | Budget |
-| Master Airbrush G22 | Gravity, dual-action | 0.3mm | Learning on cheap prints | Budget |
-| Harder & Steenbeck Infinity | Gravity, dual-action | 0.15–0.4mm | Maximum detail, resin minis | Premium |
+| [Iwata Neo CN](/go/iwata-neo-cn) | Gravity, dual-action | 0.35mm | Budget entry point | Budget |
+| [Master Airbrush G22](/go/master-airbrush-g22) | Gravity, dual-action | 0.3mm | Learning on cheap prints | Budget |
+| [Harder & Steenbeck Infinity](/go/hs-infinity-two-in-one) | Gravity, dual-action | 0.15–0.4mm | Maximum detail, resin minis | Premium |
 | Harder & Steenbeck Ultra | Gravity, dual-action | 0.2–0.4mm | Professional-level versatility | Premium |
 
-**My pick for beginners is the Iwata Eclipse HP-CS.** The 0.35mm needle handles primer, basecoats, and shading without swapping tips. It's easy to clean, parts are widely available, and it won't punish you for small mistakes the way ultra-fine needles do. The Badger Renegade Krome is excellent if you're doing highly detailed resin miniatures and want tighter lines, but the learning curve is steeper.
+**My pick for beginners is the [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs).** The 0.35mm needle handles primer, basecoats, and shading without swapping tips. It's easy to clean, parts are widely available, and it won't punish you for small mistakes the way ultra-fine needles do. The Badger Renegade Krome is excellent if you're doing highly detailed resin miniatures and want tighter lines, but the learning curve is steeper.
 
-If budget is genuinely tight, the Iwata Neo CN is the one I'd recommend over the Master Airbrush G22. The Neo CN has noticeably better tolerances and clogs less with primer — which matters a lot when you're first learning.
+If budget is genuinely tight, the [Iwata Neo CN](/go/iwata-neo-cn) is the one I'd recommend over the [Master Airbrush G22](/go/master-airbrush-g22). The Neo CN has noticeably better tolerances and clogs less with primer — which matters a lot when you're first learning.
 
 For anyone who wants the absolute best and doesn't mind the investment, the Harder & Steenbeck Infinity is in a different league for control. I use mine for fine miniature detail work. But it is not where I'd tell a beginner to start.
 
@@ -62,9 +62,9 @@ For anyone who wants the absolute best and doesn't mind the investment, the Hard
 
 Your airbrush is only as consistent as your air supply. For 3D print work, you need stable, *moisture-free* pressure. Moisture in the line causes paint to sputter and fish-eye on smooth resin surfaces.
 
-- **Budget:** The AS-186 Mini Compressor is the bare minimum. It works, it's quiet enough for apartment use, but it runs hot on longer sessions and the tank is tiny. Pair it with an **Airbrush Moisture Trap** — non-negotiable.
-- **Mid-range:** The Sparmax AC-501X Compressor is where I'd tell most beginners to actually start. It has a tank, a pressure regulator, and handles longer painting sessions without overheating. Much more stable pressure than the no-tank minis.
-- **Premium:** The Iwata Smart Jet Compressor is whisper-quiet and reliable, but you're paying for the Iwata name. The Sparmax does 90% of the same job for less money.
+- **Budget:** The [AS-186 Mini Compressor](/go/as186-compressor) is the bare minimum. It works, it's quiet enough for apartment use, but it runs hot on longer sessions and the tank is tiny. Pair it with an **Airbrush Moisture Trap** — non-negotiable.
+- **Mid-range:** The [Sparmax AC-501X Compressor](/go/sparmax-ac501x) is where I'd tell most beginners to actually start. It has a tank, a pressure regulator, and handles longer painting sessions without overheating. Much more stable pressure than the no-tank minis.
+- **Premium:** The [Iwata Smart Jet Compressor](/go/iwata-smart-jet) is whisper-quiet and reliable, but you're paying for the Iwata name. The Sparmax does 90% of the same job for less money.
 
 Whatever compressor you buy, add a moisture trap to the line if it doesn't come with one. On resin prints especially, a single burst of moisture mid-coat can ruin a paint job you spent 45 minutes building up.
 
@@ -72,7 +72,7 @@ Whatever compressor you buy, add a moisture trap to the line if it doesn't come 
 
 ## Primers for 3D Prints: This Step Is Not Optional
 
-Skipping primer on a 3D print is the fastest way to waste an afternoon. I've tested a lot of primers over the years and for airbrushing, my clear recommendation is **Badger Stynylrez Primer**.
+Skipping primer on a 3D print is the fastest way to waste an afternoon. I've tested a lot of primers over the years and for airbrushing, my clear recommendation is [**Badger Stynylrez Primer**](/go/badger-stynylrez-primer).
 
 Here's why Stynylrez works so well on both resin and FDM:
 
@@ -93,7 +93,7 @@ Once you've primed, most quality airbrush paints will adhere fine. The key is us
 
 **My top picks:**
 
-**Vallejo Model Air Paint Set** — This is what I reach for on almost every miniature or display print. Vallejo Model Air is pre-thinned, flows beautifully through a 0.35mm needle, and the color range is enormous. The pigment density is consistent, which means your colors behave predictably — crucial when you're doing layered shading.
+[**Vallejo Model Air Paint Set**](/go/vallejo-model-air-set) — This is what I reach for on almost every miniature or display print. Vallejo Model Air is pre-thinned, flows beautifully through a 0.35mm needle, and the color range is enormous. The pigment density is consistent, which means your colors behave predictably — crucial when you're doing layered shading.
 
 **Createx Colors** — Better suited to larger FDM pieces and cosplay props than to small resin miniatures. Createx is tough, flexible, and great for big surface areas. For fine detail on minis, Vallejo wins.
 

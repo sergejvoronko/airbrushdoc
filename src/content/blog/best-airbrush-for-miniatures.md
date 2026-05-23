@@ -29,10 +29,10 @@ Here's what you actually need, and the specific airbrushes I recommend at every 
 | Airbrush | Needle | Best For | Price | Our Take |
 |---|---|---|---|---|
 | **H&S Ultra 2024** | 0.2mm | Beginners, learning | ~$80–110 | Best first airbrush for miniatures |
-| **Iwata Neo CN** | 0.35mm | Budget entry | ~$50–70 | Cheapest quality option |
-| **Badger Patriot 105** | 0.5mm | Priming, basecoating armies | ~$70–90 | Workhorse, not for detail |
-| **H&S Evolution 2-in-1** | 0.2/0.4mm | Serious hobbyists | ~$140–180 | Best all-rounder |
-| **Iwata Eclipse HP-CS** | 0.35mm | Versatile mid-range | ~$130–170 | Community favorite for years |
+| [**Iwata Neo CN**](/go/iwata-neo-cn) | 0.35mm | Budget entry | ~$50–70 | Cheapest quality option |
+| [**Badger Patriot 105**](/go/badger-patriot-105) | 0.5mm | Priming, basecoating armies | ~$70–90 | Workhorse, not for detail |
+| [**H&S Evolution 2-in-1**](/go/hs-evolution-two-in-one) | 0.2/0.4mm | Serious hobbyists | ~$140–180 | Best all-rounder |
+| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | 0.35mm | Versatile mid-range | ~$130–170 | Community favorite for years |
 | **H&S Infinity CR Plus** | 0.15/0.4mm | Advanced painters | ~$200–280 | Maximum detail precision |
 | **H&S Infinity CRplus Cult of Paint** | 0.15/0.4mm | Dedicated mini painters | ~$220–300 | Designed for mini painters, by mini painters |
 | **Cordless mini compressor kit** | 0.3mm | Portability, touch-ups | ~$40–70 | Great for travel, events |
@@ -200,13 +200,13 @@ You'll need more than just the airbrush:
 **Compressor:** A quiet compressor with a tank is ideal. The NO-NAME Tooty or Sparmax TC-501N are popular in the miniatures community. See our full compressor guide for detailed recommendations.
 
 
-**Paints:** Not all airbrush paints work well for miniatures. Vallejo Model Air, Citadel Air, and AK Interactive 3rd Gen are pre-thinned and ready to spray. Standard hobby paints (Vallejo Model Color, Citadel Base) need thinning — typically 1:1 with airbrush thinner or flow improver.
+**Paints:** Not all airbrush paints work well for miniatures. [Vallejo Model Air](/go/vallejo-model-air), [Citadel Air](/go/citadel-air-paints), and [AK Interactive 3rd Gen](/go/ak-interactive-gen-primer) are pre-thinned and ready to spray. Standard hobby paints ([Vallejo Model Color](/go/vallejo-model-color), Citadel Base) need thinning — typically 1:1 with airbrush thinner or flow improver.
 
 
 **Cleaning supplies:** Airbrush cleaner, cleaning pot, interdental brushes, paper towels. You'll use these constantly.
 
 
-**Primer:** Badger Stynylrez, Vallejo Surface Primer, or AK Interactive primer. Airbrush-applied primer gives much thinner, more even coats than spray cans — critical for preserving detail on small miniatures.
+**Primer:** [Badger Stynylrez](/go/badger-stynylrez-primer), [Vallejo Surface Primer](/go/vallejo-surface-primer), or AK Interactive primer. Airbrush-applied primer gives much thinner, more even coats than spray cans — critical for preserving detail on small miniatures.
 
 
 **PSI for miniatures:**

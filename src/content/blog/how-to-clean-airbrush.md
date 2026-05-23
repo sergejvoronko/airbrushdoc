@@ -99,7 +99,7 @@ This is the cleaning that protects your airbrush overnight and for the next sess
 
 7. **Reassemble.** Reinsert the needle from the back, sliding it gently forward until it seats in the nozzle. You should feel it stop — don't force it. Tighten the chucking nut (finger-tight, never over-tighten), and replace the handle.
 
-8. **Optional: Apply a tiny drop of airbrush lubricant** to the needle before reinserting. This keeps the needle moving smoothly through the packing/seal and prevents paint from creeping up along the needle. Badger Regdab, Iwata Lube, or even a tiny touch of petroleum jelly works.
+8. **Optional: Apply a tiny drop of airbrush lubricant** to the needle before reinserting. This keeps the needle moving smoothly through the packing/seal and prevents paint from creeping up along the needle. [Badger Regdab](/go/badger-regdab-lube), Iwata Lube, or even a tiny touch of petroleum jelly works.
 
 
 ### What NOT To Do
@@ -175,8 +175,8 @@ The #1 rule: **the solvent that thins your paint will also clean it.** Don't ove
 
 **For end-of-session and deep clean:** Dedicated airbrush cleaner is much more effective than water alone at dissolving dried residue. Good options:
 
-- **Createx Airbrush Cleaner (4008)** — industry standard, works with all Createx and most water-based paints
-- **Iwata Medea Airbrush Cleaner** — excellent general-purpose cleaner
+- [**Createx Airbrush Cleaner (4008)**](/go/createx-cleaner-4008) — industry standard, works with all Createx and most water-based paints
+- [**Iwata Medea Airbrush Cleaner**](/go/iwata-medea-cleaner) — excellent general-purpose cleaner
 - **Vallejo Airbrush Cleaner** — good companion to Vallejo paints
 - **Isopropyl alcohol (IPA)** — works well but can damage rubber o-rings with prolonged use. Use the 91% or 99% concentration.
 - **DIY option: Window cleaner (ammonia-based)** — surprisingly effective in a pinch. Windex or similar. The ammonia dissolves dried acrylics well.

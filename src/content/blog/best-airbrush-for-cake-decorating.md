@@ -34,7 +34,7 @@ This means either buying a dedicated airbrush specifically for food use, or ensu
 |---|---|---|---|---|
 | **U.S. Cake Supply Kit** | Gravity feed | Single-action | ~$60–80 | Best starter kit with colors included |
 | **Watson & Webb Essentials** | Gravity feed | Single-action | ~$75–100 | Best food-safe dedicated kit |
-| **Master Airbrush G22 Kit** | Gravity feed | Dual-action | ~$80–110 | Best for detail-oriented decorators |
+| [**Master Airbrush G22 Kit**](/go/master-airbrush-g22-kit) | Gravity feed | Dual-action | ~$80–110 | Best for detail-oriented decorators |
 | **Cordless Cake Airbrush** | Gravity feed | Single-action | ~$30–50 | Portable, quick touch-ups, cookies |
 | **Kopykake Airmaster** | Gravity feed | Single-action | ~$100–130 | Bakery/commercial standard |
 
@@ -126,7 +126,7 @@ Only use food colors specifically formulated for airbrush use. These are thin, l
 
 **Americolor Airbrush Colors** — Bright, concentrated, and widely available. The standard choice for many decorators. Available in individual bottles and sets including pearlescent/shimmer options.
 
-**Chefmaster Airbrush Colors** — Good color range, smooth spray, competitive pricing. Popular with professional bakeries.
+[**Chefmaster Airbrush Colors**](/go/chefmaster-airbrush-colors) — Good color range, smooth spray, competitive pricing. Popular with professional bakeries.
 
 **Spectrum Flow / Watson & Webb Colors** — UK-based but widely available. Known for vibrant colors and food-grade certification.
 

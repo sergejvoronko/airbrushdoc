@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterBox from '../../components/NewsletterBox.astro';
 
 export async function getStaticPaths() {
   const terms = await getCollection('glossary');
@@ -27,6 +28,16 @@ const related = allTerms
   .filter(t => t.data.slug !== term.data.slug && t.data.category === term.data.category)
   .sort(() => Math.random() - 0.5)
   .slice(0, 6);
+
+const CATEGORY_IMAGES: Record<string, string> = {
+  equipment: '/images/glossary/category-equipment.webp',
+  technique: '/images/glossary/category-technique.webp',
+  paint: '/images/glossary/category-paint.webp',
+  measurement: '/images/glossary/category-measurement.webp',
+  problems: '/images/glossary/category-problems.webp',
+  maintenance: '/images/glossary/category-maintenance.webp',
+};
+const heroSrc = term.data.heroImage ?? CATEGORY_IMAGES[term.data.category];
 ---
 <BaseLayout
   title={`${term.data.title} — Airbrush Glossary | AirbrushDOC`}
@@ -50,6 +61,12 @@ const related = allTerms
       <div class="blg-header-line"></div>
     </div>
 
+    {heroSrc && (
+      <div class="gloss-hero">
+        <img src={heroSrc} alt={term.data.title} class="gloss-hero-img" loading="eager" />
+      </div>
+    )}
+
     <div class="gloss-detail-layout">
       <article class="gloss-detail-content prose">
         <Content />
@@ -67,10 +84,27 @@ const related = allTerms
         </div>
       </aside>
     </div>
+
+    <NewsletterBox
+      title="More airbrush knowledge — delivered"
+      text="New guides, technique breakdowns, and resources straight to your inbox. No schedule, no spam."
+    />
   </main>
 </BaseLayout>
 
 <style>
+.gloss-hero {
+  width: 100%;
+  aspect-ratio: 21/9;
+  overflow: hidden;
+  border-radius: var(--abd-radius);
+  margin-bottom: 32px;
+}
+.gloss-hero-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 .gloss-detail-meta {
   margin: 4px 0 8px;
 }

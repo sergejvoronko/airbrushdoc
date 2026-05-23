@@ -88,7 +88,7 @@ I think I may work more on portraits or animals. I don't have much skills in thi
 
 ## Tools and Materials
 
-For my work I use Airbrush **Iwata HP-C Plus** and paints **Wicked Colors**. I've tried different brands even special thick paints for brush but I didn't feel the same comfort. Wicked has an atomic white :)
+For my work I use Airbrush [**Iwata HP-C Plus**](/go/iwata-hp-c-plus) and paints [**Wicked Colors**](/go/createx-wicked-colors). I've tried different brands even special thick paints for brush but I didn't feel the same comfort. Wicked has an atomic white :)
 
 ### T-shirt Airbrushing Technique
 

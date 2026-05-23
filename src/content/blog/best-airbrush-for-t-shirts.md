@@ -26,9 +26,9 @@ I've airbrushed on fabric alongside fine art and automotive work for years, and 
 |---|---|---|---|---|
 | **Iwata Eclipse HP-BCS** | Siphon feed | 0.35mm | ~$120–160 | Industry standard for T-shirt work |
 | **Paasche Talon TG-3F** | Gravity/siphon | 0.38mm | ~$80–120 | Versatile, great value, multiple heads |
-| **Badger Patriot 105** | Gravity feed | 0.5mm | ~$70–90 | Budget workhorse, forgiving |
-| **Iwata Eclipse HP-CS** | Gravity feed | 0.35mm | ~$130–170 | Detail-oriented T-shirt art |
-| **Paasche VL** | Siphon feed | Multiple | ~$50–80 | Classic T-shirt airbrush, great value |
+| [**Badger Patriot 105**](/go/badger-patriot-105) | Gravity feed | 0.5mm | ~$70–90 | Budget workhorse, forgiving |
+| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | Gravity feed | 0.35mm | ~$130–170 | Detail-oriented T-shirt art |
+| [**Paasche VL**](/go/paasche-vl) | Siphon feed | Multiple | ~$50–80 | Classic T-shirt airbrush, great value |
 
 ---
 
@@ -129,13 +129,13 @@ Not all airbrush paints work on fabric. You need paints specifically formulated 
 
 ### Recommended Textile Airbrush Paints
 
-**Createx Airbrush Colors** — The industry standard for T-shirt artists. Available in transparent, opaque, fluorescent, pearl, metallic, and iridescent formulas. Water-based, low-odor, and available in large bottles (2 oz to 1 gallon). Thin with Createx 4012 Reducer for optimal spray performance.
+[**Createx Airbrush Colors**](/go/createx-airbrush-colors) — The industry standard for T-shirt artists. Available in transparent, opaque, fluorescent, pearl, metallic, and iridescent formulas. Water-based, low-odor, and available in large bottles (2 oz to 1 gallon). Thin with Createx 4012 Reducer for optimal spray performance.
 
-**Createx Wicked Colors** — Higher pigment concentration than standard Createx. Excellent for detailed work and designs that need strong color on dark shirts (use white opaque base first on dark fabrics).
+[**Createx Wicked Colors**](/go/createx-wicked-colors) — Higher pigment concentration than standard Createx. Excellent for detailed work and designs that need strong color on dark shirts (use white opaque base first on dark fabrics).
 
 **Jacquard Airbrush Color** — Originally formulated for textiles. Exceptional durability and wash resistance. Sprays well out of the bottle with minimal thinning. Soft hand feel on fabric. Available in transparent, opaque, metallic, and fluorescent.
 
-**Createx Auto Air Colors** — Technically automotive paint, but many T-shirt artists swear by the Auto Air line for its high pigmentation and excellent adhesion. Requires heat setting for fabric permanence.
+[**Createx Auto Air Colors**](/go/createx-auto-air-colors) — Technically automotive paint, but many T-shirt artists swear by the Auto Air line for its high pigmentation and excellent adhesion. Requires heat setting for fabric permanence.
 
 
 ### Paint Tips for T-Shirts
@@ -161,7 +161,7 @@ Here's everything you need for a functional T-shirt airbrushing station:
 | **Airbrush** | Iwata Eclipse HP-BCS or Paasche Talon | $80–160 |
 | **Compressor** | Any compressor with tank, 40+ PSI | $80–150 |
 | **Air hose** | Braided hose with appropriate fittings | $10–20 |
-| **Textile paint set** | Createx Airbrush Colors starter set | $25–50 |
+| **Textile paint set** | [Createx Airbrush Colors](/go/createx-airbrush-colors) starter set | $25–50 |
 | **White opaque paint** | Createx Opaque White (large bottle) | $8–15 |
 | **Heat press or iron** | Heat press preferred; iron works | $30 (iron) to $200+ (press) |
 | **Shirt board** | Cardboard cut to shirt size or commercial shirt board | $5–15 |

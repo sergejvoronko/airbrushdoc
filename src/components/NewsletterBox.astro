@@ -1,0 +1,55 @@
+---
+interface Props {
+  title?: string;
+  text?: string;
+  eyebrow?: string;
+}
+const {
+  title = 'Get new articles when they publish',
+  text = 'No schedule, no spam. Just new guides, tutorials, and resources — straight to your inbox when they go live.',
+  eyebrow = 'Free — no spam',
+} = Astro.props;
+---
+<div class="nlb-wrap">
+  <div class="nlb-eyebrow">{eyebrow}</div>
+  <h2 class="nlb-title">{title}</h2>
+  <p class="nlb-text">{text}</p>
+  <div class="ml-embedded" data-form="d5CS8H"></div>
+  <p class="nlb-note">Unsubscribe any time.</p>
+</div>
+
+<style>
+.nlb-wrap {
+  border-top: 1px solid var(--abd-border);
+  padding: 48px 0 64px;
+  text-align: center;
+  max-width: 520px;
+  margin: 0 auto;
+}
+.nlb-eyebrow {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--abd-accent);
+  margin-bottom: 10px;
+}
+.nlb-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(1.25rem, 3vw, 1.65rem);
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 12px;
+}
+.nlb-text {
+  font-size: 0.92rem;
+  color: var(--abd-text-dim);
+  line-height: 1.65;
+  margin-bottom: 24px;
+}
+.nlb-note {
+  font-size: 0.72rem;
+  color: var(--abd-text-muted);
+  margin-top: 10px;
+}
+</style>

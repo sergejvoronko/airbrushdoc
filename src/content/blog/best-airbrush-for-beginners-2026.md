@@ -16,7 +16,7 @@ You want to start airbrushing. You've watched the YouTube videos, you've seen wh
 
 I've been airbrushing for over 13 years. I've used cheap brushes, expensive brushes, and everything in between. In this guide, I'm going to cut through the noise and show you which airbrushes actually deserve your money in 2026 — and more importantly, which ones will help you *learn* rather than frustrate you into quitting.
 
-**Quick answer:** If you want one recommendation and don't want to read the whole article — get the **Harder & Steenbeck Ultra 2024**. It's specifically engineered for beginners, it teaches you proper technique from day one, and it grows with you. If you're on a tighter budget, the **Iwata Neo CN** is the best value under $50.
+**Quick answer:** If you want one recommendation and don't want to read the whole article — get the **Harder & Steenbeck Ultra 2024**. It's specifically engineered for beginners, it teaches you proper technique from day one, and it grows with you. If you're on a tighter budget, the [**Iwata Neo CN**](/go/iwata-neo-cn) is the best value under $50.
 
 But if you want to understand *why* and find the right match for your specific situation, keep reading.
 
@@ -169,9 +169,9 @@ The 0.38mm default needle is a great all-rounder, slightly larger than the stand
 | Airbrush | Price Range | Needle | Cup | Made In | Best For | My Rating |
 |---|---|---|---|---|---|---|
 | **H&S Ultra 2024** | $75–90 | 0.45mm | 5ml + micro-cup | Germany | Learning technique, miniatures | ★★★★★ |
-| **Iwata Eclipse HP-CS** | $130–160 | 0.35mm | 7ml | Japan | All-around versatility | ★★★★★ |
-| **Badger Patriot 105** | $65–85 | 0.50mm | Gravity | USA | Priming, coverage, durability | ★★★★☆ |
-| **Iwata NEO CN** | $35–50 | 0.35mm | 7ml + 2.8ml | China (Iwata QC) | Budget/testing the waters | ★★★★☆ |
+| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | $130–160 | 0.35mm | 7ml | Japan | All-around versatility | ★★★★★ |
+| [**Badger Patriot 105**](/go/badger-patriot-105) | $65–85 | 0.50mm | Gravity | USA | Priming, coverage, durability | ★★★★☆ |
+| [**Iwata NEO CN**](/go/iwata-neo-cn) | $35–50 | 0.35mm | 7ml + 2.8ml | China (Iwata QC) | Budget/testing the waters | ★★★★☆ |
 | **Paasche Talon TG-3F** | $80–100 | 0.25/0.38/0.66mm | 0.40 oz | USA | Kit value, versatility | ★★★★☆ |
 
 ---
@@ -199,7 +199,7 @@ An airbrush alone is just a fancy pen without ink. Here's the minimum you need t
 
 **Airbrush hose** — Usually 6–10 feet braided hose. Many value sets include one. Make sure the fittings match your compressor and airbrush (most use 1/8" BSP).
 
-**Paint** — For beginners, I recommend starting with Createx Airbrush Colors (water-based acrylic, easy cleanup, widely available) or Vallejo Model Air (pre-thinned, ready to spray for miniature/model work). Don't buy every color — start with a basic set of primary colors plus black and white.
+**Paint** — For beginners, I recommend starting with [Createx Airbrush Colors](/go/createx-airbrush-colors) (water-based acrylic, easy cleanup, widely available) or [Vallejo Model Air](/go/vallejo-model-air) (pre-thinned, ready to spray for miniature/model work). Don't buy every color — start with a basic set of primary colors plus black and white.
 
 
 **Cleaning supplies** — Airbrush cleaner (Medea or Createx), cleaning brushes (the thin bristle ones that go through the body), and paper towels. Budget ~$15–20.
@@ -213,7 +213,7 @@ An airbrush alone is just a fancy pen without ink. Here's the minimum you need t
 ## How I'd Spend My Money (If I Were Starting Over in 2026)
 
 **Budget setup (~$150–180 total):**
-- Iwata NEO CN (~$40)
+- [Iwata NEO CN](/go/iwata-neo-cn) (~$40)
 - Generic compressor with tank (~$90–100)
 - Createx starter paint set (~$20–25)
 - Cleaning supplies (~$15)
@@ -225,7 +225,7 @@ An airbrush alone is just a fancy pen without ink. Here's the minimum you need t
 - Cleaning kit + practice supplies (~$20)
 
 **Buy once, cry once (~$350–450 total):**
-- Iwata Eclipse HP-CS (~$150)
+- [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs) (~$150)
 - Quality compressor with tank (~$130–150)
 - Good paint selection (~$40–50)
 - Proper cleaning kit, spray booth, supplies (~$40–60)

@@ -11,13 +11,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     <section class="about-hero">
       <div class="about-hero-inner">
         <div class="about-hero-img-wrap">
-          <!-- Replace with your photo: <img src="/images/about-photo.jpg" alt="AirbrushDOC founder" /> -->
-          <div class="about-hero-img-placeholder">
-            <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="rgba(244,103,26,0.4)" stroke-width="1.2">
-              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/>
-            </svg>
-            <span>Your photo goes here</span>
-          </div>
+          <img src="/images/airbrushdoc-avatar.webp" alt="AirbrushDOC founder" class="about-hero-img" />
         </div>
         <div class="about-hero-text">
           <div class="abd-hero-eyebrow about-eyebrow">✦ Airbrushing since 2010</div>
@@ -276,19 +270,10 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
   display: flex; align-items: center; gap: 56px;
 }
 .about-hero-img-wrap { flex-shrink: 0; }
-.about-hero-img-placeholder {
-  width: 280px; height: 320px;
-  background: var(--abd-surface2);
-  border: 2px dashed var(--abd-border-light);
-  border-radius: var(--abd-radius);
-  display: flex; flex-direction: column;
-  align-items: center; justify-content: center; gap: 12px;
-  color: var(--abd-text-muted); font-size: 0.8rem; text-align: center;
-  padding: 24px;
-}
-.about-hero-img-placeholder img { /* when user adds real photo */
+.about-hero-img {
   width: 280px; height: 320px;
   border-radius: var(--abd-radius); object-fit: cover;
+  display: block;
 }
 .about-hero-text { flex: 1; }
 .about-eyebrow {
@@ -311,7 +296,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 }
 @media (max-width: 768px) {
   .about-hero-inner { flex-direction: column; gap: 32px; }
-  .about-hero-img-placeholder { width: 100%; height: 220px; }
+  .about-hero-img { width: 100%; height: 220px; }
 }
 
 /* ═══ STORY ═══ */

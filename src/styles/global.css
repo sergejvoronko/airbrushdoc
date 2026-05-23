@@ -595,7 +595,7 @@ img { max-width: 100%; height: auto; display: block; }
   border-radius: 10px; overflow: hidden; margin: 28px 0;
 }
 .abd-content table th {
-  background: var(--abd-surface2); color: var(--abd-text);
+  background: rgba(244, 103, 26, 0.1); color: var(--abd-text);
   padding: 12px 16px; border-bottom: 1px solid var(--abd-border);
   text-align: left; font-weight: 600;
 }
@@ -605,6 +605,85 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .abd-content table tr:last-child td { border-bottom: none; }
 .abd-content table tr:hover { background: var(--abd-surface); }
+.star-gold { color: #f59e0b; }
+.abd-content hr {
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin: 32px 0;
+}
+.advice-bubble {
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-left: 3px solid var(--abd-orange);
+  border-radius: 0 10px 10px 0;
+  padding: 12px 18px;
+  margin: 10px 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--abd-text-body);
+}
+.poll-chart {
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-border);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 24px 0;
+}
+.poll-chart-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--abd-text);
+  margin: 0 0 16px;
+}
+.poll-chart-meta {
+  color: var(--abd-text-dim);
+  font-weight: 400;
+  margin-left: 6px;
+}
+.poll-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 5px 0;
+}
+.poll-name {
+  width: 160px;
+  flex-shrink: 0;
+  font-size: 0.8rem;
+  color: var(--abd-text-body);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.poll-bar-wrap {
+  flex: 1;
+  background: var(--abd-surface2);
+  border-radius: 4px;
+  height: 14px;
+  overflow: hidden;
+}
+.poll-bar-fill {
+  height: 100%;
+  background: var(--abd-orange);
+  border-radius: 4px;
+  width: var(--pct);
+  transition: width 0.4s ease;
+}
+.poll-pct {
+  width: 36px;
+  flex-shrink: 0;
+  font-size: 0.78rem;
+  color: var(--abd-text);
+  font-weight: 600;
+  text-align: right;
+}
+.poll-votes {
+  width: 30px;
+  flex-shrink: 0;
+  font-size: 0.75rem;
+  color: var(--abd-text-dim);
+  text-align: right;
+}
 
 /* ================================================================
    SIDEBAR (TOC)

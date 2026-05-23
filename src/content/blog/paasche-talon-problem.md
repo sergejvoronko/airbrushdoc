@@ -66,7 +66,7 @@ Here is the whole message from Bryan:
 > 
 > I accepted but the experience was so bad that I started to look into other brands and perhaps same setup with different needles and nozzle. I started reading post on other users with **faulty Talons** and I can say that there are numerous faulty Talons out there.
 > 
-> This made me start looking into an alternative and I fell onto the [Badger Renegade](http://www.airbrushdoc.com/airbrush-reviews/badger-renegade-airbrush-review/) series. I started first looking at the issues users are getting with them and I could find none till now. I asked the shop to ask **Paasche** to send them the package instead and that i will take the **Badger Krome** instead.
+> This made me start looking into an alternative and I fell onto the [Badger Renegade](http://www.airbrushdoc.com/airbrush-reviews/badger-renegade-airbrush-review/) series. I started first looking at the issues users are getting with them and I could find none till now. I asked the shop to ask **Paasche** to send them the package instead and that i will take the [**Badger Krome**](/go/badger-renegade-krome) instead.
 > 
 > That's it Sergej about my bad experience with Talon. I think this one slipped the QC dept or has been just mishandled in factory, during package or engraving. Don't know where but it will not land in my hands anymore. **Never ever a Paasche again**. I have been told by an experienced artist that they are neglecting the quality of their brush and rather focus on cost now. This is bad as for only 20-30USD less they lost a customer.
 > 

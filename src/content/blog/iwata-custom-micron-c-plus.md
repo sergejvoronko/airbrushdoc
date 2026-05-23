@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Iwata-Custom-Micron-C-Plus.webp"
 ---
 
-I've made couple of reviews already and I couldn't wait to write this one (the special one) about **Iwata Custom Micron C Plus airbrush (CM C+)**. All because the fact that it has been all this time within my reach. In one of my earlier posts you can see a video [Airbrushing Mural](http://www.airbrushdoc.com/gallery/mural-in-bedroom-video/) where my brother is working with this particular airbrush.
+I've made couple of reviews already and I couldn't wait to write this one (the special one) about [**Iwata Custom Micron C Plus airbrush (CM C+)**](/go/iwata-custom-micron-cm-c). All because the fact that it has been all this time within my reach. In one of my earlier posts you can see a video [Airbrushing Mural](http://www.airbrushdoc.com/gallery/mural-in-bedroom-video/) where my brother is working with this particular airbrush.
 
 So, what's so special about this airbrush and why will every professional tell you that **Iwata CM C+** is awesome airbrush and they all just love it?  
 

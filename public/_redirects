@@ -131,17 +131,70 @@
 
 # Slug variant aliases (links in content use alternate slugs)
 /airbrush-troubleshooting/                  /blog/airbrush-troubleshooting-guide/            301
+/15-basic-rules-of-airbrushing              /blog/15-basic-rules-of-airbrushing/             301
+/advanced-guide-to-airbrush-colors          /blog/advanced-guide-to-airbrush-colors/         301
+/air-compressor                             /blog/air-compressor/                            301
 /airbrush-needle-sizes-explained/            /blog/airbrush-needle-sizes/                     301
 /gravity-feed-vs-siphon-feed-airbrush/      /blog/gravity-feed-vs-siphon-feed/               301
 /best-compressor-for-airbrush/              /blog/best-air-compressor/                       301
 /beginners/preparing-surfaces-for-airbrush/ /blog/prepare-surface-for-airbrush/             301
 
-# PrettyLinks affiliate redirects
-/go/3m-ultrafine  https://amzn.to/4sE64yL  301
-/go/badger-stynylrez-primer  https://amzn.to/46NUdpy  301
-/go/vallejo-surface-primer  https://amzn.to/40SIP8p  301
-/go/ak-interactive-gen-primer  https://amzn.to/46Ryvkt  301
-/go/citadel-spray-primers  https://amzn.to/4bdWCLD  301
+# Affiliate product redirects — /go/{slug} → 302 (no SEO juice to affiliate)
+
+# Airbrushes
+/go/iwata-eclipse-hp-cs         https://amzn.to/4dlpTFc    302
+/go/iwata-neo-cn                https://amzn.to/4uQC4B9    302
+/go/iwata-hp-c-plus             https://amzn.to/42vuIqD    302
+/go/iwata-revolution-cr         https://amzn.to/4tBewz5    302
+/go/iwata-custom-micron-cm-c    https://amzn.to/4uR9HTm    302
+/go/iwata-cm-b                  https://amzn.to/48ZiEkY    302
+/go/badger-patriot-105          https://amzn.to/4fiVFFk    302
+/go/badger-renegade-krome       https://amzn.to/3P1x2CD    302
+/go/badger-renegade-velocity    https://amzn.to/42v8wgf    302
+/go/badger-sotar-2020           https://amzn.to/4wzN5si    302
+/go/badger-crescendo            https://amzn.to/4dnJJQd    302
+/go/paasche-vl                  https://amzn.to/3P1zrx9    302
+/go/paasche-model-h             https://amzn.to/48ZsSSv    302
+/go/hs-evolution-two-in-one     https://amzn.to/4ns8vmX    302
+/go/hs-infinity-two-in-one      https://amzn.to/3PsbSNU    302
+/go/master-airbrush-g22         https://amzn.to/4uNiTbo    302
+
+# Compressors & Kits
+/go/as186-compressor            https://amzn.to/4uc4SUw    302
+/go/sparmax-ac501x              https://amzn.to/3RbA5Zs    302
+/go/iwata-smart-jet             https://amzn.to/42vcSE7    302
+/go/california-air-cat1p1060s   https://amzn.to/4uNIfpx    302
+/go/paasche-d500sr              https://amzn.to/4d6mDi8    302
+/go/master-cool-runner-ii-kit   https://amzn.to/4nsFZ4x    302
+/go/iwata-neo-ninja-jet-kit     https://amzn.to/493NtVM    302
+/go/paasche-talon-starter-set   https://amzn.to/4wuYedy    302
+/go/master-airbrush-g22-kit     https://amzn.to/4dHvEye    302
+
+# Paints & Primers
+/go/createx-airbrush-colors     https://amzn.to/4eTzo0Q    302
+/go/createx-wicked-colors       https://amzn.to/43gh1fi    302
+/go/createx-auto-air-colors     https://amzn.to/4dzhWMQ    302
+/go/vallejo-model-air           https://amzn.to/3PuagmP    302
+/go/vallejo-model-air-set       https://amzn.to/3PuagmP    302
+/go/vallejo-game-air            https://amzn.to/42KwK6e    302
+/go/vallejo-model-color         https://amzn.to/4wvFBpX    302
+/go/vallejo-surface-primer      https://amzn.to/4nxtGDU    302
+/go/badger-stynylrez-primer     https://amzn.to/3RhqUqv    302
+/go/ak-interactive-gen-primer   https://amzn.to/4eUakGX    302
+/go/citadel-air-paints          https://amzn.to/4dwGA0m    302
+/go/citadel-base-layer-paints   https://amzn.to/4tLXluP    302
+/go/citadel-spray-primers       https://amzn.to/4ueq9wT    302
+/go/chefmaster-airbrush-colors  https://amzn.to/4ujtA5G    302
+/go/createx-4012-reducer        https://amzn.to/43e05pJ    302
+
+# Accessories & Consumables
+/go/iwata-medea-cleaner         https://amzn.to/3PNH0aX    302
+/go/createx-cleaner-4008        https://amzn.to/4uMnhqQ    302
+/go/iwata-cleaning-station      https://amzn.to/4duXpZQ    302
+/go/badger-regdab-lube          https://amzn.to/4nDjxWD    302
+/go/3m-fine-abrasive-paste      https://amzn.to/497KYSk    302
+/go/3m-ultrafine                https://amzn.to/497KYSk    302
+/go/createx-adhesion-promoter   https://amzn.to/3Rf8Ltq    302
 
 # Category index redirects
 /tipstricks/    /guides/    301
