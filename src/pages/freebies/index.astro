@@ -380,4 +380,54 @@ const tools = [
   .fre-subscribe-box { padding: 32px 20px; }
   .fre-book-inner { flex-direction: column; gap: 32px; }
 }
+
+/* Book mini cover */
+.abd-book-mini-cover {
+  display: flex;
+  align-items: stretch;
+  flex-shrink: 0;
+  filter: drop-shadow(0 16px 32px rgba(0,0,0,0.6));
+}
+.abd-book-mini-spine {
+  width: 16px;
+  background: linear-gradient(180deg, #c45010, #7a2e06);
+  border-radius: 3px 0 0 3px;
+}
+.abd-book-mini-front {
+  width: 140px;
+  min-height: 190px;
+  background: linear-gradient(160deg, #1a1a1a, #111);
+  border: 1px solid rgba(244,103,26,0.3);
+  border-radius: 0 3px 3px 0;
+  padding: 20px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.abd-book-mini-front::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--abd-orange), transparent);
+}
+.abd-book-mini-title {
+  font-family: var(--abd-font-display);
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.2;
+}
+.abd-book-mini-badge {
+  margin-top: auto;
+  display: inline-block;
+  background: #B04C12;
+  color: #fff;
+  font-size: 0.6rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 100px;
+}
 </style>

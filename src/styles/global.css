@@ -1180,6 +1180,51 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 /* ================================================================
+   MAILERLITE EMBED — DARK THEME OVERRIDE
+================================================================ */
+.ml-embedded .ml-form-embedWrapper,
+.ml-embedded .ml-form-align-center { background: transparent !important; box-shadow: none !important; }
+.ml-embedded .ml-form-embedBody,
+.ml-embedded .ml-form-embedBody.row-form { background: transparent !important; border: none !important; padding: 0 !important; }
+.ml-embedded .ml-form-embedContent { padding: 0 !important; margin: 0 0 0 !important; }
+.ml-embedded .ml-form-fieldRow { margin-bottom: 0 !important; }
+.ml-embedded input[type="email"] {
+  background: var(--abd-surface2) !important;
+  border: 1px solid var(--abd-border) !important;
+  color: var(--abd-text) !important;
+  border-radius: var(--abd-radius-xs) !important;
+  padding: 10px 14px !important;
+  font-size: 0.9rem !important;
+  font-family: var(--abd-font-body) !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+.ml-embedded input[type="email"]::placeholder { color: var(--abd-text-muted) !important; }
+.ml-embedded input[type="email"]:focus { outline: none !important; border-color: var(--abd-orange) !important; box-shadow: 0 0 0 3px rgba(244,103,26,0.15) !important; }
+.ml-embedded .ml-form-embedSubmit button,
+.ml-embedded button[type="submit"].primary {
+  background: var(--abd-orange) !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: var(--abd-radius-xs) !important;
+  font-family: var(--abd-font-display) !important;
+  font-weight: 700 !important;
+  font-size: 0.875rem !important;
+  padding: 10px 20px !important;
+  cursor: pointer !important;
+  transition: background 0.15s !important;
+  white-space: nowrap !important;
+}
+.ml-embedded .ml-form-embedSubmit button:hover { background: #c45010 !important; }
+.ml-embedded .ml-form-checkboxRow { justify-content: center !important; }
+.ml-embedded .ml-form-checkboxRow .label-description,
+.ml-embedded .ml-form-checkboxRow label span { color: var(--abd-text-dim) !important; font-size: 0.8rem !important; }
+.ml-embedded .ml-form-checkboxRow input[type="checkbox"] { accent-color: var(--abd-orange) !important; }
+.ml-embedded .ml-form-successBody { background: transparent !important; }
+.ml-embedded .ml-form-successBody .ml-form-successContent h4,
+.ml-embedded .ml-form-successBody .ml-form-successContent p { color: var(--abd-text) !important; }
+
+/* ================================================================
    REDUCED MOTION
 ================================================================ */
 @media (prefers-reduced-motion: reduce) {
