@@ -1183,10 +1183,23 @@ img { max-width: 100%; height: auto; display: block; }
    MAILERLITE EMBED — DARK THEME OVERRIDE
 ================================================================ */
 .ml-embedded .ml-form-embedWrapper,
-.ml-embedded .ml-form-align-center { background: transparent !important; box-shadow: none !important; }
+.ml-embedded .ml-form-align-center {
+  background: transparent !important;
+  box-shadow: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
 .ml-embedded .ml-form-embedBody,
-.ml-embedded .ml-form-embedBody.row-form { background: transparent !important; border: none !important; padding: 0 !important; }
-.ml-embedded .ml-form-embedContent { padding: 0 !important; margin: 0 0 0 !important; }
+.ml-embedded .ml-form-embedBody.row-form {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+.ml-embedded .ml-form-embedContent,
+.ml-embedded .ml-form-formContent { padding: 0 !important; margin: 0 !important; width: 100% !important; }
+.ml-embedded form { width: 100% !important; }
 .ml-embedded .ml-form-fieldRow { margin-bottom: 0 !important; }
 .ml-embedded input[type="email"] {
   background: var(--abd-surface2) !important;
