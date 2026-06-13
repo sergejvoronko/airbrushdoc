@@ -1,5 +1,5 @@
 ---
-title: "My 15 Basic Airbrush Rules"
+title: "15 Basic Airbrush Rules Every Beginner Should Know"
 description: "Time to get to know some basic airbrush rules you have to follow while working with airbrush. Many of them have different tendency and some are very important."
 pubDate: 2011-07-15
 category: "beginners"

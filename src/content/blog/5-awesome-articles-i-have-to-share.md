@@ -1,5 +1,5 @@
 ---
-title: "5 Awesome Articles I Have to Share"
+title: "5 Must-Read Airbrush Articles Every Artist Should Bookmark"
 description: "When I was surfing the Net or clicked a link on facebook I have found some cool stuff to read and I share it here.."
 pubDate: 2011-03-29
 category: "guides"

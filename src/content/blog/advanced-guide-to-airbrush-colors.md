@@ -1,5 +1,5 @@
 ---
-title: "Advanced Guide to Airbrush Paint"
+title: "Airbrush Paint Guide: Types, Thinning & Best Picks (2026)"
 description: "This is ultimate guide for airbrush beginners about chosing the right airbrush paint for their work. Includes look at types and brands and also provides pro adv"
 pubDate: 2011-05-03
 category: "beginners"
