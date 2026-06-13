@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Corel-Multilayer-original1.webp"
 ---
 
-I have posted article called "[How to Make a Stencil in CoreDRAW](http://www.airbrushdoc.com/tipstricks/how-to-make-a-stencil-in-coreldraw/)" before. Out of this article I got an e-mail from one of my readers last Sunday.
+I have posted article called "[How to Make a Stencil in CoreDRAW](/blog/how-to-make-a-stencil-in-coreldraw/)" before. Out of this article I got an e-mail from one of my readers last Sunday.
 Ronnie: "*Dear Sir, I am new to **CorelDRAW X5**. I bought the program to help me with airbrush stenciling. The question is how you make a layered stencil in CorelDRAW?. I know it can be done, I just don't know how. Here's an example of what i am trying to do. I have a full colored picture of a pin-up model I want to airbrush. I want to separate the stencil in to several different parts to ensure I get the highlights right and so forth, so a stencil with all my blacks, then reds, dark skin tones light skin tones and highlights. Your assistance would be greatly appreciated! Thank you!*"
 
 That's a good question and I want to know that myself. I always want to help my audience and just out of my curiosity I decided to find the solution as it could be a huge help not only for me but for everyone interested in this topic (I believe that's the case for many of you!).

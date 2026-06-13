@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush-paints.webp"
 ---
 
-Let's assume that you have all the equipment that is required for [airbrushing](http://www.airbrushdoc.com). You've got [airbrush gun](http://www.airbrushdoc.com/beginners/choose-airbrush/) and [compressor](http://www.airbrushdoc.com/beginners/air-compressor/). You also know what you are going to paint and what surface are you going to paint. The only thing missing is proper paint. When you're starting out you can experiment but I think if you knew something about all the paints available on the market you could save some time and frustration as well.  This article is a compilation and consists of three parts. You don't have to read all of it, that's why I included these links:
+Let's assume that you have all the equipment that is required for [airbrushing](http://www.airbrushdoc.com). You've got [airbrush gun](/blog/choose-airbrush/) and [compressor](/blog/air-compressor/). You also know what you are going to paint and what surface are you going to paint. The only thing missing is proper paint. When you're starting out you can experiment but I think if you knew something about all the paints available on the market you could save some time and frustration as well.  This article is a compilation and consists of three parts. You don't have to read all of it, that's why I included these links:
 
  	- **[Types](#painttypes)**
 
@@ -19,7 +19,7 @@ Let's assume that you have all the equipment that is required for [airbrushing](
 
 In the first part we're going to take a look at the types of paints, the differences and their use. In second part we're going to have a look at brands and the third part is going to be a collection of advices as I did in my previous articles.
 
-[Airbrushing as art](http://www.airbrushdoc.com/discussion/talent-and-airbrushing/) requires special paints but that does not mean that you have to use paints dedicated only for airbrushing. To present day there is a lot of art stores (shops) or automotive suppliers that have all these paints in their catalogue.
+[Airbrushing as art](/blog/talent-and-airbrushing/) requires special paints but that does not mean that you have to use paints dedicated only for airbrushing. To present day there is a lot of art stores (shops) or automotive suppliers that have all these paints in their catalogue.
 
 If you know everything about types of colors just jump to paragraph numbered [**2**](#paintbrands).
 

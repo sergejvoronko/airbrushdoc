@@ -38,11 +38,39 @@ const CATEGORY_IMAGES: Record<string, string> = {
   maintenance: '/images/glossary/category-maintenance.webp',
 };
 const heroSrc = term.data.heroImage ?? CATEGORY_IMAGES[term.data.category];
+const termUrl = `https://airbrushdoc.com/airbrush-glossary/${term.data.slug}/`;
+const termDesc = term.data.description ?? `What is ${term.data.title}? Full explanation with context, tips, and related airbrush terms.`;
+
+const definedTermSchema = {
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": term.data.title,
+  "description": termDesc,
+  "url": termUrl,
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Airbrush Glossary",
+    "url": "https://airbrushdoc.com/airbrush-glossary/"
+  }
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://airbrushdoc.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Glossary", "item": "https://airbrushdoc.com/airbrush-glossary/" },
+    { "@type": "ListItem", "position": 3, "name": term.data.title, "item": termUrl },
+  ],
+};
 ---
 <BaseLayout
   title={`${term.data.title} — Airbrush Glossary | AirbrushDOC`}
-  description={term.data.description ?? `What is ${term.data.title}? Full explanation with context, tips, and related airbrush terms.`}
+  description={termDesc}
+  canonicalURL={termUrl}
 >
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(definedTermSchema)} />
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(breadcrumbSchema)} />
   <main class="abd-container">
     <div class="blg-page-header">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">

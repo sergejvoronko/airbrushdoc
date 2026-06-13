@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/yhst-80343540264639_2149_36926939.webp"
 ---
 
-So here I am again with a second part of my series that I've started recently. First part was about [***airbrush guns***](http://www.airbrushdoc.com/beginners/choose-airbrush/), where I described all the types of airbrush guns that exist out there on the market and I've brought a few professional advises that I believe could help you to choose the right airbrush gun.
+So here I am again with a second part of my series that I've started recently. First part was about [***airbrush guns***](/blog/choose-airbrush/), where I described all the types of airbrush guns that exist out there on the market and I've brought a few professional advises that I believe could help you to choose the right airbrush gun.
 
 But airbrushing can not be possible without the proper air source. The air has to be at certain pressure to allow us to work. Every gun has different demands on its properties, so it is really relevant which air compressor you will choose for your airbrush gun.
 
@@ -39,9 +39,9 @@ We will talk about paints in more detail later in another post.
 
 ### 2. Airbrush Gun
 
-The guns with big needle and floating nozzle need bigger PSI (*Paasche VL![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B0001LGSGS)*).
+The guns with big needle and floating nozzle need bigger PSI (*Paasche VL*).
 
-Screw in type nozzle will be fine with low PSI (*Iwata HP-CH![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B002LC0TQ0)*)
+Screw in type nozzle will be fine with low PSI (*Iwata HP-CH*)
 
 But be careful as every type of airbrush has its use. So if you are going to do detail work but at the same time planing to do something bigger and planing to use more than one airbrush you have to choose really good compressor. Mostly every beginner is planing on trying only, so using more than one gun is not affordable, I believe.
 
@@ -61,11 +61,11 @@ It can go on with almost no sound, and go off with some "psssss" or you can hear
 
 ### 4. Water
 
-All compressors generate water and water vapour! Regardless of the type of compressor you purchase, water spraying out of your nozzle will destroy all your paint work. So usually we use* filters* that can remove the water from the air and ***point-of-use dryer![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B003YL4D3C)*** to remove water vapour and to ensure that no water can reach your work.![](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
+All compressors generate water and water vapour! Regardless of the type of compressor you purchase, water spraying out of your nozzle will destroy all your paint work. So usually we use* filters* that can remove the water from the air and ***point-of-use dryer*** to remove water vapour and to ensure that no water can reach your work.![](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
 
 ### 5. Regulators
 
-Regardless of the type of compressor you buy or build, one thing you will want to have is a ***precision regulator![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B003YL4D3C)***. Using a precision regulator means that you can set the correct pressure that works best with your gun and your paint mix, so the precision regulator will ensure that flow is consistent and steady.You may noticed that the **point-of-use dryer **
+Regardless of the type of compressor you buy or build, one thing you will want to have is a ***precision regulator***. Using a precision regulator means that you can set the correct pressure that works best with your gun and your paint mix, so the precision regulator will ensure that flow is consistent and steady.You may noticed that the **point-of-use dryer **
 
 and **regulator** is the same unit doing a few functions at ones.
 
@@ -123,11 +123,11 @@ Well this are probably the ones that we have interest in :) .
 
 **Home Made Compressors**
 
-For the adventurous do-it-yourself masters that love to make a*** [home-made air compressor](http://www.airbrushdoc.com/tipstricks/silent-compressor/)*** themselves.
+For the adventurous do-it-yourself masters that love to make a*** [home-made air compressor](/blog/silent-compressor/)*** themselves.
 
 All compressor types theoretically work more efficiently if they are designed to include multiple stages.
 
-Well as you can get, I've described the types of air compressors and we don't have to consider all of them. As I have mentioned before what is going to interest us is ***AirBrush compressors***, or maybe someone would like to try ***[(diy) homemade compressor](http://www.airbrushdoc.com/tipstricks/homemade-airbrush-compressor/)***.
+Well as you can get, I've described the types of air compressors and we don't have to consider all of them. As I have mentioned before what is going to interest us is ***AirBrush compressors***, or maybe someone would like to try ***[(diy) homemade compressor](/blog/homemade-airbrush-compressor/)***.
 
 ## Airbrush compressors
 
@@ -145,15 +145,15 @@ Some of this compressors don't have a steady airflow (I call it pulsing air flow
 
 This one is good for gravity feed fixed nozzle and thin colours (Comart, Golden Airbrush)
 
-**Single piston** (***SprintJet![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B000BQPNWS)***)![](/images/wp-uploads/yhst-80343540264639_2149_36926939.webp)
+**Single piston** (***SprintJet***)![](/images/wp-uploads/yhst-80343540264639_2149_36926939.webp)
 
-**Double piston** in Metal Case (***PowerJet![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B000TLSYB2)***) - good for home or apartment.
+**Double piston** in Metal Case (***PowerJet***) - good for home or apartment.
 ![](/images/wp-uploads/iwata-power-jet-pro-studio-compressor-2.webp)
 They are "quite" but will not work with thick paints (**high viscosity** - textile colors with floating nozzle). I used quotation marks because it is not really quite (check some videos on youtube).
 
 ***Silent Air* 1/2 horse** power compressor has enough PSI to work with textile colours and can be great for art work, but it has not enough air for base coating or clear coating (Silent Air makes more powerful compressors that are good for coating but they are more expensive).
 
-**Fridge compressor with tank** (***Iwata Great White Shark![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B003JJI8M6)***) is airbrush compressor (because it uses fridge type compressor it's really very quite). It can run up to 3 airbrushes at the same time with almost no problem. But this quality costs big money :(
+**Fridge compressor with tank** (***Iwata Great White Shark***) is airbrush compressor (because it uses fridge type compressor it's really very quite). It can run up to 3 airbrushes at the same time with almost no problem. But this quality costs big money :(
 
 ![](/images/wp-uploads/518H2cK+iAL._SS500_.webp)
 

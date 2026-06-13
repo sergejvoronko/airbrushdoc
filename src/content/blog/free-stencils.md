@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/free-stencils1.webp"
 ---
 ## About Free Stencils for Airbrush Artists
 
-All of my subscribers know that I have a page called **FREEBIES** where I'm giving away [stencils for free](http://www.airbrushdoc.com/sqeez/). From time to time I add new stencils, so the freebies page grows. All I'm asking my visitors in order to get access to this page is to [subscribe to my newsletter](http://www.airbrushdoc.com/sqeez/), it does not matter if they have any interest in airbrush nor they want just **stencils**. When I started with this blog I've shared some [reference pictures](http://www.airbrushdoc.com/download/) and some [skull stencils](http://www.airbrushdoc.com/download/50-skull-stencils-ai-cdr-eps-jpg/) but people came, took and left (sometimes for good). That's why I decided to ask for this small favor of subscribing. After that I've seen that people are subscribing and mostly they come again. Apart of the update of my newsletter I always inform everyone in my mailing list about new stencils added.
+All of my subscribers know that I have a page called **FREEBIES** where I'm giving away [stencils for free](http://www.airbrushdoc.com/sqeez/). From time to time I add new stencils, so the freebies page grows. All I'm asking my visitors in order to get access to this page is to [subscribe to my newsletter](http://www.airbrushdoc.com/sqeez/), it does not matter if they have any interest in airbrush nor they want just **stencils**. When I started with this blog I've shared some [reference pictures](http://www.airbrushdoc.com/download/) and some [skull stencils](/blog/50-skull-stencils-ai-cdr-eps-jpg/) but people came, took and left (sometimes for good). That's why I decided to ask for this small favor of subscribing. After that I've seen that people are subscribing and mostly they come again. Apart of the update of my newsletter I always inform everyone in my mailing list about new stencils added.
 
 ### Latest Free Stencil Updates
 
@@ -80,6 +80,6 @@ So here is the actual (gallery) preview of stencils I'm offering. These are in j
 
 ## Get Your Free Stencils Today
 
-**52 one layer and [5 multilayer](http://www.airbrushdoc.com/download/multi-layer-stencils/) stencils available at the moment**. If you like any of them, or you just like to stay informed about updates on my blog, don't hesitate to subscribe (use form bellow) or just like my [facebook page](http://www.airbrushdoc.com/onfacebook). If you know that some of your friends might like this, then let them know by syndicating link to this blog entry in your social media (you may also use vertical sharebar on the left side of this page).
+**52 one layer and [5 multilayer](/blog/multi-layer-stencils/) stencils available at the moment**. If you like any of them, or you just like to stay informed about updates on my blog, don't hesitate to subscribe (use form bellow) or just like my [facebook page](http://www.airbrushdoc.com/onfacebook). If you know that some of your friends might like this, then let them know by syndicating link to this blog entry in your social media (you may also use vertical sharebar on the left side of this page).
 
 Cheers.

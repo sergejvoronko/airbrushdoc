@@ -300,7 +300,7 @@ If it’s possible, try to coat the primer with a finish paint within 12 hours t
 
 ### Nitrocellulose lacquer
 
-Is often used to paint guitars. One of the best clears you can find for wood is Deft nitrocellulose lacquer, you can get it at most hardware stores. It has a high solids content and brings out glassy smooth. I have written about [nitrocellulose lacquer](https://www.airbrushdoc.com/tipstricks/airbrushing-with-nitros/) before and I called them NITROS.
+Is often used to paint guitars. One of the best clears you can find for wood is Deft nitrocellulose lacquer, you can get it at most hardware stores. It has a high solids content and brings out glassy smooth. I have written about [nitrocellulose lacquer](/blog/airbrushing-with-nitros/) before and I called them NITROS.
 
 Wood is porous and will absorb paint unevenly if not sealed first. The grain will also show through unless you build up enough of a sealing layer.
 

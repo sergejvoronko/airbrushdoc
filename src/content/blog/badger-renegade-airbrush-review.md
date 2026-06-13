@@ -15,7 +15,7 @@ Since I had painted with Iwata, I naturally considered their CM-C custom micron.
 
 I've never even considered looking at the Badger products, but a friend of mine showed me a promotional flyer advertising their three new airbrushes, the Renegade line. I've also read few posts in airbrush forums.
 
-Renegade range comes in around $150 and has three models in this series where every model has its name - [**Velocity**](/go/badger-renegade-velocity), **Spirit**, **Rage**. All three airbrushes are **dual action** / **internal mix airbrushes**. All airbrushes are capable to become **single action airbrush** because they have **stop set trigger control** similar to previously reviewed **[Iwata Custom Micron C+](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/)** or **[Harder and Steenbeck Infinity](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-infinity-review/)** that can be tuned to set how far the trigger can go, so you can preset the amount of paint that comes into the airbrush. Every model of the Renegade line has different paint delivery system but not all of them have different sizes of the nozzle and needle.
+Renegade range comes in around $150 and has three models in this series where every model has its name - [**Velocity**](/go/badger-renegade-velocity), **Spirit**, **Rage**. All three airbrushes are **dual action** / **internal mix airbrushes**. All airbrushes are capable to become **single action airbrush** because they have **stop set trigger control** similar to previously reviewed **[Iwata Custom Micron C+](/blog/iwata-custom-micron-c-plus/)** or **[Harder and Steenbeck Infinity](/blog/harder-and-steenbeck-infinity-review/)** that can be tuned to set how far the trigger can go, so you can preset the amount of paint that comes into the airbrush. Every model of the Renegade line has different paint delivery system but not all of them have different sizes of the nozzle and needle.
 
 Please note that the airbrushes photographed in this review are **Special Edition** Black finish (black electroplated brass).
 
@@ -43,7 +43,7 @@ So, what's inside of Extreme Set?
 
 ## Badger Velocity
 
-**Gravity feed** airbrush with **ultra-fine tip **(0.21mm). Paint cup in this model  is integrated on top of the airbrush body (1/4 oz). Gravity feed means that this airbrush will require less air pressure compared to other feed systems (the paint does not need to be pulled into the body - [read more](http://www.airbrushdoc.com/beginners/choose-airbrush/)).
+**Gravity feed** airbrush with **ultra-fine tip **(0.21mm). Paint cup in this model  is integrated on top of the airbrush body (1/4 oz). Gravity feed means that this airbrush will require less air pressure compared to other feed systems (the paint does not need to be pulled into the body - [read more](/blog/choose-airbrush/)).
 
 ![](/images/wp-uploads/Badger-Velocity-Airbrush.webp)
 
@@ -95,7 +95,7 @@ While painting I found the control of trigger (for air and paint flow) to be exc
 
 Do not let looks or some of the plastic parts fool you, as this is not cheaply made airbrush. I think that Badger made a smart move when they put their money exactly where it counts (tip, needle, trigger). All these parts were made with precision for greatest performance.
 
-I am satisfied with the fine lines that this airbrush delivers. In this area it performs as good as [**Iwata CM-C**](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/), (but for much different cost).
+I am satisfied with the fine lines that this airbrush delivers. In this area it performs as good as [**Iwata CM-C**](/blog/iwata-custom-micron-c-plus/), (but for much different cost).
 
 And what the Artists say? You can find something like [testimonials](http://www.renegadeairbrush.com/Renegade_Accolades.html) from established artists on [renegadeairbrush.com](http://www.renegadeairbrush.com) .
 

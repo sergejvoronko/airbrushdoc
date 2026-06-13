@@ -31,7 +31,7 @@ Really short and clear article from [blog-health-talk](http://blog-health-talk.v
 
 ![](/images/wp-uploads/compressor.webp)
 
-Jason Jones writes on his blog about his hobbies. One of the hobbies happened to be DIY compressors. He has few articles on the topic but this one deserves special attention. Even that I have built a few compressors by myself ([diy compressor](http://www.airbrushdoc.com/tipstricks/homemade-airbrush-compressor/) and [diy compressor 2](http://www.airbrushdoc.com/tipstricks/silent-compressor/)) they always looked like home-made. This guy made it look as it was manufactured. Spectacular job and awesome finish. If you would want to build compressor at home, you definitely have to read this article.
+Jason Jones writes on his blog about his hobbies. One of the hobbies happened to be DIY compressors. He has few articles on the topic but this one deserves special attention. Even that I have built a few compressors by myself ([diy compressor](/blog/homemade-airbrush-compressor/) and [diy compressor 2](/blog/silent-compressor/)) they always looked like home-made. This guy made it look as it was manufactured. Spectacular job and awesome finish. If you would want to build compressor at home, you definitely have to read this article.
 
 > [http://www.airbrushdoc.com/diy-compressor](http://www.airbrushdoc.com/diy-compressor)
 

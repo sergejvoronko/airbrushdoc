@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/multilayer-stencils.webp"
 ---
 ## New Multi-Layer Stencils for Airbrush Artists
 
-Anyone hungry for **stencils**? I've updated my freebies page with some new, **one layer stencils**. Whilst preparing new **stencils** for my celebrity theme I noticed that **celebrities** look better and show more character if they have more color shades then only two. As I've been posting guides for [making stencils](http://www.airbrushdoc.com/tipstricks/how-to-make-a-stencil-in-coreldraw/) and [making multilayer stencils](http://www.airbrushdoc.com/tipstricks/how-to-make-layered-stencil-in-coreldraw/) I have not yet added any of layered stuff to my freebies.
+Anyone hungry for **stencils**? I've updated my freebies page with some new, **one layer stencils**. Whilst preparing new **stencils** for my celebrity theme I noticed that **celebrities** look better and show more character if they have more color shades then only two. As I've been posting guides for [making stencils](/blog/how-to-make-a-stencil-in-coreldraw/) and [making multilayer stencils](/blog/how-to-make-layered-stencil-in-coreldraw/) I have not yet added any of layered stuff to my freebies.
 
 ### Expanding the Freebies Collection
 

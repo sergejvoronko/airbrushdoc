@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Red-airbrush-tutorial-76.webp"
 ---
 
-*After very popular [airbrush tutorial](http://www.airbrushdoc.com/tipstricks/airbrush-tutorial-scorpio/) from last time I've noticed that people interested in airbrushing like more then anything else tutorials which provide great information where they are actually able to learn new things. There are great tutorials out there on Internet (mostly videos) and sometimes it is almost impossible to find and follow all of them, that's why I'm trying to share my finds with my audience.*
+*After very popular [airbrush tutorial](/blog/airbrush-tutorial-scorpio/) from last time I've noticed that people interested in airbrushing like more then anything else tutorials which provide great information where they are actually able to learn new things. There are great tutorials out there on Internet (mostly videos) and sometimes it is almost impossible to find and follow all of them, that's why I'm trying to share my finds with my audience.*
 
 *Today's "**how to**" is for everyone afraid of giving their car very contrast look. You can actually keep your car in same color you have now but still make it different and stand out from the crowd. The author is **Anton Kuyanov** from Novorosiysk in Russia. Enjoy!*
 

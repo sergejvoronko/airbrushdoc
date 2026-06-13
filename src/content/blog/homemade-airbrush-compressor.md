@@ -9,9 +9,9 @@ draft: false
 heroImage: "/images/wp-uploads/compressor09.webp"
 ---
 
-I've been surfing the net the other day trying to find some airbrush compressors and found out the availability is very good so anyone can buy [**airbrush compressor**](http://www.airbrushdoc.com/beginners/air-compressor/) online with no hassle. Of course for a good one you will have to pay nice bunch of money. But at the same time I found really interesting solution for those of you that prefer some DIY over shopping. Here it is: **homemade airbrush compressor**.
+I've been surfing the net the other day trying to find some airbrush compressors and found out the availability is very good so anyone can buy [**airbrush compressor**](/blog/air-compressor/) online with no hassle. Of course for a good one you will have to pay nice bunch of money. But at the same time I found really interesting solution for those of you that prefer some DIY over shopping. Here it is: **homemade airbrush compressor**.
 
-If you build it yourself it will help you to save some money. The whole "**know-how**" comes from a Russian website so I will become translator for a while.  The main issue for all the **airbrush artists** is the right air pressure at the input of the [**airbrush gun**](http://www.airbrushdoc.com/beginners/choose-airbrush/). One of my issues at the start was money so I was looking for a simple and at the same time cheap solution. As you probably already figured out airbrush won't work without compressor. I knew that there is one kind of compressor that most of us can get for free or for a very little money. All I needed was just to find the way how to use it. What kind of compressor am I talking about? :) ...I'll tell you later.
+If you build it yourself it will help you to save some money. The whole "**know-how**" comes from a Russian website so I will become translator for a while.  The main issue for all the **airbrush artists** is the right air pressure at the input of the [**airbrush gun**](/blog/choose-airbrush/). One of my issues at the start was money so I was looking for a simple and at the same time cheap solution. As you probably already figured out airbrush won't work without compressor. I knew that there is one kind of compressor that most of us can get for free or for a very little money. All I needed was just to find the way how to use it. What kind of compressor am I talking about? :) ...I'll tell you later.
  For now you can follow these steps:
 
 	- Search
@@ -174,7 +174,7 @@ The steps you have to follow:
 
 	- Cleaning of the receiver
 
-[**Oil**](http://www.airbrushdoc.com/tipstricks/oil-compressor/), even the best one, is losing its properties and goes dirty with the time. So regardless of worked hours I recommend to change oil once a year.
+[**Oil**](/blog/oil-compressor/), even the best one, is losing its properties and goes dirty with the time. So regardless of worked hours I recommend to change oil once a year.
 
 When you're going to do that, take off the compressor all the hoses, unscrew the screw from the filling pipe, drain the oil out and pour new one in as you did during the build. Remember not to turn it on when it’s empty. While you have all of the hoses off exchange also filters and drain the oil if any from receiver. Do not pour that oil back into compressor.
 

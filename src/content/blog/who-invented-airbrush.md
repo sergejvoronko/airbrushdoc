@@ -33,7 +33,7 @@ Another site [Airbrushmuseum.com](http://www.airbrushmuseum.com/) provides look
 
 Abner Peeler sold the original model of airbrush for $10. [Tweet This!](http://clicktotweet.com/lUj0X)
 
-And went on to sell the patent to the [**Walkup Brothers**](http://www.airbrushdoc.com/history/airbrush-evolution-business/) in 1882 for $700. Quite a sum of money for that time. **Peeler** was not the only one to develop his own ideas and he always sold them whenever possible. It is for this reason that the [**Walkups**](http://www.airbrushdoc.com/history/airbrush-evolution-business/) were able to build a company based on Peeler’s ideas.
+And went on to sell the patent to the [**Walkup Brothers**](/blog/airbrush-evolution-business/) in 1882 for $700. Quite a sum of money for that time. **Peeler** was not the only one to develop his own ideas and he always sold them whenever possible. It is for this reason that the [**Walkups**](/blog/airbrush-evolution-business/) were able to build a company based on Peeler’s ideas.
 
 > ![First airbrush painting](/images/wp-uploads/1878Firstairbrushpainting.webp)
 > This is the **first airbrush painting** made by **Peeler's first airbrush**.
@@ -56,7 +56,7 @@ Needless to say **Penaluna** mentions that depending on the definition of paint
 
 The **airbrush** that was first given the name **Air Brush**, was developed by **Abner Peeler**
 
-and used a **hand-operated [compressor](http://www.airbrushdoc.com/tipstricks/homemade-airbrush-compressor/)**, and the inventor patented it "for the painting of [watercolors](http://en.wikipedia.org/wiki/Watercolor) and other artistic purposes". It was rather crude, being based on a number of spare parts in a jeweller’s workshop such as old screwdrivers and welding torches.
+and used a **hand-operated [compressor](/blog/homemade-airbrush-compressor/)**, and the inventor patented it "for the painting of [watercolors](http://en.wikipedia.org/wiki/Watercolor) and other artistic purposes". It was rather crude, being based on a number of spare parts in a jeweller’s workshop such as old screwdrivers and welding torches.
 
 [![](/images/wp/2010/12/pat01_peeler00256852-1s.gif)](/images/wp/2010/12/pat01_peeler00256852-1s.gif)
 

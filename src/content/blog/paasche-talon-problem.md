@@ -10,13 +10,13 @@ heroImage: "/images/wp-uploads/paasche_talon.webp"
 ---
 ## My Initial Paasche Talon Review
 
-Do you remember a while back I've posted [Paasche Talon](http://www.airbrushdoc.com/airbrush-reviews/paasche-talon/) airbrush review here? If you've read it you surely got the feeling that it is an amazing airbrush.
+Do you remember a while back I've posted [Paasche Talon](/blog/paasche-talon/) airbrush review here? If you've read it you surely got the feeling that it is an amazing airbrush.
 
 I've also had mentioned it before couple of times. It definitely doesn't compare to any of the Chinese knock offs, which I mentioned in my last article.
 
 Just a few days back I've received an email which changed my opinion on this.
 
-I'm not saying that a good airbrush suddenly became a bad one, that's not the case. If you carefully read my previous post about [airbrush prices](http://www.airbrushdoc.com/discussion/best-airbrush/) you will see that not just me but even my bro who actually does more airbrushing than me has switched from [Iwata](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/) to that **Talon** I reviewed simply because it fits the purpose.
+I'm not saying that a good airbrush suddenly became a bad one, that's not the case. If you carefully read my previous post about [airbrush prices](/blog/best-airbrush/) you will see that not just me but even my bro who actually does more airbrushing than me has switched from [Iwata](/blog/iwata-custom-micron-c-plus/) to that **Talon** I reviewed simply because it fits the purpose.
 
 ## Bryan's Bad Experience with Paasche Talon
 
@@ -66,13 +66,13 @@ Here is the whole message from Bryan:
 > 
 > I accepted but the experience was so bad that I started to look into other brands and perhaps same setup with different needles and nozzle. I started reading post on other users with **faulty Talons** and I can say that there are numerous faulty Talons out there.
 > 
-> This made me start looking into an alternative and I fell onto the [Badger Renegade](http://www.airbrushdoc.com/airbrush-reviews/badger-renegade-airbrush-review/) series. I started first looking at the issues users are getting with them and I could find none till now. I asked the shop to ask **Paasche** to send them the package instead and that i will take the [**Badger Krome**](/go/badger-renegade-krome) instead.
+> This made me start looking into an alternative and I fell onto the [Badger Renegade](/blog/badger-renegade-airbrush-review/) series. I started first looking at the issues users are getting with them and I could find none till now. I asked the shop to ask **Paasche** to send them the package instead and that i will take the [**Badger Krome**](/go/badger-renegade-krome) instead.
 > 
 > That's it Sergej about my bad experience with Talon. I think this one slipped the QC dept or has been just mishandled in factory, during package or engraving. Don't know where but it will not land in my hands anymore. **Never ever a Paasche again**. I have been told by an experienced artist that they are neglecting the quality of their brush and rather focus on cost now. This is bad as for only 20-30USD less they lost a customer.
 > 
 > I warned you this was gonna be a long story man but hey, you like long stories and I think I gave you a nice detailed situation, hahahah.
 > 
-> Also I would like to thank you as I started a **DIY silent compressor** and I followed a part of the process from your blog ([diy compressor](http://www.airbrushdoc.com/tipstricks/silent-compressor/)). I do have a 24lt piston type compressor but that one I built out of curiosity and by the time the package I ordered arrived. It let me paint at night and it is very very silent.
+> Also I would like to thank you as I started a **DIY silent compressor** and I followed a part of the process from your blog ([diy compressor](/blog/silent-compressor/)). I do have a 24lt piston type compressor but that one I built out of curiosity and by the time the package I ordered arrived. It let me paint at night and it is very very silent.
 > 
 > Regards,
 > Bryan

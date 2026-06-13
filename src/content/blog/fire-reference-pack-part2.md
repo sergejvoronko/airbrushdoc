@@ -9,7 +9,7 @@ draft: true
 heroImage: "/images/wp-uploads/f_09.webp"
 ---
 
-A second part of [fire reference](http://www.airbrushdoc.com/download/fire-reference-pack/), but this time it's in a better, superior high quality. The purpose of this pack (exactly as in any of my previous [reference packs](http://www.airbrushdoc.com/download/)) is not to teach you how to paint it (step by step), but to check if you’re doing it right and it looks as real as possible.
+A second part of [fire reference](/blog/fire-reference-pack/), but this time it's in a better, superior high quality. The purpose of this pack (exactly as in any of my previous [reference packs](http://www.airbrushdoc.com/download/)) is not to teach you how to paint it (step by step), but to check if you’re doing it right and it looks as real as possible.
 
 ### Fire Reference Pictures Description:
 

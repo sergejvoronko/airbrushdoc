@@ -24,7 +24,7 @@ It is clear that he studied the use of atomizers and was reputed to be friends w
 
 ## Charles Burdick, airbrushed art
 
-1. Picture in the middle is one of Burdick’s portraits of the poet Henry Wadsworth Longfellow made using his airbrush and air eraser. It is believed to be an entry to a Royal Academy of Art’s annual exhibition. **It was reputably rejected as they believed it to be a photograph. **([**Francis Edgar Stanley**](http://en.wikipedia.org/wiki/Francis_Edgar_Stanley) has ***portrait of Longelow*** painted by atomizer which you can find [here](http://www.airbrushdoc.com/history/who-invented-airbrush/) in B&W).
+1. Picture in the middle is one of Burdick’s portraits of the poet Henry Wadsworth Longfellow made using his airbrush and air eraser. It is believed to be an entry to a Royal Academy of Art’s annual exhibition. **It was reputably rejected as they believed it to be a photograph. **([**Francis Edgar Stanley**](http://en.wikipedia.org/wiki/Francis_Edgar_Stanley) has ***portrait of Longelow*** painted by atomizer which you can find [here](/blog/who-invented-airbrush/) in B&W).
 
 2. On the right are sketches signed by Burdick and show his considerable artistic ability as well as his skill in the use of his airbrush. He was to later mourn the fact that many airbrushers who only retouched photos have little artistic leanings and had mechanised the process.
 

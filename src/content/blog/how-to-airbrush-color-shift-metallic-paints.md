@@ -5,6 +5,7 @@ pubDate: 2026-05-13
 readingTime: 10
 heroImage: "/images/how-to-airbrush-color-shift-metallic-paints.webp"
 heroImageAlt: "Close-up of an airbrush spraying iridescent color shift paint onto a dark primed surface, showing a vivid blue-to-purple shift effect"
+category: "guides"
 tags: ["metallic paint", "color shift paint", "airbrush technique", "paint thinning"]
 draft: false
 faqs:

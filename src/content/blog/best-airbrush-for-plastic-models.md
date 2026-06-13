@@ -1,10 +1,11 @@
 ---
 title: "Best Airbrush for Plastic Models & Scale Kits in 2026: Gunpla, Military & Aircraft Compared"
-description: "Find the best airbrush for plastic models in 2026. Gunpla, military, and aircraft kits compared by needle size, PSI, and Tamiya, Mr. Color & Vallejo compatibility."
+description: "Find the best airbrush for plastic models in 2026. Gunpla, military, and aircraft kits compared by needle size, PSI, and Tamiya & Vallejo compatibility."
 pubDate: 2026-04-30
 readingTime: 10
 heroImage: "/images/best-airbrush-for-plastic-models.webp"
 heroImageAlt: "A modeler airbrushing a 1/35 scale military tank kit on a workbench with Tamiya paints nearby"
+category: "airbrush-reviews"
 tags: ["airbrush", "scale models", "gunpla", "plastic models"]
 draft: false
 faqs:

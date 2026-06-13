@@ -5,6 +5,7 @@ pubDate: 2026-05-05
 readingTime: 10
 heroImage: "/images/best-airbrush-for-3d-prints.webp"
 heroImageAlt: "An airbrush spraying grey primer onto a detailed resin 3D printed miniature on a painting stand"
+category: "airbrush-reviews"
 tags: ["3d printing", "airbrush for beginners", "primers", "miniature painting"]
 draft: false
 faqs:

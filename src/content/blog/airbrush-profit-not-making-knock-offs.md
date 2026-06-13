@@ -11,7 +11,7 @@ draft: false
 ---
 ## How Airbrush Manufacturers Can Profit Without Making Knock Offs
 
-In a rush to make a lot of money "the quick way" some of airbrush manufacturers make a lot of mistakes. **What do I mean?** It has been said here many times already. Some manufacturers think that making the product cheaper will bring more sales but they are forgetting about the quality. (For example - [master airbrush](http://www.airbrushdoc.com/airbrush-reviews/master-airbrush-review/) or [paasche talon](http://www.airbrushdoc.com/airbrush-reviews/paasche-talon-problem/)).
+In a rush to make a lot of money "the quick way" some of airbrush manufacturers make a lot of mistakes. **What do I mean?** It has been said here many times already. Some manufacturers think that making the product cheaper will bring more sales but they are forgetting about the quality. (For example - [master airbrush](/blog/master-airbrush-review/) or [paasche talon](/blog/paasche-talon-problem/)).
 
 ### Focus on Value Over Price
 
@@ -21,7 +21,7 @@ You see, for single artist to pay $100 for airbrush is more than enough, especia
 
 ### Premium Airbrush Market Dominance
 
-It's strange for me to see that on the Hi-End side of airbrush niche there is practically no competition for **Iwata** for the particular price range. They dominate the market and people are still buying their product even if you consider the high price. It is for lack of demand from customers if not for any other reason that they are not producing airbrush models such as [Custom Microns](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/) anymore.
+It's strange for me to see that on the Hi-End side of airbrush niche there is practically no competition for **Iwata** for the particular price range. They dominate the market and people are still buying their product even if you consider the high price. It is for lack of demand from customers if not for any other reason that they are not producing airbrush models such as [Custom Microns](/blog/iwata-custom-micron-c-plus/) anymore.
 
 Those Chinese knock offs which are selling for $20 are far from a quality product.
 

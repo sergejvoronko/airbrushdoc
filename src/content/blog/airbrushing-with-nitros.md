@@ -13,7 +13,7 @@ Many times I've run into a situation when I was out of paint. Not because I want
 
 ### What type of paint you can use in your airbrush, beside professional airbrush paint?
 
-Usually I recommend to use any acrylic based or water based paint from home hardware store. They always have a reducer for acrylic and sometimes, if the situation is really bad, you can thin acrylic with water. Read more about [airbrush paints](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/).
+Usually I recommend to use any acrylic based or water based paint from home hardware store. They always have a reducer for acrylic and sometimes, if the situation is really bad, you can thin acrylic with water. Read more about [airbrush paints](/blog/advanced-guide-to-airbrush-colors/).
 
 But this is not my case. I decided to give a few tips for **nitrocellulose (NC) based lacquer paint**. It is very common paint in eastern Europe hardware stores for very affordable price. Here is one comment about this:
 

@@ -9,11 +9,11 @@ draft: false
 heroImage: "/images/wp-uploads/LIBERTY-WALKUP.webp"
 ---
 
-[Peeler’s](http://www.airbrushdoc.com/history/who-invented-airbrush/) design still needed considerable development to make it a viable business proposition. [**Charles Burdick**](http://www.airbrushdoc.com/history/airbrush-charles-burdick/) and **Liberty Walkup** were willing to invest in the idea and paid $700 dollars for the initial design followed by another $150 for two updated prototypes.
+[Peeler’s](/blog/who-invented-airbrush/) design still needed considerable development to make it a viable business proposition. [**Charles Burdick**](/blog/airbrush-charles-burdick/) and **Liberty Walkup** were willing to invest in the idea and paid $700 dollars for the initial design followed by another $150 for two updated prototypes.
 
 Peeler signed over the invention to them in April 1882 and by August they were able to sell 63 of the paint distributors at a Photography convention in Indianapolis. The next 3 years saw the formation of the “**Airbrush Manufacturing Company**” and the development of a true business that would distribute worldwide.
 
-**Peeler** came up with the concept but it was **Liberty Walkup** who took up the idea and made it work. Not only as a functional art instrument but of course as a business idea to success. His brother [Charles](http://www.airbrushdoc.com/history/airbrush-charles-burdick/) appears to have had an early interest but this was purely financial.
+**Peeler** came up with the concept but it was **Liberty Walkup** who took up the idea and made it work. Not only as a functional art instrument but of course as a business idea to success. His brother [Charles](/blog/airbrush-charles-burdick/) appears to have had an early interest but this was purely financial.
 
 **Liberty** had a varied background as a schoolteacher and Bible salesman amongst other things but he seemed to find his focus in the “Airbrush” as he was to name it. His Nickel Plate works was followed by a manufacturing company which in turn became the “**Airbrush Manufacturing Company**” of Rockford Illinois in 1883.Together with his wife Phoebe who was an accomplished **watercolor artist**, Liberty set about proclaiming the advantages of the new [**Airbrush**](http://www.airbrushdoc.com), most notably in terms of speed of rendering. As a result when the company was formed **$35,000** of stock was raised in the first half an hour and all **$50,000** by the second day! With this level of business support **Liberty Walkup** was able to seriously start developing and marketing the **Airbrush**.
 
@@ -23,7 +23,7 @@ A date for all Airbrushists to remember. At precisely **7pm on 6th October 1883
 
 ## 1885 – Airbrush production
 
-By 1885 Airbrush production was in full swing and **Liberty Walkup** was able to start marketing and selling his new and much refined single trigger design. Phoebe Walkup had great success with an acclaimed portrait exhibition at the 1884 [**World Exposition**](http://www.airbrushdoc.com/history/1893-columbian-exposition-chicago/) in New Orleans and this had been an excellent springboard from which to publicize the Company. Small classes were set up to teach people how to use this new art tool but demand would become so great that within three years the ”**Illinois Art School**” would be formed to accommodate all the interested students.
+By 1885 Airbrush production was in full swing and **Liberty Walkup** was able to start marketing and selling his new and much refined single trigger design. Phoebe Walkup had great success with an acclaimed portrait exhibition at the 1884 [**World Exposition**](/blog/1893-columbian-exposition-chicago/) in New Orleans and this had been an excellent springboard from which to publicize the Company. Small classes were set up to teach people how to use this new art tool but demand would become so great that within three years the ”**Illinois Art School**” would be formed to accommodate all the interested students.
 
 ## 1885 – The Production Model Airbrush
 

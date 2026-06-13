@@ -24,7 +24,7 @@ First Paasche's airbrush was patented in 1905. The grandfather of legendary **Pa
 
 ![](/images/wp-uploads/paasche-patent-1907-1.webp)
 
-![](/images/wp-uploads/Airbrush_Paasche_A.webp)This airbrush had the side mounted trigger and the horizontal orientation of the **[Peeler](http://www.airbrushdoc.com/history/who-invented-airbrush/)/[Walkup](http://www.airbrushdoc.com/history/airbrush-evolution-business/) designs**. The body had **dual tube design**.
+![](/images/wp-uploads/Airbrush_Paasche_A.webp)This airbrush had the side mounted trigger and the horizontal orientation of the **[Peeler](/blog/who-invented-airbrush/)/[Walkup](/blog/airbrush-evolution-business/) designs**. The body had **dual tube design**.
 
 The needle sits deeper in the paint cup and makes it easier to pick up paint. Both airbrushes (1905 and 1907) had already something in common with present day airbrushes (separate reservoir for paint and finger trigger).
 

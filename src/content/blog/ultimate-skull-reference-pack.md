@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/Human_Skull_2_by_rgstock777.webp"
 ---
 ## Skull Reference Pack for Airbrush Artists
 
-It was really long time since I posted something to download. Last time it was [Fire Reference Pack](http://www.airbrushdoc.com/download/fire-reference-pack/) as I knew that there is a huge audience that wants to paint real fire flames. There is a lot of artists painting skulls all the time as they were obsessed with them. So I decided to make a pack that will include lots of skulls from different views, with different shapes ... 
+It was really long time since I posted something to download. Last time it was [Fire Reference Pack](/blog/fire-reference-pack/) as I knew that there is a huge audience that wants to paint real fire flames. There is a lot of artists painting skulls all the time as they were obsessed with them. So I decided to make a pack that will include lots of skulls from different views, with different shapes ... 
 
 ## What's Included in the Ultimate Skull Reference Pack
 
@@ -20,7 +20,7 @@ When I started I was concentrated on pictures of real skulls but after a while I
 
 ### Use as Inspiration Gallery
 
-I even think now that this pack is not actually just for reference. You can use it as your private [skull inspiration](http://www.airbrushdoc.com/gallery/real-fire-skulls/) gallery (I got that feeling, when I was listing through, that now is the moment to go and paint something like this one with something like that one ...) :)
+I even think now that this pack is not actually just for reference. You can use it as your private [skull inspiration](/blog/real-fire-skulls/) gallery (I got that feeling, when I was listing through, that now is the moment to go and paint something like this one with something like that one ...) :)
 
 ## Important Attribution and Licensing Information
 

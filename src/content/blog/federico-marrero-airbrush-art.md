@@ -27,7 +27,7 @@ I made this video about Dexter because I am a big fan and I saw all the seasons 
 
 http://www.youtube.com/embed/Ga3ibs6-lZw
 
-The tools that I used here was [Harder&Steenbeck Infinity](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-infinity-review/) airbrush, paper A3 Canson 370 g/m2.
+The tools that I used here was [Harder&Steenbeck Infinity](/blog/harder-and-steenbeck-infinity-review/) airbrush, paper A3 Canson 370 g/m2.
 
 The paint that i used was water base colors ([**Wicked from CREATEX**](/go/createx-wicked-colors)).
 
@@ -37,7 +37,7 @@ And I've also used some masking paper and knife.
 
 ![Link-zelda-Federico-Marrero](/images/wp-uploads/Link-zelda-Federico-Marrero.webp)
 
-In this video I do all by free hand on the black T-shirt. Here I used [Harder&Steenbeck Evolution](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-evolution-two-in-one/) series airbrush.
+In this video I do all by free hand on the black T-shirt. Here I used [Harder&Steenbeck Evolution](/blog/harder-and-steenbeck-evolution-two-in-one/) series airbrush.
 
 The pain used for this art piece was **CREATEX** black and white.
 
@@ -47,7 +47,7 @@ http://www.youtube.com/embed/LKZwC4NN4iw
 
 ![Mumm_ra_Federico_Marrero](/images/wp-uploads/Mumm_ra_Federico_Marrero.webp)
 
-In this video I airbrush on my laptop and use the [Infinity from Harder&Steenbeck](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-infinity-review/) (0,15 needle set), water base paint and urethane coat.
+In this video I airbrush on my laptop and use the [Infinity from Harder&Steenbeck](/blog/harder-and-steenbeck-infinity-review/) (0,15 needle set), water base paint and urethane coat.
 
 http://www.youtube.com/embed/vL11DpbI6_4
 

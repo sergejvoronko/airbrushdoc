@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Harder-and-Steenback-Evolution.webp"
 ---
 
-Maybe you all remember that I have mentioned this **airbrush** before. I did not do a review, I just showed some tips on** [how to tweak evolution airbrush](http://www.airbrushdoc.com/tipstricks/tuning-airbrush-evolution/)**. I admit it is not that perfect and needs some more adjusting. But when I posted a review on **[Aztek 7778](http://www.airbrushdoc.com/airbrush-reviews/aztek-7778-airbrush/)** I decided to continue with more reviews. I'll start with one I have at home - [**Evolution Two in One**](/go/hs-evolution-two-in-one) from **Harder  and Steenbeck**.
+Maybe you all remember that I have mentioned this **airbrush** before. I did not do a review, I just showed some tips on** [how to tweak evolution airbrush](/blog/tuning-airbrush-evolution/)**. I admit it is not that perfect and needs some more adjusting. But when I posted a review on **[Aztek 7778](/blog/aztek-7778-airbrush/)** I decided to continue with more reviews. I'll start with one I have at home - [**Evolution Two in One**](/go/hs-evolution-two-in-one) from **Harder  and Steenbeck**.
 
 When I started to search for a perfect airbrush I had some requirements. One of them was the price and I bet that perfect one would cost a nice bunch of cash. So the word "perfect"  here is limited by it cost. I didn't want to spend fortune on something I wasn't sure is worth this money. And paying just for a brand name was not an option too.
 
@@ -21,13 +21,13 @@ I preferred an [airbrush](http://www.airbrushdoc.com) with **gravity feed**. Ano
 
  	- First of all as I mentioned before the quality of materials. This airbrush is made of steel. It means that it's going to be resistant to any chemicals
 
- 	- Second was material of seals (teflon). It is resistant to any reducers (It has some rubber seals to make it more hermetic, but this can be fixed as per my earlier post here [how to fix evolution airbrush](http://www.airbrushdoc.com/tipstricks/tuning-airbrush-evolution/))
+ 	- Second was material of seals (teflon). It is resistant to any reducers (It has some rubber seals to make it more hermetic, but this can be fixed as per my earlier post here [how to fix evolution airbrush](/blog/tuning-airbrush-evolution/))
 
  	- Self centering socket-type nozzle. It means  that its saddle is made the way so you don't have to take it out every time you clean it (less risk that you'll break it). On the other side to make it this way costs more on manufacturer's side and then results in higher price.
 
  	- The set that you buy from Harder and Steenbeck has, apart from default complete airbrush with 0.2 nozzle tip with a needle and cup 2ml, another nozzle with a needle for 0.4mm and cup 5ml.  Altogether you get almost two airbrushes in one (One with smaller tip for fine art and large tip for coating or painting large areas).
 
- 	- The price is still lower than any of its competition. For example [**Iwata **](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/)is more expensive but does not offer as many accessories as Harder and Steenbeck. Even the price for spare parts is much lower and it is more available in Europe that Japanese Iwata.
+ 	- The price is still lower than any of its competition. For example [**Iwata **](/blog/iwata-custom-micron-c-plus/)is more expensive but does not offer as many accessories as Harder and Steenbeck. Even the price for spare parts is much lower and it is more available in Europe that Japanese Iwata.
 
 I have to admit, I prefered German firmness instead of Japanese quality. To my luck I found online shop in UK and ordered not only airbrush but "**Finespray Quick Release Body & Tail Kit AB-117**" and **Quick Fix** too.
 
@@ -63,6 +63,6 @@ I hope that this is enough just to see that this is very good airbrush.
 
 ## Conclusion
 
-I am satisfied with this airbrush (even with some surprises that it showed). I would recommend also to add to your buying list AB-117 quick release and quick fix. The work with airbrush is easy. Really satisfying is that Germans did confirm the quality of their product (again don't forget to check my earlier post about this tool I have mentioned in the first paragraph). Comparing to my earlier patient [Aztek 7778](http://www.airbrushdoc.com/airbrush-reviews/aztek-7778-airbrush/) it is better tool even if it doesn't have that much accessories packed in beautiful box. **Evolution Two in One **gives me much more flexibility in fine art and I highly recommend buying  this [airbrush for beginners](http://www.airbrushdoc.com/beginners/choose-airbrush/).
+I am satisfied with this airbrush (even with some surprises that it showed). I would recommend also to add to your buying list AB-117 quick release and quick fix. The work with airbrush is easy. Really satisfying is that Germans did confirm the quality of their product (again don't forget to check my earlier post about this tool I have mentioned in the first paragraph). Comparing to my earlier patient [Aztek 7778](/blog/aztek-7778-airbrush/) it is better tool even if it doesn't have that much accessories packed in beautiful box. **Evolution Two in One **gives me much more flexibility in fine art and I highly recommend buying  this [airbrush for beginners](/blog/choose-airbrush/).
 
 [support airbrushdoc by shopping at Chicago Airbrush Supply](http://www.airbrushdoc.com/chicagoairbrush)

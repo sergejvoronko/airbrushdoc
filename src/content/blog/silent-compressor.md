@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/silent_airbrush_compressor.webp"
 ---
 
-I have posted an article about [silent home-made airbrush compressor](http://www.airbrushdoc.com/tipstricks/homemade-airbrush-compressor/) before. It was a free translation of article I have found at one of the resources from eastern Europe I use. Then I decided to build (diy air compressor) myself and since I have found few tips to make this compressor more comfortable to use with less maintenance effort.
+I have posted an article about [silent home-made airbrush compressor](/blog/homemade-airbrush-compressor/) before. It was a free translation of article I have found at one of the resources from eastern Europe I use. Then I decided to build (diy air compressor) myself and since I have found few tips to make this compressor more comfortable to use with less maintenance effort.
 
 Here is the schema:
 
@@ -32,7 +32,7 @@ When we consider the pressure in the tank, the air is as well pressing in revers
 
 Check valve allows air to flow only one way.
 
-Do not forget what I mentioned in my earlier article about compressor that fridge compressor use to spit some oil on its output, and I've recommended to use transparent tank that you could see all the spat oil in it and from time to time empty it. Here we go further by using  oil-humidity collector-reducer (professionally called Air Filter / Regulator / gauge - *Ampro AR2654 3/8-Inch Air Filter, Regulator*![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B003YL4D3C)) before the check valve, that means there will be no need to empty the receiver :).
+Do not forget what I mentioned in my earlier article about compressor that fridge compressor use to spit some oil on its output, and I've recommended to use transparent tank that you could see all the spat oil in it and from time to time empty it. Here we go further by using  oil-humidity collector-reducer (professionally called Air Filter / Regulator / gauge - *Ampro AR2654 3/8-Inch Air Filter, Regulator*) before the check valve, that means there will be no need to empty the receiver :).
 
 ![](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
 
@@ -52,7 +52,7 @@ Simple explanation of its function:
 
 > It will switch compressor off when we get maximum pressure in the tank and then switch it back on when pressure gets down to the minimum level. On the schema it is connected between tank and check valve because we have to set it up according to pressure from the tank. Technology is very simple and genius at the same time. The compressor is connected to electricity through this switch. When there is no pressure the circuit is closed and compressor is switched on pumping the air into tank. But when pressure is raising up pressure switch gets to a certain point when the pressure gets to the maximum and the circuit and compressor goes off. While we're working the tank is loosing the air and at one moment the pressure is too low to keep the circuit of pressure switch opened so compressor will go back on again; so your compressor works less with better efficiency and it won't overheat and hopefully will live longer.
 
-The pressure switch is very useful thing because it saves not only our compressor but reduces our electricity bills as well (*Air Pressure Switch for Single-Stage and Dual-Stage Air Compressor - 1/4in*![](http://www.assoc-amazon.com/e/ir?t=aircom01f-20&l=as2&o=1&a=B0000AXCUL)).
+The pressure switch is very useful thing because it saves not only our compressor but reduces our electricity bills as well (*Air Pressure Switch for Single-Stage and Dual-Stage Air Compressor - 1/4in*).
 
 ### How to set-up the pressure switch?
 
@@ -62,7 +62,7 @@ This switch has two threads under the hood. All you have to do is to set the pos
 
 What we have to find that is which particular thread is responsible for switching it on / off.
 
-Update: just added more detailed instruction on "[**How to Set Up The Air Pressure Switch**](http://www.airbrushdoc.com/tipstricks/how-to-set-up-the-air-pressure-switch/)"
+Update: just added more detailed instruction on "[**How to Set Up The Air Pressure Switch**](/blog/how-to-set-up-the-air-pressure-switch/)"
 
 That is all from theory. Let's do some manual work. I won't write about building process, you can read it [here](../?p=32) because it is similar except for few things that are not really important. All depends on your skills.
 

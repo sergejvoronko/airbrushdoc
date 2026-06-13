@@ -15,7 +15,7 @@ Let's say you are totally new to airbrushing, a newbie that loves art and loves 
 
 > Many times you may have noticed that people call *airbrush gun* just *airbrush. *Well, to give everything the right name I'm not going to call airbrush gun just simple **airbrush** because [airbrush](http://www.airbrushdoc.com) in my opinion is a type of art but not a tool, at least in this article I'm going to call it gun.
 
-What you have to know that not always it is so easy to start because you will have to invest some money in it. I just want to warn you now that beside airbrush gun you will need other tools ([air compressor](http://www.airbrushdoc.com/beginners/air-compressor/), [special paints](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/) ...). In this post precisely, we're going to talk about airbrush guns only.
+What you have to know that not always it is so easy to start because you will have to invest some money in it. I just want to warn you now that beside airbrush gun you will need other tools ([air compressor](/blog/air-compressor/), [special paints](/blog/advanced-guide-to-airbrush-colors/) ...). In this post precisely, we're going to talk about airbrush guns only.
 
 So airbrush gun is a tool (an air gun) that artists use to paint. A professional painter would probably be able to paint an art peace with cheapest tool out there, so don't expect to become good at airbrush right away. Prepare to practice a lot to gain some skills and results will come for sure.
 
@@ -57,7 +57,7 @@ Gravity feed airbrush doesn't need as high pressure as the siphon feed. This is 
 
 **![](/images/wp-uploads/bad250-4.webp)**This one has a bottle on the bottom (sometime it's called bottom feed) and as you can get from the name it works on the principle that there is a tube inside the bottle that goes from airbrush gun body. Blown air over the tube pulls the paint up into the mixing chamber. Big plus for this type is capacity as the bottles used there are bigger than the cup used in gravity feed airbrushes. This is a huge advantage when painting big objects (no stops to refill).
 
-Now when choosing between these two I want to give you some advises. Gravity feed cups can vary in sizes and some of this guns have a possibility to change the cup, some are permanently fixed to the body (most cases). Some come with a lid on the cup and some don't. So which one do you choose, depends on the purpose of your airbrushing. If you're going to paint small details you'll probably prefer smaller cup, if you use acrylic paint you would prefer a cup with a lid. It does not mean that you have to buy exactly this, you can always make a lid (see [here](http://www.airbrushdoc.com/tips-and-tricrush/tuning-airbrush-evolution/), this is just a single example).
+Now when choosing between these two I want to give you some advises. Gravity feed cups can vary in sizes and some of this guns have a possibility to change the cup, some are permanently fixed to the body (most cases). Some come with a lid on the cup and some don't. So which one do you choose, depends on the purpose of your airbrushing. If you're going to paint small details you'll probably prefer smaller cup, if you use acrylic paint you would prefer a cup with a lid. It does not mean that you have to buy exactly this, you can always make a lid (see [here](/blog/tuning-airbrush-evolution/), this is just a single example).
 For some of siphon feed airbrush guns you can buy a cup that can be mounted to the side of airbrush. This can cut the pressure needed to use it. But not every gun has this functionality.
 
 ![](/images/wp-uploads/spectrum_paint_bottles.webp)![](/images/wp-uploads/Spectrum2000.webp)
@@ -124,9 +124,9 @@ If you check those links, the prices vary a lot. **IWATA** brand definitely belo
 
 ![](/images/wp-uploads/iwata-micron-1.webp)![](/images/wp-uploads/iwata-micron-2.webp)
 
-Which one you're going to buy will depend mostly on your financial situation. Don't forget that besides airbrush you have to get air compressor or build one (see [here](http://www.airbrushdoc.com/tips-and-tricks-airbrush/silent-compressor/) or [here](http://www.airbrushdoc.com/tips-and-tricks-airbrush/homemade-airbrush-compressor/)).
+Which one you're going to buy will depend mostly on your financial situation. Don't forget that besides airbrush you have to get air compressor or build one (see [here](/blog/silent-compressor/) or [here](/blog/homemade-airbrush-compressor/)).
 
-At this point I have no more words to say and I hope that this article will help you a little. I'm counting on professionals who won't stay in shadow and will share their experiences in comments. This is it for *airbrush guns*, next time I want to say something about *[air compressors](http://www.airbrushdoc.com/beginners/air-compressor/)*.
+At this point I have no more words to say and I hope that this article will help you a little. I'm counting on professionals who won't stay in shadow and will share their experiences in comments. This is it for *airbrush guns*, next time I want to say something about *[air compressors](/blog/air-compressor/)*.
 
 Here are some more results that I collected from airbrushdoc audience:
 ![airbrush votes](/images/wp-uploads/airbrush-votes3.webp)

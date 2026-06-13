@@ -34,7 +34,7 @@ The question is: **Where Do I Start?**
 
 These days you can find a lot of information on the Internet. It could be a **book or video** (depends on what you prefer) from someone who actually reached some summits in **airbrushing** and who is a master in particular airbrush style that you like more than any other style. As a result you will find yourself doing your hobby just to get everyone around you and of course yourself into a good mood. Or you can find out that it's not that awesome as you have thought it could be and you just quit it. 
 
-But if you decided to start anyway, first thing to do is to start gaining information. If you have a small knowledge about **airbrushing**, I recommend to start [here](http://www.airbrushdoc.com/beginners/choose-airbrush/). I also recommend to check other artists [galleries](http://www.airbrushdoc.com/gallery/) just to get some inspiration, and for real nerds there is some "[How to](http://www.airbrushdoc.com/discussion/)".
+But if you decided to start anyway, first thing to do is to start gaining information. If you have a small knowledge about **airbrushing**, I recommend to start [here](/blog/choose-airbrush/). I also recommend to check other artists [galleries](http://www.airbrushdoc.com/gallery/) just to get some inspiration, and for real nerds there is some "[How to](http://www.airbrushdoc.com/discussion/)".
 
 ## 2. Killing Your Time with Airbrushing
 

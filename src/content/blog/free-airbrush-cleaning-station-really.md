@@ -12,7 +12,7 @@ heroImage: "/images/wp-uploads/airbrush-cleaning-station.webp"
 
 ## Understanding Commercial Cleaning Stations
 
-When I need to clean my airbrush I usually use some pieces of paper that I don't need and just spray over them but sometimes I accidentally spray on something I didn't want to and the result is a big mess. I have heard that out there exist something called [**cleaning station**](http://www.airbrushdoc.com/tipstricks/cleaning-station-and-stand-in-one/) for [**airbrush**](http://www.airbrushdoc.com).
+When I need to clean my airbrush I usually use some pieces of paper that I don't need and just spray over them but sometimes I accidentally spray on something I didn't want to and the result is a big mess. I have heard that out there exist something called [**cleaning station**](/blog/cleaning-station-and-stand-in-one/) for [**airbrush**](http://www.airbrushdoc.com).
 
 So I googled it and there you go, first result "[**Iwata Airbrush Cleaning Station**](/go/iwata-cleaning-station)". When I saw how it looks like I decided to build a simple one by myself. As to build this tool is really very simple and I don't see any reason to pay for that thing any money.
 

@@ -19,7 +19,7 @@ Usually when someone asks me about certain use that I'm not familiar with I just
 
 ## Acrylic Paint
 
-I hope that you have read my [guide to airbrush colors](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/), if you haven't, have a look. If you want to give a bright colored clay different shade by mixing the paint into it I would not recommend to use acrylic paints for that. Better choice here is ink. Why?
+I hope that you have read my [guide to airbrush colors](/blog/advanced-guide-to-airbrush-colors/), if you haven't, have a look. If you want to give a bright colored clay different shade by mixing the paint into it I would not recommend to use acrylic paints for that. Better choice here is ink. Why?
 
 Acrylic paint will be thinned with water and if you get water inside the clay, this water will try to evaporate during baking and you will end up with a porous uneven surface.
 

@@ -54,10 +54,8 @@ const CATEGORY_META: Record<string, { title: string; description: string; label:
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
 
-  return Object.keys({
-    'airbrush-reviews': 1, 'beginners': 1, 'discussion': 1, 'download': 1,
-    'gallery': 1, 'guides': 1, 'history': 1, 'tipstricks': 1, 'video': 1,
-  }).map(cat => ({
+  const cats = [...new Set(allPosts.map(p => p.data.category))];
+  return cats.map(cat => ({
     params: { category: cat },
     props: {
       posts: allPosts

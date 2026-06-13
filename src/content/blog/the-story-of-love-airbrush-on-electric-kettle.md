@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/airbrush-story-of-love-42.webp"
 ---
 ## About the Artist and Project
 
-*[UNREALTECH.RU](http://www.unrealtech.ru) is a** great airbrush website** for everyone who can read cyrillic and knows something about airbrush. Last time I've had nice chat with author and founder of that site and he gave me the permission to use his website as my source of information. As most of my visitors come from USA and other countries that understand english, I think that one more source of any useful info can have only positive impact. You may have seen some of their stuff in the post [airbrushing toilet seats](http://www.airbrushdoc.com/gallery/airbrushed-toilet-seats/). Here is another tutorial from them, so, enjoy it!*
+*[UNREALTECH.RU](http://www.unrealtech.ru) is a** great airbrush website** for everyone who can read cyrillic and knows something about airbrush. Last time I've had nice chat with author and founder of that site and he gave me the permission to use his website as my source of information. As most of my visitors come from USA and other countries that understand english, I think that one more source of any useful info can have only positive impact. You may have seen some of their stuff in the post [airbrushing toilet seats](/blog/airbrushed-toilet-seats/). Here is another tutorial from them, so, enjoy it!*
 
 The story started out of love to **airbrushing** and then really slowly it has grown to a love to animals, in my case. I think you have to love something you paint. When guys from [unrealtech.ru](http://www.unrealtech.ru) started this competition I decided to take part in it. The theme of the contest was "**Airbrush on The Kettle**".
 

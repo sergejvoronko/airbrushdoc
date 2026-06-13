@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Iwata-Custom-Micron-C-Plus.webp"
 ---
 
-I've made couple of reviews already and I couldn't wait to write this one (the special one) about [**Iwata Custom Micron C Plus airbrush (CM C+)**](/go/iwata-custom-micron-cm-c). All because the fact that it has been all this time within my reach. In one of my earlier posts you can see a video [Airbrushing Mural](http://www.airbrushdoc.com/gallery/mural-in-bedroom-video/) where my brother is working with this particular airbrush.
+I've made couple of reviews already and I couldn't wait to write this one (the special one) about [**Iwata Custom Micron C Plus airbrush (CM C+)**](/go/iwata-custom-micron-cm-c). All because the fact that it has been all this time within my reach. In one of my earlier posts you can see a video [Airbrushing Mural](/blog/mural-in-bedroom-video/) where my brother is working with this particular airbrush.
 
 So, what's so special about this airbrush and why will every professional tell you that **Iwata CM C+** is awesome airbrush and they all just love it?  
 
@@ -43,7 +43,7 @@ If we look at everything that comes with this airbrush, we can see a big differe
 
  	- **Quick Fix with a dial**
 
-![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-6.webp)Yes, it has a speed dial similar to one I mentioned in [Infinity review](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-infinity-review/). The function is similar to set the limit for trigger maximum level. As in Infinity it adjusts the needle movement and paint flow but it doesn't have two functions (screwing only).
+![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-6.webp)Yes, it has a speed dial similar to one I mentioned in [Infinity review](/blog/harder-and-steenbeck-infinity-review/). The function is similar to set the limit for trigger maximum level. As in Infinity it adjusts the needle movement and paint flow but it doesn't have two functions (screwing only).
 
 ![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-9.webp)
 

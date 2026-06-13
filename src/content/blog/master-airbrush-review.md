@@ -12,7 +12,7 @@ heroImage: "/images/wp-uploads/Master-Airbrush-Review-7.webp"
 
 In today's **airbrush review** I decided to start with quote from one of emails I'm getting from my readers "*It seems like you have reviewed the top models of several brands. On the other end of the spectrum, I realized there are some unknown manufacturers offer something that looks like the high-end airbrushes, e.g., Iwata CM-C Plus. I hope you won't find my suggestions boring. I suppose most people won't have the budget to buy many airbrushes & many like myself has learn things the hard way wasting $ on the quest to find the most right tool.*"
 
-I don't have that particular airbrush that looks like **[Iwata CM-C Plus](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/)** to make a decent review but I happened to have the one that looks exactly as [**Iwata CM-B**](/go/iwata-cm-b) and that costs under 40 bucks with delivery and everything. The manufacturer is from China and the brush is called **Master Airbrush BD-200**.
+I don't have that particular airbrush that looks like **[Iwata CM-C Plus](/blog/iwata-custom-micron-c-plus/)** to make a decent review but I happened to have the one that looks exactly as [**Iwata CM-B**](/go/iwata-cm-b) and that costs under 40 bucks with delivery and everything. The manufacturer is from China and the brush is called **Master Airbrush BD-200**.
 
 It is a double action airbrush with regulation of paint amount. On the first look and touch you will think that this is solid and fine airbrush and maybe you will be curious why this tool is so cheap?
 
@@ -64,13 +64,13 @@ I would like to apologize for my dirty hands but I think all painters will under
 
 ## Materials and Durability Issues
 
-In my opinion, so far this airbrush has too much useless parts that fail their purpose (if I compare it to any good brand airbrush). The quality of materials used for this tool is fairly good as in this price range you can't expect more. Huge minus here is that all the sealing (O-rings) are made of rubber so any good reducer will destroy them all very quickly. To solve this there is a small tweak that you can read [here](http://www.airbrushdoc.com/tipstricks/tuning-airbrush-evolution/).
+In my opinion, so far this airbrush has too much useless parts that fail their purpose (if I compare it to any good brand airbrush). The quality of materials used for this tool is fairly good as in this price range you can't expect more. Huge minus here is that all the sealing (O-rings) are made of rubber so any good reducer will destroy them all very quickly. To solve this there is a small tweak that you can read [here](/blog/tuning-airbrush-evolution/).
 
 ![](/images/wp-uploads/Master-Airbrush-Review-32.webp)
 
 ### Paint Compatibility
 
-I find it very difficult to control this airbrush while using **Createx** and **Auto-Air** paints. But with finer pigment ([Nitro](http://www.airbrushdoc.com/tipstricks/airbrushing-with-nitros/)) it works better until reducer will make its work on the packing.
+I find it very difficult to control this airbrush while using **Createx** and **Auto-Air** paints. But with finer pigment ([Nitro](/blog/airbrushing-with-nitros/)) it works better until reducer will make its work on the packing.
 
 The best solution is probably to use **china ink** or something similar as it is very soft, does not smell and it's not toxic. Of course the use is limited (Can't do car airbrushing for example).
 
@@ -80,7 +80,7 @@ The best solution is probably to use **china ink** or something similar as it is
 
 ## Needle Centering and Performance Problems
 
-Another thing that I would like to point out is needle centering. Well it is far from something called **self-centering nozzle system** I mentioned in [H&S Infinity Review](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-infinity-review/). Actually there is no way to center the needle the proper way and it is not centered at all, the whole time. I could not make a proper snapshot so I made a drawing just to show you how it is actually centered :).
+Another thing that I would like to point out is needle centering. Well it is far from something called **self-centering nozzle system** I mentioned in [H&S Infinity Review](/blog/harder-and-steenbeck-infinity-review/). Actually there is no way to center the needle the proper way and it is not centered at all, the whole time. I could not make a proper snapshot so I made a drawing just to show you how it is actually centered :).
 
 ![](/images/wp-uploads/master-airbrush-centering1.webp)
 
@@ -92,7 +92,7 @@ As you can see that the quality of needle and nozzle is very poor, **they are of
 
 I've tried more airbrushes from this manufacturer. I even tried to buy and change some parts like needle and nozzle (all available sizes from 0.18mm to 0.5mm) just to get rid of the offset, unfortunately no results.
 
-With this airbrush you can fix some scratches, paint some models, [cell phones](http://www.airbrushdoc.com/gallery/airbrush-phone/) or do any really small job. It is not that bad to work with stencils but I would say unthinkable to do freehand. I think that manufacturer will help not just us, customer but himself too if they include in description the fact "**NOT SUITABLE FOR FREEHAND**". My overall feeling is that any beginner starting with master airbrush will lose the interest in airbrushing as art for  some time surely or in worst case scenario for good.
+With this airbrush you can fix some scratches, paint some models, [cell phones](/blog/airbrush-phone/) or do any really small job. It is not that bad to work with stencils but I would say unthinkable to do freehand. I think that manufacturer will help not just us, customer but himself too if they include in description the fact "**NOT SUITABLE FOR FREEHAND**". My overall feeling is that any beginner starting with master airbrush will lose the interest in airbrushing as art for  some time surely or in worst case scenario for good.
 
 If you have tried something similar or have any other airbrushes that make bad name for airbrush art, please tell us in comments below and don't forget to tell your friends to be aware of such brands.
 

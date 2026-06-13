@@ -12,7 +12,7 @@ heroImage: "/images/wp-uploads/Albastrelu-Viorel.webp"
 
 Just a few weeks ago I received a question from one of my Facebook follower asking me if I can share his work with my audience.
 
-He has build his own "DIY" air compressor. The nice thing about it is that the compressor was build by following my tutorial called "[Silent Compressor](http://www.airbrushdoc.com/tipstricks/silent-compressor/)" which I've published some time ago. To be honest I could not wait to see it! Viorel describes this project a little bit below here - why he did it, what material did he use and what was the cost.
+He has build his own "DIY" air compressor. The nice thing about it is that the compressor was build by following my tutorial called "[Silent Compressor](/blog/silent-compressor/)" which I've published some time ago. To be honest I could not wait to see it! Viorel describes this project a little bit below here - why he did it, what material did he use and what was the cost.
 
 ## DIY Air Compressor Build
 
@@ -20,7 +20,7 @@ He has build his own "DIY" air compressor. The nice thing about it is that the c
 
 *My reason to built a silent compressor was obvious, the noise from my other one was bothering me. For materials and cost - I used a fire extinguisher tank and copper pipes to get as much psi stored as possible (although my pressure switch cut's off at 4 bar/60 psi, enough for me), a compressor from a refrigeration room system thing, hence a bigger compressor. I've used a gasoline filter and oil filter and I mounted a pressure switch, gauge, and pressure reducer with a water filter at the end. The total cost only on the small things was about 50 Euros because I already had the compressor and the tank. That's all I can say for now.*
 
-I think this is really enough, if someone wants to read more in detail the whole process with tips and recommendations then check [diy compressor](http://www.airbrushdoc.com/tipstricks/homemade-airbrush-compressor/) or [compressor with pressure switch](http://www.airbrushdoc.com/tipstricks/silent-compressor/). I think that there is no need to write about the build process all over again. Viorel didn't make that many snaps of it, but still I think we will get it.
+I think this is really enough, if someone wants to read more in detail the whole process with tips and recommendations then check [diy compressor](/blog/homemade-airbrush-compressor/) or [compressor with pressure switch](/blog/silent-compressor/). I think that there is no need to write about the build process all over again. Viorel didn't make that many snaps of it, but still I think we will get it.
 
 ### Compressor Components
 
@@ -30,7 +30,7 @@ On this picture is compressor **Embraco Aspera T6220GK** from air conditioning s
 
 ![](/images/wp-uploads/diy-compressor-04.webp)
 
-Above is an old fire extinguisher tank with already welded support base for compressor, welded feet and mounted practically all the air system with gauge, [pressure switch](http://www.airbrushdoc.com/tipstricks/how-to-set-up-the-air-pressure-switch/) and water filter. Below you can see same thing without air system because it was painted. As you can see Viorel gave it something like branding.
+Above is an old fire extinguisher tank with already welded support base for compressor, welded feet and mounted practically all the air system with gauge, [pressure switch](/blog/how-to-set-up-the-air-pressure-switch/) and water filter. Below you can see same thing without air system because it was painted. As you can see Viorel gave it something like branding.
 
 ![](/images/wp-uploads/diy-compressor-05.webp)
 

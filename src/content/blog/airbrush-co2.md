@@ -34,7 +34,7 @@ heroImage: "/images/wp-uploads/Per-Corell.webp"
 
 ## CO2 vs. Air for Airbrushing
 
-*My dear friend [Per Corell](http://www.airbrushdoc.com/tipstricks/street-art-airbrush/) has read the article and he had come to me with his opinion on this problem:*
+*My dear friend [Per Corell](/blog/street-art-airbrush/) has read the article and he had come to me with his opinion on this problem:*
 
 Hi. I had mentioned before that one of my first airbrushes was the "**Fisher CO2**". I just read the article from the link you added, where they discussed** water purity** and its impact on spray quality.
 

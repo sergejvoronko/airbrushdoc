@@ -1,6 +1,6 @@
 ---
 title: "DIY: Fixing Airbrush Nozzle Seal"
-description: "Once I've had airbrush \"Aurita 2.0\" which worked just fine for me at the time. I've been using mostly acrylic paints and used to clean the airbrush with alcohol"
+description: "How to fix a worn or stuck airbrush nozzle bearing — diagnosis, the tools you need, and a step-by-step repair to restore a clean, consistent spray."
 pubDate: 2010-12-13
 category: "guides"
 tags: ["airbrush nozzle", "airbrush seal", "aurita 2 airbrush", "aurita2", "how to nozzle", "nozzle", "seal"]

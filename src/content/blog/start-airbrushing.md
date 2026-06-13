@@ -14,7 +14,7 @@ First of all, today's article is for true **airbrush beginners**. If you are jus
 
 ## Air Hose for Your Airbrush System
 
-One of the most important things besides [airbrush gun](http://www.airbrushdoc.com/discussion/best-airbrush/), [air compressor](http://www.airbrushdoc.com/beginners/best-air-compressor/) and [paint](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/) is a **hose**. Yes just a hose. Every airbrushist needs the hose to connect airbrush and compressor into working system. The important part in this case is the fitting. You can always use some adapters but I would be much happier to have only one fitting on each side of the hose. The most common fitting is 1/8 inch thread.
+One of the most important things besides [airbrush gun](/blog/best-airbrush/), [air compressor](/blog/best-air-compressor/) and [paint](/blog/advanced-guide-to-airbrush-colors/) is a **hose**. Yes just a hose. Every airbrushist needs the hose to connect airbrush and compressor into working system. The important part in this case is the fitting. You can always use some adapters but I would be much happier to have only one fitting on each side of the hose. The most common fitting is 1/8 inch thread.
 
 ![](/images/wp-uploads/air-hose.webp)
 
@@ -46,7 +46,7 @@ For cleaning the chamber and needle tip there are special tools – cylindrical 
 
 ![](/images/wp-uploads/Nylon-Precision-Brush-Set.webp)
 
-For blowing out the rests of paint and cleaning solutions from airbrush gun the clever people invented **cleaning station**. The price is very affordable but if you don't want or can't get one you can [build cleaning station yourself](http://www.airbrushdoc.com/tipstricks/free-airbrush-cleaning-station-really/). When you understand how it works and unleash your imagination you would be able to make it out of anything (even a rubbish).
+For blowing out the rests of paint and cleaning solutions from airbrush gun the clever people invented **cleaning station**. The price is very affordable but if you don't want or can't get one you can [build cleaning station yourself](/blog/free-airbrush-cleaning-station-really/). When you understand how it works and unleash your imagination you would be able to make it out of anything (even a rubbish).
 
 ![](/images/wp-uploads/airbrush-cleaning-station.webp)
 

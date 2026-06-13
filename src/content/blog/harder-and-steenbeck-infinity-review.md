@@ -9,13 +9,13 @@ draft: false
 heroImage: "/images/wp-uploads/Harder-Steenbeck-Infinity-8.webp"
 ---
 
-I'm going to talk about [**Infinity Two in One**](/go/hs-infinity-two-in-one) from **Harder and Steenbeck**. I have posted a review for [**Evolution airbrush**](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-evolution-two-in-one/) from same manufacturer last week, and I was getting replies mostly about Infinity, so I decided to make separate review for this one too. The main purpose of this review is to compare these two airbrush guns.
+I'm going to talk about [**Infinity Two in One**](/go/hs-infinity-two-in-one) from **Harder and Steenbeck**. I have posted a review for [**Evolution airbrush**](/blog/harder-and-steenbeck-evolution-two-in-one/) from same manufacturer last week, and I was getting replies mostly about Infinity, so I decided to make separate review for this one too. The main purpose of this review is to compare these two airbrush guns.
 
 This airbrush isn't mine (I don't own it); I borrowed it just for review purpose only. So let's see what we've got in here... I'm not going to show unpacking process as I think box is not as important as it's quality and performance. Anyway, here is the box:
 
 ![](/images/wp-uploads/Harder-Steenbeck-Infinity-12.webp)
 
-This airbrush is rated as **Hi-End class airbrush**. It means that it is one of the top-notch [airbrushes](http://www.airbrushdoc.com/beginners/choose-airbrush/) you can get on the market these days and because of that not everyone can afford it.
+This airbrush is rated as **Hi-End class airbrush**. It means that it is one of the top-notch [airbrushes](/blog/choose-airbrush/) you can get on the market these days and because of that not everyone can afford it.
 
 ## What is in The Box?
 
@@ -26,7 +26,7 @@ This airbrush is rated as **Hi-End class airbrush**. It means that it is one of 
 - Quick-fix end piece with dial and distance cap
 - User manual
 
-and the airbrush itself. The box isn't something like in set of **[Aztek 7778](http://www.airbrushdoc.com/airbrush-reviews/aztek-7778-airbrush/)** but it's nice too. This is basic set only, but there are more parts you can buy separately such as nozzles with different sizes, protective lids for cups (as the basic set comes without lids).
+and the airbrush itself. The box isn't something like in set of **[Aztek 7778](/blog/aztek-7778-airbrush/)** but it's nice too. This is basic set only, but there are more parts you can buy separately such as nozzles with different sizes, protective lids for cups (as the basic set comes without lids).
 
 ![](/images/wp-uploads/Harder-Steenbeck-Infinity-19.webp)
 
@@ -76,12 +76,12 @@ The Infinity requires a 1/8” connector for the airbrush hose. so if you're usi
 
 As positive properties I will mention the quality (German precision says for itself), self-centering nozzle, distance cap for perfect lines, opened quick fix and its numbered dial. Overall feel is that airbrush is very user friendly.
 
-Another great thing about Harder & Steenback airbrushes is their compatibility. Infinity, [Evolution](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-evolution-two-in-one/), Evolution Silverline, Ultra and some extent the Grafo use many common accessories and spare parts. For example many needles and nozzles for the Evolution also fit the Grafo, Ultra and the Infinity series.
+Another great thing about Harder & Steenback airbrushes is their compatibility. Infinity, [Evolution](/blog/harder-and-steenbeck-evolution-two-in-one/), Evolution Silverline, Ultra and some extent the Grafo use many common accessories and spare parts. For example many needles and nozzles for the Evolution also fit the Grafo, Ultra and the Infinity series.
 
 The only con of this tool is its price. But quality always cost more. Overall I am very impressed by the work, look and feel of this very well balanced airbrush and can recommend it to everyone. If you don't have enough finances for this guy I would recommend Evolution 2 in1 as it's almost exact copy of infinity (or the other way around) except for few details that gives Inifnity the right to carry its name.
 
 [support airbrushdoc by shopping at Chicago Airbrush Supply](http://www.airbrushdoc.com/chicagoairbrush)
 
-Next time I'll try to get my hands on my brother's [Iwata Custom Micron](http://www.airbrushdoc.com/airbrush-reviews/iwata-custom-micron-c-plus/).
+Next time I'll try to get my hands on my brother's [Iwata Custom Micron](/blog/iwata-custom-micron-c-plus/).
 
 If you like my review please share it.

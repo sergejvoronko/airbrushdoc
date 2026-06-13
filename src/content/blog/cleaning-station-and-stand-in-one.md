@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Airbrush-Cleaning-Station-9.webp"
 ---
 
-*This build was born when its author read previous article [Airbrush Cleaning Station](http://www.airbrushdoc.com/tipstricks/free-airbrush-cleaning-station-really/). The article motivated this guy to build that station for himself and make it more useful (Sergej).*
+*This build was born when its author read previous article [Airbrush Cleaning Station](/blog/free-airbrush-cleaning-station-really/). The article motivated this guy to build that station for himself and make it more useful (Sergej).*
 
 My nickname is **FanTom **and I'm passionate scale-modeller. Before I start I just want to tell you that I said **NO** to plastic nor glue, just because you never know how these will react to any reducers or cleaners. So only option "**glass, metal and solder**".
 

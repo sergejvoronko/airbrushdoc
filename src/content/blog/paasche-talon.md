@@ -12,7 +12,7 @@ heroImage: "/images/wp-uploads/Paasche-Talon-Review-crown-aircap-2.webp"
 
 Today's review candidate is a dual action, gravity feed, internal mix airbrush called Paasche **Talon** from **Paasche Airbrush Company**. First of all I want to say that without **[ChicagoAirbrushSupply.com](http://www.chicagoairbrushsupply.com/)** this review will not be possible. Thank you guys!
 
-The **Paasche Airbrush Company** is one of the oldest companies in airbrush industry. I have written a bit about [history of Paasche Airbrush](http://www.airbrushdoc.com/history/paasche-big-name-in-airbrush-history/) Company some time ago. It was just a matter of time to review one of their airbrushes.
+The **Paasche Airbrush Company** is one of the oldest companies in airbrush industry. I have written a bit about [history of Paasche Airbrush](/blog/paasche-big-name-in-airbrush-history/) Company some time ago. It was just a matter of time to review one of their airbrushes.
 
 ## What's in the Box
 
@@ -118,6 +118,6 @@ Cleaning this gun is simple and after short time it becomes routine and takes ju
 
 With the 0.38mm and 0.25mm head set-up, this is a really surprisingly very good airbrush which can take care of most tasks, from the base coat to fine art details. All The parts are very well machined with feeling of durability and German solidness. The airbrush has everything it should have and no useless parts. I have to take my hat off to the engineers from Paasche Company. Any parts are available to get and are inexpensive. The only con on my side was the short hose (at least for me). Of course you can buy longer one and get more freedom but this is only my personal feeling. If your art piece has small size you'll be alright with 2 meters hose.
 
-My overall feeling is that I really like this tool and I still can't believe that this quality airbrush gun can be that cheap (Update: My gun is still fine but there are people with kind of different experience, check this out - [bad talon](http://www.airbrushdoc.com/airbrush-reviews/paasche-talon-problem/)).
+My overall feeling is that I really like this tool and I still can't believe that this quality airbrush gun can be that cheap (Update: My gun is still fine but there are people with kind of different experience, check this out - [bad talon](/blog/paasche-talon-problem/)).
 
 Big thanks to [Chicago Airbrush Supply](http://www.airbrushdoc.com/chicagoairbrush) to be so kind for sponsoring this review. Follow that link to get to the page with actual price.

@@ -19,7 +19,7 @@ J.W. has been painting all his life and believes that the purpose of art is comm
 
 To create his works he uses both **Acrylics and Oils**.
 
-If you didn't know, Wolf Song Studio has done a review on Infinity Airbrush. I have written one for [Infinity](http://www.airbrushdoc.com/airbrush-reviews/harder-and-steenbeck-infinity-review/) myself but I would recommend to check their review anyway as it's different than any airbrush reviews you can find on-line. It is called [Two Artist's review the "Infinity 2-in-1"](http://www.wolfsongstudio.com/) (at the moment the page with review is not available :().
+If you didn't know, Wolf Song Studio has done a review on Infinity Airbrush. I have written one for [Infinity](/blog/harder-and-steenbeck-infinity-review/) myself but I would recommend to check their review anyway as it's different than any airbrush reviews you can find on-line. It is called [Two Artist's review the "Infinity 2-in-1"](http://www.wolfsongstudio.com/) (at the moment the page with review is not available :().
 
 ## J.W. Baker's Artistic Philosophy
 

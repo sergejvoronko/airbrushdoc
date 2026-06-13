@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush_gallery.webp"
 ---
 
-Back in the game with more images this time in Russian Airbrush style (thanks to my source airbrush.ru and automototuning.ru). I think that [**airbrushing skulls and flames**](http://www.airbrushdoc.com/gallery/real-fire-skulls/) is not going to last forever and Russian airbrush artists know it already.
+Back in the game with more images this time in Russian Airbrush style (thanks to my source airbrush.ru and automototuning.ru). I think that [**airbrushing skulls and flames**](/blog/real-fire-skulls/) is not going to last forever and Russian airbrush artists know it already.
 
 ## Russian Airbrush Gallery
 

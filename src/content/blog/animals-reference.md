@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Tigers_Rferences_22.webp"
 ---
 
-From time to time I post some stuff that helps us to do our job much easier. Many of us use airbrush reference pictures on daily basis. I've already posted [Fire reference pack](http://www.airbrushdoc.com/download/fire-reference-pack/), [Skulls reference pack](http://www.airbrushdoc.com/download/ultimate-skull-reference-pack/) and now here's Huge Animals Pack, that I've split into three parts - Tigers, Wolves, Mix. First two are obvious and I think they have to be separate as they're the most popular animal themes in airbrush world. Third part includes cats, dogs, bears, horses and even some birds.
+From time to time I post some stuff that helps us to do our job much easier. Many of us use airbrush reference pictures on daily basis. I've already posted [Fire reference pack](/blog/fire-reference-pack/), [Skulls reference pack](/blog/ultimate-skull-reference-pack/) and now here's Huge Animals Pack, that I've split into three parts - Tigers, Wolves, Mix. First two are obvious and I think they have to be separate as they're the most popular animal themes in airbrush world. Third part includes cats, dogs, bears, horses and even some birds.
 
 ## TIGERS
 

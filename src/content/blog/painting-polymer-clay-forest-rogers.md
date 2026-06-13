@@ -16,7 +16,7 @@ I would love to welcome here everyone who is still following us and all who reme
 
 Honored Sergej, I feel that if the various art worlds communicated more frequently, we'd all have a lot more great information to work with!
 
-Thanks for the excellent entry about [painting on polymer clay](http://www.airbrushdoc.com/discussion/airbrushing-on-polymer-clay/)! I was searching for info on using **[Wicked Colors](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/#wicked) on polymer**, and found yours.
+Thanks for the excellent entry about [painting on polymer clay](/blog/airbrushing-on-polymer-clay/)! I was searching for info on using **[Wicked Colors](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/#wicked) on polymer**, and found yours.
 
 ## Gallery of Forest Rogers' Polymer Clay Work
 
@@ -53,7 +53,7 @@ P.S. I also make the prototypes for the [Carnegie Museum of Natural History](htt
 [caption id="attachment_11608" align="aligncenter" width="1024"]![The Carnotaurus](/images/wp-uploads/carnotaurus-wb.webp) The Carnotaurus by Forest Rogers[/caption]
 
 Thanks so much for the suggestions on Wicked Colors! I'm off to try them!
-Love **[Megan's Kirin](http://www.airbrushdoc.com/discussion/airbrushing-on-polymer-clay/)**!
+Love **[Megan's Kirin](/blog/airbrushing-on-polymer-clay/)**!
 
 Forest Rogers - [http://www.forestrogers.com](http://www.forestrogers.com)
 

@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Airbrush-Customer-Hint.webp"
 ---
 
-I'm very often hearing a question "**What is my art worth?**" or "**How much should I ask for my art?**" I do write articles on various topics within airbrush niche and once I wrote this kind of post (i.e. [how much to ask for your art?](http://www.airbrushdoc.com/tipstricks/airbrush-business/)).
+I'm very often hearing a question "**What is my art worth?**" or "**How much should I ask for my art?**" I do write articles on various topics within airbrush niche and once I wrote this kind of post (i.e. [how much to ask for your art?](/blog/airbrush-business/)).
 
 Not so long ago I stumbled on one [infographic](http://en.wikipedia.org/wiki/Infographic) that made me think and motivated to create a sort of hint flayer for your customers (if you have any) to see what they should expect if they require a quality art piece and how may it end up if they want the job to be done fast or cheap.
 

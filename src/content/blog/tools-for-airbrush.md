@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/X-Acto-knife1.webp"
 ---
 ## Essential Airbrush Support Equipment
 
-Last time I mentioned some [tools for airbrush](http://www.airbrushdoc.com/beginners/start-airbrushing/) and I thought that for a while the topic might be covered; after that I wanted to prepare a "**how to**" about one additional tool that I haven't mentioned before. Actually I've found out that there is many more of them that I have forgotten, so today I'm extending the **airbrush tools** topic.
+Last time I mentioned some [tools for airbrush](/blog/start-airbrushing/) and I thought that for a while the topic might be covered; after that I wanted to prepare a "**how to**" about one additional tool that I haven't mentioned before. Actually I've found out that there is many more of them that I have forgotten, so today I'm extending the **airbrush tools** topic.
 
 ### Easel and Work Surfaces
 

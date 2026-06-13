@@ -75,10 +75,26 @@ const nav = [
     "name": "AirbrushDOC",
     "url": "https://airbrushdoc.com",
     "description": "Expert airbrush guides, honest equipment reviews, step-by-step tutorials, and free stencils for artists at every level.",
+    "publisher": { "@id": "https://airbrushdoc.com/#organization" },
     "potentialAction": {
       "@type": "SearchAction",
       "target": { "@type": "EntryPoint", "urlTemplate": "https://airbrushdoc.com/blog/?q={search_term_string}" },
       "query-input": "required name=search_term_string"
+    }
+  })} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://airbrushdoc.com/#organization",
+    "name": "AirbrushDOC",
+    "url": "https://airbrushdoc.com",
+    "description": "Practical airbrush guides, honest equipment reviews, and techniques for artists at every level.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://airbrushdoc.com/images/airbrushdoc-logo.webp",
+      "width": 157,
+      "height": 120
     }
   })} />
 </head>

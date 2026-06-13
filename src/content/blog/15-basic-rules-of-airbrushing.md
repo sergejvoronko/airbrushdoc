@@ -13,7 +13,7 @@ Our readers who have painted a few pieces on their own are probably not that int
 
 Why do I write this article then? Well, many of [airbrush beginners](http://www.airbrushdoc.com/beginners/) have not heard the evil HISS of compressed air and didn't get the edgy scent of spilled reducer yet. So, while just starting out, they may avoid many of most common mistakes that could be made in airbrushing, just by reading this article.
 
-Our dear newbies, I hope you have already made choice on [**airbrush gun**](http://www.airbrushdoc.com/beginners/choose-airbrush/), [**air compressor**](http://www.airbrushdoc.com/beginners/air-compressor/) and you have read the [**airbrush color guide**](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/). Now it is time to get to know some basic airbrush rules that you have to follow while working with [airbrush](http://www.airbrushdoc.com). Many of this rules have different tendency and some are more important and some less. I tried to arrange them as best as I could and I hope nobody will get lost while reading it.
+Our dear newbies, I hope you have already made choice on [**airbrush gun**](/blog/choose-airbrush/), [**air compressor**](/blog/air-compressor/) and you have read the [**airbrush color guide**](/blog/advanced-guide-to-airbrush-colors/). Now it is time to get to know some basic airbrush rules that you have to follow while working with [airbrush](http://www.airbrushdoc.com). Many of this rules have different tendency and some are more important and some less. I tried to arrange them as best as I could and I hope nobody will get lost while reading it.
 
 ## Airbrush and Safety
 
