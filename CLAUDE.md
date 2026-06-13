@@ -8,7 +8,9 @@ Airbrush art publication. WordPress→Astro migration. Target: airbrushdoc.com (
 - Deploy: push to GitHub `main` → Cloudflare Pages auto-deploy
 
 ## Hard holds — do not change
-- `public/robots.txt`: keep `Disallow: /` for Googlebot until DNS is switched to airbrushdoc.com. Never change to `Allow: /` before cutover.
+- `public/robots.txt`: keep `Disallow: /` for Googlebot + Bingbot until DNS is switched to airbrushdoc.com. Never change to `Allow: /` before cutover.
+- `public/_headers`: keep `X-Robots-Tag: noindex, nofollow` until cutover. REMOVE at launch or live airbrushdoc.com gets deindexed.
+- At cutover, BOTH must change together: remove robots Disallow blocks AND remove the noindex header line.
 
 ## Key sections
 - `/blog/` (100+ articles), `/tools/` (6 interactive tools, iframe-embedded HTML in `public/tools/`), `/airbrush-glossary/`, `/book/`, freebies page
