@@ -232,6 +232,65 @@ canvas#wheelCanvas{border-radius:50%;cursor:crosshair;touch-action:none}
   .formula-grid{grid-template-columns:repeat(3,1fr)}
   .form-row-2{grid-template-columns:repeat(3,1fr)}
 }
+
+/* ═══════════════════════════════════════════
+   POLISH PASS — depth, glow, hover, desktop
+   (consistent with stencil-creator refresh)
+═══════════════════════════════════════════ */
+body{
+  background:
+    radial-gradient(900px 520px at 82% -12%, rgba(244,103,26,.07), transparent 60%),
+    linear-gradient(180deg,#0e1117 0%,#0b0e14 100%);
+}
+.header{
+  background:linear-gradient(180deg,var(--bg2),#12161e);
+  box-shadow:0 1px 0 rgba(255,255,255,.02),0 6px 22px rgba(0,0,0,.5);
+}
+.nav{
+  background:linear-gradient(0deg,var(--bg2),#12161e);
+  box-shadow:0 -6px 22px rgba(0,0,0,.45);
+}
+.nav-item.active{filter:drop-shadow(0 0 6px rgba(244,103,26,.45))}
+.nav-item.active::before{box-shadow:0 0 8px rgba(244,103,26,.6)}
+
+/* base depth on surfaces */
+.card,.formula-card,.project-card,.needle-card,.list-item{
+  box-shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.22);
+}
+.btn-primary{box-shadow:0 4px 14px rgba(244,103,26,.28)}
+.ratio-result{box-shadow:inset 0 0 60px rgba(244,103,26,.05),0 8px 30px rgba(0,0,0,.3)}
+.search-input:focus,.form-input:focus{box-shadow:0 0 0 3px rgba(244,103,26,.12)}
+
+/* desktop: real hover affordance (mobile keeps :active) */
+@media(hover:hover){
+  .formula-card,.project-card,.needle-card,.list-item{transition:transform .18s,border-color .18s,box-shadow .18s}
+  .formula-card:hover,.project-card:hover,.needle-card:hover,.list-item:hover{
+    border-color:rgba(244,103,26,.45);
+    transform:translateY(-2px);
+    box-shadow:0 0 0 1px rgba(244,103,26,.15),0 12px 32px rgba(0,0,0,.45),0 0 40px rgba(244,103,26,.05);
+  }
+  .btn-primary:hover{transform:translateY(-1px);box-shadow:0 0 0 1px rgba(244,103,26,.4),0 8px 22px rgba(244,103,26,.38)}
+  .chip:hover:not(.active){color:var(--white);border-color:rgba(244,103,26,.3)}
+  .harmony-mode-btn:hover:not(.active){color:var(--white);border-color:rgba(244,103,26,.3)}
+  .guide-tab:hover:not(.active){color:var(--white)}
+  .preset-chips .chip{cursor:pointer}
+}
+
+/* desktop: cap + center content so it stops sprawling full-width */
+@media(min-width:900px){
+  .page{
+    padding-top:26px;
+    padding-left:max(24px,calc((100% - 1180px)/2));
+    padding-right:max(24px,calc((100% - 1180px)/2));
+  }
+  .page-title{font-size:1.85rem}
+  .header-title{font-size:.9rem}
+}
+
+@media(prefers-reduced-motion:reduce){
+  *{transition:none!important;animation:none!important}
+  .formula-card:hover,.project-card:hover,.needle-card:hover,.list-item:hover,.btn-primary:hover{transform:none}
+}
 </style>
 </head>
 <body>
