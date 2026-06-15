@@ -10,6 +10,7 @@
 
   --abd-orange:       #F4671A;
   --abd-orange-hover: #FF8A3D;
+  --abd-orange-cta:   #C45010; /* white-text-on-orange surfaces — WCAG AA 4.66:1 */
   --abd-orange-soft:  rgba(244,103,26,0.08);
   --abd-orange-glow:  rgba(244,103,26,0.3);
   --abd-orange-muted: rgba(244,103,26,0.5);
@@ -77,6 +78,8 @@ a {
   transition: color 0.2s;
 }
 a:hover { color: var(--abd-orange-hover); }
+/* In-text links must not rely on color alone (WCAG 1.4.1) */
+p a, li p a { text-decoration: underline; text-underline-offset: 2px; }
 
 :focus-visible {
   outline: 2px solid var(--abd-orange);
@@ -86,7 +89,7 @@ a:hover { color: var(--abd-orange-hover); }
 
 .abd-skip-link {
   position: absolute; top: -100%; left: 16px;
-  background: var(--abd-orange); color: #fff !important;
+  background: var(--abd-orange-cta); color: #fff !important;
   padding: 8px 16px; border-radius: 0 0 var(--abd-radius-s) var(--abd-radius-s);
   font-size: 0.85rem; font-weight: 600; z-index: 10000;
   text-decoration: none !important;
@@ -1216,7 +1219,7 @@ img { max-width: 100%; height: auto; display: block; }
 .ml-embedded input[type="email"]:focus { outline: none !important; border-color: var(--abd-orange) !important; box-shadow: 0 0 0 3px rgba(244,103,26,0.15) !important; }
 .ml-embedded .ml-form-embedSubmit button,
 .ml-embedded button[type="submit"].primary {
-  background: var(--abd-orange) !important;
+  background: var(--abd-orange-cta) !important;
   color: #fff !important;
   border: none !important;
   border-radius: var(--abd-radius-xs) !important;
@@ -1228,7 +1231,7 @@ img { max-width: 100%; height: auto; display: block; }
   transition: background 0.15s !important;
   white-space: nowrap !important;
 }
-.ml-embedded .ml-form-embedSubmit button:hover { background: #c45010 !important; }
+.ml-embedded .ml-form-embedSubmit button:hover { background: #a8420c !important; }
 .ml-embedded .ml-form-checkboxRow { justify-content: center !important; }
 .ml-embedded .ml-form-checkboxRow .label-description,
 .ml-embedded .ml-form-checkboxRow label span { color: var(--abd-text-dim) !important; font-size: 0.8rem !important; }
