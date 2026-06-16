@@ -69,6 +69,23 @@ const nav = [
     ml('account', '1137328');
   </script>
 
+  <!-- a11y: MailerLite injects an ID-scoped !important rule that paints the submit
+       button #F4671A (white text = 3.08:1, fails WCAG AA). Inline !important is the
+       only thing that outranks it; observer reapplies on (re)render. -->
+  <script is:inline>
+    (function(){
+      function fix(){
+        document.querySelectorAll('.ml-embedded button[type="submit"]').forEach(function(b){
+          if(b.dataset.ctaFixed)return;
+          b.style.setProperty('background','#C45010','important');
+          b.dataset.ctaFixed='1';
+        });
+      }
+      new MutationObserver(fix).observe(document.documentElement,{childList:true,subtree:true});
+      document.addEventListener('DOMContentLoaded',fix);
+    })();
+  </script>
+
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",
