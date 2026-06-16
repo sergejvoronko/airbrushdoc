@@ -26,11 +26,14 @@ const catLabel = CAT_LABELS[category] ?? (category.charAt(0).toUpperCase() + cat
 const dateStr = pubDate.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: 'numeric' });
 
 const initials = title.split(' ').slice(0, 2).map(w => w[0]).join('').toUpperCase();
+const cardSrcset = heroImage?.endsWith('.webp')
+  ? `${heroImage.replace(/\.webp$/, '-card.webp')} 640w, ${heroImage} 1280w`
+  : undefined;
 ---
 <a href={`/blog/${slug}/`} class={`abd-card${featured ? ' abd-card--featured' : ''}`}>
   {heroImage ? (
     <div class="abd-card-img">
-      <img src={heroImage} alt={heroImageAlt || title} loading="lazy" />
+      <img src={heroImage} alt={heroImageAlt || title} loading="lazy" srcset={cardSrcset} sizes="(max-width: 700px) 92vw, 360px" />
     </div>
   ) : (
     <div class="abd-card-img abd-card-img--placeholder">
