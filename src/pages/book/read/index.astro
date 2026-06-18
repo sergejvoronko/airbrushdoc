@@ -241,6 +241,8 @@ const chapters = [
 <BaseLayout
   title="Read — The Airbrush Technique Bible"
   description="Online reader for The Airbrush Technique Bible. 17 chapters from foundations to professional results."
+  bare
+  noindex
 >
 
 <div class="bk-reader" id="bookReader">
@@ -304,6 +306,9 @@ const chapters = [
   <span id="bkCurrent">1</span> / <span id="bkTotal">{chapters.length + 2}</span>
 </div>
 
+<!-- Exit back to the book page -->
+<a href="/book/" class="bk-exit" aria-label="Back to book page">✕</a>
+
 <!-- Global nav arrows (hidden on cover which has its own) -->
 <button class="bk-float-btn bk-float-prev" id="bkPrev" aria-label="Previous page">‹</button>
 <button class="bk-float-btn bk-float-next" id="bkNext" aria-label="Next page">›</button>
@@ -364,7 +369,7 @@ const chapters = [
   .bk-reader {
     display: flex;
     width: 100vw;
-    height: 100vh;
+    height: 100dvh;
     overflow-x: scroll;
     overflow-y: hidden;
     scroll-snap-type: x mandatory;
@@ -375,7 +380,7 @@ const chapters = [
   .bk-page {
     flex-shrink: 0;
     width: 100vw;
-    height: 100vh;
+    height: 100dvh;
     scroll-snap-align: start;
     position: relative;
     overflow: hidden;
@@ -457,7 +462,7 @@ const chapters = [
   }
 
   .bk-chapter-img-col {
-    height: 100vh;
+    height: 100dvh;
     overflow: hidden;
   }
   .bk-chapter-img-col img {
@@ -643,10 +648,53 @@ const chapters = [
   .bk-float-prev { left: 16px; }
   .bk-float-next { right: 16px; }
 
+  /* ═══ EXIT BUTTON ═══ */
+  .bk-exit {
+    position: fixed; top: 16px; left: 16px; z-index: 101;
+    width: 40px; height: 40px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    background: rgba(0,0,0,0.4); color: rgba(255,255,255,0.75);
+    border: 1px solid rgba(255,255,255,0.14);
+    text-decoration: none; font-size: 1rem;
+    backdrop-filter: blur(8px);
+    transition: background 0.2s, color 0.2s;
+  }
+  .bk-exit:hover { background: rgba(244,103,26,0.75); color: #fff; }
+
+  /* ═══ MOBILE ═══ */
+  @media (max-width: 768px) {
+    .bk-chapter-page {
+      grid-template-columns: 1fr;
+      grid-template-rows: 38dvh 1fr;
+    }
+    .bk-chapter-img-col { height: 38dvh; }
+    .bk-chapter-text-col {
+      border-left: none;
+      border-top: 1px solid var(--abd-border);
+      padding: 3.2vh 6vw calc(3.2vh + 56px);
+      gap: 1.3vh;
+      overflow-y: auto;            /* topics scroll instead of clipping */
+      -webkit-overflow-scrolling: touch;
+    }
+    .bk-ch-title { font-size: clamp(1.5rem, 7vw, 2.1rem); }
+    .bk-ch-desc  { font-size: 0.9rem; max-width: none; }
+    .bk-ch-topics li { font-size: 0.82rem; }
+    .bk-chapter-footer { padding-top: 1.4vh; }
+
+    .bk-cover-body { padding: 8vh 8vw; }
+    .bk-cover-nav { left: 0; right: 0; bottom: 4vh; display: flex; justify-content: center; }
+
+    /* arrows to bottom corners so they don't overlap the chapter text */
+    .bk-float-btn { width: 40px; height: 40px; font-size: 1.2rem; top: auto; bottom: 12px; transform: none; }
+    .bk-float-prev { left: 12px; }
+    .bk-float-next { right: 12px; }
+    .bk-indicator { bottom: 22px; }
+  }
+
   /* ═══ PRINT / PDF ═══ */
   @media print {
     :global(header), :global(footer), :global(nav),
-    .bk-float-btn, .bk-indicator, .bk-buy-link { display: none !important; }
+    .bk-float-btn, .bk-indicator, .bk-buy-link, .bk-exit { display: none !important; }
 
     @page { size: A4 landscape; margin: 0; }
 

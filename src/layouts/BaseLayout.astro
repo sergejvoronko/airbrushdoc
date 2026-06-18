@@ -10,9 +10,11 @@ interface Props {
   ogType?: string;
   ogArticlePubDate?: string;
   ogArticleModDate?: string;
+  bare?: boolean;     // hide header/footer/cookie (immersive full-screen pages)
+  noindex?: boolean;  // emit robots noindex,nofollow
 }
 
-const { title, description = 'The Airbrush Doc — Cures for Your Canvas. Guides, reviews, and techniques for airbrush artists.', image, canonicalURL, ogType = 'website', ogArticlePubDate, ogArticleModDate } = Astro.props;
+const { title, description = 'The Airbrush Doc — Cures for Your Canvas. Guides, reviews, and techniques for airbrush artists.', image, canonicalURL, ogType = 'website', ogArticlePubDate, ogArticleModDate, bare = false, noindex = false } = Astro.props;
 const siteUrl = 'https://airbrushdoc.com';
 const ogImage = image || '/images/og-default.webp';
 const canonical = canonicalURL || new URL(Astro.url.pathname, siteUrl).href;
@@ -48,6 +50,7 @@ const nav = [
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={`${siteUrl}${ogImage}`} />
 
+  {noindex && <meta name="robots" content="noindex, nofollow" />}
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
   <link rel="apple-touch-icon" href="/favicon.png" />
   <link rel="sitemap" href="/sitemap-index.xml" />
@@ -141,6 +144,7 @@ const nav = [
 </head>
 <body>
   <a href="#main-content" class="abd-skip-link">Skip to main content</a>
+  {!bare && (<>
   <div class="abd-top-bar"></div>
 
   <header class="abd-header">
@@ -172,11 +176,13 @@ const nav = [
       {nav.map(n => <a href={n.href}>{n.label}</a>)}
     </nav>
   </header>
+  </>)}
 
   <main id="main-content" tabindex="-1">
     <slot />
   </main>
 
+  {!bare && (
   <footer class="abd-footer">
     <div class="abd-footer-inner">
       <div class="abd-footer-brand">
@@ -206,8 +212,9 @@ const nav = [
       <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
     </div>
   </footer>
+  )}
 
-  <CookieBanner />
+  {!bare && <CookieBanner />}
 
   <script>
     const toggle = document.getElementById('menuToggle');
