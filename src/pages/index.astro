@@ -46,12 +46,11 @@ const features = [
   title="AirbrushDOC — Expert Airbrush Reviews, Tutorials &amp; Free Stencils"
   description="Master airbrushing with expert equipment reviews, step-by-step tutorials, and free downloadable stencils. For beginners and professionals since 2010."
 >
-  <link slot="head" rel="preload" as="image" href="/images/airbrushdoc-mobile.webp" media="(max-width: 768px)" fetchpriority="high" />
-  <link slot="head" rel="preload" as="image" href="/images/airbrushdoc.webp" media="(min-width: 769px)" fetchpriority="high" />
+  <link slot="head" rel="preload" as="image" href="/images/airbrushdoc.webp" imagesrcset="/images/airbrushdoc-mobile.webp 900w, /images/airbrushdoc.webp 1536w" imagesizes="100vw" fetchpriority="high" />
 
   <!-- ═══ HERO ═══ -->
   <section class="abd-hero-full">
-    <div class="abd-hero-full-bg"></div>
+    <img class="abd-hero-full-bg" src="/images/airbrushdoc.webp" srcset="/images/airbrushdoc-mobile.webp 900w, /images/airbrushdoc.webp 1536w" sizes="100vw" alt="" aria-hidden="true" fetchpriority="high" decoding="async" width="1536" height="1024" />
     <div class="abd-hero-full-overlay"></div>
     <div class="abd-hero-full-content">
       <div class="abd-hero-left">
@@ -367,10 +366,9 @@ const features = [
   overflow: hidden;
 }
 .abd-hero-full-bg {
-  position: absolute; inset: 0 0 0 220px;
-  background-image: url('/images/airbrushdoc.webp');
-  background-size: cover; background-position: center center;
-  background-repeat: no-repeat;
+  position: absolute; top: 0; bottom: 0; left: 220px; right: 0;
+  width: calc(100% - 220px); height: 100%;
+  object-fit: cover; object-position: center center;
   transform: scale(1.04);
   transition: transform 8s ease;
 }
@@ -553,7 +551,7 @@ const features = [
 @media (max-width: 768px) {
   .abd-hero-full-content { flex-direction: column; align-items: flex-start; gap: 32px; padding: 60px 24px; }
   .abd-hero-right { align-items: flex-start; flex-direction: row; flex-wrap: wrap; }
-  .abd-hero-full-bg { inset: 0; background-image: url('/images/airbrushdoc-mobile.webp'); }
+  .abd-hero-full-bg { left: 0; width: 100%; }
   .abd-hero-full-overlay::before { background: linear-gradient(to bottom, rgba(10,10,10,0.5) 0%, rgba(10,10,10,0.3) 100%); }
 }
 @media (max-width: 560px) {
