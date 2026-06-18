@@ -131,9 +131,9 @@ const features = [
           <a href={`/blog/${post!.id}/`} class="abd-pinned-card">
             {post!.data.heroImage && (
               <div class="abd-pinned-img">
-                <img src={post!.data.heroImage} alt={post!.data.title} loading="lazy"
-                  srcset={post!.data.heroImage?.endsWith('.webp') ? `${post!.data.heroImage.replace(/\.webp$/, '-card.webp')} 640w, ${post!.data.heroImage} 1280w` : undefined}
-                  sizes="(max-width: 560px) calc(100vw - 64px), (max-width: 900px) calc((100vw - 84px) / 2), 365px" />
+                <img
+                  src={post!.data.heroImage?.endsWith('.webp') ? post!.data.heroImage.replace(/\.webp$/, '-thumb.webp') : post!.data.heroImage}
+                  alt={post!.data.title} loading="lazy" width="480" height="270" />
               </div>
             )}
             <div class="abd-pinned-body">
