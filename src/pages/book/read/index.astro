@@ -325,9 +325,18 @@ const chapters = [
   totalEl.textContent = String(pages.length);
   let current = 0;
 
+  // Eagerly load a page's image (lazy images in a horizontal scroller don't
+  // reliably trigger on swipe, leaving blank slides). Preload current ± neighbours.
+  function eagerLoad(idx: number) {
+    pages[idx]?.querySelectorAll<HTMLImageElement>('img[loading="lazy"]').forEach((img) => {
+      img.loading = 'eager';
+    });
+  }
+
   function goTo(idx: number) {
     idx = Math.max(0, Math.min(pages.length - 1, idx));
     current = idx;
+    eagerLoad(idx); eagerLoad(idx + 1); eagerLoad(idx - 1);
     reader.scrollTo({ left: idx * reader.clientWidth, behavior: 'smooth' });
     curEl.textContent = String(idx + 1);
     prevBtn.style.opacity = idx === 0 ? '0' : '1';
