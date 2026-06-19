@@ -9,5 +9,5 @@
   X-Robots-Tag: noindex, nofollow
 
 # Paid product reader — keep noindex permanently (survives launch cutover)
-/book/read/*
+/book-read
   X-Robots-Tag: noindex, nofollow
