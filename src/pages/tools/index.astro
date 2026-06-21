@@ -54,7 +54,7 @@ const subscriberTools = [
       <div class="blg-header-line"></div>
     </div>
 
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; padding: 32px 0 0;">
+    <div class="tools-free-grid">
       {tools.map(t => (
         <a href={`/tools/${t.slug}/`} class="abd-tool-card" style="padding: 28px 24px; gap: 16px;">
           <div style="font-size: 2rem;">{t.icon}</div>
@@ -150,11 +150,24 @@ const subscriberTools = [
   line-height: 1.6;
   max-width: 520px;
 }
+.tools-free-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 32px 0 0;
+}
 .tools-locked-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 16px;
   margin-bottom: 36px;
+}
+@media (max-width: 860px) {
+  .tools-free-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 560px) {
+  .tools-free-grid,
+  .tools-locked-grid { grid-template-columns: 1fr; }
 }
 .tools-locked-card {
   display: flex;
