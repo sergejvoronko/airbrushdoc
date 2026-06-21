@@ -226,6 +226,24 @@
 
 /* ── CTA Section ── */
 .ab-cta-section { text-align:center; margin-top:32px; }
+.ab-rec-actions {
+  display:flex; flex-wrap:wrap; align-items:center; gap:12px;
+  margin-top:16px;
+}
+.ab-rec-buy {
+  display:inline-flex; align-items:center; gap:6px;
+  padding:10px 20px; border-radius:8px;
+  background:var(--ab-orange); color:#fff;
+  text-decoration:none; font-weight:700; font-size:0.9rem;
+  transition:all 0.2s ease;
+}
+.ab-rec-buy:hover { filter:brightness(1.1); transform:translateY(-1px); }
+.ab-rec-review {
+  display:inline-flex; align-items:center; gap:4px;
+  color:var(--ab-orange); font-weight:600; font-size:0.9rem;
+  text-decoration:none;
+}
+.ab-rec-review:hover { text-decoration:underline; }
 .ab-cta-link {
   display:inline-flex; align-items:center; gap:8px;
   padding:14px 32px; border-radius:10px;
@@ -365,6 +383,8 @@
     {
       id:"hs-ultra",
       name:"Harder & Steenbeck Ultra 2024",
+      review:"/blog/best-airbrush-for-beginners-2026/",
+      buy:"",
       nozzle:"0.2mm",
       feed:"Gravity",
       type:"Dual-action",
@@ -375,6 +395,8 @@
     {
       id:"iwata-eclipse",
       name:"Iwata Eclipse HP-CS",
+      review:"/blog/iwata-vs-harder-steenbeck/",
+      buy:"/go/iwata-eclipse-hp-cs",
       nozzle:"0.35mm",
       feed:"Gravity",
       type:"Dual-action",
@@ -385,6 +407,8 @@
     {
       id:"badger-patriot",
       name:"Badger Patriot 105",
+      review:"/blog/best-airbrush-for-beginners-2026/",
+      buy:"/go/badger-patriot-105",
       nozzle:"0.5mm",
       feed:"Gravity",
       type:"Dual-action",
@@ -395,6 +419,8 @@
     {
       id:"iwata-neo",
       name:"Iwata NEO CN",
+      review:"/blog/best-airbrush-for-beginners-2026/",
+      buy:"/go/iwata-neo-cn",
       nozzle:"0.35mm",
       feed:"Gravity",
       type:"Dual-action",
@@ -405,6 +431,8 @@
     {
       id:"paasche-talon",
       name:"Paasche Talon TG-3F",
+      review:"/blog/paasche-talon/",
+      buy:"/go/paasche-talon-starter-set",
       nozzle:"0.25/0.38/0.66mm",
       feed:"Gravity",
       type:"Dual-action",
@@ -415,6 +443,8 @@
     {
       id:"iwata-micron",
       name:"Iwata Custom Micron CM-C+",
+      review:"/blog/iwata-custom-micron-c-plus/",
+      buy:"/go/iwata-custom-micron-cm-c",
       nozzle:"0.23mm",
       feed:"Gravity",
       type:"Dual-action",
@@ -425,6 +455,8 @@
     {
       id:"hs-infinity",
       name:"Harder & Steenbeck Infinity CR Plus",
+      review:"/blog/harder-and-steenbeck-infinity-review/",
+      buy:"/go/hs-infinity-two-in-one",
       nozzle:"0.15mm",
       feed:"Gravity",
       type:"Dual-action",
@@ -682,10 +714,14 @@
             <div class="ab-specs">
               ${ab.tags.map(t=>`<span class="ab-spec-tag">${t}</span>`).join('')}
             </div>
+            <div class="ab-rec-actions">
+              ${ab.buy?`<a class="ab-rec-buy" href="${ab.buy}" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a>`:''}
+              ${ab.review?`<a class="ab-rec-review" href="${ab.review}">Read review →</a>`:''}
+            </div>
           </div>
         `).join('')}
         <div class="ab-cta-section">
-          <a class="ab-cta-link" href="/best-airbrush-for-beginners/">
+          <a class="ab-cta-link" href="/blog/best-airbrush-for-beginners-2026/">
             Read Full Reviews
             <svg viewBox="0 0 16 16"><path d="M6 3l5 5-5 5" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </a>

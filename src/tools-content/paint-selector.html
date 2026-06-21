@@ -287,6 +287,24 @@
 
 /* ── CTA ── */
 .abp-cta-section { text-align:center; margin-top:32px; }
+.abp-rec-actions {
+  display:flex; flex-wrap:wrap; align-items:center; gap:12px;
+  margin-top:14px;
+}
+.abp-rec-buy {
+  display:inline-flex; align-items:center; gap:6px;
+  padding:10px 20px; border-radius:8px;
+  background:var(--abp-orange); color:#fff;
+  text-decoration:none; font-weight:700; font-size:0.9rem;
+  transition:all 0.2s;
+}
+.abp-rec-buy:hover { filter:brightness(1.1); transform:translateY(-1px); }
+.abp-rec-review {
+  display:inline-flex; align-items:center; gap:4px;
+  color:var(--abp-orange); font-weight:600; font-size:0.9rem;
+  text-decoration:none;
+}
+.abp-rec-review:hover { text-decoration:underline; }
 .abp-cta-link {
   display:inline-flex; align-items:center; gap:8px;
   padding:14px 32px; border-radius:10px;
@@ -754,6 +772,15 @@
         return d;
       }
 
+      const PAINT_BUY = {
+        'createx-illustration':'/go/createx-airbrush-colors',
+        'createx-wicked':'/go/createx-wicked-colors',
+        'vallejo-model':'/go/vallejo-model-air',
+        'vallejo-game':'/go/vallejo-game-air',
+        'createx-autoair':'/go/createx-auto-air-colors'
+      };
+      const PAINT_REVIEW = '/blog/advanced-guide-to-airbrush-colors/';
+
       container.innerHTML = `
         <div class="abp-header">
           <div class="abp-header-icon">
@@ -786,11 +813,15 @@
               </div>
             </div>
             ${i===0?`<div class="abp-tip-box"><strong>Pro Tip:</strong> ${p.tip}</div>`:''}
+            <div class="abp-rec-actions">
+              ${PAINT_BUY[p.id]?`<a class="abp-rec-buy" href="${PAINT_BUY[p.id]}" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a>`:''}
+              <a class="abp-rec-review" href="${PAINT_REVIEW}">Paint guide →</a>
+            </div>
           </div>
         `).join('')}
 
         <div class="abp-cta-section">
-          <a class="abp-cta-link" href="/best-airbrush-for-beginners/">
+          <a class="abp-cta-link" href="/blog/advanced-guide-to-airbrush-colors/">
             Read Full Paint Guide
             <svg viewBox="0 0 16 16" fill="none"><path d="M6 3l5 5-5 5" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </a>
