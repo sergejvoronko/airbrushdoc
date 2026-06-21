@@ -248,8 +248,11 @@ const tools = [
 .ty-download-btn:hover { opacity: 0.85; }
 .ty-tools-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 16px;
+}
+@media (max-width: 560px) {
+  .ty-tools-grid { grid-template-columns: 1fr; }
 }
 .ty-tool-card {
   display: flex;
