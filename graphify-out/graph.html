@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>graphify - graphify-out/graph.html</title>
+<script src="https://unpkg.com/vis-network@9.1.6/standalone/umd/vis-network.min.js"
+        integrity="sha384-Ux6phic9PEHJ38YtrijhkzyJ8yQlH8i/+buBR8s3mAZOJrP1gwyvAcIYl3GWtpX1"
+        crossorigin="anonymous"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0f0f1a; color: #e0e0e0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; display: flex; height: 100vh; overflow: hidden; }
+  #graph { flex: 1; }
+  #sidebar { width: 280px; background: #1a1a2e; border-left: 1px solid #2a2a4e; display: flex; flex-direction: column; overflow: hidden; }
+  #search-wrap { padding: 12px; border-bottom: 1px solid #2a2a4e; }
+  #search { width: 100%; background: #0f0f1a; border: 1px solid #3a3a5e; color: #e0e0e0; padding: 7px 10px; border-radius: 6px; font-size: 13px; outline: none; }
+  #search:focus { border-color: #4E79A7; }
+  #search-results { max-height: 140px; overflow-y: auto; padding: 4px 12px; border-bottom: 1px solid #2a2a4e; display: none; }
+  .search-item { padding: 4px 6px; cursor: pointer; border-radius: 4px; font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .search-item:hover { background: #2a2a4e; }
+  #info-panel { padding: 14px; border-bottom: 1px solid #2a2a4e; min-height: 140px; }
+  #info-panel h3 { font-size: 13px; color: #aaa; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.05em; }
+  #info-content { font-size: 13px; color: #ccc; line-height: 1.6; }
+  #info-content .field { margin-bottom: 5px; }
+  #info-content .field b { color: #e0e0e0; }
+  #info-content .empty { color: #555; font-style: italic; }
+  .neighbor-link { display: block; padding: 2px 6px; margin: 2px 0; border-radius: 3px; cursor: pointer; font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-left: 3px solid #333; }
+  .neighbor-link:hover { background: #2a2a4e; }
+  #neighbors-list { max-height: 160px; overflow-y: auto; margin-top: 4px; }
+  #legend-wrap { flex: 1; overflow-y: auto; padding: 12px; }
+  #legend-wrap h3 { font-size: 13px; color: #aaa; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .legend-item { display: flex; align-items: center; gap: 8px; padding: 4px 0; cursor: pointer; border-radius: 4px; font-size: 12px; }
+  .legend-item:hover { background: #2a2a4e; padding-left: 4px; }
+  .legend-item.dimmed { opacity: 0.35; }
+  .legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+  .legend-label { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .legend-count { color: #666; font-size: 11px; }
+  #stats { padding: 10px 14px; border-top: 1px solid #2a2a4e; font-size: 11px; color: #555; }
+  #legend-controls { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; padding: 4px 0; }
+  #legend-controls label { display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 12px; color: #aaa; user-select: none; }
+  #legend-controls label:hover { color: #e0e0e0; }
+  .legend-cb, #select-all-cb { appearance: none; -webkit-appearance: none; width: 14px; height: 14px; border: 1.5px solid #3a3a5e; border-radius: 3px; background: #0f0f1a; cursor: pointer; position: relative; flex-shrink: 0; }
+  .legend-cb:checked, #select-all-cb:checked { background: #4E79A7; border-color: #4E79A7; }
+  .legend-cb:checked::after, #select-all-cb:checked::after { content: ''; position: absolute; left: 3.5px; top: 1px; width: 4px; height: 7px; border: solid #fff; border-width: 0 2px 2px 0; transform: rotate(45deg); }
+  #select-all-cb:indeterminate { background: #4E79A7; border-color: #4E79A7; }
+  #select-all-cb:indeterminate::after { content: ''; position: absolute; left: 2px; top: 5px; width: 8px; height: 2px; background: #fff; border: none; transform: none; }
+</style>
+</head>
+<body>
+<div id="graph"></div>
+<div id="sidebar">
+  <div id="search-wrap">
+    <input id="search" type="text" placeholder="Search nodes..." autocomplete="off">
+    <div id="search-results"></div>
+  </div>
+  <div id="info-panel">
+    <h3>Node Info</h3>
+    <div id="info-content"><span class="empty">Click a node to inspect it</span></div>
+  </div>
+  <div id="legend-wrap">
+    <h3>Communities</h3>
+    <div id="legend-controls">
+      <label><input type="checkbox" id="select-all-cb" checked onchange="toggleAllCommunities(!this.checked)">Select All</label>
+    </div>
+    <div id="legend"></div>
+  </div>
+  <div id="stats">70 nodes &middot; 79 edges &middot; 12 communities</div>
+</div>
+<script>
+const RAW_NODES = [{"id": "components_articlecard", "label": "../components/ArticleCard.astro", "color": {"background": "#76B7B2", "border": "#76B7B2", "highlight": {"background": "#ffffff", "border": "#76B7B2"}}, "size": 17.8, "font": {"size": 12, "color": "#ffffff"}, "title": "../components/ArticleCard.astro", "community": 3, "community_name": "Article Listing & Cards", "source_file": "src/components/ArticleCard.astro", "file_type": "code", "degree": 6}, {"id": "components_articlecard_string", "label": "string", "color": {"background": "#76B7B2", "border": "#76B7B2", "highlight": {"background": "#ffffff", "border": "#76B7B2"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "string", "community": 3, "community_name": "Article Listing & Cards", "source_file": "src/components/ArticleCard.astro", "file_type": "code", "degree": 1}, {"id": "components_articlecard_datestr", "label": "dateStr", "color": {"background": "#76B7B2", "border": "#76B7B2", "highlight": {"background": "#ffffff", "border": "#76B7B2"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "dateStr", "community": 3, "community_name": "Article Listing & Cards", "source_file": "src/components/ArticleCard.astro", "file_type": "code", "degree": 1}, {"id": "components_articlecard_initials", "label": "initials", "color": {"background": "#76B7B2", "border": "#76B7B2", "highlight": {"background": "#ffffff", "border": "#76B7B2"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "initials", "community": 3, "community_name": "Article Listing & Cards", "source_file": "src/components/ArticleCard.astro", "file_type": "code", "degree": 1}, {"id": "components_cookiebanner", "label": "../components/CookieBanner.astro", "color": {"background": "#B07AA1", "border": "#B07AA1", "highlight": {"background": "#ffffff", "border": "#B07AA1"}}, "size": 12.6, "font": {"size": 0, "color": "#ffffff"}, "title": "../components/CookieBanner.astro", "community": 6, "community_name": "Cookie Banner", "source_file": "src/components/CookieBanner.astro", "file_type": "code", "degree": 2}, {"id": "components_cookiebanner_if", "label": "if()", "color": {"background": "#B07AA1", "border": "#B07AA1", "highlight": {"background": "#ffffff", "border": "#B07AA1"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "if()", "community": 6, "community_name": "Cookie Banner", "source_file": "src/components/CookieBanner.astro", "file_type": "code", "degree": 1}, {"id": "components_faq", "label": "../components/FAQ.astro", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "../components/FAQ.astro", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/components/FAQ.astro", "file_type": "code", "degree": 1}, {"id": "components_newsletterbox", "label": "../../components/NewsletterBox.astro", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 13.9, "font": {"size": 0, "color": "#ffffff"}, "title": "../../components/NewsletterBox.astro", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/components/NewsletterBox.astro", "file_type": "code", "degree": 3}, {"id": "components_relatedposts", "label": "../components/RelatedPosts.astro", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 13.9, "font": {"size": 0, "color": "#ffffff"}, "title": "../components/RelatedPosts.astro", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/components/RelatedPosts.astro", "file_type": "code", "degree": 3}, {"id": "components_relatedposts_scored", "label": "scored", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "scored", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/components/RelatedPosts.astro", "file_type": "code", "degree": 1}, {"id": "astro_content", "label": "astro:content", "color": {"background": "#76B7B2", "border": "#76B7B2", "highlight": {"background": "#ffffff", "border": "#76B7B2"}}, "size": 20.4, "font": {"size": 12, "color": "#ffffff"}, "title": "astro:content", "community": 3, "community_name": "Article Listing & Cards", "source_file": "astro:content", "file_type": "code", "degree": 8}, {"id": "components_toc", "label": "../components/TOC.astro", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 12.6, "font": {"size": 0, "color": "#ffffff"}, "title": "../components/TOC.astro", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/components/TOC.astro", "file_type": "code", "degree": 2}, {"id": "components_toc_filtered", "label": "filtered", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "filtered", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/components/TOC.astro", "file_type": "code", "degree": 1}, {"id": "src_content_config", "label": "content.config.ts", "color": {"background": "#EDC948", "border": "#EDC948", "highlight": {"background": "#ffffff", "border": "#EDC948"}}, "size": 16.5, "font": {"size": 12, "color": "#ffffff"}, "title": "content.config.ts", "community": 5, "community_name": "Content Collections Config", "source_file": "src/content.config.ts", "file_type": "code", "degree": 5}, {"id": "src_content_config_blog", "label": "blog", "color": {"background": "#EDC948", "border": "#EDC948", "highlight": {"background": "#ffffff", "border": "#EDC948"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "blog", "community": 5, "community_name": "Content Collections Config", "source_file": "src/content.config.ts", "file_type": "code", "degree": 1}, {"id": "src_content_config_pages", "label": "pages", "color": {"background": "#EDC948", "border": "#EDC948", "highlight": {"background": "#ffffff", "border": "#EDC948"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "pages", "community": 5, "community_name": "Content Collections Config", "source_file": "src/content.config.ts", "file_type": "code", "degree": 1}, {"id": "src_content_config_glossary", "label": "glossary", "color": {"background": "#EDC948", "border": "#EDC948", "highlight": {"background": "#ffffff", "border": "#EDC948"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "glossary", "community": 5, "community_name": "Content Collections Config", "source_file": "src/content.config.ts", "file_type": "code", "degree": 1}, {"id": "src_content_config_collections", "label": "collections", "color": {"background": "#EDC948", "border": "#EDC948", "highlight": {"background": "#ffffff", "border": "#EDC948"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "collections", "community": 5, "community_name": "Content Collections Config", "source_file": "src/content.config.ts", "file_type": "code", "degree": 1}, {"id": "layouts_baselayout", "label": "../../layouts/BaseLayout.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 40.0, "font": {"size": 12, "color": "#ffffff"}, "title": "../../layouts/BaseLayout.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/layouts/BaseLayout.astro", "file_type": "code", "degree": 23}, {"id": "layouts_baselayout_nav", "label": "nav", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "nav", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/layouts/BaseLayout.astro", "file_type": "code", "degree": 1}, {"id": "home_sergej_downloads_airbrushdoc_src_styles_global_css", "label": "../styles/global.css", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "../styles/global.css", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/styles/global.css", "file_type": "code", "degree": 1}, {"id": "layouts_postlayout", "label": "../../layouts/PostLayout.astro", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 23.0, "font": {"size": 12, "color": "#ffffff"}, "title": "../../layouts/PostLayout.astro", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/layouts/PostLayout.astro", "file_type": "code", "degree": 10}, {"id": "layouts_postlayout_formatteddate", "label": "formattedDate", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "formattedDate", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/layouts/PostLayout.astro", "file_type": "code", "degree": 1}, {"id": "layouts_postlayout_formattedupdated", "label": "formattedUpdated", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "formattedUpdated", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/layouts/PostLayout.astro", "file_type": "code", "degree": 1}, {"id": "layouts_postlayout_string", "label": "string", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "string", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/layouts/PostLayout.astro", "file_type": "code", "degree": 1}, {"id": "layouts_postlayout_articleschema", "label": "articleSchema", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "articleSchema", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/layouts/PostLayout.astro", "file_type": "code", "degree": 1}, {"id": "layouts_postlayout_breadcrumbschema", "label": "breadcrumbSchema", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "breadcrumbSchema", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/layouts/PostLayout.astro", "file_type": "code", "degree": 1}, {"id": "category_index", "label": "index.astro", "color": {"background": "#76B7B2", "border": "#76B7B2", "highlight": {"background": "#ffffff", "border": "#76B7B2"}}, "size": 15.2, "font": {"size": 12, "color": "#ffffff"}, "title": "index.astro", "community": 3, "community_name": "Article Listing & Cards", "source_file": "src/pages/[category]/index.astro", "file_type": "code", "degree": 4}, {"id": "category_index_getstaticpaths", "label": "getStaticPaths()", "color": {"background": "#76B7B2", "border": "#76B7B2", "highlight": {"background": "#ffffff", "border": "#76B7B2"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "getStaticPaths()", "community": 3, "community_name": "Article Listing & Cards", "source_file": "src/pages/[category]/index.astro", "file_type": "code", "degree": 1}, {"id": "about_index", "label": "index.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/pages/about/index.astro", "file_type": "code", "degree": 1}, {"id": "affiliate_disclosure_index", "label": "index.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/pages/affiliate-disclosure/index.astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_slug", "label": "[slug].astro", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 20.4, "font": {"size": 12, "color": "#ffffff"}, "title": "[slug].astro", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/[slug].astro", "file_type": "code", "degree": 8}, {"id": "airbrush_glossary_slug_getstaticpaths", "label": "getStaticPaths()", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "getStaticPaths()", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/[slug].astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_slug_string", "label": "string", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "string", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/[slug].astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_slug_related", "label": "related", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "related", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/[slug].astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_slug_definedtermschema", "label": "definedTermSchema", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "definedTermSchema", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/[slug].astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_slug_breadcrumbschema", "label": "breadcrumbSchema", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "breadcrumbSchema", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/[slug].astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_index", "label": "index.astro", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 19.1, "font": {"size": 12, "color": "#ffffff"}, "title": "index.astro", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/index.astro", "file_type": "code", "degree": 7}, {"id": "airbrush_glossary_index_sorted", "label": "sorted", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "sorted", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/index.astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_index_string", "label": "string", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "string", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/index.astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_index_categories", "label": "categories", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "categories", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/index.astro", "file_type": "code", "degree": 1}, {"id": "airbrush_glossary_index_letters", "label": "letters", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "letters", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/airbrush-glossary/index.astro", "file_type": "code", "degree": 1}, {"id": "blog_slug", "label": "[slug].astro", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 13.9, "font": {"size": 0, "color": "#ffffff"}, "title": "[slug].astro", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/pages/blog/[slug].astro", "file_type": "code", "degree": 3}, {"id": "blog_slug_getstaticpaths", "label": "getStaticPaths()", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "getStaticPaths()", "community": 1, "community_name": "Blog Post Rendering", "source_file": "src/pages/blog/[slug].astro", "file_type": "code", "degree": 1}, {"id": "blog_index", "label": "index.astro", "color": {"background": "#59A14F", "border": "#59A14F", "highlight": {"background": "#ffffff", "border": "#59A14F"}}, "size": 23.0, "font": {"size": 12, "color": "#ffffff"}, "title": "index.astro", "community": 4, "community_name": "Category Filter UI", "source_file": "src/pages/blog/index.astro", "file_type": "code", "degree": 10}, {"id": "blog_index_sorted", "label": "sorted", "color": {"background": "#59A14F", "border": "#59A14F", "highlight": {"background": "#ffffff", "border": "#59A14F"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "sorted", "community": 4, "community_name": "Category Filter UI", "source_file": "src/pages/blog/index.astro", "file_type": "code", "degree": 1}, {"id": "blog_index_string", "label": "string", "color": {"background": "#59A14F", "border": "#59A14F", "highlight": {"background": "#ffffff", "border": "#59A14F"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "string", "community": 4, "community_name": "Category Filter UI", "source_file": "src/pages/blog/index.astro", "file_type": "code", "degree": 1}, {"id": "blog_index_cats", "label": "cats", "color": {"background": "#59A14F", "border": "#59A14F", "highlight": {"background": "#ffffff", "border": "#59A14F"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "cats", "community": 4, "community_name": "Category Filter UI", "source_file": "src/pages/blog/index.astro", "file_type": "code", "degree": 1}, {"id": "blog_index_number", "label": "number", "color": {"background": "#59A14F", "border": "#59A14F", "highlight": {"background": "#ffffff", "border": "#59A14F"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "number", "community": 4, "community_name": "Category Filter UI", "source_file": "src/pages/blog/index.astro", "file_type": "code", "degree": 1}, {"id": "blog_index_countel", "label": "countEl", "color": {"background": "#59A14F", "border": "#59A14F", "highlight": {"background": "#ffffff", "border": "#59A14F"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "countEl", "community": 4, "community_name": "Category Filter UI", "source_file": "src/pages/blog/index.astro", "file_type": "code", "degree": 1}, {"id": "blog_index_noresults", "label": "noResults", "color": {"background": "#59A14F", "border": "#59A14F", "highlight": {"background": "#ffffff", "border": "#59A14F"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "noResults", "community": 4, "community_name": "Category Filter UI", "source_file": "src/pages/blog/index.astro", "file_type": "code", "degree": 1}, {"id": "blog_index_cards", "label": "cards", "color": {"background": "#59A14F", "border": "#59A14F", "highlight": {"background": "#ffffff", "border": "#59A14F"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "cards", "community": 4, "community_name": "Category Filter UI", "source_file": "src/pages/blog/index.astro", "file_type": "code", "degree": 1}, {"id": "book_index", "label": "index.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/pages/book/index.astro", "file_type": "code", "degree": 1}, {"id": "preview_index", "label": "index.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/pages/book/preview/index.astro", "file_type": "code", "degree": 1}, {"id": "contact_index", "label": "index.astro", "color": {"background": "#FF9DA7", "border": "#FF9DA7", "highlight": {"background": "#ffffff", "border": "#FF9DA7"}}, "size": 12.6, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 7, "community_name": "Homepage Index", "source_file": "src/pages/contact/index.astro", "file_type": "code", "degree": 2}, {"id": "contact_index_if", "label": "if()", "color": {"background": "#FF9DA7", "border": "#FF9DA7", "highlight": {"background": "#ffffff", "border": "#FF9DA7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "if()", "community": 7, "community_name": "Homepage Index", "source_file": "src/pages/contact/index.astro", "file_type": "code", "degree": 1}, {"id": "freebies_index", "label": "index.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/pages/freebies/index.astro", "file_type": "code", "degree": 1}, {"id": "pages_index", "label": "index.astro", "color": {"background": "#76B7B2", "border": "#76B7B2", "highlight": {"background": "#ffffff", "border": "#76B7B2"}}, "size": 13.9, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 3, "community_name": "Article Listing & Cards", "source_file": "src/pages/index.astro", "file_type": "code", "degree": 3}, {"id": "thank_you_index", "label": "index.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/pages/thank-you/index.astro", "file_type": "code", "degree": 1}, {"id": "tools_airbrush_quiz", "label": "airbrush-quiz.astro", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 12.6, "font": {"size": 0, "color": "#ffffff"}, "title": "airbrush-quiz.astro", "community": 10, "community_name": "Airbrush Quiz Tool", "source_file": "src/pages/tools/airbrush-quiz.astro", "file_type": "code", "degree": 2}, {"id": "home_sergej_downloads_airbrushdoc_src_tools_content_quiz_html_raw", "label": "../../tools-content/quiz.html?raw", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "../../tools-content/quiz.html?raw", "community": 10, "community_name": "Airbrush Quiz Tool", "source_file": "src/tools-content/quiz.html?raw", "file_type": "code", "degree": 1}, {"id": "airmix_index", "label": "index.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/pages/tools/airmix/index.astro", "file_type": "code", "degree": 1}, {"id": "tools_compare", "label": "compare.astro", "color": {"background": "#9C755F", "border": "#9C755F", "highlight": {"background": "#ffffff", "border": "#9C755F"}}, "size": 12.6, "font": {"size": 0, "color": "#ffffff"}, "title": "compare.astro", "community": 8, "community_name": "Compare Tool", "source_file": "src/pages/tools/compare.astro", "file_type": "code", "degree": 2}, {"id": "home_sergej_downloads_airbrushdoc_src_tools_content_compare_html_raw", "label": "../../tools-content/compare.html?raw", "color": {"background": "#9C755F", "border": "#9C755F", "highlight": {"background": "#ffffff", "border": "#9C755F"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "../../tools-content/compare.html?raw", "community": 8, "community_name": "Compare Tool", "source_file": "src/tools-content/compare.html?raw", "file_type": "code", "degree": 1}, {"id": "tools_index", "label": "index.astro", "color": {"background": "#4E79A7", "border": "#4E79A7", "highlight": {"background": "#ffffff", "border": "#4E79A7"}}, "size": 12.6, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 0, "community_name": "Glossary Term Pages", "source_file": "src/pages/tools/index.astro", "file_type": "code", "degree": 2}, {"id": "tools_paint_selector", "label": "paint-selector.astro", "color": {"background": "#BAB0AC", "border": "#BAB0AC", "highlight": {"background": "#ffffff", "border": "#BAB0AC"}}, "size": 12.6, "font": {"size": 0, "color": "#ffffff"}, "title": "paint-selector.astro", "community": 9, "community_name": "Paint Selector Tool", "source_file": "src/pages/tools/paint-selector.astro", "file_type": "code", "degree": 2}, {"id": "home_sergej_downloads_airbrushdoc_src_tools_content_paint_selector_html_raw", "label": "../../tools-content/paint-selector.html?raw", "color": {"background": "#BAB0AC", "border": "#BAB0AC", "highlight": {"background": "#ffffff", "border": "#BAB0AC"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "../../tools-content/paint-selector.html?raw", "community": 9, "community_name": "Paint Selector Tool", "source_file": "src/tools-content/paint-selector.html?raw", "file_type": "code", "degree": 1}, {"id": "stencil_creator_index", "label": "index.astro", "color": {"background": "#E15759", "border": "#E15759", "highlight": {"background": "#ffffff", "border": "#E15759"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "index.astro", "community": 2, "community_name": "Site Layout & Pages", "source_file": "src/pages/tools/stencil-creator/index.astro", "file_type": "code", "degree": 1}, {"id": "tools_troubleshooter", "label": "troubleshooter.astro", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 12.6, "font": {"size": 0, "color": "#ffffff"}, "title": "troubleshooter.astro", "community": 11, "community_name": "Troubleshooter Tool", "source_file": "src/pages/tools/troubleshooter.astro", "file_type": "code", "degree": 2}, {"id": "home_sergej_downloads_airbrushdoc_src_tools_content_troubleshooter_html_raw", "label": "../../tools-content/troubleshooter.html?raw", "color": {"background": "#F28E2B", "border": "#F28E2B", "highlight": {"background": "#ffffff", "border": "#F28E2B"}}, "size": 11.3, "font": {"size": 0, "color": "#ffffff"}, "title": "../../tools-content/troubleshooter.html?raw", "community": 11, "community_name": "Troubleshooter Tool", "source_file": "src/tools-content/troubleshooter.html?raw", "file_type": "code", "degree": 1}];
+const RAW_EDGES = [{"from": "components_articlecard", "to": "blog_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_articlecard", "to": "category_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_articlecard", "to": "components_articlecard_datestr", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_articlecard", "to": "components_articlecard_initials", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_articlecard", "to": "components_articlecard_string", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_articlecard", "to": "pages_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_cookiebanner", "to": "components_cookiebanner_if", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_cookiebanner", "to": "layouts_baselayout", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_faq", "to": "layouts_postlayout", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_newsletterbox", "to": "airbrush_glossary_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_newsletterbox", "to": "airbrush_glossary_slug", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_newsletterbox", "to": "tools_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_relatedposts", "to": "astro_content", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_relatedposts", "to": "components_relatedposts_scored", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_relatedposts", "to": "layouts_postlayout", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "astro_content", "to": "airbrush_glossary_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "astro_content", "to": "airbrush_glossary_slug", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "astro_content", "to": "blog_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "astro_content", "to": "blog_slug", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "astro_content", "to": "category_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "astro_content", "to": "pages_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "astro_content", "to": "src_content_config", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_toc", "to": "components_toc_filtered", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "components_toc", "to": "layouts_postlayout", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "src_content_config", "to": "src_content_config_blog", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "src_content_config", "to": "src_content_config_collections", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "src_content_config", "to": "src_content_config_glossary", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "src_content_config", "to": "src_content_config_pages", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "about_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "affiliate_disclosure_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "airbrush_glossary_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "airbrush_glossary_slug", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "airmix_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "blog_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "book_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "category_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "contact_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "freebies_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "home_sergej_downloads_airbrushdoc_src_styles_global_css", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "layouts_baselayout_nav", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "layouts_postlayout", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "pages_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "preview_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "stencil_creator_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "thank_you_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "tools_airbrush_quiz", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "tools_compare", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "tools_index", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "tools_paint_selector", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_baselayout", "to": "tools_troubleshooter", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_postlayout", "to": "blog_slug", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_postlayout", "to": "layouts_postlayout_articleschema", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_postlayout", "to": "layouts_postlayout_breadcrumbschema", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_postlayout", "to": "layouts_postlayout_formatteddate", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_postlayout", "to": "layouts_postlayout_formattedupdated", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "layouts_postlayout", "to": "layouts_postlayout_string", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "category_index", "to": "category_index_getstaticpaths", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_slug", "to": "airbrush_glossary_slug_breadcrumbschema", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_slug", "to": "airbrush_glossary_slug_definedtermschema", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_slug", "to": "airbrush_glossary_slug_getstaticpaths", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_slug", "to": "airbrush_glossary_slug_related", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_slug", "to": "airbrush_glossary_slug_string", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_index", "to": "airbrush_glossary_index_categories", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_index", "to": "airbrush_glossary_index_letters", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_index", "to": "airbrush_glossary_index_sorted", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "airbrush_glossary_index", "to": "airbrush_glossary_index_string", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "blog_slug", "to": "blog_slug_getstaticpaths", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "blog_index", "to": "blog_index_cards", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "blog_index", "to": "blog_index_cats", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "blog_index", "to": "blog_index_countel", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "blog_index", "to": "blog_index_noresults", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "blog_index", "to": "blog_index_number", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "blog_index", "to": "blog_index_sorted", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "blog_index", "to": "blog_index_string", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "contact_index", "to": "contact_index_if", "label": "contains", "title": "contains [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "tools_airbrush_quiz", "to": "home_sergej_downloads_airbrushdoc_src_tools_content_quiz_html_raw", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "tools_compare", "to": "home_sergej_downloads_airbrushdoc_src_tools_content_compare_html_raw", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "tools_paint_selector", "to": "home_sergej_downloads_airbrushdoc_src_tools_content_paint_selector_html_raw", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}, {"from": "tools_troubleshooter", "to": "home_sergej_downloads_airbrushdoc_src_tools_content_troubleshooter_html_raw", "label": "imports_from", "title": "imports_from [EXTRACTED]", "dashes": false, "width": 2, "color": {"opacity": 0.7}, "confidence": "EXTRACTED"}];
+const LEGEND = [{"cid": 0, "color": "#4E79A7", "label": "Glossary Term Pages", "count": 13}, {"cid": 1, "color": "#F28E2B", "label": "Blog Post Rendering", "count": 13}, {"cid": 2, "color": "#E15759", "label": "Site Layout &amp; Pages", "count": 11}, {"cid": 3, "color": "#76B7B2", "label": "Article Listing &amp; Cards", "count": 8}, {"cid": 4, "color": "#59A14F", "label": "Category Filter UI", "count": 8}, {"cid": 5, "color": "#EDC948", "label": "Content Collections Config", "count": 5}, {"cid": 6, "color": "#B07AA1", "label": "Cookie Banner", "count": 2}, {"cid": 7, "color": "#FF9DA7", "label": "Homepage Index", "count": 2}, {"cid": 8, "color": "#9C755F", "label": "Compare Tool", "count": 2}, {"cid": 9, "color": "#BAB0AC", "label": "Paint Selector Tool", "count": 2}, {"cid": 10, "color": "#4E79A7", "label": "Airbrush Quiz Tool", "count": 2}, {"cid": 11, "color": "#F28E2B", "label": "Troubleshooter Tool", "count": 2}];
+
+// HTML-escape helper — prevents XSS when injecting graph data into innerHTML
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// Build vis datasets
+const nodesDS = new vis.DataSet(RAW_NODES.map(n => ({
+  id: n.id, label: n.label, color: n.color, size: n.size,
+  font: n.font, title: n.title,
+  _community: n.community, _community_name: n.community_name,
+  _source_file: n.source_file, _file_type: n.file_type, _degree: n.degree,
+})));
+
+const edgesDS = new vis.DataSet(RAW_EDGES.map((e, i) => ({
+  id: i, from: e.from, to: e.to,
+  label: '',
+  title: e.title,
+  dashes: e.dashes,
+  width: e.width,
+  color: e.color,
+  arrows: { to: { enabled: true, scaleFactor: 0.5 } },
+})));
+
+const container = document.getElementById('graph');
+const network = new vis.Network(container, { nodes: nodesDS, edges: edgesDS }, {
+  physics: {
+    enabled: true,
+    solver: 'forceAtlas2Based',
+    forceAtlas2Based: {
+      gravitationalConstant: -60,
+      centralGravity: 0.005,
+      springLength: 120,
+      springConstant: 0.08,
+      damping: 0.4,
+      avoidOverlap: 0.8,
+    },
+    stabilization: { iterations: 200, fit: true },
+  },
+  interaction: {
+    hover: true,
+    tooltipDelay: 100,
+    hideEdgesOnDrag: true,
+    navigationButtons: false,
+    keyboard: false,
+  },
+  nodes: { shape: 'dot', borderWidth: 1.5 },
+  edges: { smooth: { type: 'continuous', roundness: 0.2 }, selectionWidth: 3 },
+});
+
+network.once('stabilizationIterationsDone', () => {
+  network.setOptions({ physics: { enabled: false } });
+});
+
+function showInfo(nodeId) {
+  const n = nodesDS.get(nodeId);
+  if (!n) return;
+  const neighborIds = network.getConnectedNodes(nodeId);
+  const neighborItems = neighborIds.map(nid => {
+    const nb = nodesDS.get(nid);
+    const color = nb ? nb.color.background : '#555';
+    return `<span class="neighbor-link" style="border-left-color:${esc(color)}" onclick="focusNode(${JSON.stringify(nid)})">${esc(nb ? nb.label : nid)}</span>`;
+  }).join('');
+  document.getElementById('info-content').innerHTML = `
+    <div class="field"><b>${esc(n.label)}</b></div>
+    <div class="field">Type: ${esc(n._file_type || 'unknown')}</div>
+    <div class="field">Community: ${esc(n._community_name)}</div>
+    <div class="field">Source: ${esc(n._source_file || '-')}</div>
+    <div class="field">Degree: ${n._degree}</div>
+    ${neighborIds.length ? `<div class="field" style="margin-top:8px;color:#aaa;font-size:11px">Neighbors (${neighborIds.length})</div><div id="neighbors-list">${neighborItems}</div>` : ''}
+  `;
+}
+
+function focusNode(nodeId) {
+  network.focus(nodeId, { scale: 1.4, animation: true });
+  network.selectNodes([nodeId]);
+  showInfo(nodeId);
+}
+
+// Track hovered node — hover detection is more reliable than click params
+let hoveredNodeId = null;
+network.on('hoverNode', params => {
+  hoveredNodeId = params.node;
+  container.style.cursor = 'pointer';
+});
+network.on('blurNode', () => {
+  hoveredNodeId = null;
+  container.style.cursor = 'default';
+});
+container.addEventListener('click', () => {
+  if (hoveredNodeId !== null) {
+    showInfo(hoveredNodeId);
+    network.selectNodes([hoveredNodeId]);
+  }
+});
+network.on('click', params => {
+  if (params.nodes.length > 0) {
+    showInfo(params.nodes[0]);
+  } else if (hoveredNodeId === null) {
+    document.getElementById('info-content').innerHTML = '<span class="empty">Click a node to inspect it</span>';
+  }
+});
+
+const searchInput = document.getElementById('search');
+const searchResults = document.getElementById('search-results');
+searchInput.addEventListener('input', () => {
+  const q = searchInput.value.toLowerCase().trim();
+  searchResults.innerHTML = '';
+  if (!q) { searchResults.style.display = 'none'; return; }
+  const matches = RAW_NODES.filter(n => n.label.toLowerCase().includes(q)).slice(0, 20);
+  if (!matches.length) { searchResults.style.display = 'none'; return; }
+  searchResults.style.display = 'block';
+  matches.forEach(n => {
+    const el = document.createElement('div');
+    el.className = 'search-item';
+    el.textContent = n.label;
+    el.style.borderLeft = `3px solid ${n.color.background}`;
+    el.style.paddingLeft = '8px';
+    el.onclick = () => {
+      network.focus(n.id, { scale: 1.5, animation: true });
+      network.selectNodes([n.id]);
+      showInfo(n.id);
+      searchResults.style.display = 'none';
+      searchInput.value = '';
+    };
+    searchResults.appendChild(el);
+  });
+});
+document.addEventListener('click', e => {
+  if (!searchResults.contains(e.target) && e.target !== searchInput)
+    searchResults.style.display = 'none';
+});
+
+const hiddenCommunities = new Set();
+
+const selectAllCb = document.getElementById('select-all-cb');
+
+function updateSelectAllState() {
+  const total = LEGEND.length;
+  const hidden = hiddenCommunities.size;
+  selectAllCb.checked = hidden === 0;
+  selectAllCb.indeterminate = hidden > 0 && hidden < total;
+}
+
+function toggleAllCommunities(hide) {
+  document.querySelectorAll('.legend-item').forEach(item => {
+    hide ? item.classList.add('dimmed') : item.classList.remove('dimmed');
+  });
+  document.querySelectorAll('.legend-cb').forEach(cb => {
+    cb.checked = !hide;
+  });
+  LEGEND.forEach(c => {
+    if (hide) hiddenCommunities.add(c.cid); else hiddenCommunities.delete(c.cid);
+  });
+  const updates = RAW_NODES.map(n => ({ id: n.id, hidden: hide }));
+  nodesDS.update(updates);
+  updateSelectAllState();
+}
+
+const legendEl = document.getElementById('legend');
+LEGEND.forEach(c => {
+  const item = document.createElement('div');
+  item.className = 'legend-item';
+  const cb = document.createElement('input');
+  cb.type = 'checkbox';
+  cb.className = 'legend-cb';
+  cb.checked = true;
+  cb.addEventListener('change', (e) => {
+    e.stopPropagation();
+    if (cb.checked) {
+      hiddenCommunities.delete(c.cid);
+      item.classList.remove('dimmed');
+    } else {
+      hiddenCommunities.add(c.cid);
+      item.classList.add('dimmed');
+    }
+    const updates = RAW_NODES
+      .filter(n => n.community === c.cid)
+      .map(n => ({ id: n.id, hidden: !cb.checked }));
+    nodesDS.update(updates);
+    updateSelectAllState();
+  });
+  item.innerHTML = `<div class="legend-dot" style="background:${c.color}"></div>
+    <span class="legend-label">${c.label}</span>
+    <span class="legend-count">${c.count}</span>`;
+  item.prepend(cb);
+  item.onclick = (e) => {
+    if (e.target === cb) return;
+    cb.checked = !cb.checked;
+    cb.dispatchEvent(new Event('change'));
+  };
+  legendEl.appendChild(item);
+});
+</script>
+<script>
+// Render hyperedges as shaded regions
+const hyperedges = [];
+// afterDrawing passes ctx already transformed to network coordinate space.
+// Draw node positions raw — no manual pan/zoom/DPR math needed.
+network.on('afterDrawing', function(ctx) {
+    hyperedges.forEach(h => {
+        const positions = h.nodes
+            .map(nid => network.getPositions([nid])[nid])
+            .filter(p => p !== undefined);
+        if (positions.length < 2) return;
+        ctx.save();
+        ctx.globalAlpha = 0.12;
+        ctx.fillStyle = '#6366f1';
+        ctx.strokeStyle = '#6366f1';
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        // Centroid and expanded hull in network coordinates
+        const cx = positions.reduce((s, p) => s + p.x, 0) / positions.length;
+        const cy = positions.reduce((s, p) => s + p.y, 0) / positions.length;
+        const expanded = positions.map(p => ({
+            x: cx + (p.x - cx) * 1.15,
+            y: cy + (p.y - cy) * 1.15
+        }));
+        ctx.moveTo(expanded[0].x, expanded[0].y);
+        expanded.slice(1).forEach(p => ctx.lineTo(p.x, p.y));
+        ctx.closePath();
+        ctx.fill();
+        ctx.globalAlpha = 0.4;
+        ctx.stroke();
+        // Label
+        ctx.globalAlpha = 0.8;
+        ctx.fillStyle = '#4f46e5';
+        ctx.font = 'bold 11px sans-serif';
+        ctx.textAlign = 'center';
+        ctx.fillText(h.label, cx, cy - 5);
+        ctx.restore();
+    });
+});
+</script>
+</body>
+</html>

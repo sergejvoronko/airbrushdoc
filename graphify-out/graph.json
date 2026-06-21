@@ -1,0 +1,1484 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "../components/ArticleCard.astro",
+      "file_type": "code",
+      "source_file": "src/components/ArticleCard.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "id": "components_articlecard",
+      "community": 3,
+      "norm_label": "../components/articlecard.astro"
+    },
+    {
+      "label": "string",
+      "file_type": "code",
+      "source_file": "src/components/ArticleCard.astro",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "components_articlecard_string",
+      "community": 3,
+      "norm_label": "string"
+    },
+    {
+      "label": "dateStr",
+      "file_type": "code",
+      "source_file": "src/components/ArticleCard.astro",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "components_articlecard_datestr",
+      "community": 3,
+      "norm_label": "datestr"
+    },
+    {
+      "label": "initials",
+      "file_type": "code",
+      "source_file": "src/components/ArticleCard.astro",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "components_articlecard_initials",
+      "community": 3,
+      "norm_label": "initials"
+    },
+    {
+      "label": "../components/CookieBanner.astro",
+      "file_type": "code",
+      "source_file": "src/components/CookieBanner.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "id": "components_cookiebanner",
+      "community": 6,
+      "norm_label": "../components/cookiebanner.astro"
+    },
+    {
+      "label": "if()",
+      "file_type": "code",
+      "source_file": "src/components/CookieBanner.astro",
+      "source_location": "L85",
+      "_origin": "ast",
+      "id": "components_cookiebanner_if",
+      "community": 6,
+      "norm_label": "if()"
+    },
+    {
+      "label": "../components/FAQ.astro",
+      "file_type": "code",
+      "source_file": "src/components/FAQ.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "id": "components_faq",
+      "community": 1,
+      "norm_label": "../components/faq.astro"
+    },
+    {
+      "label": "../../components/NewsletterBox.astro",
+      "file_type": "code",
+      "source_file": "src/components/NewsletterBox.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "id": "components_newsletterbox",
+      "community": 0,
+      "norm_label": "../../components/newsletterbox.astro"
+    },
+    {
+      "label": "../components/RelatedPosts.astro",
+      "file_type": "code",
+      "source_file": "src/components/RelatedPosts.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "id": "components_relatedposts",
+      "community": 1,
+      "norm_label": "../components/relatedposts.astro"
+    },
+    {
+      "label": "scored",
+      "file_type": "code",
+      "source_file": "src/components/RelatedPosts.astro",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "components_relatedposts_scored",
+      "community": 1,
+      "norm_label": "scored"
+    },
+    {
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast",
+      "id": "astro_content",
+      "community": 3,
+      "norm_label": "astro:content"
+    },
+    {
+      "label": "../components/TOC.astro",
+      "file_type": "code",
+      "source_file": "src/components/TOC.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "id": "components_toc",
+      "community": 1,
+      "norm_label": "../components/toc.astro"
+    },
+    {
+      "label": "filtered",
+      "file_type": "code",
+      "source_file": "src/components/TOC.astro",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "components_toc_filtered",
+      "community": 1,
+      "norm_label": "filtered"
+    },
+    {
+      "label": "content.config.ts",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_content_config",
+      "community": 5,
+      "norm_label": "content.config.ts"
+    },
+    {
+      "label": "blog",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "src_content_config_blog",
+      "community": 5,
+      "norm_label": "blog"
+    },
+    {
+      "label": "pages",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "src_content_config_pages",
+      "community": 5,
+      "norm_label": "pages"
+    },
+    {
+      "label": "glossary",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "src_content_config_glossary",
+      "community": 5,
+      "norm_label": "glossary"
+    },
+    {
+      "label": "collections",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "src_content_config_collections",
+      "community": 5,
+      "norm_label": "collections"
+    },
+    {
+      "label": "../../layouts/BaseLayout.astro",
+      "file_type": "code",
+      "source_file": "src/layouts/BaseLayout.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "id": "layouts_baselayout",
+      "community": 2,
+      "norm_label": "../../layouts/baselayout.astro"
+    },
+    {
+      "label": "nav",
+      "file_type": "code",
+      "source_file": "src/layouts/BaseLayout.astro",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "layouts_baselayout_nav",
+      "community": 2,
+      "norm_label": "nav"
+    },
+    {
+      "label": "../styles/global.css",
+      "file_type": "code",
+      "source_file": "src/styles/global.css",
+      "confidence": "EXTRACTED",
+      "_origin": "ast",
+      "id": "home_sergej_downloads_airbrushdoc_src_styles_global_css",
+      "community": 2,
+      "norm_label": "../styles/global.css"
+    },
+    {
+      "label": "../../layouts/PostLayout.astro",
+      "file_type": "code",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "id": "layouts_postlayout",
+      "community": 1,
+      "norm_label": "../../layouts/postlayout.astro"
+    },
+    {
+      "label": "formattedDate",
+      "file_type": "code",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "layouts_postlayout_formatteddate",
+      "community": 1,
+      "norm_label": "formatteddate"
+    },
+    {
+      "label": "formattedUpdated",
+      "file_type": "code",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "layouts_postlayout_formattedupdated",
+      "community": 1,
+      "norm_label": "formattedupdated"
+    },
+    {
+      "label": "string",
+      "file_type": "code",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "layouts_postlayout_string",
+      "community": 1,
+      "norm_label": "string"
+    },
+    {
+      "label": "articleSchema",
+      "file_type": "code",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "layouts_postlayout_articleschema",
+      "community": 1,
+      "norm_label": "articleschema"
+    },
+    {
+      "label": "breadcrumbSchema",
+      "file_type": "code",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L63",
+      "_origin": "ast",
+      "id": "layouts_postlayout_breadcrumbschema",
+      "community": 1,
+      "norm_label": "breadcrumbschema"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/[category]/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "category_index",
+      "community": 3,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "getStaticPaths()",
+      "file_type": "code",
+      "source_file": "src/pages/[category]/index.astro",
+      "source_location": "L54",
+      "_origin": "ast",
+      "id": "category_index_getstaticpaths",
+      "community": 3,
+      "norm_label": "getstaticpaths()"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/about/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "about_index",
+      "community": 2,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/affiliate-disclosure/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "affiliate_disclosure_index",
+      "community": 2,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "[slug].astro",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "airbrush_glossary_slug",
+      "community": 0,
+      "norm_label": "[slug].astro"
+    },
+    {
+      "label": "getStaticPaths()",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "airbrush_glossary_slug_getstaticpaths",
+      "community": 0,
+      "norm_label": "getstaticpaths()"
+    },
+    {
+      "label": "string",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "airbrush_glossary_slug_string",
+      "community": 0,
+      "norm_label": "string"
+    },
+    {
+      "label": "related",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "airbrush_glossary_slug_related",
+      "community": 0,
+      "norm_label": "related"
+    },
+    {
+      "label": "definedTermSchema",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "airbrush_glossary_slug_definedtermschema",
+      "community": 0,
+      "norm_label": "definedtermschema"
+    },
+    {
+      "label": "breadcrumbSchema",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L57",
+      "_origin": "ast",
+      "id": "airbrush_glossary_slug_breadcrumbschema",
+      "community": 0,
+      "norm_label": "breadcrumbschema"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "airbrush_glossary_index",
+      "community": 0,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "sorted",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "airbrush_glossary_index_sorted",
+      "community": 0,
+      "norm_label": "sorted"
+    },
+    {
+      "label": "string",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "airbrush_glossary_index_string",
+      "community": 0,
+      "norm_label": "string"
+    },
+    {
+      "label": "categories",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "airbrush_glossary_index_categories",
+      "community": 0,
+      "norm_label": "categories"
+    },
+    {
+      "label": "letters",
+      "file_type": "code",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "airbrush_glossary_index_letters",
+      "community": 0,
+      "norm_label": "letters"
+    },
+    {
+      "label": "[slug].astro",
+      "file_type": "code",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "blog_slug",
+      "community": 1,
+      "norm_label": "[slug].astro"
+    },
+    {
+      "label": "getStaticPaths()",
+      "file_type": "code",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "blog_slug_getstaticpaths",
+      "community": 1,
+      "norm_label": "getstaticpaths()"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "blog_index",
+      "community": 4,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "sorted",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "blog_index_sorted",
+      "community": 4,
+      "norm_label": "sorted"
+    },
+    {
+      "label": "string",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "blog_index_string",
+      "community": 4,
+      "norm_label": "string"
+    },
+    {
+      "label": "cats",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "blog_index_cats",
+      "community": 4,
+      "norm_label": "cats"
+    },
+    {
+      "label": "number",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "blog_index_number",
+      "community": 4,
+      "norm_label": "number"
+    },
+    {
+      "label": "countEl",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L99",
+      "_origin": "ast",
+      "id": "blog_index_countel",
+      "community": 4,
+      "norm_label": "countel"
+    },
+    {
+      "label": "noResults",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L100",
+      "_origin": "ast",
+      "id": "blog_index_noresults",
+      "community": 4,
+      "norm_label": "noresults"
+    },
+    {
+      "label": "cards",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L101",
+      "_origin": "ast",
+      "id": "blog_index_cards",
+      "community": 4,
+      "norm_label": "cards"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/book/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "book_index",
+      "community": 2,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/book/preview/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "preview_index",
+      "community": 2,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/contact/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "contact_index",
+      "community": 7,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "if()",
+      "file_type": "code",
+      "source_file": "src/pages/contact/index.astro",
+      "source_location": "L212",
+      "_origin": "ast",
+      "id": "contact_index_if",
+      "community": 7,
+      "norm_label": "if()"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/freebies/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "freebies_index",
+      "community": 2,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "pages_index",
+      "community": 3,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/thank-you/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "thank_you_index",
+      "community": 2,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "airbrush-quiz.astro",
+      "file_type": "code",
+      "source_file": "src/pages/tools/airbrush-quiz.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tools_airbrush_quiz",
+      "community": 10,
+      "norm_label": "airbrush-quiz.astro"
+    },
+    {
+      "label": "../../tools-content/quiz.html?raw",
+      "file_type": "code",
+      "source_file": "src/tools-content/quiz.html?raw",
+      "confidence": "EXTRACTED",
+      "_origin": "ast",
+      "id": "home_sergej_downloads_airbrushdoc_src_tools_content_quiz_html_raw",
+      "community": 10,
+      "norm_label": "../../tools-content/quiz.html?raw"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/tools/airmix/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "airmix_index",
+      "community": 2,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "compare.astro",
+      "file_type": "code",
+      "source_file": "src/pages/tools/compare.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tools_compare",
+      "community": 8,
+      "norm_label": "compare.astro"
+    },
+    {
+      "label": "../../tools-content/compare.html?raw",
+      "file_type": "code",
+      "source_file": "src/tools-content/compare.html?raw",
+      "confidence": "EXTRACTED",
+      "_origin": "ast",
+      "id": "home_sergej_downloads_airbrushdoc_src_tools_content_compare_html_raw",
+      "community": 8,
+      "norm_label": "../../tools-content/compare.html?raw"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/tools/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tools_index",
+      "community": 0,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "paint-selector.astro",
+      "file_type": "code",
+      "source_file": "src/pages/tools/paint-selector.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tools_paint_selector",
+      "community": 9,
+      "norm_label": "paint-selector.astro"
+    },
+    {
+      "label": "../../tools-content/paint-selector.html?raw",
+      "file_type": "code",
+      "source_file": "src/tools-content/paint-selector.html?raw",
+      "confidence": "EXTRACTED",
+      "_origin": "ast",
+      "id": "home_sergej_downloads_airbrushdoc_src_tools_content_paint_selector_html_raw",
+      "community": 9,
+      "norm_label": "../../tools-content/paint-selector.html?raw"
+    },
+    {
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/tools/stencil-creator/index.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "stencil_creator_index",
+      "community": 2,
+      "norm_label": "index.astro"
+    },
+    {
+      "label": "troubleshooter.astro",
+      "file_type": "code",
+      "source_file": "src/pages/tools/troubleshooter.astro",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tools_troubleshooter",
+      "community": 11,
+      "norm_label": "troubleshooter.astro"
+    },
+    {
+      "label": "../../tools-content/troubleshooter.html?raw",
+      "file_type": "code",
+      "source_file": "src/tools-content/troubleshooter.html?raw",
+      "confidence": "EXTRACTED",
+      "_origin": "ast",
+      "id": "home_sergej_downloads_airbrushdoc_src_tools_content_troubleshooter_html_raw",
+      "community": 11,
+      "norm_label": "../../tools-content/troubleshooter.html?raw"
+    }
+  ],
+  "links": [
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "components_articlecard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[category]/index.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "category_index",
+      "target": "components_articlecard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ArticleCard.astro",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "components_articlecard",
+      "target": "components_articlecard_datestr",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ArticleCard.astro",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "components_articlecard",
+      "target": "components_articlecard_initials",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ArticleCard.astro",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "components_articlecard",
+      "target": "components_articlecard_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "pages_index",
+      "target": "components_articlecard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/CookieBanner.astro",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "components_cookiebanner",
+      "target": "components_cookiebanner_if",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/BaseLayout.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "layouts_baselayout",
+      "target": "components_cookiebanner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "layouts_postlayout",
+      "target": "components_faq",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "airbrush_glossary_index",
+      "target": "components_newsletterbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "airbrush_glossary_slug",
+      "target": "components_newsletterbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/index.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tools_index",
+      "target": "components_newsletterbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/RelatedPosts.astro",
+      "source": "components_relatedposts",
+      "target": "astro_content",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/RelatedPosts.astro",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "components_relatedposts",
+      "target": "components_relatedposts_scored",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "layouts_postlayout",
+      "target": "components_relatedposts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source": "airbrush_glossary_index",
+      "target": "astro_content",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source": "airbrush_glossary_slug",
+      "target": "astro_content",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source": "blog_index",
+      "target": "astro_content",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source": "blog_slug",
+      "target": "astro_content",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[category]/index.astro",
+      "source": "category_index",
+      "target": "astro_content",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source": "pages_index",
+      "target": "astro_content",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "src_content_config",
+      "target": "astro_content",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/TOC.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "components_toc",
+      "target": "components_toc_filtered",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "layouts_postlayout",
+      "target": "components_toc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_content_config",
+      "target": "src_content_config_blog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "src_content_config",
+      "target": "src_content_config_collections",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "src_content_config",
+      "target": "src_content_config_glossary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "src_content_config",
+      "target": "src_content_config_pages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/about/index.astro",
+      "source": "about_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/affiliate-disclosure/index.astro",
+      "source": "affiliate_disclosure_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "airbrush_glossary_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "airbrush_glossary_slug",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/airmix/index.astro",
+      "source": "airmix_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/book/index.astro",
+      "source": "book_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[category]/index.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "category_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/contact/index.astro",
+      "source": "contact_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/freebies/index.astro",
+      "source": "freebies_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/BaseLayout.astro",
+      "source": "layouts_baselayout",
+      "target": "home_sergej_downloads_airbrushdoc_src_styles_global_css",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/BaseLayout.astro",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "layouts_baselayout",
+      "target": "layouts_baselayout_nav",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source": "layouts_postlayout",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "pages_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/book/preview/index.astro",
+      "source": "preview_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/stencil-creator/index.astro",
+      "source": "stencil_creator_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/thank-you/index.astro",
+      "source": "thank_you_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/airbrush-quiz.astro",
+      "source": "tools_airbrush_quiz",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/compare.astro",
+      "source": "tools_compare",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/index.astro",
+      "source": "tools_index",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/paint-selector.astro",
+      "source": "tools_paint_selector",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/troubleshooter.astro",
+      "source": "tools_troubleshooter",
+      "target": "layouts_baselayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "blog_slug",
+      "target": "layouts_postlayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "layouts_postlayout",
+      "target": "layouts_postlayout_articleschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "layouts_postlayout",
+      "target": "layouts_postlayout_breadcrumbschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "layouts_postlayout",
+      "target": "layouts_postlayout_formatteddate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "layouts_postlayout",
+      "target": "layouts_postlayout_formattedupdated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/PostLayout.astro",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "layouts_postlayout",
+      "target": "layouts_postlayout_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[category]/index.astro",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "category_index",
+      "target": "category_index_getstaticpaths",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "airbrush_glossary_slug",
+      "target": "airbrush_glossary_slug_breadcrumbschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "airbrush_glossary_slug",
+      "target": "airbrush_glossary_slug_definedtermschema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "airbrush_glossary_slug",
+      "target": "airbrush_glossary_slug_getstaticpaths",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "airbrush_glossary_slug",
+      "target": "airbrush_glossary_slug_related",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/[slug].astro",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "airbrush_glossary_slug",
+      "target": "airbrush_glossary_slug_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "airbrush_glossary_index",
+      "target": "airbrush_glossary_index_categories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "airbrush_glossary_index",
+      "target": "airbrush_glossary_index_letters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "airbrush_glossary_index",
+      "target": "airbrush_glossary_index_sorted",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/airbrush-glossary/index.astro",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "airbrush_glossary_index",
+      "target": "airbrush_glossary_index_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "blog_slug",
+      "target": "blog_slug_getstaticpaths",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "blog_index_cards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "blog_index_cats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "blog_index_countel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "blog_index_noresults",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "blog_index_number",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "blog_index_sorted",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "blog_index",
+      "target": "blog_index_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/contact/index.astro",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "contact_index",
+      "target": "contact_index_if",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/airbrush-quiz.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tools_airbrush_quiz",
+      "target": "home_sergej_downloads_airbrushdoc_src_tools_content_quiz_html_raw",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/compare.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tools_compare",
+      "target": "home_sergej_downloads_airbrushdoc_src_tools_content_compare_html_raw",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/paint-selector.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tools_paint_selector",
+      "target": "home_sergej_downloads_airbrushdoc_src_tools_content_paint_selector_html_raw",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tools/troubleshooter.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tools_troubleshooter",
+      "target": "home_sergej_downloads_airbrushdoc_src_tools_content_troubleshooter_html_raw",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "c0b2ee69d354653fe2d456dc526245cecaaee5ce"
+}

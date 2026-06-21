@@ -2,10 +2,10 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 ---
 <BaseLayout
-  title="Stencil Creator — Design & Export Airbrush Stencils | AirbrushDOC"
-  description="Free browser-based stencil creator. Draw, adjust, and export print-ready airbrush stencils as PNG or PDF — no installation required."
+  title="Stencil Creator — Free Bonus with The Airbrush Technique Bible | AirbrushDOC"
+  description="Turn any photo into a print-ready, multi-layer cut stencil. The Stencil Creator tool is included free with The Airbrush Technique Bible."
 >
-  <main class="abd-container" style="padding-bottom: 0;">
+  <main class="abd-container">
     <div class="blg-page-header" style="margin-bottom: 20px;">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
         <a href="/">Home</a>
@@ -17,41 +17,80 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
       <div class="blg-title-row">
         <h1 class="blg-page-title">Stencil <span class="blg-page-title-accent">Creator</span></h1>
       </div>
-      <p style="color: var(--abd-text-muted); font-size: 0.92rem; margin: 6px 0 0; max-width: 580px;">
-        Draw freehand, use shapes and text, then export your stencil as PNG or PDF — ready to print and cut.
-        Works entirely in your browser, no account needed.
-      </p>
       <div class="blg-header-line" style="margin-top: 16px;"></div>
     </div>
-  </main>
 
-  <div class="stencil-frame-wrap">
-    <iframe
-      src="/tools/stencil-creator.html"
-      title="Stencil Creator"
-      class="stencil-frame"
-      allowfullscreen
-    ></iframe>
-  </div>
+    <section class="sc-teaser">
+      <div class="sc-teaser-icon">✂️</div>
+      <div class="sc-teaser-label">Book Bonus</div>
+      <h2 class="sc-teaser-title">Turn any photo into a cut-ready stencil</h2>
+      <p class="sc-teaser-desc">
+        The Stencil Creator turns a photo into a print-ready, multi-layer cut stencil — import an image,
+        set your layers and thresholds, then export as PNG, PDF, or cut-ready SVG (one file per layer).
+        It runs entirely offline in your browser, no install needed.
+      </p>
+      <ul class="sc-teaser-feats">
+        <li>Photo import → automatic multi-layer separation</li>
+        <li>Adjustable luminosity thresholds per layer</li>
+        <li>Export PNG, print-ready PDF, or cut SVG</li>
+        <li>Works offline — yours forever</li>
+      </ul>
+      <div class="sc-teaser-cta">
+        <a href="/book/" class="abd-btn-primary">🎁 Get it free with the Book — $27 →</a>
+        <p class="sc-teaser-note">Included as a free bonus with The Airbrush Technique Bible. Delivered with your download.</p>
+      </div>
+    </section>
+  </main>
 </BaseLayout>
 
 <style>
-.stencil-frame-wrap {
-  width: 100%;
-  height: calc(100vh - 260px);
-  min-height: 560px;
-  border-top: 1px solid var(--abd-border);
+.sc-teaser {
+  max-width: 620px;
+  margin: 0 auto 80px;
+  text-align: center;
+  padding: 32px 24px 0;
 }
-.stencil-frame {
-  width: 100%;
-  height: 100%;
-  border: none;
-  display: block;
+.sc-teaser-icon { font-size: 3rem; }
+.sc-teaser-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--abd-orange);
+  margin: 12px 0 10px;
 }
-@media (max-width: 768px) {
-  .stencil-frame-wrap {
-    height: calc(100vh - 220px);
-    min-height: 480px;
-  }
+.sc-teaser-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-weight: 800;
+  color: var(--abd-text);
+  margin-bottom: 16px;
+}
+.sc-teaser-desc {
+  font-size: 0.98rem;
+  color: var(--abd-text-dim);
+  line-height: 1.7;
+  margin-bottom: 24px;
+}
+.sc-teaser-feats {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto 32px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
+.sc-teaser-feats li {
+  font-size: 0.9rem;
+  color: var(--abd-text-dim);
+  display: flex;
+  gap: 10px;
+}
+.sc-teaser-feats li::before { content: '✓'; color: var(--abd-green); font-weight: 700; }
+.sc-teaser-note {
+  font-size: 0.78rem;
+  color: var(--abd-text-muted);
+  margin-top: 14px;
 }
 </style>
