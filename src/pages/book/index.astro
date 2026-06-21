@@ -61,6 +61,7 @@ const testimonials = [
               <span class="book-price">$27</span>
               <span class="book-price-note">one-time · digital download</span>
             </div>
+            <div class="book-bonus-pill">🎁 Includes the <strong>Stencil Creator</strong> tool free</div>
             <!-- Replace href with your Gumroad / Stripe / payment link -->
             <a href="#buy" class="book-buy-btn">Get the Book →</a>
             <div class="book-guarantee">
@@ -188,6 +189,7 @@ const testimonials = [
               <li>✓ Downloadable PDF version</li>
               <li>✓ Troubleshooting Encyclopedia (Chapter 15)</li>
               <li>✓ Business guide — pricing &amp; finding clients</li>
+              <li>✓ <strong>Bonus:</strong> Stencil Creator tool — turn any photo into a cut-ready stencil</li>
               <li>✓ Lifetime access, all future updates</li>
             </ul>
             <div class="book-buy-guarantee-row">
@@ -354,6 +356,12 @@ const testimonials = [
   margin-bottom: 14px;
 }
 .book-buy-btn:hover { background: var(--abd-orange-hover); transform: translateY(-1px); }
+.book-bonus-pill {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 0.8rem; color: var(--abd-text-dim);
+  background: var(--abd-orange-soft); border: 1px solid var(--abd-orange-b20);
+  border-radius: var(--abd-radius-s); padding: 8px 12px; margin-bottom: 14px;
+}
 .book-guarantee {
   display: flex; align-items: center; gap: 8px;
   font-size: 0.76rem; color: var(--abd-text-muted);

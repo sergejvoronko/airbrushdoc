@@ -15,7 +15,7 @@ draft: false
 
 This is the debate that comes up in every airbrush forum, every Facebook group, and every Reddit thread about upgrading: Iwata or Harder & Steenbeck?
 
-I've used both brands extensively over 13+ years, and I'll give you a straight answer — but it's not the answer you might expect. The truth is that both brands make excellent airbrushes. Neither is objectively "better." But they have real, meaningful differences in design philosophy that make one or the other a better fit depending on how you work.
+I've used both brands extensively over 15+ years, and I'll give you a straight answer — but it's not the answer you might expect. The truth is that both brands make excellent airbrushes. Neither is objectively "better." But they have real, meaningful differences in design philosophy that make one or the other a better fit depending on how you work.
 
 Here's the full breakdown.
 

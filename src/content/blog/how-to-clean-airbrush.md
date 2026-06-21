@@ -14,7 +14,7 @@ draft: false
 
 If there's one thing that separates people who enjoy airbrushing from people who quit in frustration, it's cleaning. Not technique, not equipment — cleaning.
 
-I know it's not glamorous. Nobody picks up an airbrush because they're excited about maintenance. But here's the reality after 13+ years of airbrushing: almost every "broken" airbrush I've ever seen just needed a proper cleaning. Sputtering, clogging, inconsistent spray, paint coming out when it shouldn't — 90% of these problems trace back to dried paint somewhere it shouldn't be.
+I know it's not glamorous. Nobody picks up an airbrush because they're excited about maintenance. But here's the reality after 15+ years of airbrushing: almost every "broken" airbrush I've ever seen just needed a proper cleaning. Sputtering, clogging, inconsistent spray, paint coming out when it shouldn't — 90% of these problems trace back to dried paint somewhere it shouldn't be.
 
 The good news? Cleaning an airbrush is simple once you have a system. There are only three types of cleaning, each takes a specific amount of time, and once the routine is built into your workflow, it becomes automatic. This guide covers all three, plus what to do when things have gone wrong and dried paint needs serious intervention.
 

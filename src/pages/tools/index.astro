@@ -11,13 +11,6 @@ const tools = [
     time: '3 min',
   },
   {
-    slug: 'troubleshooter',
-    icon: '🔧',
-    name: 'Airbrush Troubleshooter',
-    desc: 'Diagnose spitting, clogging, uneven spray, and other common airbrush problems step by step.',
-    time: '2 min',
-  },
-  {
     slug: 'paint-selector',
     icon: '🎨',
     name: 'Paint Selector',
@@ -35,18 +28,18 @@ const tools = [
 
 const subscriberTools = [
   {
+    icon: '🔧',
+    name: 'Airbrush Troubleshooter',
+    desc: 'Diagnose spitting, clogging, uneven spray, and other common airbrush problems step by step.',
+  },
+  {
     icon: '🧪',
     name: 'AirMix Studio',
     desc: 'Paint ratio calculator, project logbook, needle & nozzle reference, and color harmony tool — all in one.',
   },
-  {
-    icon: '✂️',
-    name: 'Stencil Creator',
-    desc: 'Draw freehand or use shapes and text, then export your stencil as a print-ready PNG or PDF.',
-  },
 ];
 ---
-<BaseLayout title="Interactive Tools | AirbrushDOC" description="Free interactive airbrush tools — find the right airbrush, diagnose problems, compare models, and choose paint. Two more tools available for subscribers.">
+<BaseLayout title="Interactive Tools | AirbrushDOC" description="Free interactive airbrush tools — find the right airbrush, compare models, and choose paint. Troubleshooter & AirMix Studio for subscribers; Stencil Creator free with the book.">
   <main class="abd-container">
     <div class="blg-page-header">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
@@ -56,7 +49,7 @@ const subscriberTools = [
       </nav>
       <div class="blg-title-row">
         <h1 class="blg-page-title">Interactive <span class="blg-page-title-accent">Tools</span></h1>
-        <span class="blg-post-count">{tools.length + subscriberTools.length} tools</span>
+        <span class="blg-post-count">{tools.length + subscriberTools.length + 1} tools</span>
       </div>
       <div class="blg-header-line"></div>
     </div>
@@ -83,7 +76,7 @@ const subscriberTools = [
       <div class="tools-sub-header">
         <div class="tools-sub-label">Subscriber Tools</div>
         <h2 class="tools-sub-title">2 more tools — free for subscribers</h2>
-        <p class="tools-sub-desc">Subscribe to the newsletter and unlock AirMix Studio and Stencil Creator — no payment, just your email.</p>
+        <p class="tools-sub-desc">Subscribe to the newsletter and unlock the Airbrush Troubleshooter and AirMix Studio — plus all downloadable reference packs and stencils. No payment, just your email.</p>
       </div>
 
       <div class="tools-locked-grid">
@@ -108,6 +101,18 @@ const subscriberTools = [
       <div class="tools-sub-form">
         <div class="ml-embedded" data-form="d5CS8H"></div>
         <p class="tools-sub-note">No spam. Unsubscribe any time.</p>
+      </div>
+    </div>
+
+    <div class="tools-bonus-section">
+      <div class="tools-bonus-card">
+        <div class="tools-bonus-icon">✂️</div>
+        <div class="tools-bonus-body">
+          <div class="tools-bonus-label">Book Bonus</div>
+          <h2 class="tools-bonus-title">Stencil Creator</h2>
+          <p class="tools-bonus-desc">Turn any photo into a print-ready, multi-layer cut stencil — draw freehand or use shapes and text, then export as PNG, PDF, or cut-ready SVG. Included <strong>free</strong> with The Airbrush Technique Bible.</p>
+          <a href="/book/" class="abd-btn-primary">Get the Book — $27 →</a>
+        </div>
       </div>
     </div>
 
@@ -197,5 +202,49 @@ const subscriberTools = [
   font-size: 0.72rem;
   color: var(--abd-text-muted);
   margin-top: 8px;
+}
+.tools-bonus-section {
+  margin-bottom: 80px;
+}
+.tools-bonus-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 32px;
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-orange);
+  border-radius: var(--abd-radius);
+}
+.tools-bonus-icon {
+  font-size: 2.6rem;
+  flex-shrink: 0;
+}
+.tools-bonus-body {
+  flex: 1;
+}
+.tools-bonus-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--abd-orange);
+  margin-bottom: 8px;
+}
+.tools-bonus-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+  font-weight: 700;
+  color: var(--abd-text);
+  margin-bottom: 10px;
+}
+.tools-bonus-desc {
+  font-size: 0.92rem;
+  color: var(--abd-text-dim);
+  line-height: 1.65;
+  max-width: 560px;
+  margin-bottom: 20px;
+}
+@media (max-width: 600px) {
+  .tools-bonus-card { flex-direction: column; gap: 16px; }
 }
 </style>

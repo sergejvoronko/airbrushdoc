@@ -1,6 +1,6 @@
 ---
 title: "Airbrush Troubleshooting: Every Common Problem & How to Fix It (2026 Guide)"
-description: "Airbrush not working? Spitting, spidering, bubbling, clogging — we cover every common airbrush problem with step-by-step fixes. 13+ years of real solutions."
+description: "Airbrush not working? Spitting, spidering, bubbling, clogging — we cover every common airbrush problem with step-by-step fixes. 15+ years of real solutions."
 pubDate: 2025-12-09
 category: "guides"
 tags:
@@ -14,7 +14,7 @@ draft: false
 
 Something's wrong with your airbrush. You know it because instead of a smooth, fine mist of paint, you're getting something ugly — spatters, spider webs, bubbles, or nothing at all.
 
-Take a breath. Your airbrush probably isn't broken. In 13+ years of airbrushing, I've learned that 90% of airbrush problems come down to five things: paint consistency, air pressure, a dirty nozzle, a damaged needle, or user technique. The airbrush itself is a beautifully simple device with very few parts. Once you understand how those parts work together, diagnosing problems becomes almost second nature.
+Take a breath. Your airbrush probably isn't broken. In 15+ years of airbrushing, I've learned that 90% of airbrush problems come down to five things: paint consistency, air pressure, a dirty nozzle, a damaged needle, or user technique. The airbrush itself is a beautifully simple device with very few parts. Once you understand how those parts work together, diagnosing problems becomes almost second nature.
 
 This guide covers every common airbrush problem I've encountered — or seen other people struggle with on forums, in workshops, and in my own studio. Each section tells you what's happening, why it's happening, and exactly how to fix it. I've organized them by symptom, because when something goes wrong, you don't know the cause yet — you just know what it looks like.
 
@@ -381,7 +381,7 @@ Every airbrush artist — beginner or professional — deals with these problems
 
 Keep your airbrush clean, keep spare needles and nozzles on hand, and remember: when in doubt, test with water first. If water sprays fine, the problem is your paint. If water doesn't spray fine, the problem is mechanical.
 
-Happy spraying — and if you've found a problem that's not covered here, drop a comment below. After 13+ years, I'm still learning too.
+Happy spraying — and if you've found a problem that's not covered here, drop a comment below. After 15+ years, I'm still learning too.
 
 
 - [How to Choose the Right Airbrush Paint in 2026](/beginners/advanced-guide-to-airbrush-colors/) — Complete paint guide by project type

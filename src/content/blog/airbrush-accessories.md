@@ -16,7 +16,7 @@ You've got your airbrush and compressor. You're ready to paint, right?
 
 Almost. There's a collection of accessories, tools, and supplies that sit between "I own an airbrush" and "I can actually use it comfortably." Some are absolutely essential — you literally can't airbrush safely without them. Others make your life dramatically easier. And a few are nice-to-have luxuries that you'll appreciate down the road.
 
-After 13+ years of airbrushing, I've bought (and wasted money on) more accessories than I can count. This guide sorts everything into clear priority tiers so you know what to buy first, what to buy soon, and what to buy when you're ready to upgrade your setup.
+After 15+ years of airbrushing, I've bought (and wasted money on) more accessories than I can count. This guide sorts everything into clear priority tiers so you know what to buy first, what to buy soon, and what to buy when you're ready to upgrade your setup.
 
 
 ---

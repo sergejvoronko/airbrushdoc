@@ -435,7 +435,7 @@ Both are excellent water-based polyurethane primers for airbrush. Stynylrez tend
 
 ## Final Advice
 
-Surface preparation isn't glamorous, and it's the step everyone wants to skip. But here's the truth from 13+ years of airbrushing: the paint job is only as good as the surface underneath it. Five minutes of proper prep — washing, scuffing, priming — prevents hours of frustration when paint doesn't stick, peels off, or looks uneven.
+Surface preparation isn't glamorous, and it's the step everyone wants to skip. But here's the truth from 15+ years of airbrushing: the paint job is only as good as the surface underneath it. Five minutes of proper prep — washing, scuffing, priming — prevents hours of frustration when paint doesn't stick, peels off, or looks uneven.
 
 The specific steps depend on your material, but the mindset is universal: give the paint something clean and textured to grip, and it will reward you with durability and beauty.
 

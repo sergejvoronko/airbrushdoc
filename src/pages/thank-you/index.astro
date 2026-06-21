@@ -3,47 +3,75 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const downloads = [
   {
-    title: '50 Skull Stencils',
+    title: 'Skull Stencils',
     desc: '.ai, .cdr, .eps and .jpg formats — single-layer, print-ready.',
-    file: 'https://drive.google.com/uc?export=download&id=SKULLS_FILE_ID',
-    size: '11 MB',
+    file: 'https://drive.google.com/file/d/1xzw5lan33TdkerLwzyjuhACx9XlXL-go/view',
+    size: 'Google Drive',
     icon: '💀',
   },
   {
     title: 'Ultimate Skull Reference Pack',
     desc: 'High-quality skull reference photos for painting and stencil work.',
-    file: 'https://drive.google.com/uc?export=download&id=REFERENCE_FILE_ID',
-    size: '146 MB',
+    file: 'https://drive.google.com/file/d/1arK5LlPrmU5ETNJF9Xj1oX69RbNw292C/view',
+    size: 'Google Drive',
     icon: '📷',
   },
   {
-    title: 'Airbrush Fire Reference Pack (Parts 1 & 2)',
+    title: 'Airbrush Fire Reference Pack',
     desc: 'Real flame photography for fire and smoke airbrush work.',
-    file: 'https://drive.google.com/uc?export=download&id=FIRE_REFERENCE_FILE_ID',
-    size: 'Included above',
+    file: 'https://drive.google.com/file/d/1r_1wN2n528SjC8kfo1gVWwhegifu4TPW/view',
+    size: 'Google Drive',
     icon: '🔥',
   },
   {
-    title: 'Multi-Layer Stencils (CorelDraw)',
-    desc: '10 professional multi-layer stencil designs in .cdr format.',
-    file: '/downloads/multilayer-stencils-cdr.zip',
-    size: '104 KB',
+    title: 'Mix Stencils',
+    desc: 'Multi-shade mix stencils for richer, more lifelike results.',
+    file: 'https://drive.google.com/file/d/1-9uYmSLsgAxDlTAU_903Tq_Cqvr1bnZQ/view',
+    size: 'Google Drive',
     icon: '✂️',
+  },
+  {
+    title: 'Animal Stencils',
+    desc: 'Mixed pack of animal stencils ready to print and cut.',
+    file: 'https://drive.google.com/file/d/1j72utaNXNvoYAnIFBqgRd6paxzZ9uotC/view',
+    size: 'Google Drive',
+    icon: '🐾',
+  },
+  {
+    title: 'Tiger Stencils',
+    desc: 'Tiger stencil set for big-cat airbrush projects.',
+    file: 'https://drive.google.com/file/d/1y9sv24o04-zgcPDgyxJjHUDZoVHodeWC/view',
+    size: 'Google Drive',
+    icon: '🐯',
+  },
+  {
+    title: 'Wolf Stencils',
+    desc: 'Wolf stencil set for portraits and wildlife work.',
+    file: 'https://drive.google.com/file/d/1wg8g0yxVQxVoqwg80HWKVNfJcK6GfKSR/view',
+    size: 'Google Drive',
+    icon: '🐺',
+  },
+  {
+    title: 'Paasche Airbrush Catalog',
+    desc: 'Reference catalog for Paasche airbrush models and parts.',
+    file: 'https://drive.google.com/file/d/19Hk6-qFawbShhcNV_cPib2ueEXjQ8uDe/view',
+    size: 'Google Drive',
+    icon: '📖',
   },
 ];
 
 const tools = [
   {
+    icon: '🔧',
+    name: 'Airbrush Troubleshooter',
+    desc: 'Diagnose spitting, clogging, and uneven spray step by step.',
+    href: '/tools/troubleshooter/',
+  },
+  {
     icon: '🧪',
     name: 'AirMix Studio',
     desc: 'Paint ratio calculator, project logbook, needle & nozzle reference, and color harmony tool.',
     href: '/tools/airmix/',
-  },
-  {
-    icon: '✂️',
-    name: 'Stencil Creator',
-    desc: 'Draw shapes and text freehand, then export as a print-ready PNG or PDF.',
-    href: '/tools/stencil-creator/',
   },
 ];
 ---
@@ -74,13 +102,13 @@ const tools = [
               <p class="ty-download-desc">{d.desc}</p>
               <div class="ty-download-meta">{d.size}</div>
             </div>
-            <a href={d.file} class="ty-download-btn" download>
+            <a href={d.file} class="ty-download-btn" target="_blank" rel="noopener">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
                 <polyline points="7 10 12 15 17 10"/>
                 <line x1="12" y1="15" x2="12" y2="3"/>
               </svg>
-              Download
+              Open in Drive
             </a>
           </div>
         ))}
@@ -107,7 +135,7 @@ const tools = [
       <div class="ty-book-text">
         <div class="ty-book-label">Ready to go further?</div>
         <div class="ty-book-title">The Airbrush Technique Bible — 17 chapters, $27</div>
-        <p class="ty-book-desc">Every technique, surface, and style. Full troubleshooting encyclopedia included.</p>
+        <p class="ty-book-desc">Every technique, surface, and style. Full troubleshooting encyclopedia — plus the Stencil Creator tool free as a bonus.</p>
       </div>
       <div class="ty-book-actions">
         <a href="/book/" class="abd-btn-primary">Get the Book</a>

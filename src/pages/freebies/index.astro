@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const freebies = [
   {
-    title: '50 Skull Stencils',
+    title: 'Skull Stencils',
     desc: 'Skull stencils in .ai, .cdr, .eps and .jpg — ready to print and cut. Single-layer, high resolution.',
     image: '/images/wp-uploads/50-scull-stencils1.webp',
     formats: ['.ai', '.cdr', '.eps', '.jpg'],
@@ -21,8 +21,8 @@ const freebies = [
     formats: ['Reference images'],
   },
   {
-    title: 'Multi-Layer Stencils (CorelDraw)',
-    desc: '10 professional multi-layer stencils in CorelDraw format. Celebrity portraits and designs with multiple shading layers.',
+    title: 'Mix Stencils (CorelDraw)',
+    desc: '10 professional mix stencils in CorelDraw format. Celebrity portraits and designs with multiple shading layers.',
     image: '/images/wp-uploads/multilayer-stencils.webp',
     formats: ['.cdr'],
   },
@@ -30,20 +30,20 @@ const freebies = [
 
 const tools = [
   {
+    icon: '🔧',
+    name: 'Airbrush Troubleshooter',
+    desc: 'Diagnose spitting, clogging, uneven spray, and other common airbrush problems step by step.',
+  },
+  {
     icon: '🧪',
     name: 'AirMix Studio',
     desc: 'Paint ratio calculator, project logbook, needle & nozzle reference, and color harmony tool — all in one.',
-  },
-  {
-    icon: '✂️',
-    name: 'Stencil Creator',
-    desc: 'Draw freehand or use shapes and text, then export your stencil as a print-ready PNG or PDF.',
   },
 ];
 ---
 <BaseLayout
   title="Free Airbrush Stencils & Resources | AirbrushDOC"
-  description="Free skull stencils, fire reference packs, multi-layer CorelDraw stencils, and exclusive tools — available to subscribers. Subscribe free to unlock everything."
+  description="Free skull stencils, fire reference packs, mix CorelDraw stencils, and exclusive tools — available to subscribers. Subscribe free to unlock everything."
 >
   <main class="abd-container">
 
@@ -62,7 +62,7 @@ const tools = [
     <div class="fre-intro">
       <p class="fre-intro-text">
         Subscribe free and get instant access to all the downloads below — skull stencils, fire reference packs,
-        multi-layer CorelDraw stencils, and two exclusive tools. No spam. Unsubscribe any time.
+        mix CorelDraw stencils, animal/tiger/wolf packs, the Paasche catalog, and two exclusive tools. No spam. Unsubscribe any time.
       </p>
     </div>
 
@@ -137,7 +137,7 @@ const tools = [
           <h2 class="fre-book-title">The Airbrush Technique Bible</h2>
           <p class="fre-book-desc">
             17 chapters covering every technique, surface, and style — from first spray to professional results.
-            Includes a complete Troubleshooting Encyclopedia and a business guide for airbrush artists.
+            Includes a complete Troubleshooting Encyclopedia, a business guide, and the Stencil Creator tool free as a bonus.
           </p>
           <div class="fre-book-actions">
             <a href="/book/" class="abd-btn-primary">Get the Book — $27</a>

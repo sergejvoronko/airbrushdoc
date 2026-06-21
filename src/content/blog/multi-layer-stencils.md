@@ -1,6 +1,6 @@
 ---
-title: "Multilayer Stencils"
-description: "Anyone hungry for stencils? Celebrity look better and show more character if they have more shades of a color then only two. Multilayer Stencils!"
+title: "Mix Stencils"
+description: "Anyone hungry for stencils? Celebrity look better and show more character if they have more shades of a color then only two. Mix Stencils!"
 pubDate: 2012-03-19
 category: "download"
 tags: ["airbrush stencils free", "celebrity", "corel stencils", "coreldraw", "download stencil", "free wall stencils", "multi layer stencils", "stencil"]
@@ -8,7 +8,7 @@ readingTime: 3
 draft: true
 heroImage: "/images/wp-uploads/multilayer-stencils.webp"
 ---
-## New Multi-Layer Stencils for Airbrush Artists
+## New Mix Stencils for Airbrush Artists
 
 Anyone hungry for **stencils**? I've updated my freebies page with some new, **one layer stencils**. Whilst preparing new **stencils** for my celebrity theme I noticed that **celebrities** look better and show more character if they have more color shades then only two. As I've been posting guides for [making stencils](/blog/how-to-make-a-stencil-in-coreldraw/) and [making multilayer stencils](/blog/how-to-make-layered-stencil-in-coreldraw/) I have not yet added any of layered stuff to my freebies.
 

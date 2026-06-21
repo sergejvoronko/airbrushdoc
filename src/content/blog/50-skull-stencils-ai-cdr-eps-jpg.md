@@ -1,5 +1,5 @@
 ---
-title: "50 Skull Stencils (.ai .cdr .eps .jpg)"
+title: "Skull Stencils (.ai .cdr .eps .jpg)"
 description: "A pack of skull stencils in different formats, ready to print. Topic: Skulls! Download this pack for free and consider subscribing to my news"
 pubDate: 2011-02-10
 category: "download"

@@ -1,6 +1,6 @@
 ---
 title: "Airbrush FAQ: 30 Questions Every Beginner Asks (Answered by a 13-Year Pro)"
-description: "Every airbrush question answered — equipment, paint, cleaning, technique, and troubleshooting. 13+ years of experience condensed into clear, honest answers."
+description: "Every airbrush question answered — equipment, paint, cleaning, technique, and troubleshooting. 15+ years of experience condensed into clear, honest answers."
 pubDate: 2026-01-20
 category: "beginners"
 tags:
@@ -12,7 +12,7 @@ heroImage: "/images/airbrush-faq.webp"
 draft: false
 ---
 
-After 13+ years of airbrushing and answering questions from beginners, I've noticed the same questions come up over and over. Here are the 30 most common — answered clearly and honestly.
+After 15+ years of airbrushing and answering questions from beginners, I've noticed the same questions come up over and over. Here are the 30 most common — answered clearly and honestly.
 
 
 ---
