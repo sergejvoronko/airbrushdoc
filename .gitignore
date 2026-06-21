@@ -37,3 +37,6 @@ FULL-AUDIT-REPORT.md
 
 # Paid product bundles (not served, not tracked)
 deliverables/
+
+# graphify knowledge-graph output (local only)
+graphify-out/
