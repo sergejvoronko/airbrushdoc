@@ -10,6 +10,7 @@ tags:
   - "best airbrush brand"
 readingTime: 12
 heroImage: "/images/iwata-vs-harder-steenbeck.webp"
+heroImageAlt: "Iwata Eclipse HP-CS and Harder & Steenbeck Evolution 2024 airbrushes side by side"
 draft: false
 ---
 
@@ -140,6 +141,37 @@ Here's how the most popular models stack up against their cross-brand equivalent
 | **Top-tier precision** | Infinity Cult of Paint (0.15/0.4mm) ~$220–300 | Custom Micron (0.18mm) ~$400–500+ | H&S is much cheaper; Iwata is legendary |
 
 At every price point, H&S typically offers more needle/nozzle versatility (2-in-1 sets) for less money. Iwata offers more refined single-purpose tools with tighter manufacturing tolerances.
+
+---
+
+## Spotlight: Iwata Eclipse HP-CS vs H&S Evolution 2024 (2-in-1)
+
+These are the two models most people actually cross-shop, so here's a focused head-to-head. Harder & Steenbeck completely redesigned the Evolution line in 2024, pulling features down from their flagship Infinity — which makes this matchup closer than it used to be.
+
+| Feature | Iwata Eclipse HP-CS | H&S Evolution 2024 CRplus (2-in-1) |
+| :--- | :--- | :--- |
+| **Default nozzle** | 0.35mm | 0.28mm (0.45mm also included) |
+| **Nozzle design** | Drop-in, self-centering (compression fit) | Drop-in, threadless (FineLine head) |
+| **Cup size** | 7ml fixed | 2ml & 5ml interchangeable |
+| **Trigger** | Standard dual-action | Trigger Cam Control system |
+| **Needle stop** | No | Yes (adjustable, repeatable lines) |
+| **Cleaning** | Spanner needed for head cap | Tool-free teardown + Speed Clean trigger |
+
+### What's new in the Evolution 2024
+
+- **Trigger Cam Control + needle stop** — the trigger runs on an eccentric cam for sharper response, and the adjustable rear needle stop lets you "lock" trigger travel for perfectly repeatable lines. Great for beginners and detail work.
+- **Tool-free maintenance** — full strip-and-rebuild with your fingers, no wrench.
+- **Speed Clean trigger** — ~20% more needle travel when pulled all the way back, so you can flush clogs fast.
+- **Triple chrome plating + PTFE seals** — shrugs off harsh lacquer thinners.
+
+### Verdict on this matchup
+
+- **Fine detail (mini eyes, panel lines):** Evolution 2024 — 0.28mm nozzle plus the needle stop.
+- **Heavy/thick paint (primers, varnishes, unthinned craft paint):** Eclipse HP-CS — the 0.35mm setup atomizes high-flow fluids better and resists tip-dry.
+- **Cleaning speed:** Evolution 2024 — exposed needle cap, tool-free teardown, Speed Clean trigger.
+- **Durability:** a tie — Iwata's legendary build vs H&S's new triple-chrome/PTFE construction. Both last a lifetime if cared for.
+
+If you mostly paint miniatures and want maximum versatility out of one box, the Evolution 2024 2-in-1 is the pick. If you want an indestructible "set it and forget it" workhorse for base-coating and clears, the [Eclipse HP-CS](/go/iwata-eclipse-hp-cs) is hard to beat.
 
 ---
 
