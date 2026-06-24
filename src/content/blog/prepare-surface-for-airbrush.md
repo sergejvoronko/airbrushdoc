@@ -1,6 +1,6 @@
 ---
 title: "How to Prepare Surface for Airbrush Painting (Complete Guide)"
-description: "Complete guide to prepare surface for airbrush painting — metal, plastic, wood, resin, 3D prints, fabric, canvas, leather &amp; more. Primer picks included."
+description: "Complete guide to prepare surface for airbrush painting, metal, plastic, wood, resin, 3D prints, fabric, canvas, leather &amp; more. Primer picks included."
 pubDate: 2026-03-11
 category: "beginners"
 tags: ["airbrush on metal", "airbrush on wood", "airbrush surface preparation", "how to prepare surface for airbrushing", "prepare plastic for airbrush", "prime miniatures airbrush", "surface prep for airbrush"]
@@ -10,13 +10,11 @@ heroImageAlt: "Surface preparation materials for airbrush painting"
 draft: false
 ---
 
-The fastest way to ruin an airbrush painting is to skip surface preparation. I've watched people spend hours on detailed airbrush work, only to have the paint peel off in sheets because they didn't prep the surface properly. It's heartbreaking — and completely preventable.
+The fastest way to ruin an airbrush painting is to skip surface preparation. I've watched people spend hours on detailed airbrush work, only to have the paint peel off in sheets because they didn't prep the surface properly. It's heartbreaking, and completely preventable.
 
 Prepare surface for airbrush isn't complicated, but it IS different for every material. Metal needs scuffing. Plastic needs washing. Wood needs sealing. Fabric needs nothing except a clean, stretched surface. The prep for each takes anywhere from 30 seconds to 30 minutes, and it makes the difference between paint that lasts years and paint that flakes off in days.
 
 This guide covers every common airbrush surface with specific, practical instructions for each. I've organized it by material so you can jump straight to whatever you're working on.
-
-⚠️ Disclosure: This post contains affiliate links.We may earn a commission if you purchase through theselinks at no extra cost to you.
 
 - [The Universal Rule: Clean, Scuff, Prime](#the-universal-rule-clean-scuff-prime)
 - [Metal (Automotive, Motorcycle, Helmets) Surface Preparation for Airbrushing](#metal-automotive-motorcycle-helmets)[Do not take off all the coat. It’s a big mistake, you have to make surface matt](#do-not-take-off-all-the-coat-its-a-big-mistake-you-have-to-make-surface-matt)
@@ -30,7 +28,7 @@ This guide covers every common airbrush surface with specific, practical instruc
 - [Vinyl / Soft Plastic (Toys, Figures)](#vinyl-soft-plastic-toys-figures)
 
 - [Resin (Cast Models, Garage Kits)](#resin-cast-models-garage-kits)
-- [3D Prints](#3-d-prints)[FDM (Filament) Prints — PLA, PETG, ABS](#fdm-filament-prints-pla-petg-abs)
+- [3D Prints](#3-d-prints)[FDM (Filament) Prints. PLA, PETG, ABS](#fdm-filament-prints-pla-petg-abs)
 - [Resin (SLA/DLP) Prints](#resin-sla-dlp-prints)
 
 - [Wood](#wood)[Airbrush on Wood Without Sealer](#airbrush-on-wood-without-sealer)
@@ -152,11 +150,11 @@ If you clear coat it again or just polish the surface, it will get the previous 
 
 ### Summary for Already Painted Metal (Clear-Coated Surface)
 
-If you're airbrushing on an existing paint job — a car hood, motorcycle tank, or helmet that already has base coat and clear coat — you need to scuff the clear coat so your new paint can grip.
+If you're airbrushing on an existing paint job, a car hood, motorcycle tank, or helmet that already has base coat and clear coat, you need to scuff the clear coat so your new paint can grip.
 
 **Three methods (all work equally well):**
 
-- **Dry sanding with P800 grit** — Fast and effective. Creates uniform micro-scratches. The surface will look matte/hazy afterward — that's what you want.
+- **Dry sanding with P800 grit** — Fast and effective. Creates uniform micro-scratches. The surface will look matte/hazy afterward, that's what you want.
 
 - **Wet sanding with P1000 grit** — Gentler, produces a finer scratch pattern. Use water as a lubricant. Better for delicate work where you don't want to cut through thin clear coat.
 
@@ -176,7 +174,7 @@ If you're starting from raw, unpainted metal, you need to build a foundation:
 
 - Degrease thoroughly
 
-- Apply a proper primer/sealer — for automotive work, use an automotive primer (epoxy or urethane primer). For hobby or lighter work, a multi-surface primer works fine
+- Apply a proper primer/sealer, for automotive work, use an automotive primer (epoxy or urethane primer). For hobby or lighter work, a multi-surface primer works fine
 
 - Let the primer cure according to product directions
 
@@ -190,9 +188,9 @@ Plastic is the most common airbrush surface for hobbyists in 2026, thanks to the
 
 ### Injection-Molded Plastic (Model Kits, Gunpla)
 
-**Step 1: Clean.** Wash parts with warm water and a drop of dish soap. This removes mold release agent — an invisible residue left over from the manufacturing process that prevents paint from sticking. Scrub gently with an old toothbrush, rinse, and let dry completely.
+**Step 1: Clean.** Wash parts with warm water and a drop of dish soap. This removes mold release agent, an invisible residue left over from the manufacturing process that prevents paint from sticking. Scrub gently with an old toothbrush, rinse, and let dry completely.
 
-**Step 2: Remove mold lines.** Use a hobby knife or sanding stick to clean up seam lines and nub marks from where parts were cut from the sprue. This is a modeling step, not strictly surface prep, but it must be done before priming — primer will highlight any mold lines you missed.
+**Step 2: Remove mold lines.** Use a hobby knife or sanding stick to clean up seam lines and nub marks from where parts were cut from the sprue. This is a modeling step, not strictly surface prep, but it must be done before priming, primer will highlight any mold lines you missed.
 
 **Step 3: Prime.** Primer is essential on plastic. It provides a uniform color base and massively improves paint adhesion. The best airbrush primers for plastic models:
 
@@ -200,7 +198,7 @@ Plastic is the most common airbrush surface for hobbyists in 2026, thanks to the
 
 - **[Vallejo Surface Primer](/go/vallejo-surface-primer)** — Extremely popular, widely available. Works via airbrush or brush-on. Thin slightly with water (3:1 to 4:1 primer to water). Available in many colors including unique options like German dark yellow and rust.
 
-- **[Tamiya Fine Surface Primer](/go/tamiya-fine-surface-primer)** — Spray can primer (not for airbrush). Excellent quality, very fine grain, but produces fumes — use outdoors. The L (light grey) version is the most versatile.
+- **[Tamiya Fine Surface Primer](/go/tamiya-fine-surface-primer)** — Spray can primer (not for airbrush). Excellent quality, very fine grain, but produces fumes, use outdoors. The L (light grey) version is the most versatile.
 
 - **[AK Interactive Primer](/go/ak-interactive-gen-primer)** — Good alternative to Vallejo, available in multiple colors. Airbrush-ready with minimal thinning.
 
@@ -228,7 +226,7 @@ Polyurethane resin (used in boutique model kits, garage kits, and resin miniatur
 
 **Step 3: Fill pinholes.** Cast resin frequently has tiny air bubbles (pinholes) on the surface. Fill these with putty (Tamiya Basic Type putty or Milliput), let cure, then sand smooth.
 
-**Step 4: Prime.** Same primers as plastic — Stynylrez and Vallejo Surface Primer both work excellently on resin. Apply in thin coats. The first coat of primer will reveal any surface imperfections you missed — sand them out and re-prime those areas.
+**Step 4: Prime.** Same primers as plastic. Stynylrez and Vallejo Surface Primer both work excellently on resin. Apply in thin coats. The first coat of primer will reveal any surface imperfections you missed, sand them out and re-prime those areas.
 
 ---
 
@@ -236,23 +234,23 @@ Polyurethane resin (used in boutique model kits, garage kits, and resin miniatur
 
 3D printing has become one of the biggest sources of airbrush work, and surface prep depends entirely on the printing technology.
 
-### FDM (Filament) Prints — PLA, PETG, ABS
+### FDM (Filament) Prints: PLA, PETG, ABS
 
 FDM prints have visible layer lines that require significant prep to achieve a smooth finish.
 
 **For a smooth finish:**
 
-- Sand progressively — start at P120 or P220 to knock down major lines, work up through P400, P600, P800
+- Sand progressively, start at P120 or P220 to knock down major lines, work up through P400, P600, P800
 
-- Apply filler primer (spray-can automotive filler primer works well) — this fills minor lines and imperfections
+- Apply filler primer (spray-can automotive filler primer works well), this fills minor lines and imperfections
 
 - Sand the filler primer smooth with P600–P800
 
-- Repeat filler primer + sanding if needed — large prints may need 2–3 rounds
+- Repeat filler primer + sanding if needed, large prints may need 2–3 rounds
 
-- Final prime with regular primer — Stynylrez or Vallejo via airbrush
+- Final prime with regular primer. Stynylrez or Vallejo via airbrush
 
-**For a "good enough" finish (tabletop miniatures):** FDM-printed minis at 0.1mm or finer layer height often look acceptable with just a coat of Stynylrez primer — the primer fills micro-lines and provides a paintable surface. Skip the progressive sanding unless you're going for display quality.
+**For a "good enough" finish (tabletop miniatures):** FDM-printed minis at 0.1mm or finer layer height often look acceptable with just a coat of Stynylrez primer, the primer fills micro-lines and provides a paintable surface. Skip the progressive sanding unless you're going for display quality.
 
 **Alternative:** XTC-3D (a brushable epoxy coating) fills layer lines in one application but adds thickness that can obscure fine detail. Best for larger prints where detail isn't critical.
 
@@ -262,7 +260,7 @@ Resin prints are already smooth but need chemical prep:
 
 - Wash in isopropyl alcohol (IPA) or dedicated resin wash (water-washable resins use water) to remove uncured resin
 
-- UV cure fully — incomplete curing leads to surface tackiness that ruins paint adhesion
+- UV cure fully, incomplete curing leads to surface tackiness that ruins paint adhesion
 
 - Remove supports and sand support marks smooth
 
@@ -310,7 +308,7 @@ Use a clear sanding sealer (cellulose sanding sealer works well). Apply with a b
 
 ### If you want a flat, paintable surface:
 
-**Gesso** is your best friend. Artists have used Gesso as a painting base for centuries, and it works beautifully for airbrush work. Apply with a wide brush, foam roller, or screen printer's squeegee for the flattest possible application. Sand lightly with P400 between coats. Two coats of Gesso provides an excellent airbrush surface — smooth, slightly toothy, and uniformly white.
+**Gesso** is your best friend. Artists have used Gesso as a painting base for centuries, and it works beautifully for airbrush work. Apply with a wide brush, foam roller, or screen printer's squeegee for the flattest possible application. Sand lightly with P400 between coats. Two coats of Gesso provides an excellent airbrush surface, smooth, slightly toothy, and uniformly white.
 
 **DO NOT use wax-based or oil-based sealers** — nothing will adhere to these surfaces afterward.
 
@@ -324,7 +322,7 @@ For casual or experimental work, a few coats of regular acrylic primer (spray or
 
 ### Pre-Primed Canvas (Store-Bought Stretched Canvas)
 
-Most commercial stretched canvases come pre-primed with acrylic Gesso. You can airbrush directly on these. The surface may be slightly textured — if you want it smoother, apply an additional coat of Gesso and sand lightly with P400.
+Most commercial stretched canvases come pre-primed with acrylic Gesso. You can airbrush directly on these. The surface may be slightly textured, if you want it smoother, apply an additional coat of Gesso and sand lightly with P400.
 
 ### Raw (Unprimed) Canvas
 
@@ -332,7 +330,7 @@ Apply 2–3 coats of Gesso, sanding lightly between coats. This seals the fabric
 
 ### Illustration Board / Bristol Board
 
-These are usually ready to airbrush on directly. Hot press (smooth) Bristol board is ideal for detailed airbrush illustration. Cold press (textured) board gives a more organic look. No prep needed beyond keeping the surface clean and free of fingerprints — wear clean cotton gloves when handling.
+These are usually ready to airbrush on directly. Hot press (smooth) Bristol board is ideal for detailed airbrush illustration. Cold press (textured) board gives a more organic look. No prep needed beyond keeping the surface clean and free of fingerprints, wear clean cotton gloves when handling.
 
 ---
 
@@ -340,7 +338,7 @@ These are usually ready to airbrush on directly. Hot press (smooth) Bristol boar
 
 Fabric prep is simple but often done wrong:
 
-**Step 1: Pre-wash the garment.** New fabric has sizing (a stiffening agent applied during manufacturing) that interferes with paint adhesion. Wash the garment once with NO fabric softener, and dry it. This is critical — skipping this step is the #1 reason for airbrush paint peeling off t-shirts.
+**Step 1: Pre-wash the garment.** New fabric has sizing (a stiffening agent applied during manufacturing) that interferes with paint adhesion. Wash the garment once with NO fabric softener, and dry it. This is critical, skipping this step is the #1 reason for airbrush paint peeling off t-shirts.
 
 **Step 2: Stretch the fabric flat.** Pin or tape the garment to a flat board, or use a t-shirt platen. Wrinkles in the fabric create uneven paint application.
 
@@ -358,7 +356,7 @@ Fabric prep is simple but often done wrong:
 
 Custom leather painting (especially sneaker customization) is a fast-growing niche.
 
-**Step 1: Clean and deglaze.** Factory leather has a protective finish that repels paint. Remove it with leather deglazer or acetone on a lint-free cloth. Wipe gently until the surface changes from slick to slightly tacky — that's when you've broken through the factory finish.
+**Step 1: Clean and deglaze.** Factory leather has a protective finish that repels paint. Remove it with leather deglazer or acetone on a lint-free cloth. Wipe gently until the surface changes from slick to slightly tacky, that's when you've broken through the factory finish.
 
 **Step 2: Let dry.** Allow 15–20 minutes for solvents to fully evaporate before painting.
 
@@ -376,11 +374,11 @@ Cosplay prop-making frequently uses airbrush for detailed paint work on foam arm
 
 **EVA foam is porous** — paint soaks right into it without a sealing layer. You need to seal first:
 
-- **Plasti Dip** (spray) — The most common seal for EVA foam. 3–4 thin coats creates a smooth, flexible, paintable surface. Let each coat dry before the next.
+- **Plasti Dip** (spray). The most common seal for EVA foam. 3–4 thin coats creates a smooth, flexible, paintable surface. Let each coat dry before the next.
 
-- **FlexBond** or **Mod Podge** (brush-on) — Alternatives to Plasti Dip. FlexBond is specifically designed for cosplay foam sealing.
+- **FlexBond** or **Mod Podge** (brush-on). Alternatives to Plasti Dip. FlexBond is specifically designed for cosplay foam sealing.
 
-- **Contact cement** (thin coat) — Some cosplayers use a thinned coat of contact cement as a sealer. Works but is messier.
+- **Contact cement** (thin coat). Some cosplayers use a thinned coat of contact cement as a sealer. Works but is messier.
 
 After sealing, prime with a flexible primer. Createx Wicked Colors and regular acrylic primers work on sealed EVA foam.
 
@@ -396,7 +394,7 @@ Miniature preparation is its own discipline. Here's the streamlined workflow:
 
 **Step 2: Wash.** Warm water + dish soap, scrub with toothbrush, rinse, dry. This is especially important for resin and metal minis (heavy mold release). Plastic GW/Citadel minis have less mold release but washing still helps.
 
-**Step 3: Assemble** (if partially assembled for painting — many painters leave sub-assemblies for easier access).
+**Step 3: Assemble** (if partially assembled for painting, many painters leave sub-assemblies for easier access).
 
 **Step 4: Prime.** This is where the airbrush really shines for miniatures. Thin, even primer coats preserve detail that spray cans often obliterate.
 
@@ -410,7 +408,7 @@ Miniature preparation is its own discipline. Here's the streamlined workflow:
 
 - **[Citadel spray primers](https://airbrushdoc.com/go/citadel-spray-primers)** — Rattle cans only (not for airbrush). Decent but expensive and weather-dependent.
 
-**Airbrush settings for priming miniatures:** 0.3mm or larger nozzle, 20–25 PSI, 4–6 inches distance. Apply in thin passes — 2–3 light coats beats one heavy coat. Let each coat dry for a few minutes before the next.
+**Airbrush settings for priming miniatures:** 0.3mm or larger nozzle, 20–25 PSI, 4–6 inches distance. Apply in thin passes, 2–3 light coats beats one heavy coat. Let each coat dry for a few minutes before the next.
 
 ## Quick Reference: Surface Prep by Material
 
@@ -419,23 +417,23 @@ Miniature preparation is its own discipline. Here's the streamlined workflow:
 ## Frequently Asked Questions
 
 ### Do I always need primer before airbrushing?
-Not always. Fabric/textiles don't need primer — textile paints bond directly to fibers. Pre-primed canvas is ready to paint on. But for plastic, metal, resin, wood, and most hard surfaces, primer dramatically improves adhesion and paint appearance. When in doubt, prime.
+Not always. Fabric/textiles don't need primer, textile paints bond directly to fibers. Pre-primed canvas is ready to paint on. But for plastic, metal, resin, wood, and most hard surfaces, primer dramatically improves adhesion and paint appearance. When in doubt, prime.
 ### What's the best primer color for airbrushing?
-Grey is the safest all-purpose choice — it doesn't shift your paint colors warm or cool and works under any color scheme. Use white under bright/light colors for maximum vibrancy. Use black for dark schemes or to create pre-shading effects.
+Grey is the safest all-purpose choice, it doesn't shift your paint colors warm or cool and works under any color scheme. Use white under bright/light colors for maximum vibrancy. Use black for dark schemes or to create pre-shading effects.
 ### Can I airbrush primer or should I use spray cans?
-Both work. Airbrushing primer gives you more control and thinner, more even coats — especially important for miniatures where you want to preserve fine detail. Spray cans are faster for large surfaces and don't require cleaning your airbrush afterward. For miniatures and models, airbrush priming is strongly preferred.
+Both work. Airbrushing primer gives you more control and thinner, more even coats, especially important for miniatures where you want to preserve fine detail. Spray cans are faster for large surfaces and don't require cleaning your airbrush afterward. For miniatures and models, airbrush priming is strongly preferred.
 ### Why does my paint peel off even after priming?
 Most likely the surface wasn't properly cleaned before priming. Mold release, oils from your fingers, or dust can all prevent adhesion even with primer. Wash and degrease thoroughly before every prime job. The other common cause: not letting primer fully cure before painting over it.
 ### How do I prepare a 3D print for airbrush painting?
 FDM prints: sand layer lines progressively (P120 → P400 → P800), apply filler primer, sand again, repeat until smooth, then final prime. Resin prints: wash in IPA, fully UV cure, remove/sand support marks, wash with soap and water, then prime with airbrush primer. See the 3D Prints section above for full details.
 ### Do I need to prepare t-shirts before airbrush painting?
-Yes — pre-wash the garment without fabric softener to remove sizing. Stretch flat on a board. After painting, heat-set at 330°F/165°C using a heat press or iron through parchment paper. Skipping the pre-wash or heat-set are the two most common reasons for paint peeling off fabric.
+Yes, pre-wash the garment without fabric softener to remove sizing. Stretch flat on a board. After painting, heat-set at 330°F/165°C using a heat press or iron through parchment paper. Skipping the pre-wash or heat-set are the two most common reasons for paint peeling off fabric.
 ### What's the difference between Badger Stynylrez and Vallejo Surface Primer?
 Both are excellent water-based polyurethane primers for airbrush. Stynylrez tends to spray more smoothly out of the bottle with less thinning needed, and is the current favorite in miniatures communities. Vallejo offers more color options, is widely available, and works well brush-on too. You can't go wrong with either one.
 
 ## Final Advice
 
-Surface preparation isn't glamorous, and it's the step everyone wants to skip. But here's the truth from 15+ years of airbrushing: the paint job is only as good as the surface underneath it. Five minutes of proper prep — washing, scuffing, priming — prevents hours of frustration when paint doesn't stick, peels off, or looks uneven.
+Surface preparation isn't glamorous, and it's the step everyone wants to skip. But here's the truth from 15+ years of airbrushing: the paint job is only as good as the surface underneath it. Five minutes of proper prep, washing, scuffing, priming, prevents hours of frustration when paint doesn't stick, peels off, or looks uneven.
 
 The specific steps depend on your material, but the mindset is universal: give the paint something clean and textured to grip, and it will reward you with durability and beauty.
 

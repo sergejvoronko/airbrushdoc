@@ -121,3 +121,5 @@ With the 0.38mm and 0.25mm head set-up, this is a really surprisingly very good 
 My overall feeling is that I really like this tool and I still can't believe that this quality airbrush gun can be that cheap (Update: My gun is still fine but there are people with kind of different experience, check this out - [bad talon](/blog/paasche-talon-problem/)).
 
 Big thanks to [Chicago Airbrush Supply](http://www.airbrushdoc.com/chicagoairbrush) to be so kind for sponsoring this review. Follow that link to get to the page with actual price.
+
+👉 **[Check the Paasche Talon price on Amazon →](/go/paasche-talon-starter-set)**

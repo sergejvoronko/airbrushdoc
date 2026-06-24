@@ -192,7 +192,7 @@ Here are some advises from professionals:
 
  	- Yes noise is important factor. Usually oil-lubed compressors are more quite than oil-less.
 
- 	- I've seen a lot of video reviews on youtube and a lot of those portable compressors are not that bad but only for small nozzle sizes. When it comes to 0.4 mm they have no chance. So I would recommend a compressor with tank.
+ 	- I've seen a lot of video reviews on youtube and a lot of those portable compressors are not that bad but only for small nozzle sizes. At 0.4 mm they have no chance. So I would recommend a compressor with tank.
 
  	- I prefer homemade compressor. Fridge compressor has really low-level of noise comparing to any industrial piston compressor and tank is a big advantage here. Of course there one minus for tank - you have to wait a few minutes before you start painting as compressor has to fill the tank up first. But this is nothing when you see what it will give after that.
 

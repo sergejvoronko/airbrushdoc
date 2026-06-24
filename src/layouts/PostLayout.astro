@@ -17,12 +17,14 @@ interface Props {
   slug: string;
   faqs?: { q: string; a: string }[];
   headings?: { depth: number; slug: string; text: string }[];
+  hasAffiliate?: boolean;
 }
 
 const {
   title, description, pubDate, updatedDate,
   heroImage, heroImageAlt, category = 'general',
   tags = [], readingTime, slug, faqs = [], headings = [],
+  hasAffiliate = false,
 } = Astro.props;
 
 const formattedDate = pubDate.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -135,6 +137,13 @@ const faqSchema = faqs.length > 0 ? {
         {heroImage && (
           <div class="abd-post-hero">
             <img src={heroImage} alt={heroImageAlt || title} loading="eager" />
+          </div>
+        )}
+
+        {hasAffiliate && (
+          <div class="abd-affiliate-notice">
+            <svg class="abd-affiliate-notice-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+            <span>This article contains affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. <a href="/affiliate-disclosure/">Learn more</a>.</span>
           </div>
         )}
 

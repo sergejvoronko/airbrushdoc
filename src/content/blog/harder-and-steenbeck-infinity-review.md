@@ -58,7 +58,7 @@ Two cups are beveled so it gives it some plus even comparing to Iwata and especi
 
 ## Cleaning of Infinity
 
-When it comes to cleaning, you will not have a problem pulling the gun apart and clean it, just be careful with the fine needle. Don't worry if you are taking the airbrush apart for first time because when you start putting it all back again you find that all parts will fit one way only.
+As for cleaning, you will not have a problem pulling the gun apart and clean it, just be careful with the fine needle. Don't worry if you are taking the airbrush apart for first time because when you start putting it all back again you find that all parts will fit one way only.
 
 ![](/images/wp-uploads/Harder-Steenbeck-Infinity-18.webp)
 

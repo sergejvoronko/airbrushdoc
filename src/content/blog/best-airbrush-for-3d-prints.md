@@ -14,10 +14,10 @@ faqs:
   - q: "Do I need to prime a 3D print before airbrushing?"
     a: "Yes, always. Both resin and FDM prints have surfaces that resist paint adhesion without a proper primer coat. Skipping primer is the number one reason paint peels."
   - q: "Can I use regular acrylic paint in an airbrush on 3D prints?"
-    a: "You can, but you need to thin it correctly — usually 1:1 with water or airbrush medium. Purpose-made airbrush paints like Vallejo Model Air are already pre-thinned and much easier to work with on 3D printed surfaces."
+    a: "You can, but you need to thin it correctly, usually 1:1 with water or airbrush medium. Purpose-made airbrush paints like Vallejo Model Air are already pre-thinned and much easier to work with on 3D printed surfaces."
 ---
 
-If you've spent hours printing a detailed miniature or display piece only to watch paint bead up, crack, or peel off a week later, you already know that airbrushing 3D prints is not the same as airbrushing a t-shirt or a car panel — and the wrong setup will cost you both time and frustration.
+If you've spent hours printing a detailed miniature or display piece only to watch paint bead up, crack, or peel off a week later, you already know that airbrushing 3D prints is not the same as airbrushing a t-shirt or a car panel, and the wrong setup will cost you both time and frustration.
 
 **The short answer: For most 3D printing hobbyists, the Iwata Eclipse HP-CS paired with Badger Stynylrez primer is the combination that actually works out of the box. Prime every single print regardless of material, keep your PSI between 15–25, and use purpose-made airbrush paints like Vallejo Model Air. Everything below explains exactly why and how.**
 
@@ -25,11 +25,11 @@ If you've spent hours printing a detailed miniature or display piece only to wat
 
 ## Why 3D Prints Are Different From Other Airbrush Surfaces
 
-I've been airbrushing for 13 years across canvas, automotive, fabric, and models — and 3D prints genuinely behave differently from almost anything else. Here's the core problem:
+I've been airbrushing for 13 years across canvas, automotive, fabric, and models, and 3D prints genuinely behave differently from almost anything else. Here's the core problem:
 
 **FDM prints** (from filament printers like Enders and Bambus) have layer lines, a slightly porous surface, and micro-grooves that trap air and cause paint to bubble if you apply it too fast or too thick.
 
-**Resin prints** (from MSLA/LCD printers) are smooth, non-porous, and — this is the big one — cured resin is naturally paint-resistant unless you prep it correctly. Uncured resin on the surface will also ruin your paint job and potentially your airbrush. Always wash and fully cure resin prints before you touch them with a brush.
+**Resin prints** (from MSLA/LCD printers) are smooth, non-porous, and, this is the big one, cured resin is naturally paint-resistant unless you prep it correctly. Uncured resin on the surface will also ruin your paint job and potentially your airbrush. Always wash and fully cure resin prints before you touch them with a brush.
 
 The good news: once you understand the surface, the fixes are straightforward.
 
@@ -53,7 +53,7 @@ Here's how the main options stack up:
 
 **My pick for beginners is the [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs).** The 0.35mm needle handles primer, basecoats, and shading without swapping tips. It's easy to clean, parts are widely available, and it won't punish you for small mistakes the way ultra-fine needles do. The Badger Renegade Krome is excellent if you're doing highly detailed resin miniatures and want tighter lines, but the learning curve is steeper.
 
-If budget is genuinely tight, the [Iwata Neo CN](/go/iwata-neo-cn) is the one I'd recommend over the [Master Airbrush G22](/go/master-airbrush-g22). The Neo CN has noticeably better tolerances and clogs less with primer — which matters a lot when you're first learning.
+If budget is genuinely tight, the [Iwata Neo CN](/go/iwata-neo-cn) is the one I'd recommend over the [Master Airbrush G22](/go/master-airbrush-g22). The Neo CN has noticeably better tolerances and clogs less with primer, which matters a lot when you're first learning.
 
 For anyone who wants the absolute best and doesn't mind the investment, the Harder & Steenbeck Infinity is in a different league for control. I use mine for fine miniature detail work. But it is not where I'd tell a beginner to start.
 
@@ -63,7 +63,7 @@ For anyone who wants the absolute best and doesn't mind the investment, the Hard
 
 Your airbrush is only as consistent as your air supply. For 3D print work, you need stable, *moisture-free* pressure. Moisture in the line causes paint to sputter and fish-eye on smooth resin surfaces.
 
-- **Budget:** The [AS-186 Mini Compressor](/go/as186-compressor) is the bare minimum. It works, it's quiet enough for apartment use, but it runs hot on longer sessions and the tank is tiny. Pair it with an **Airbrush Moisture Trap** — non-negotiable.
+- **Budget:** The [AS-186 Mini Compressor](/go/as186-compressor) is the bare minimum. It works, it's quiet enough for apartment use, but it runs hot on longer sessions and the tank is tiny. Pair it with an **Airbrush Moisture Trap**, non-negotiable.
 - **Mid-range:** The [Sparmax AC-501X Compressor](/go/sparmax-ac501x) is where I'd tell most beginners to actually start. It has a tank, a pressure regulator, and handles longer painting sessions without overheating. Much more stable pressure than the no-tank minis.
 - **Premium:** The [Iwata Smart Jet Compressor](/go/iwata-smart-jet) is whisper-quiet and reliable, but you're paying for the Iwata name. The Sparmax does 90% of the same job for less money.
 
@@ -79,7 +79,7 @@ Here's why Stynylrez works so well on both resin and FDM:
 
 - It's water-based and flexible, so it doesn't crack on FDM prints when you handle them
 - It bonds chemically to cured resin in a way that rattle-can primers often don't
-- It's already thinned for airbrushing — no mixing required
+- It's already thinned for airbrushing, no mixing required
 - It comes in grey, black, and white, which matters for your final color accuracy
 
 Spray Stynylrez at **18–22 PSI**, holding the airbrush **4–6 inches from the surface**, using thin overlapping passes. Don't try to cover everything in one pass. Two light coats beat one heavy coat every time. Heavy coats on FDM will fill in detail; heavy coats on resin will bead and run.
@@ -94,11 +94,11 @@ Once you've primed, most quality airbrush paints will adhere fine. The key is us
 
 **My top picks:**
 
-[**Vallejo Model Air Paint Set**](/go/vallejo-model-air-set) — This is what I reach for on almost every miniature or display print. Vallejo Model Air is pre-thinned, flows beautifully through a 0.35mm needle, and the color range is enormous. The pigment density is consistent, which means your colors behave predictably — crucial when you're doing layered shading.
+[**Vallejo Model Air Paint Set**](/go/vallejo-model-air-set). This is what I reach for on almost every miniature or display print. Vallejo Model Air is pre-thinned, flows beautifully through a 0.35mm needle, and the color range is enormous. The pigment density is consistent, which means your colors behave predictably, crucial when you're doing layered shading.
 
-**Createx Colors** — Better suited to larger FDM pieces and cosplay props than to small resin miniatures. Createx is tough, flexible, and great for big surface areas. For fine detail on minis, Vallejo wins.
+**Createx Colors**. Better suited to larger FDM pieces and cosplay props than to small resin miniatures. Createx is tough, flexible, and great for big surface areas. For fine detail on minis, Vallejo wins.
 
-Avoid painting directly with standard bottle acrylics (like craft store craft paint) unless you add a proper medium and thin them correctly. The usual starting ratio is 1:1 paint to water, but honestly — for beginners — just buy Vallejo Model Air and skip the thinning guesswork entirely.
+Avoid painting directly with standard bottle acrylics (like craft store craft paint) unless you add a proper medium and thin them correctly. The usual starting ratio is 1:1 paint to water, but honestly, for beginners, just buy Vallejo Model Air and skip the thinning guesswork entirely.
 
 ---
 
@@ -114,15 +114,15 @@ This is one of the most common questions I see from 3D printing hobbyists crossi
 | Detail shading / zenithal | 12–18 PSI | Finer control, closer to surface |
 | Washes / inks | 10–15 PSI | Very thin mix, low pressure prevents spatter |
 
-Start at the middle of each range and adjust. If paint is sputtering, go up slightly. If it's flooding, go down or add more thinner. The relationship between pressure, paint viscosity, and distance from the model is something you'll develop a feel for quickly — it usually clicks after the first two or three prints.
+Start at the middle of each range and adjust. If paint is sputtering, go up slightly. If it's flooding, go down or add more thinner. The relationship between pressure, paint viscosity, and distance from the model is something you'll develop a feel for quickly, it usually clicks after the first two or three prints.
 
 ---
 
 ## Cleaning After 3D Print Sessions
 
-Resin residue and primer are harder on airbrush internals than standard paint, so clean your airbrush immediately after every session. Don't let primer dry inside the needle cap or you'll be picking it out with a toothpick later — I've done it, it's tedious.
+Resin residue and primer are harder on airbrush internals than standard paint, so clean your airbrush immediately after every session. Don't let primer dry inside the needle cap or you'll be picking it out with a toothpick later. I've done it, it's tedious.
 
-Use **Medea Airbrush Cleaner** — it breaks down both acrylic paint and primer residue without damaging O-rings. A proper **Airbrush Cleaning Kit** with brushes, needles, and cleaning cups makes the process faster and protects your needle tip from the damage that causes tip-dry and sputtering.
+Use **Medea Airbrush Cleaner**, it breaks down both acrylic paint and primer residue without damaging O-rings. A proper **Airbrush Cleaning Kit** with brushes, needles, and cleaning cups makes the process faster and protects your needle tip from the damage that causes tip-dry and sputtering.
 
 Backflushing with cleaner, then running clean water through, then backflushing with cleaner again is the routine I've used for years. Takes three minutes and keeps the airbrush shooting clean.
 
@@ -134,7 +134,7 @@ Backflushing with cleaner, then running clean water through, then backflushing w
 2. **Sand FDM layer lines** if you want a smoother finish (220–400 grit works well)
 3. **Apply 2 thin coats of Badger Stynylrez** at 18–22 PSI, letting each coat tack up before the next
 4. **Basecoat with Vallejo Model Air** at 15–20 PSI using thin, overlapping passes
-5. **Build up color in layers** — 3 thin coats always beat 1 thick one
+5. **Build up color in layers**, 3 thin coats always beat 1 thick one
 6. **Clean immediately** after every session with Medea Airbrush Cleaner
 
 That workflow works on everything from tabletop miniatures to full-size cosplay armor panels.
@@ -145,6 +145,6 @@ That workflow works on everything from tabletop miniatures to full-size cosplay 
 
 If you're new to airbrushing and want to build a solid foundation before you start shooting primer at your prints, my [15 Basic Airbrush Rules](/15-basic-rules-of-airbrushing) covers the fundamentals I wish someone had explained to me at the start. It'll save you a lot of trial and error.
 
-For compressor selection in more depth, [Choosing The Right Air Compressor](/air-compressor) walks through tank size, PSI output, and noise levels — all relevant if you're setting up a workspace around 3D print painting.
+For compressor selection in more depth, [Choosing The Right Air Compressor](/air-compressor) walks through tank size, PSI output, and noise levels, all relevant if you're setting up a workspace around 3D print painting.
 
 And once you're ready to level up your paint knowledge, the [Advanced Guide to Airbrush Paint](/advanced-guide-to-airbrush-colors) covers thinning ratios, paint chemistry, and color layering in the kind of detail that actually changes how you paint.

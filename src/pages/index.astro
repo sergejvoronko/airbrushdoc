@@ -8,7 +8,7 @@ const recent = allPosts
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
 
-const pinnedSlugs = ['best-airbrush-for-beginners-2026', 'advanced-guide-to-airbrush-colors'];
+const pinnedSlugs = ['best-airbrush-for-beginners-2026', 'advanced-guide-to-airbrush-colors', 'best-air-compressor'];
 const pinnedPosts = pinnedSlugs.map(s => allPosts.find(p => p.id === s)).filter(Boolean);
 
 const testimonials = [
@@ -123,8 +123,8 @@ const features = [
     </div>
     <div class="abd-pinned-grid">
       {pinnedPosts.map((post, i) => {
-        const labels = ['Beginner Pick', 'Paint Guide'];
-        const colors = ['var(--abd-orange)', 'var(--abd-blue)'];
+        const labels = ['Beginner Pick', 'Paint Guide', 'Compressor Guide'];
+        const colors = ['var(--abd-orange)', 'var(--abd-blue)', 'var(--abd-green)'];
         return (
           <a href={`/blog/${post!.id}/`} class="abd-pinned-card">
             {post!.data.heroImage && (
@@ -143,17 +143,6 @@ const features = [
           </a>
         );
       })}
-      <a href="/freebies/" class="abd-pinned-card">
-        <div class="abd-pinned-img" style="background: linear-gradient(135deg, #0f1a0f 0%, #1a2e1a 100%); display:flex; align-items:center; justify-content:center;">
-          <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="var(--abd-green)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-        </div>
-        <div class="abd-pinned-body">
-          <span class="abd-pinned-badge" style="color:var(--abd-green);border-color:var(--abd-green)22;background:var(--abd-green)11">Free Resources</span>
-          <div class="abd-pinned-title">Skull Stencils, Fire Reference Pack &amp; More</div>
-          <p class="abd-pinned-desc">Subscribe and get stencil packs, high-res reference photos, and exclusive tools — free.</p>
-          <span class="abd-pinned-cta">Get free downloads →</span>
-        </div>
-      </a>
     </div>
 
     <div class="abd-resource-row">
@@ -555,7 +544,11 @@ const features = [
 }
 @media (max-width: 560px) {
   .abd-hero-full { min-height: 440px; }
-  .abd-features-grid { grid-template-columns: 1fr 1fr; }
+  .abd-features-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 400px) {
+  .abd-hero-full-content { padding: 48px 18px; }
+  .abd-hero-full-title { font-size: 1.7rem; }
 }
 /* ═══ BOOK PROMO ═══ */
 .abd-book-promo {
