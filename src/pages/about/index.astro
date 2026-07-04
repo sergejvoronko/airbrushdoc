@@ -2,8 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 ---
 <BaseLayout
-  title="About AirbrushDOC — Expert Airbrush Reviews &amp; Tutorials"
-  description="Learn about AirbrushDOC — honest airbrush equipment reviews, free tutorials, and a community dedicated to helping artists master airbrushing since 2010."
+  title="About AirbrushDOC — Cures for Your Canvas"
+  description="Cures for Your Canvas. Honest airbrush equipment reviews, free tutorials, and a community dedicated to helping artists master airbrushing since 2010."
 >
   <main class="about-page">
 
@@ -69,19 +69,15 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         <h2>My Airbrush Journey</h2>
         <div class="about-timeline">
           <div class="about-tl-item">
-            <div class="about-tl-year">2010–2012</div>
-            <div class="about-tl-body">Started airbrushing as a hobby — model cars, custom helmets, canvas work. Learned mostly by trial, error, and expensive mistakes.</div>
+            <div class="about-tl-year">2010</div>
+            <div class="about-tl-body">Started airbrushing as a hobby — model cars, custom helmets, canvas work. Learned mostly by trial, error, and expensive mistakes. Launched AirbrushDOC that same year to document everything as it happened.</div>
           </div>
           <div class="about-tl-item">
-            <div class="about-tl-year">2013–2015</div>
+            <div class="about-tl-year">2011–2015</div>
             <div class="about-tl-body">Moved into professional work: custom motorcycle tank art, commission pieces, and teaching friends who kept asking <em>"how do you do that?"</em></div>
           </div>
           <div class="about-tl-item">
-            <div class="about-tl-year">2016</div>
-            <div class="about-tl-body">Launched AirbrushDOC to document everything learned the hard way — equipment picks, technique guides, and the honest reviews nobody else was writing.</div>
-          </div>
-          <div class="about-tl-item">
-            <div class="about-tl-year">2017–Now</div>
+            <div class="about-tl-year">2016–Now</div>
             <div class="about-tl-body">Tested over 50 airbrushes, 30 compressors, and hundreds of paint combinations. Published 100+ tutorials and guides. Helped thousands of artists find the right equipment.</div>
           </div>
         </div>
@@ -123,27 +119,6 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
             <h3>Curated Recommendations</h3>
             <p>Carefully selected equipment links that reflect the same standards used in reviews. Quality first, always.</p>
           </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- ═══ TESTIMONIALS ═══ -->
-    <section class="about-section about-testimonials">
-      <div class="about-inner">
-        <h2>What Artists Are Saying</h2>
-        <div class="about-testi-grid">
-          <blockquote class="about-testi">
-            <p>"It is good that you took the time to post a comprehensive listing of paint options. I wish more websites did so. The mainstream airbrush sites are sorely lacking on this point. Thanks!"</p>
-            <cite>— Barry Munden</cite>
-          </blockquote>
-          <blockquote class="about-testi">
-            <p>"This is my second time at your site. And now I realize you have designed a great site to study and learn from."</p>
-            <cite>— Larry Potillo</cite>
-          </blockquote>
-          <blockquote class="about-testi">
-            <p>"One of the biggest things for me was having Walkup's 93 year old nephew tell me that he was so pleased that his family could now be recognised for all their efforts. History made real!! Keep up the good work."</p>
-            <cite>— Andy Penaluna</cite>
-          </blockquote>
         </div>
       </div>
     </section>
@@ -362,19 +337,6 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 .about-offer-card p { font-size: 0.87rem; color: var(--abd-text-dim); line-height: 1.6; margin: 0; }
 @media (max-width: 900px) { .about-offers-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 560px) { .about-offers-grid { grid-template-columns: 1fr; } }
-
-/* ═══ TESTIMONIALS ═══ */
-.about-testimonials { background: var(--abd-bg); }
-.about-testi-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
-.about-testi {
-  background: var(--abd-surface); border: 1px solid var(--abd-border);
-  border-top: 3px solid var(--abd-orange);
-  border-radius: var(--abd-radius); padding: 28px;
-  display: flex; flex-direction: column; gap: 20px;
-}
-.about-testi p { font-size: 0.92rem; color: var(--abd-text-dim); line-height: 1.75; margin: 0; font-style: italic; }
-.about-testi cite { font-size: 0.82rem; font-weight: 600; color: var(--abd-text); font-style: normal; }
-@media (max-width: 900px) { .about-testi-grid { grid-template-columns: 1fr; } }
 
 /* ═══ TRANSPARENCY ═══ */
 .about-transparency { background: var(--abd-surface); border-top: 1px solid var(--abd-border); border-bottom: 1px solid var(--abd-border); }

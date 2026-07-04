@@ -9,11 +9,6 @@ const chapters = [
   { part: 'Part Five: Business', items: ['Chapter 16: Pricing Your Work', 'Chapter 17: Finding Clients', 'Appendices & About the Author'] },
 ];
 
-const testimonials = [
-  { text: "It is good that you took the time to post a comprehensive listing of paint options. I wish more websites did so. The mainstream airbrush sites are sorely lacking on this point.", author: "Barry Munden" },
-  { text: "This is my second time at your site. And now I realize you have designed a great site to study and learn from.", author: "Larry Potillo" },
-  { text: "Keep up the good work. History made real!!", author: "Andy Penaluna" },
-];
 ---
 <BaseLayout
   title="The Airbrush Technique Bible — From First Spray to Professional Results"
@@ -134,21 +129,6 @@ const testimonials = [
             <h3>Artists Ready to Go Pro</h3>
             <p>You're good at airbrushing but have no idea what to charge or how to find clients. Chapters 16–17 cover pricing strategy and building a client base.</p>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ═══ TESTIMONIALS ═══ -->
-    <section class="book-section book-social">
-      <div class="book-inner">
-        <h2>What AirbrushDOC Readers Say</h2>
-        <div class="book-testi-row">
-          {testimonials.map(t => (
-            <blockquote class="book-testi">
-              <p>"{t.text}"</p>
-              <cite>— {t.author}</cite>
-            </blockquote>
-          ))}
         </div>
       </div>
     </section>
@@ -410,18 +390,6 @@ const testimonials = [
 .book-for-card p { font-size: 0.85rem; color: var(--abd-text-dim); line-height: 1.65; margin: 0; }
 @media (max-width: 960px) { .book-for-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 560px) { .book-for-grid { grid-template-columns: 1fr; } }
-
-/* ═══ TESTIMONIALS ═══ */
-.book-social { background: var(--abd-bg); }
-.book-testi-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
-.book-testi {
-  background: var(--abd-surface); border: 1px solid var(--abd-border);
-  border-top: 3px solid var(--abd-orange); border-radius: var(--abd-radius);
-  padding: 28px; display: flex; flex-direction: column; gap: 16px;
-}
-.book-testi p { font-style: italic; font-size: 0.92rem; color: var(--abd-text-dim); line-height: 1.75; margin: 0; }
-.book-testi cite { font-size: 0.82rem; font-weight: 600; color: var(--abd-text); font-style: normal; }
-@media (max-width: 768px) { .book-testi-row { grid-template-columns: 1fr; } }
 
 /* ═══ PREVIEW ═══ */
 .book-preview { background: var(--abd-surface); border-top: 1px solid var(--abd-border); border-bottom: 1px solid var(--abd-border); }
