@@ -243,12 +243,10 @@ img { max-width: 100%; height: auto; display: block; }
   display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px;
 }
 .abd-footer-brand {}
-.abd-footer-logo {
-  font-family: var(--abd-font-display);
-  font-size: 1.25rem; font-weight: 700; color: var(--abd-text);
-  margin-bottom: 10px;
+.abd-footer-badge {
+  display: block; width: 140px; height: auto;
+  margin-bottom: 12px;
 }
-.abd-footer-logo span { color: var(--abd-orange); }
 .abd-footer-tagline { font-size: 0.85rem; color: var(--abd-text-dim); line-height: 1.5; }
 .abd-footer-col-heading {
   font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
