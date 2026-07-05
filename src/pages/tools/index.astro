@@ -6,40 +6,45 @@ const tools = [
   {
     slug: 'airbrush-quiz',
     icon: '🎯',
+    frame: 'Consultation',
     name: 'Airbrush Finder Quiz',
-    desc: 'Answer 6 questions and get matched with the right airbrush for your style, surface, and budget.',
+    desc: 'Describe your style, surface, and budget in 6 questions — leave with the right airbrush recommended by the Doc.',
     time: '3 min',
   },
   {
     slug: 'paint-selector',
     icon: '🎨',
+    frame: 'Prescription',
     name: 'Paint Selector',
-    desc: 'Find the right paint type for your surface, finish, and application — airbrush-ready formulas only.',
+    desc: 'The right paint for your surface, finish, and application — airbrush-ready formulas only, no guesswork.',
     time: '2 min',
   },
   {
     slug: 'compare',
     icon: '⚖️',
+    frame: 'Second Opinion',
     name: 'Compare Airbrushes',
-    desc: 'Side-by-side specs comparison of popular airbrush models to make the buying decision easier.',
+    desc: 'Not sure about a model? Put it side by side with the alternatives and see the specs before you spend.',
     time: '5 min',
   },
 ];
 
 const subscriberTools = [
   {
-    icon: '🔧',
+    icon: '🚨',
+    frame: 'Emergency Room',
     name: 'Airbrush Troubleshooter',
-    desc: 'Diagnose spitting, clogging, uneven spray, and other common airbrush problems step by step.',
+    desc: 'Spitting, clogging, uneven spray mid-project? Walk in, describe the symptoms, get the step-by-step fix.',
   },
   {
     icon: '🧪',
+    frame: 'The Lab',
     name: 'AirMix Studio',
     desc: 'Paint ratio calculator, project logbook, needle & nozzle reference, and color harmony tool — all in one.',
   },
 ];
 ---
-<BaseLayout title="Interactive Tools | AirbrushDOC" description="Free interactive airbrush tools — find the right airbrush, compare models, and choose paint. Troubleshooter & AirMix Studio for subscribers; Stencil Creator free with the book.">
+<BaseLayout title="Interactive Tools — The AirbrushDOC Clinic" description="The AirbrushDOC Clinic: free interactive tools to diagnose and fix your airbrush problems — consultation quiz, paint prescription, model comparison, and the Troubleshooter ER.">
   <main class="abd-container">
     <div class="blg-page-header">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
@@ -48,10 +53,11 @@ const subscriberTools = [
         <span>Tools</span>
       </nav>
       <div class="blg-title-row">
-        <h1 class="blg-page-title">Interactive <span class="blg-page-title-accent">Tools</span></h1>
+        <h1 class="blg-page-title">The <span class="blg-page-title-accent">Clinic</span></h1>
         <span class="blg-post-count">{tools.length + subscriberTools.length + 1} tools</span>
       </div>
       <div class="blg-header-line"></div>
+      <p class="tools-clinic-intro">The site is called AirbrushDOC for a reason. Whatever's ailing your work — wrong airbrush, wrong paint, or a gun that won't behave — there's a tool here to diagnose it. Walk-ins welcome, no appointment needed.</p>
     </div>
 
     <div class="tools-free-grid">
@@ -59,6 +65,7 @@ const subscriberTools = [
         <a href={`/tools/${t.slug}/`} class="abd-tool-card" style="padding: 28px 24px; gap: 16px;">
           <div style="font-size: 2rem;">{t.icon}</div>
           <div>
+            <div class="tools-frame-badge">{t.frame}</div>
             <div class="abd-tool-name" style="font-size: 1.1rem; margin-bottom: 8px;">{t.name}</div>
             <p class="abd-tool-desc" style="font-size: 0.88rem; line-height: 1.6;">{t.desc}</p>
           </div>
@@ -75,7 +82,7 @@ const subscriberTools = [
     <div class="tools-subscriber-section">
       <div class="tools-sub-header">
         <div class="tools-sub-label">Subscriber Tools</div>
-        <h2 class="tools-sub-title">2 more tools — free for subscribers</h2>
+        <h2 class="tools-sub-title">The Emergency Room &amp; the Lab — free for subscribers</h2>
         <p class="tools-sub-desc">Subscribe to the newsletter and unlock the Airbrush Troubleshooter and AirMix Studio — plus all downloadable reference packs and stencils. No payment, just your email.</p>
       </div>
 
@@ -84,6 +91,7 @@ const subscriberTools = [
           <div class="tools-locked-card">
             <div class="tools-locked-icon">{t.icon}</div>
             <div class="tools-locked-body">
+              <div class="tools-frame-badge">{t.frame}</div>
               <div class="tools-locked-name">{t.name}</div>
               <p class="tools-locked-desc">{t.desc}</p>
             </div>
@@ -108,9 +116,9 @@ const subscriberTools = [
       <div class="tools-bonus-card">
         <div class="tools-bonus-icon">✂️</div>
         <div class="tools-bonus-body">
-          <div class="tools-bonus-label">Book Bonus</div>
+          <div class="tools-bonus-label">Book Bonus · The Operating Room</div>
           <h2 class="tools-bonus-title">Stencil Creator</h2>
-          <p class="tools-bonus-desc">Turn any photo into a print-ready, multi-layer cut stencil — draw freehand or use shapes and text, then export as PNG, PDF, or cut-ready SVG. Included <strong>free</strong> with The Airbrush Technique Bible.</p>
+          <p class="tools-bonus-desc">Where the cutting happens. Turn any photo into a print-ready, multi-layer cut stencil — draw freehand or use shapes and text, then export as PNG, PDF, or cut-ready SVG. Included <strong>free</strong> with The Airbrush Technique Bible.</p>
           <a href="/book/" class="abd-btn-primary">Get the Book — $27 →</a>
         </div>
       </div>
@@ -120,6 +128,26 @@ const subscriberTools = [
 </BaseLayout>
 
 <style>
+.tools-clinic-intro {
+  font-size: 0.95rem;
+  color: var(--abd-text-dim);
+  line-height: 1.7;
+  max-width: 640px;
+  margin-top: 16px;
+}
+.tools-frame-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--abd-orange);
+  background: var(--abd-orange-soft);
+  border: 1px solid var(--abd-orange-b20);
+  border-radius: 100px;
+  padding: 2px 10px;
+  margin-bottom: 10px;
+}
 .tools-subscriber-section {
   margin-top: 56px;
   padding-top: 40px;
