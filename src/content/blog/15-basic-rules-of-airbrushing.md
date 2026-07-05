@@ -9,11 +9,11 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush-schema1.webp"
 ---
 
-Our readers who have painted a few pieces on their own are probably not that interested in reading any poems because most of their mistakes were already made and probably fixed too and they know how to deal with it next time as they found the solution to every wrong step by themselves.
+My readers who have painted a few pieces on their own are probably not that interested in reading any poems because most of their mistakes were already made and probably fixed too and they know how to deal with it next time as they found the solution to every wrong step by themselves.
 
 Why do I write this article then? Well, many of [airbrush beginners](http://www.airbrushdoc.com/beginners/) have not heard the evil HISS of compressed air and didn't get the edgy scent of spilled reducer yet. So, while just starting out, they may avoid many of most common mistakes that could be made in airbrushing, just by reading this article.
 
-Our dear newbies, I hope you have already made choice on [**airbrush gun**](/blog/choose-airbrush/), [**air compressor**](/blog/air-compressor/) and you have read the [**airbrush color guide**](/blog/advanced-guide-to-airbrush-colors/). Now it is time to get to know some basic airbrush rules that you have to follow while working with [airbrush](http://www.airbrushdoc.com). Many of this rules have different tendency and some are more important and some less. I tried to arrange them as best as I could and I hope nobody will get lost while reading it.
+My dear newbies, I hope you have already made choice on [**airbrush gun**](/blog/choose-airbrush/), [**air compressor**](/blog/air-compressor/) and you have read the [**airbrush color guide**](/blog/advanced-guide-to-airbrush-colors/). Now it is time to get to know some basic airbrush rules that you have to follow while working with [airbrush](http://www.airbrushdoc.com). Many of this rules have different tendency and some are more important and some less. I tried to arrange them as best as I could and I hope nobody will get lost while reading it.
 
 ## Airbrush and Safety
 
@@ -25,7 +25,7 @@ Passive smoking is more dangerous than smoking itself, now imagine that you inha
 ![](/images/wp-uploads/respirator.webp)
 Make sure the pigments are NOT poisonous i.e. contain lead of cadmium or zinc... It could be very dangerous. Well I heard that some of them can kill you very quickly if you inhale them... but I can't confirm that.
 
-Urethane, lacquers and automotive paints could be dangerous for your skin and sometimes cause allergic reaction. So, from safety point come our first two rules:
+Urethane, lacquers and automotive paints could be dangerous for your skin and sometimes cause allergic reaction. So, from safety point come my first two rules:
 
 ### 1. Wear Respirator
 2. Wear Protective Clothing
@@ -102,7 +102,7 @@ Bad atomization and clogged nozzle are usually a result of bad or irregular clea
 ![](/images/wp-uploads/dirty-airbrush.webp)
 While servicing your tool yourself, for the first time, have a schema of airbrush (usually it comes with airbrush). When changing nozzle use only special key that comes with airbrush. Be careful not to tight it too hard or you can break the treads. If it happens you will have to buy new nozzle.
 
-Sometimes we use lubricants for airbrush gun and I would advice you to use only the one that comes with airbrush or, if you don't have any, use **glycerin**.
+Sometimes I use lubricants for airbrush gun and I would advice you to use only the one that comes with airbrush or, if you don't have any, use **glycerin**.
 
 ### 14. NEVER use WD-40!!! This lubricant attacks and destroys any kind of paint and o-ring seal.
 

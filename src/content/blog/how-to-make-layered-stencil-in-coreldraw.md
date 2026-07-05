@@ -35,7 +35,7 @@ If you're going to look for layers you won't find any as here they're called "Ob
 
 The tool that is very important here is "**Threshold**". In **Photoshop** you can find it under "**Image > Adjustment > Threshold**" but in **Photo-Paint** you won't find it in Adjustment menu. It's under "**Image > Transform > Threshold**".
 
-I do not recommend to create Objects in **Photo-Paint**. Just make every layer in separate image file using different level of the Threshold setting to for every layer of stencil. You can make it in colors, but for now we're going to work just in Black and white and give it a gray tone. This tool will work mostly for highlights of the image. If you want to make separate stencils for each color you will have to use such Tools as "**Mask > Color Mask**" and once you've selected the color use tool "**Object > Create > Object Cut Selection**". This has to be repeated for every color (In my case I got 9 layers). But if I include color separation process here, my tutorial will be too long. Don't worry I have already started writing it and I'm hoping to publish it very soon.
+I do not recommend to create Objects in **Photo-Paint**. Just make every layer in separate image file using different level of the Threshold setting to for every layer of stencil. You can make it in colors, but for now I'm going to work just in Black and white and give it a gray tone. This tool will work mostly for highlights of the image. If you want to make separate stencils for each color you will have to use such Tools as "**Mask > Color Mask**" and once you've selected the color use tool "**Object > Create > Object Cut Selection**". This has to be repeated for every color (In my case I got 9 layers). But if I include color separation process here, my tutorial will be too long. Don't worry I have already started writing it and I'm hoping to publish it very soon.
 
 ![](/images/wp-uploads/Corel-Multilayer-original.webp)
 
@@ -51,7 +51,7 @@ And here is how result looks like:
 Repeat this step one more time (or even more times for more layers). Here I've set the Threshold to 145 and saved it as "layer3.cpt". Here is the result.
 ![](/images/wp-uploads/layer3.webp)
 
-As you can see, every time we covered larger areas. The stencil with the smallest areas will be darkest and with the largest areas will the lighter colors.
+As you can see, every time I covered larger areas. The stencil with the smallest areas will be darkest and with the largest areas will the lighter colors.
 
 Don't forget to use **Eraser Tool** for every layer to connect all the whites.
 
@@ -65,7 +65,7 @@ First step when you open** CorelDRAW** you have to head over to "**File > New**"
 
 ![](/images/wp-uploads/NewDocumentSettingCorelDraw.webp)
 
-and here is our layer
+and here is my layer
 
 ![](/images/wp-uploads/Layer1CorelDraw.webp)
 
@@ -87,4 +87,4 @@ Repeat this step for every layer. After you've done **Outline Trace** you can ch
 
 ![](/images/wp-uploads/FinalMultilayerStencil.webp)
 
-This is it! You are ready to print your stencil. If you know of better way to make multi-layered stencil, please, let us know. If you liked this tutorial I'll be happy if you share it on your social media (Like it, tweet it, digg it ...) or at least leave a short comment.
+This is it! You are ready to print your stencil. If you know of better way to make multi-layered stencil, please, let me know. If you liked this tutorial I'll be happy if you share it on your social media (Like it, tweet it, digg it ...) or at least leave a short comment.

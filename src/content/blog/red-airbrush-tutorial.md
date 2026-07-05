@@ -17,7 +17,7 @@ heroImage: "/images/wp-uploads/Red-airbrush-tutorial-76.webp"
 
 Hi there!
 
-Of course it's just an allegory because we are not going to paint with red color at all but we are going to mix a lot.
+Of course it's just an allegory because I am not going to paint with red color at all but I am going to mix a lot.
 
 Tools used:
 **Iwata HP-SBS Auto Graphics** 0.35mm;
@@ -53,7 +53,7 @@ As usual, first step is to get rid of glance using **Scotch-Brite** with abrasiv
 
 ![](/images/wp-uploads/Red-airbrush-tutorial-05.webp)
 
-Now we can start very easy (just not to make a lot of fumes as those may be sucked into the projector) sketching up the most bright parts with half opaque white base coat paint.
+Now I can start very easy (just not to make a lot of fumes as those may be sucked into the projector) sketching up the most bright parts with half opaque white base coat paint.
 
 ![](/images/wp-uploads/Red-airbrush-tutorial-06.webp)
 
@@ -98,7 +98,7 @@ Even the door handle so it won't stick out.
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-23.webp" loading="lazy" /></div>
 </div>
 
-Now we got to the face.
+Now I got to the face.
 
 <div class="abd-gallery abd-gallery-3">
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-25.webp" loading="lazy" /></div>
@@ -162,7 +162,7 @@ All I did is to put the glue with my finger onto surface and waited until it's d
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-54.webp" loading="lazy" /></div>
 </div>
 
-Then we have to spray over with white base and take off the glue. I did some free-handing over it after all.
+Then I have to spray over with white base and take off the glue. I did some free-handing over it after all.
 
 <div class="abd-gallery abd-gallery-3">
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Red-airbrush-tutorial-55.webp" loading="lazy" /></div>

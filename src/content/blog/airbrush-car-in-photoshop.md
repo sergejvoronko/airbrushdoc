@@ -13,7 +13,7 @@ Imagine that your client wants to see a preview of his car with the motive he ha
 
 So today I decided to present a step by step tutorial of an easy way to make a preview of your future work in Photoshop. Personally I think that this is good, not for customers only, but for you as an artist as well.
 
-This tutorial has come into my mind when I found few pictures on my computer that our studio was doing some time ago and actually these projects haven't been realized at all. So why just leave it on the computer when I can do a useful tutorial for my readers. Also here is video I just made yesterday (some people prefer to watch video rather than read a lot of stuff)..
+This tutorial has come into my mind when I found few pictures on my computer that my studio was doing some time ago and actually these projects haven't been realized at all. So why just leave it on the computer when I can do a useful tutorial for my readers. Also here is video I just made yesterday (some people prefer to watch video rather than read a lot of stuff)..
 
 https://youtu.be/66kf6W-tTiI
 
@@ -27,7 +27,7 @@ So, let's get started.
 
 Motives are pictures that you want to place (virtually airbrush) onto your car. For example I have found some nice photos or artwork that you might like to have painted. It could be anything, even many different pictures which you'll mix into one collage.
 
-Here is our palette that we've been choosing from:
+Here is my palette that I've been choosing from:
 
 ![](/images/wp-uploads/a.webp)![](/images/wp-uploads/b.webp)![](/images/wp-uploads/c.webp)![](/images/wp-uploads/d.webp)![](/images/wp-uploads/e.webp)![](/images/wp-uploads/f.webp)![](/images/wp-uploads/g.webp)![](/images/wp-uploads/h.webp)![](/images/wp-uploads/i.webp)![](/images/wp-uploads/j.webp)![](/images/wp-uploads/k.webp)![](/images/wp-uploads/l.webp)
 
@@ -35,9 +35,9 @@ Here you can see really different pictures and colors and all of them I'm going 
 
 ## 2. Make snaps of the car
 
-Of course you need a picture of a car that's going to be painted (in our case VW Golf - very popular model in Europe)
+Of course you need a picture of a car that's going to be painted (in my case VW Golf - very popular model in Europe)
 
-![](/images/wp-uploads/W_golf_front.webp)![](/images/wp-uploads/W_golf_side.webp)As you can see this car isn't in the best condition and as basic for this tutorial two pics is enough as for the look from the other side we can use the same picture of the car but we just mirror it.
+![](/images/wp-uploads/W_golf_front.webp)![](/images/wp-uploads/W_golf_side.webp)As you can see this car isn't in the best condition and as basic for this tutorial two pics is enough as for the look from the other side I can use the same picture of the car but I just mirror it.
 
 ## 3. Photoshop
 
@@ -51,7 +51,7 @@ Sometime (but in most cases if you open the pictures - jpg in photoshop) you'll 
 
 You can even quickly fix the car. For example on the side picture of the car you see that there is no axle cap on the wheel. I fixed it with Clone Stamp Tool.
 
-Select "**Clone Stamp Tool**" and go over the object you want to copy (with wheels it's very easy as they are practically similar), in our case the front wheel. Hold Alt key on your keyboard and click Right button of your mouse (hold it) and move the mouse to select the whole cap. Then release all the keys, press Alt again and now click the left button on the mouse inside the selection you have made before (just to give the tool an aid what you want to copy), release all the keys. Then go over the area you want to fill (our case -rear wheel) and click left button of the mouse.
+Select "**Clone Stamp Tool**" and go over the object you want to copy (with wheels it's very easy as they are practically similar), in my case the front wheel. Hold Alt key on your keyboard and click Right button of your mouse (hold it) and move the mouse to select the whole cap. Then release all the keys, press Alt again and now click the left button on the mouse inside the selection you have made before (just to give the tool an aid what you want to copy), release all the keys. Then go over the area you want to fill (my case -rear wheel) and click left button of the mouse.
 
 ![](/images/wp-uploads/Clone_Stamp_Tool_use.webp)Then I had to use 3D Tools to adjust the angle and Free Transform tool to adjust the size as it wasn't exactly the same and in every case you will have to play with this tools little bit more as they are really important here. After that I got this:
 
@@ -73,7 +73,7 @@ I've already inserted 8 motives. Easy way to insert any of the motive is just by
 
 ![](/images/wp-uploads/draganddrop.webp)
 
-As I mentioned before the original background came handy - when it's on the car it looks as there were no changes, the background copy prevents the motive picture to cover and stick out somewhere we don't need it.
+As I mentioned before the original background came handy - when it's on the car it looks as there were no changes, the background copy prevents the motive picture to cover and stick out somewhere I don't need it.
 
 After inserting the motive picture into a new layer you will probably need an additional editing of that layer. The easiest way to quickly adjust the image is to use "**Eraser Tool**". I've switched all the layers off so you can see what I've done with the motive image. Sometimes it is good to change the transparency of the layer so you see all the curves of the body on the car. It also makes the final look more realistic.
 
@@ -83,7 +83,7 @@ Some of the pictures are without the wheel cap (I've made those snaps before I d
 
 ![](/images/wp-uploads/01.webp)![](/images/wp-uploads/02.webp)![](/images/wp-uploads/03.webp)![](/images/wp-uploads/05.webp)![](/images/wp-uploads/06.webp)![](/images/wp-uploads/07.webp)![](/images/wp-uploads/08.webp)![](/images/wp-uploads/009.webp)![](/images/wp-uploads/011.webp)![](/images/wp-uploads/013.webp)![](/images/wp-uploads/014.webp)![](/images/wp-uploads/015.webp)
 
-Now when you do the front look that is when we need a 3D Tools to lay our motive properly. I won't show you how as it could be different depending on the angle you took the shot of the car. So that's going to be your home-work (just try to combine all 3D tools and see which suits your situation best).
+Now when you do the front look that is when I need a 3D Tools to lay my motive properly. I won't show you how as it could be different depending on the angle you took the shot of the car. So that's going to be your home-work (just try to combine all 3D tools and see which suits your situation best).
 
 ![](/images/wp-uploads/01front.webp)![](/images/wp-uploads/02front.webp)![](/images/wp-uploads/03front.webp)
 

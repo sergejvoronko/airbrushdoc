@@ -17,7 +17,7 @@ Let's assume that you have all the equipment that is required for [airbrushing](
 
  	- **[Pro Advices](#proadvices)**
 
-In the first part we're going to take a look at the types of paints, the differences and their use. In second part we're going to have a look at brands and the third part is going to be a collection of advices as I did in my previous articles.
+In the first part I'm going to take a look at the types of paints, the differences and their use. In second part I'm going to have a look at brands and the third part is going to be a collection of advices as I did in my previous articles.
 
 [Airbrushing as art](/blog/talent-and-airbrushing/) requires special paints but that does not mean that you have to use paints dedicated only for airbrushing. To present day there is a lot of art stores (shops) or automotive suppliers that have all these paints in their catalogue.
 
@@ -299,7 +299,7 @@ Here are results collected from votes on this blog (222 total voters):
   <div class="poll-row"><span class="poll-name">Autobourne</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:0%"></div></div><span class="poll-pct">0%</span><span class="poll-votes">0</span></div>
 </div>
 
-If you have any suggestion or notes about colors that you use please share it with us. Maybe I've missed some big brand or some specific color types so don't hesitate to leave a comment or send me an [e-mail](http://www.airbrushdoc.com/contact/). As usual don't forget to share this article in your social network (of course if you like it).
+If you have any suggestion or notes about colors that you use please share it with me. Maybe I've missed some big brand or some specific color types so don't hesitate to leave a comment or send me an [e-mail](http://www.airbrushdoc.com/contact/). As usual don't forget to share this article in your social network (of course if you like it).
 
 > Sources: [http://www.createxcolors.com/](http://www.createxcolors.com/)
 > [http://www.liquitex.com/](http://www.liquitex.com/)

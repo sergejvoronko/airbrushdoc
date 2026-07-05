@@ -14,7 +14,7 @@ heroImage: "/images/wp-uploads/diy-compressor1.webp"
 
 *Well we all know that compressor without tank wouldn't take much space but what if we want to have a tank anyway? Air tank in combination with regulator is giving so much pros comparing to compressor without it that any professional will tell you that he will go for the compressor with tank only.*
 
-*Author of this build has started with the schema. We will not go into deep details - what and how exactly and why it was done because I have written about this before. If you need some more details I recommend you to read [diy air compressor](/blog/homemade-airbrush-compressor/) or [silent diy compressor](/blog/silent-compressor/).*
+*Author of this build has started with the schema. I will not go into deep details - what and how exactly and why it was done because I have written about this before. If you need some more details I recommend you to read [diy air compressor](/blog/homemade-airbrush-compressor/) or [silent diy compressor](/blog/silent-compressor/).*
 
 ## Planning and Selecting Components
 

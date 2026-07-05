@@ -36,11 +36,11 @@ For those who want to [start with airbrush](http://www.airbrushdoc.com/beginners
 
 ## Choosing and Installing a Replacement Nozzle Seal
 
-### So what can we use as a seal for our nozzle?
+### So what can I use as a seal for my nozzle?
 
-I decided to test **hermetic fiber** used on construction sites (check out you local DIY shops). I have applied som white spirit, alcohol and other dilutents to it and nothing happened to it. That in my opinion makes a good candidate for our purpose.
+I decided to test **hermetic fiber** used on construction sites (check out you local DIY shops). I have applied som white spirit, alcohol and other dilutents to it and nothing happened to it. That in my opinion makes a good candidate for my purpose.
 
-The fiber is used as seal for heating pipes. However the fiber diameter is too big to be used under the nozzle so we have to split up the fiber using a knife.
+The fiber is used as seal for heating pipes. However the fiber diameter is too big to be used under the nozzle so I have to split up the fiber using a knife.
 
 ![](/images/wp-uploads/9.webp)
 
@@ -66,6 +66,6 @@ At last assemble it all back together.
 
 ![](/images/wp-uploads/16.webp)
 
-If you have any interesting ideas, advice or recommendation on other materials that can be used don't hesitate and share it with us!
+If you have any interesting ideas, advice or recommendation on other materials that can be used don't hesitate and share it with me!
 
 Source: [aerografpro](http://aerografpro.narod.ru/)

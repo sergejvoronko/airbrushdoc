@@ -33,7 +33,7 @@ Have you heard the term "**Digital Camo**"? It is probably the youngest type of 
 
 After I've read about generator I found out that there is [online DIY Stencil generator](http://tacticalcamo.com/MARPAT/digi.php) for camouflages. Well the thing is that you can generate any pattern you want and choose colors you want but then if you want the real stencil you'll have to buy it (I don't know anything about the quality of it).
 
-I think that it is worth to mention here that our friends from **[airsick stencils](http://www.airbrushdoc.com/airsick-stencils)** have camouflage stencils in their shop too and I can guarantee the quality of all of their stencils - **they are the best**. At the moment we are working on a review of their stencils and very soon we'll publish it so stay with us.
+I think that it is worth to mention here that my friends from **[airsick stencils](http://www.airbrushdoc.com/airsick-stencils)** have camouflage stencils in their shop too and I can guarantee the quality of all of their stencils - **they are the best**. At the moment I am working on a review of their stencils and very soon I'll publish it so stay with me.
 
 You can always do everything by yourself, that's why I prepared the material below.
 

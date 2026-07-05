@@ -12,23 +12,23 @@ heroImage: "/images/wp-uploads/Compressor_oil.webp"
 
 In my opinion one of the most important things about your [**compressor**](/blog/air-compressor/) is to use the right oil and change it periodically - that will ensure a long life for the compressor. Especially if you built it yourselves following my article about [**Homemade Compressor**](http://www.airbrushdoc.com/?p=32). If you have bought a professional one you will find the relevant information in the manual.
 
-Talking about the homemade compressor we don't have to speculate that much as nobody's compressor has broken by the choice of oil yet it might cause issues with overheating and therefore impact the amount of time you spent airbrushing. So the question is **"Which oil to use?"**. Here's what I'm going to recommend.
+Talking about the homemade compressor I don't have to speculate that much as nobody's compressor has broken by the choice of oil yet it might cause issues with overheating and therefore impact the amount of time you spent airbrushing. So the question is **"Which oil to use?"**. Here's what I'm going to recommend.
 
 ## Factory Compressor Oil vs. Mineral Oil
 
 ### My point of view...
 
-Factory that makes those compressors fills them up with mineral oil and freon (**cfc - chlorofluorocarbon**) or some people call it **compressor oil**. Doesn't matter how we're going to call it, to be exact it is an **mineral oil**. This means that this oil does not have any additional chemical ingredients except freon as gas which will evaporate as soon as you open the compressor.
+Factory that makes those compressors fills them up with mineral oil and freon (**cfc - chlorofluorocarbon**) or some people call it **compressor oil**. Doesn't matter how I'm going to call it, to be exact it is an **mineral oil**. This means that this oil does not have any additional chemical ingredients except freon as gas which will evaporate as soon as you open the compressor.
 
 ### Why Mineral Oil Falls Short
 
-That is ok as far as it is used in closed environment (no air) so there is no external factors that might impact it's characteristic. But we're going to use it for our purpose - airbrush, where the situation is significantly different. The environment is not closed anymore - it is opened, full of oxygen, dust, humidity ... etc.
+That is ok as far as it is used in closed environment (no air) so there is no external factors that might impact it's characteristic. But I'm going to use it for my purpose - airbrush, where the situation is significantly different. The environment is not closed anymore - it is opened, full of oxygen, dust, humidity ... etc.
 
 Update from [wikipedia](http://en.wikipedia.org/wiki/Freon)
 
 CFCs and HCFCs are colourless, volatile, toxic liquids and gases with a faintly sweet ethereal odour. Overexposure at concentrations of 11% or more may cause dizziness, loss of concentration, central nervous system depression and/or cardiac arrhythmia. Vapors displace air and can cause asphyxiation in confined spaces. Although non-flammable, their combustion products include hydrofluoric acid, and related compounds.
 
-Mineral oil in these conditions is loosing its properties really fast. That causes compressor to overheat, raises noise level, and causes damage up to point where the compressor is broken ... even with the right amount of oil. Not mentioning that air that we use for airbrush will be full of oil vapours :(
+Mineral oil in these conditions is loosing its properties really fast. That causes compressor to overheat, raises noise level, and causes damage up to point where the compressor is broken ... even with the right amount of oil. Not mentioning that air that I use for airbrush will be full of oil vapours :(
 
 ## Motor Oil: The Better Choice
 

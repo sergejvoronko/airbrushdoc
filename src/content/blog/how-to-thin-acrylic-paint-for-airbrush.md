@@ -225,7 +225,7 @@ Fluorescent pigments are inherently coarser and more transparent than standard p
 
 Airbrush primers (Badger Stynylrez, Vallejo Surface Primer) are formulated for airbrush use but vary in thickness. Stynylrez sprays well with minimal thinning (0–20%). Vallejo Surface Primer from the bottle can be quite thick and often benefits from 20–30% thinning. Always shake primer bottles vigorously for at least two minutes before use, primer pigments settle heavily.
 
-See our surface preparation guide for primer application techniques.
+See my surface preparation guide for primer application techniques.
 
 
 ---

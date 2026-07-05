@@ -33,7 +33,7 @@ This guide covers every common airbrush surface with specific, practical instruc
 
 - [Wood](#wood)[Airbrush on Wood Without Sealer](#airbrush-on-wood-without-sealer)
 - [Airbrushing on Wood With Primer/Sealer](#airbrushing-on-wood-with-primer-sealer)
-- [Why do we need any primer for our painting?](#why-do-we-need-any-primer-for-our-painting)
+- [Why do I need any primer for my painting?](#why-do-i-need-any-primer-for-my-painting)
 - [Nitrocellulose lacquer](#nitrocellulose-lacquer)
 - [If you want the wood grain visible:](#if-you-want-the-wood-grain-visible)
 - [If you want a flat, paintable surface:](#if-you-want-a-flat-paintable-surface)

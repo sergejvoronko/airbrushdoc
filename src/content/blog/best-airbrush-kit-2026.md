@@ -60,7 +60,7 @@ Before looking at specific products, understand that there are three approaches 
 ## Quick Comparison Table
 
 
-| Kit / Setup | What's Included | Price Range | Best For | Our Rating |
+| Kit / Setup | What's Included | Price Range | Best For | My Rating |
 |---|---|---|---|---|
 | **Master Airbrush Cool Runner II** | 3 airbrushes + compressor + paints | $80–120 | Absolute beginners, testing the hobby | ★★★☆☆ |
 | [**Iwata Neo + Ninja Jet Kit**](/go/iwata-neo-ninja-jet-kit) | Iwata Neo CN + Ninja Jet compressor + hose + cleaning pot | $180–220 | Beginners wanting brand quality | ★★★★☆ |
@@ -126,7 +126,7 @@ The Iwata Neo CN is a proper dual-action airbrush, smooth trigger, consistent sp
 **Price:** ~$180–250 (varies by retailer and compressor pairing)
 
 
-The Ultra 2024 is the best first airbrush for miniature painters (covered in detail in our miniatures guide). Its five-stage flow limiter prevents the most common beginner mistakes, and the 0.2mm needle handles fine detail beautifully. The drop-in nozzle system makes cleaning between colors incredibly fast.
+The Ultra 2024 is the best first airbrush for miniature painters (covered in detail in my miniatures guide). Its five-stage flow limiter prevents the most common beginner mistakes, and the 0.2mm needle handles fine detail beautifully. The drop-in nozzle system makes cleaning between colors incredibly fast.
 
 Pairing it with a reliable compressor (Sparmax TC-501N or similar quiet compressor with tank) creates an exceptional starter setup for miniatures, scale models, Gunpla, and fine detail work.
 
@@ -150,9 +150,9 @@ Paasche is an American company that's been making airbrushes since 1904. The Tal
 
 ---
 
-## The Hybrid Approach: Our Top Recommendation
+## The Hybrid Approach: My Top Recommendation
 
-For most beginners, we actually recommend the hybrid approach: buy a budget kit for the compressor and accessories, then add a quality airbrush separately.
+For most beginners, I actually recommend the hybrid approach: buy a budget kit for the compressor and accessories, then add a quality airbrush separately.
 
 ### Budget Kit + Badger Patriot 105 (~$120–170 total)
 
@@ -196,7 +196,7 @@ Even "complete" kits rarely include everything you need for your first session:
 - Quick-disconnect coupling
 - Masking tape
 
-See our complete accessories guide for the full checklist with priorities.
+See my complete accessories guide for the full checklist with priorities.
 
 
 ---
@@ -231,7 +231,7 @@ For a basic functional kit, $80–120 gets you started. For a quality setup with
 
 **Is it better to buy a kit or build my own setup?**
 
-Both work. Kits are more convenient and guarantee compatibility. Building your own lets you choose the best quality for each component. The hybrid approach (cheap kit for the compressor + separate quality airbrush) gives you the best of both worlds at a reasonable price. We recommend this for most beginners.
+Both work. Kits are more convenient and guarantee compatibility. Building your own lets you choose the best quality for each component. The hybrid approach (cheap kit for the compressor + separate quality airbrush) gives you the best of both worlds at a reasonable price. I recommend this for most beginners.
 
 **Are cheap airbrush kits from Amazon worth buying?**
 

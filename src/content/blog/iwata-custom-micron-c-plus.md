@@ -39,7 +39,7 @@ Nice metal box and nice finish color which gives you the felling of top quality.
 
 ![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-18.webp)![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-19.webp)In my opinion the default tip 0.23mm is good enough for the finest art work you may need. The lines are so thin that I don't see any reason to buy additional nozzle tip which is expensive too.
 
-If we look at everything that comes with this airbrush, we can see a big difference when comparing to airbrushes I have reviewed before ([airbrush reviews](http://www.airbrushdoc.com/airbrush-reviews/)). Actually the set is very poor. So, what makes this airbrush so special and so expensive?
+If I look at everything that comes with this airbrush, I can see a big difference when comparing to airbrushes I have reviewed before ([airbrush reviews](http://www.airbrushdoc.com/airbrush-reviews/)). Actually the set is very poor. So, what makes this airbrush so special and so expensive?
 
  	- **Quick Fix with a dial**
 

@@ -35,7 +35,7 @@ This is simple, thinner paint needs less pressure.
 
  	- **Thick paints** (***hight viscosity***) needs about ***40 - 60 PSI ***(Createx, textile airbrush colors, Auto Air)
 
-We will talk about paints in more detail later in another post.
+I will talk about paints in more detail later in another post.
 
 ### 2. Airbrush Gun
 
@@ -47,7 +47,7 @@ But be careful as every type of airbrush has its use. So if you are going to do 
 
 Your final decision on compressor could be made only after you decide on airbrush gun.
 
-That's why a lot more skilled artists with limited finances are choosing to build their own compressor. This is not a bad option, but in this article we concentrate on the buying a new one as I don't expect my readers to be good in this stuff and have this kind of skills (well not every one).
+That's why a lot more skilled artists with limited finances are choosing to build their own compressor. This is not a bad option, but in this article I concentrate on the buying a new one as I don't expect my readers to be good in this stuff and have this kind of skills (well not every one).
 
 ### 3. Noise
 
@@ -127,11 +127,11 @@ For the adventurous do-it-yourself masters that love to make a*** [home-made air
 
 All compressor types theoretically work more efficiently if they are designed to include multiple stages.
 
-Well as you can get, I've described the types of air compressors and we don't have to consider all of them. As I have mentioned before what is going to interest us is ***AirBrush compressors***, or maybe someone would like to try ***[(diy) homemade compressor](/blog/homemade-airbrush-compressor/)***.
+Well as you can get, I've described the types of air compressors and I don't have to consider all of them. As I have mentioned before what is going to interest me is ***AirBrush compressors***, or maybe someone would like to try ***[(diy) homemade compressor](/blog/homemade-airbrush-compressor/)***.
 
 ## Airbrush compressors
 
-Even here we have more types to choose from.
+Even here I have more types to choose from.
 
 ### Oil-less
 

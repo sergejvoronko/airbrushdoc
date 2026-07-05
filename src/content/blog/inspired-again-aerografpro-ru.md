@@ -1,6 +1,6 @@
 ---
 title: "Re-Inspired - aerografpro.ru - Airbrush Car Gallery of Russia Exhibition Show"
-description: "Awesome airbrush gallery of art works on cars. Get inspired by another airbrush art from our eastern friends from Russia. A lot of pictures. Enjoy"
+description: "Awesome airbrush gallery of art works on cars. Get inspired by another airbrush art from my eastern friends from Russia. A lot of pictures. Enjoy"
 pubDate: 2011-01-06
 category: "gallery"
 tags: ["aerograf gallery", "airbrush pic", "car gallery", "russian airbrush"]
@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/aerografpro1.webp"
 ---
 
-Get inspired by another [**airbrush car gallery**](http://www.airbrushdoc.com/gallery/) exhibition show from our eastern friends from Russia. Enjoy :)
+Get inspired by another [**airbrush car gallery**](http://www.airbrushdoc.com/gallery/) exhibition show from my eastern friends from Russia. Enjoy :)
 
 ## Here is the airbrush car gallery I promised
 

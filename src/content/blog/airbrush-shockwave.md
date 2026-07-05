@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/airbrush-car-4.webp"
 ---
 ## About the Artist
 
-***Today we have a Citizen of Russia, born in Yakutia and living in Ukraine an Airbrush artist named SHOCKWAVE. For real it is very beautiful girl and her name is Olga. Enjoy her story and her art.***
+***Today I have a Citizen of Russia, born in Yakutia and living in Ukraine an Airbrush artist named SHOCKWAVE. For real it is very beautiful girl and her name is Olga. Enjoy her story and her art.***
 
 ### Discovering Airbrush Art
 

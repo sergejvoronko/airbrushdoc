@@ -63,7 +63,7 @@ Also I've found out that giving too many choices may cause the confusion and peo
 
 ## Finding Your Sweet Spot
 
-We were simulating a real situation with 3 options of airbrushes and here are results. Which one will you choose? Please let me know in comments.
+I was simulating a real situation with 3 options of airbrushes and here are results. Which one will you choose? Please let me know in comments.
 
 ![airbrush gun votes2](/images/wp-uploads/votes2.webp)
 

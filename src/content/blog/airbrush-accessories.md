@@ -83,7 +83,7 @@ This is not optional. Even water-based acrylic paints create fine aerosolized pa
 
 You need a cleaning solution that matches your paint type. For water-based acrylics (the most common), Createx Airbrush Cleaner, Iwata Medea Cleaner, or Vallejo Airbrush Cleaner all work well. Buy a large bottle, you'll go through it faster than you expect.
 
-See our complete cleaning guide for detailed recommendations by paint type.
+See my complete cleaning guide for detailed recommendations by paint type.
 
 
 ### Cleaning Pot / Spray-Out Pot
@@ -196,7 +196,7 @@ Both are specialty tools for artistic airbrush work rather than everyday accesso
 
 A small jewelry-size ultrasonic cleaner ($25–40) transforms deep cleaning from a 30-minute chore into a 5-minute set-and-forget process. Drop your disassembled airbrush parts (nozzle, air cap, needle cap) into the cleaning bath, press start, and the ultrasonic vibration does the work. Particularly effective for nozzles with stubborn paint buildup in the precision bore.
 
-See our cleaning guide for detailed ultrasonic cleaner usage.
+See my cleaning guide for detailed ultrasonic cleaner usage.
 
 
 ### Cutting Mat + X-ACTO Knife

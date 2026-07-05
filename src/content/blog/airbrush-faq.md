@@ -22,13 +22,13 @@ After 15+ years of airbrushing and answering questions from beginners, I've noti
 
 **What airbrush should I buy as a beginner?**
 
-A dual-action, gravity-feed airbrush with a 0.3–0.5mm needle from a reputable brand (Iwata, Harder & Steenbeck, Badger, Paasche). The Iwata Eclipse HP-CS and Harder & Steenbeck Ultra 2024 are the two most recommended starter airbrushes. Budget: $70–170 for the airbrush alone. See our full beginner guide for detailed recommendations.
+A dual-action, gravity-feed airbrush with a 0.3–0.5mm needle from a reputable brand (Iwata, Harder & Steenbeck, Badger, Paasche). The Iwata Eclipse HP-CS and Harder & Steenbeck Ultra 2024 are the two most recommended starter airbrushes. Budget: $70–170 for the airbrush alone. See my full beginner guide for detailed recommendations.
 
 [Internal link: Best Airbrush for Beginners 2026]
 
 **Do I need a compressor with a tank?**
 
-Strongly recommended. A tank stores compressed air and delivers it smoothly. Without a tank, the compressor pulses air, which creates visible pulsing in your spray. Even a small tank eliminates this. See our compressor guide for specific recommendations.
+Strongly recommended. A tank stores compressed air and delivers it smoothly. Without a tank, the compressor pulses air, which creates visible pulsing in your spray. Even a small tank eliminates this. See my compressor guide for specific recommendations.
 
 [Internal link: Best Airbrush Compressor 2026]
 
@@ -38,19 +38,19 @@ Single-action: press the trigger and both air and paint flow together. Simple to
 
 **What needle size do I need?**
 
-For beginners: 0.3–0.5mm. This range is forgiving and versatile. Smaller needles (0.15–0.2mm) are for fine detail work but clog more easily. Larger needles (0.5mm+) are for coverage and priming. A 0.35mm needle is the single most versatile size. See our complete needle size guide.
+For beginners: 0.3–0.5mm. This range is forgiving and versatile. Smaller needles (0.15–0.2mm) are for fine detail work but clog more easily. Larger needles (0.5mm+) are for coverage and priming. A 0.35mm needle is the single most versatile size. See my complete needle size guide.
 
 [Internal link: Airbrush Needle Sizes Explained]
 
 **Gravity feed or siphon feed?**
 
-Gravity feed for most people. It works at lower pressure, wastes less paint, cleans faster, and is better for detail work. Siphon feed is better for T-shirts and large-area work where you need high paint volume without constant refilling. See our detailed comparison.
+Gravity feed for most people. It works at lower pressure, wastes less paint, cleans faster, and is better for detail work. Siphon feed is better for T-shirts and large-area work where you need high paint volume without constant refilling. See my detailed comparison.
 
 [Internal link: Gravity Feed vs Siphon Feed]
 
 **Is a cheap airbrush kit worth buying?**
 
-The compressor in budget kits ($60–120) is often surprisingly adequate. The airbrushes are usually mediocre. Best strategy: buy a budget kit for the compressor, then add a quality brand-name airbrush separately. See our kit guide.
+The compressor in budget kits ($60–120) is often surprisingly adequate. The airbrushes are usually mediocre. Best strategy: buy a budget kit for the compressor, then add a quality brand-name airbrush separately. See my kit guide.
 
 [Internal link: Best Airbrush Kit for Beginners]
 
@@ -64,13 +64,13 @@ Minimum functional setup: $80–120 (budget kit). Quality setup: $150–250 (bra
 
 **What paint should I use in my airbrush?**
 
-Use paints formulated for airbrush use. For general hobby: Createx Airbrush Colors or Vallejo Model Air. For miniatures: Vallejo Game Air or Citadel Air. For T-shirts: Createx textile colors. For fine art: Golden High Flow or Liquitex Soft Body with medium. See our complete paint guide.
+Use paints formulated for airbrush use. For general hobby: Createx Airbrush Colors or Vallejo Model Air. For miniatures: Vallejo Game Air or Citadel Air. For T-shirts: Createx textile colors. For fine art: Golden High Flow or Liquitex Soft Body with medium. See my complete paint guide.
 
 [Internal link: How to Choose the Right Airbrush Paint]
 
 **Can I use regular acrylic paint in an airbrush?**
 
-Yes, but it must be thinned first. Standard acrylic paint is too thick for an airbrush. Thin with water or dedicated airbrush thinner to skim milk consistency (roughly 1:1 ratio for most paints). Craft-store acrylics have coarser pigments that may clog fine nozzles even when properly thinned. See our thinning guide for brand-specific ratios.
+Yes, but it must be thinned first. Standard acrylic paint is too thick for an airbrush. Thin with water or dedicated airbrush thinner to skim milk consistency (roughly 1:1 ratio for most paints). Craft-store acrylics have coarser pigments that may clog fine nozzles even when properly thinned. See my thinning guide for brand-specific ratios.
 
 [Internal link: How to Thin Acrylic Paint for Airbrush]
 
@@ -102,7 +102,7 @@ For fine lines: 1–3 inches (very close). For general work: 3–6 inches. For b
 
 **Why am I getting spattering instead of a smooth spray?**
 
-Most common causes: paint too thick (thin more), air pressure too low (increase PSI), tip dry (add flow improver and wipe needle tip), dirty nozzle (clean your airbrush), or bent needle (inspect and replace if damaged). See our troubleshooting guide.
+Most common causes: paint too thick (thin more), air pressure too low (increase PSI), tip dry (add flow improver and wipe needle tip), dirty nozzle (clean your airbrush), or bent needle (inspect and replace if damaged). See my troubleshooting guide.
 
 [Internal link: Airbrush Troubleshooting Guide]
 
@@ -120,7 +120,7 @@ Use masking tape, frisket film, or liquid mask to cover areas you don't want pai
 
 **How often should I clean my airbrush?**
 
-Between every color change (quick flush, 30 seconds). At the end of every session (thorough clean with needle removal, 3–5 minutes). Deep clean with full disassembly monthly or when performance degrades. Never let paint dry inside your airbrush. See our complete cleaning guide.
+Between every color change (quick flush, 30 seconds). At the end of every session (thorough clean with needle removal, 3–5 minutes). Deep clean with full disassembly monthly or when performance degrades. Never let paint dry inside your airbrush. See my complete cleaning guide.
 
 [Internal link: How to Clean an Airbrush]
 
@@ -134,7 +134,7 @@ For water-based acrylic paints, yes, water works for quick flushes between color
 
 **My airbrush nozzle is clogged. How do I fix it?**
 
-First try: backflush by covering the nozzle and pressing the trigger (creates backward pressure to dislodge the clog). If that fails: soak the nozzle in cleaning solution for 10–15 minutes, then use an interdental brush or cleaning needle to clear the passage. For severe clogs, an ultrasonic cleaner works wonders. Never force metal tools into the nozzle aggressively. See our cleaning guide's "rescue" section.
+First try: backflush by covering the nozzle and pressing the trigger (creates backward pressure to dislodge the clog). If that fails: soak the nozzle in cleaning solution for 10–15 minutes, then use an interdental brush or cleaning needle to clear the passage. For severe clogs, an ultrasonic cleaner works wonders. Never force metal tools into the nozzle aggressively. See my cleaning guide's "rescue" section.
 
 [Internal link: How to Clean an Airbrush]
 
@@ -144,13 +144,13 @@ First try: backflush by covering the nozzle and pressing the trigger (creates ba
 
 **Do I need to prime before airbrushing?**
 
-For most surfaces, yes. Primer provides a uniform, adhesive surface for paint to grip. Without primer, paint may not adhere properly, may peel, or may appear uneven. Good airbrush primers: Badger Stynylrez, Vallejo Surface Primer. See our surface preparation guide.
+For most surfaces, yes. Primer provides a uniform, adhesive surface for paint to grip. Without primer, paint may not adhere properly, may peel, or may appear uneven. Good airbrush primers: Badger Stynylrez, Vallejo Surface Primer. See my surface preparation guide.
 
 [Internal link: How to Prepare Any Surface for Airbrush Painting]
 
 **Can I airbrush on any surface?**
 
-Most surfaces can be airbrushed with proper preparation. Paper, canvas, plastic, metal, wood, fabric, leather, ceramic, fondant, each needs specific surface prep and sometimes specific paint types. The key is adhesion: the surface must be clean, and paint/primer must be compatible with the material. See our surface prep guide for material-specific instructions.
+Most surfaces can be airbrushed with proper preparation. Paper, canvas, plastic, metal, wood, fabric, leather, ceramic, fondant, each needs specific surface prep and sometimes specific paint types. The key is adhesion: the surface must be clean, and paint/primer must be compatible with the material. See my surface prep guide for material-specific instructions.
 
 [Internal link: How to Prepare Any Surface for Airbrush Painting]
 

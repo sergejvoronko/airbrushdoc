@@ -18,7 +18,7 @@ Easy, comfortable and it will give additional protection for your car hood and y
 
 ### Oracal 970 Vinyl Foil
 
-The one used in our example is **Oracal 970 / 970 RA** (with Rapid Air technology which makes application quick and easy without air bubbles). 3M makes some foils too but they are more expensive and harder to get in my location. Manufacturer gives 10 years warranty on black and white foil and you can also get other 26 colors however those have warranty 7 years.
+The one used in my example is **Oracal 970 / 970 RA** (with Rapid Air technology which makes application quick and easy without air bubbles). 3M makes some foils too but they are more expensive and harder to get in my location. Manufacturer gives 10 years warranty on black and white foil and you can also get other 26 colors however those have warranty 7 years.
 
 I've also shoot video and posted it on YouTube. Watch it and read, I hope you'll like it so far.
 
@@ -64,7 +64,7 @@ As you can see from the images the foil has been fitted on the wall. Do not take
 
 ## Best Paints for Airbrushing on Vinyl
 
-I forgot to mention the details of paint I've used. I tried **Createx Classic** and **Auto Air** and damn they hold like they were there all the time! But last time I stopped in our local modelers shop and they had some new paints, so I decided to give it a try as they were very cheap and seller told me that they are very good.
+I forgot to mention the details of paint I've used. I tried **Createx Classic** and **Auto Air** and damn they hold like they were there all the time! But last time I stopped in my local modelers shop and they had some new paints, so I decided to give it a try as they were very cheap and seller told me that they are very good.
 
 ![](/images/wp-uploads/Revell-aqua-color.webp)
 

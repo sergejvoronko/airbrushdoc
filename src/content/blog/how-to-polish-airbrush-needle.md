@@ -29,7 +29,7 @@ At one moment in video I've made a note that besides rotation you will have to p
 
 > Explanation is very easy and it has also been mentioned in article by **Zsolt** I linked before. You see, the tip of the needle is very sharp and also pointy and we should look at it as a dot in 3D which is just connected to your needle but actually doesn't have any dimensions because it's just a dot with no width or height, so no matter how you rotate your needle the tip doesn't actually move at all, it's speed is 0, so it means it doesn't get polished. That's what I've meant when I said that you have to pull it.
 
-Logical? No? Doesn't matter, it is not that crucial but I'm doing it anyway. Enough of that scientific blabbing. So, what is the process of polishing we're going to use?
+Logical? No? Doesn't matter, it is not that crucial but I'm doing it anyway. Enough of that scientific blabbing. So, what is the process of polishing I'm going to use?
 
  	- Step 1 - Sand-paper **P800** (the roughest in this case). Sanding has to be done wet way.
 

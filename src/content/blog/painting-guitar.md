@@ -30,7 +30,7 @@ Why have I mentioned the trouble in first paragraph? The thing is that all you s
 
 ## Airsick Stencils and Custom Design
 
-A long time has passed since we first time introduced [airsick stencils](http://www.airsickhowto.com/) on our site but we never had any chance to review them or show some painting using them. So here it is. Of course my bro did use just some of them but they have helped a lot. Here they are!
+A long time has passed since I first introduced [airsick stencils](http://www.airsickhowto.com/) on my site but I never had any chance to review them or show some painting using them. So here it is. Of course my bro did use just some of them but they have helped a lot. Here they are!
 
 ![](/images/wp-uploads/airsickstencils-1.webp)
 

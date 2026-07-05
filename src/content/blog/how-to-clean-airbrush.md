@@ -89,7 +89,7 @@ This is the cleaning that protects your airbrush overnight and for the next sess
 
 3. **Clean the needle.** Hold the needle near the middle and wipe it from the chuck end toward the tip with a cloth or paper towel dampened with cleaning solution. Always wipe toward the tip, never back toward the middle, you don't want to push paint residue backward. Rotate the needle as you wipe to clean all sides. The tip should be shiny and clean with no paint visible.
 
-   **IMPORTANT:** Inspect the needle tip. If it's bent, even slightly, it will affect your spray pattern. A bent tip needs straightening on a sharpening stone or replacement. See our troubleshooting guide for details.
+   **IMPORTANT:** Inspect the needle tip. If it's bent, even slightly, it will affect your spray pattern. A bent tip needs straightening on a sharpening stone or replacement. See my troubleshooting guide for details.
 
 4. **Clean the cup thoroughly.** Use a cotton swab or stiff brush with cleaning solution to scrub the inside of the cup, especially the paint passage at the bottom (the small opening that leads down into the body of the airbrush). This hidden channel is where paint accumulates and causes mysterious clogs.
 

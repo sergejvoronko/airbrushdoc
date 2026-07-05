@@ -230,7 +230,7 @@ Both. The professional airbrush community is fairly evenly split. Traditional il
 
 ## Final Verdict
 
-If you're buying your first quality airbrush and have no brand loyalty: **Harder & Steenbeck Evolution 2-in-1** is our recommendation. The dual needle/nozzle sets, drop-in nozzle for fast cleaning, and competitive pricing make it the best value proposition for most painters.
+If you're buying your first quality airbrush and have no brand loyalty: **Harder & Steenbeck Evolution 2-in-1** is my recommendation. The dual needle/nozzle sets, drop-in nozzle for fast cleaning, and competitive pricing make it the best value proposition for most painters.
 
 If you've tried H&S and prefer a heavier trigger with more tactile feedback: [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) remains a phenomenal airbrush that has earned its reputation over decades.
 

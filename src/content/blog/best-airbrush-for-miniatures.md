@@ -26,7 +26,7 @@ Here's what you actually need, and the specific airbrushes I recommend at every 
 ## Quick Recommendation Table
 
 
-| Airbrush | Needle | Best For | Price | Our Take |
+| Airbrush | Needle | Best For | Price | My Take |
 |---|---|---|---|---|
 | **H&S Ultra 2024** | 0.2mm | Beginners, learning | ~$80–110 | Best first airbrush for miniatures |
 | [**Iwata Neo CN**](/go/iwata-neo-cn) | 0.35mm | Budget entry | ~$50–70 | Cheapest quality option |
@@ -197,7 +197,7 @@ The cordless airbrush category has exploded since 2023. These compact, battery-p
 
 You'll need more than just the airbrush:
 
-**Compressor:** A quiet compressor with a tank is ideal. The NO-NAME Tooty or Sparmax TC-501N are popular in the miniatures community. See our full compressor guide for detailed recommendations.
+**Compressor:** A quiet compressor with a tank is ideal. The NO-NAME Tooty or Sparmax TC-501N are popular in the miniatures community. See my full compressor guide for detailed recommendations.
 
 
 **Paints:** Not all airbrush paints work well for miniatures. [Vallejo Model Air](/go/vallejo-model-air), [Citadel Air](/go/citadel-air-paints), and [AK Interactive 3rd Gen](/go/ak-interactive-gen-primer) are pre-thinned and ready to spray. Standard hobby paints ([Vallejo Model Color](/go/vallejo-model-color), Citadel Base) need thinning, typically 1:1 with airbrush thinner or flow improver.

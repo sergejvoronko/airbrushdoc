@@ -52,7 +52,7 @@ Simple explanation of its function:
 
 > It will switch compressor off when we get maximum pressure in the tank and then switch it back on when pressure gets down to the minimum level. On the schema it is connected between tank and check valve because we have to set it up according to pressure from the tank. Technology is very simple and genius at the same time. The compressor is connected to electricity through this switch. When there is no pressure the circuit is closed and compressor is switched on pumping the air into tank. But when pressure is raising up pressure switch gets to a certain point when the pressure gets to the maximum and the circuit and compressor goes off. While we're working the tank is loosing the air and at one moment the pressure is too low to keep the circuit of pressure switch opened so compressor will go back on again; so your compressor works less with better efficiency and it won't overheat and hopefully will live longer.
 
-The pressure switch is very useful thing because it saves not only our compressor but reduces our electricity bills as well (*Air Pressure Switch for Single-Stage and Dual-Stage Air Compressor - 1/4in*).
+The pressure switch is very useful thing because it saves not only my compressor but reduces my electricity bills as well (*Air Pressure Switch for Single-Stage and Dual-Stage Air Compressor - 1/4in*).
 
 ### How to set-up the pressure switch?
 

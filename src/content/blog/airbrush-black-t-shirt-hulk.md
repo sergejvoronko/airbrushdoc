@@ -36,7 +36,7 @@ After you're done with stencil you should remove the stencil look by freehand ai
 
 The light will show the shadow; Shadow will show the light. ->[Tweet this](http://clicktotweet.com/6XKCY)
 
-On this level it's very important for layer of white paint to create surface for further details and colors layout. What we do is to lay "the light" not giving a damn about the details right now. Those will be done at the end.
+On this level it's very important for layer of white paint to create surface for further details and colors layout. What I do is to lay "the light" not giving a damn about the details right now. Those will be done at the end.
 
 ### Creating the White Base Layer
 

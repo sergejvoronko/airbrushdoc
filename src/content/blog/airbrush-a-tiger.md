@@ -25,7 +25,7 @@ Rotation polishing machine, Abranet-400 disks, soft pad, Scotch-Brite, degreaser
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-03.webp" loading="lazy" /></div>
 </div>
 
-After we've [prepared the surface](http://www.airbrushdoc.com/tipstricks/preparing-surface-for-airbrushing/) we'll start with white and paint the whole image in kind of negative from a to z, every small detail, every hair even if you going to hate it after a few hours but get it all up.
+After I've [prepared the surface](http://www.airbrushdoc.com/tipstricks/preparing-surface-for-airbrushing/) I'll start with white and paint the whole image in kind of negative from a to z, every small detail, every hair even if you going to hate it after a few hours but get it all up.
 
 <div class="abd-gallery abd-gallery-3">
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-04.webp" loading="lazy" /></div>
@@ -75,7 +75,7 @@ Now it's the right time to lay some colors. I hope you guessed correctly which o
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-25.webp" loading="lazy" /></div>
 </div>
 
-Now we'll take light blue color and lightly spray it over white base and on some pieces of the cruncher (but not too much!). Then we need a regular blue to connect the light blue with the car color.
+Now I'll take light blue color and lightly spray it over white base and on some pieces of the cruncher (but not too much!). Then I need a regular blue to connect the light blue with the car color.
 
 <div class="abd-gallery abd-gallery-3">
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-27.webp" loading="lazy" /></div>
@@ -83,7 +83,7 @@ Now we'll take light blue color and lightly spray it over white base and on some
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-29.webp" loading="lazy" /></div>
 </div>
 
-We can even add a drop of black to make the transition looks at it's best.
+I can even add a drop of black to make the transition looks at it's best.
 
 After all, again my favorite, WHITE color ;) to bring alive the light parts of the fume, teeth, eyes and please don’t forget to smile - I hope you are enjoying what you're doing right now ;))
 

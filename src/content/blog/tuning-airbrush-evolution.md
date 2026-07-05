@@ -31,7 +31,7 @@ Take of the paint cup and pull out the rubber o-ring which provides good hermeti
 
 ![](/images/wp-uploads/evolution_2_in_1-01.webp)![](/images/wp-uploads/evolution_2_in_1-02.webp)
 
-Now we have to find something to replace it as no seal could cause a blot.
+Now I have to find something to replace it as no seal could cause a blot.
 
 ### Installing Hermetic Fiber Sealing
 

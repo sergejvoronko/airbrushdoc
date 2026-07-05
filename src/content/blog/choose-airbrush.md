@@ -15,7 +15,7 @@ Let's say you are totally new to airbrushing, a newbie that loves art and loves 
 
 > Many times you may have noticed that people call *airbrush gun* just *airbrush. *Well, to give everything the right name I'm not going to call airbrush gun just simple **airbrush** because [airbrush](http://www.airbrushdoc.com) in my opinion is a type of art but not a tool, at least in this article I'm going to call it gun.
 
-What you have to know that not always it is so easy to start because you will have to invest some money in it. I just want to warn you now that beside airbrush gun you will need other tools ([air compressor](/blog/air-compressor/), [special paints](/blog/advanced-guide-to-airbrush-colors/) ...). In this post precisely, we're going to talk about airbrush guns only.
+What you have to know that not always it is so easy to start because you will have to invest some money in it. I just want to warn you now that beside airbrush gun you will need other tools ([air compressor](/blog/air-compressor/), [special paints](/blog/advanced-guide-to-airbrush-colors/) ...). In this post precisely, I'm going to talk about airbrush guns only.
 
 So airbrush gun is a tool (an air gun) that artists use to paint. A professional painter would probably be able to paint an art peace with cheapest tool out there, so don't expect to become good at airbrush right away. Prepare to practice a lot to gain some skills and results will come for sure.
 
