@@ -11,7 +11,7 @@
   ],
   "vars": {
     // Chat that receives moderation messages (same admin chat the n8n bot uses)
-    "TG_CHAT_ID": "",
+    "TG_CHAT_ID": "508958017",
     // Comma-separated exact origins; *.airbrushdoc.pages.dev previews are allowed in code
     "ALLOWED_ORIGINS": "https://airbrushdoc.com,https://www.airbrushdoc.com,https://airbrushdoc.pages.dev,http://localhost:4321"
   }
