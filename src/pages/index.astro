@@ -194,24 +194,27 @@ const features = [
   <!-- ═══ TOOLS ═══ -->
   <section class="abd-section" style="border-top: 1px solid var(--abd-border);">
     <div class="abd-section-header">
-      <h2 class="abd-section-title">Interactive Tools</h2>
-      <a href="/tools/" class="abd-section-link">All tools →</a>
+      <h2 class="abd-section-title">The Clinic — Interactive Tools</h2>
+      <a href="/tools/" class="abd-section-link">Visit the Clinic →</a>
     </div>
     <div class="abd-tools-grid">
       <a href="/tools/airbrush-quiz/" class="abd-tool-card">
         <div class="abd-tool-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></div>
+        <div class="home-tool-frame">Consultation</div>
         <div class="abd-tool-name">Airbrush Finder Quiz</div>
-        <p class="abd-tool-desc">Answer 6 questions and get matched with the right airbrush for your style and budget.</p>
+        <p class="abd-tool-desc">Describe your style and budget in 6 questions — leave with the right airbrush.</p>
       </a>
       <a href="/tools/paint-selector/" class="abd-tool-card">
         <div class="abd-tool-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="13.5" cy="6.5" r=".5" fill="currentColor"/><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"/><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"/><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"/><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0 1.648-.746 1.648-1.688 0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1 1.668-1.668h1.996c3.051 0 5.555-2.503 5.555-5.554C21.965 6.012 17.461 2 12 2z"/></svg></div>
+        <div class="home-tool-frame">Prescription</div>
         <div class="abd-tool-name">Paint Selector</div>
-        <p class="abd-tool-desc">Find the right paint for your surface and application type.</p>
+        <p class="abd-tool-desc">The right paint for your surface and application — no guesswork.</p>
       </a>
       <a href="/tools/compare/" class="abd-tool-card">
         <div class="abd-tool-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="M7 21H17"/><path d="M12 3v18"/><path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/></svg></div>
+        <div class="home-tool-frame">Second Opinion</div>
         <div class="abd-tool-name">Compare Airbrushes</div>
-        <p class="abd-tool-desc">Side-by-side specs of popular airbrush models.</p>
+        <p class="abd-tool-desc">Side-by-side specs of popular airbrush models before you spend.</p>
       </a>
     </div>
     <div style="margin-top: 20px; padding: 16px 20px; background: var(--abd-surface); border: 1px solid var(--abd-border); border-radius: var(--abd-radius); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;">
@@ -676,6 +679,20 @@ const features = [
   .abd-pinned-grid > :last-child { display: flex; }
   .abd-resource-row { grid-template-columns: 1fr; }
   .abd-resource-cta { display: none; }
+}
+
+.home-tool-frame {
+  display: inline-block;
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--abd-orange);
+  background: var(--abd-orange-soft);
+  border: 1px solid var(--abd-orange-b20);
+  border-radius: 100px;
+  padding: 2px 9px;
+  margin: 10px 0 6px;
 }
 
 /* ═══ HOME MAGAZINE ARTICLE GRID ═══ */
