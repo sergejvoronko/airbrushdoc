@@ -1,0 +1,65 @@
+AirbrushDOC comments — Worker + D1 + Telegram moderation
+==========================================================
+Status: DEPLOYED and working. Comments can be posted and read right now.
+Telegram moderation is the only part not wired yet — until then, approve
+manually (step 4 fallback).
+
+Live API:  https://airbrushdoc-comments.airbrushden.workers.dev
+D1:        airbrushdoc-comments (id d08338bf-ebee-4c42-bf76-0d5cbe0c2bc2)
+Frontend:  src/components/Comments.astro (embedded in PostLayout on every post)
+
+Flow: reader posts -> saved as 'pending' in D1 -> Telegram message with
+[Approve][Reject] buttons -> tap Approve -> comment appears on the site.
+Nothing shows publicly until approved.
+
+──────────────────────────────────────
+1. CREATE THE COMMENTS BOT (one time, ~2 min)
+──────────────────────────────────────
+Use a SEPARATE bot, not the n8n approve/publish bot — one bot can have only
+one webhook, and the n8n bot's webhook belongs to n8n.
+
+- @BotFather -> /newbot -> name e.g. "AirbrushDOC Comments" -> copy token.
+- Open a chat with the new bot (or add it to your admin group) and send it
+  any message so it can message you back.
+- Get your chat id: https://api.telegram.org/bot<TOKEN>/getUpdates
+  -> "chat":{"id": ...}  (same admin chat id the n8n bot uses works too).
+
+──────────────────────────────────────
+2. WIRE THE WORKER
+──────────────────────────────────────
+cd /home/sergej/Downloads/airbrushdoc/workers/comments
+
+# chat id is a plain var — edit wrangler.jsonc TG_CHAT_ID, then:
+npx wrangler secret put TG_BOT_TOKEN        # paste bot token
+npx wrangler secret put TG_WEBHOOK_SECRET   # paste any long random string
+npx wrangler deploy
+
+──────────────────────────────────────
+3. POINT TELEGRAM AT THE WORKER
+──────────────────────────────────────
+curl "https://api.telegram.org/bot<TOKEN>/setWebhook" \
+  -d "url=https://airbrushdoc-comments.airbrushden.workers.dev/tg-webhook" \
+  -d "secret_token=<SAME_RANDOM_STRING>"
+
+Verify: https://api.telegram.org/bot<TOKEN>/getWebhookInfo
+
+──────────────────────────────────────
+4. MODERATION WITHOUT TELEGRAM (fallback / until step 1-3 done)
+──────────────────────────────────────
+List pending:
+  npx wrangler d1 execute airbrushdoc-comments --remote \
+    --command "SELECT id, slug, author, body FROM comments WHERE status='pending'"
+Approve / reject:
+  npx wrangler d1 execute airbrushdoc-comments --remote \
+    --command "UPDATE comments SET status='approved' WHERE id=<ID>"
+  (status='rejected' to reject)
+
+──────────────────────────────────────
+NOTES
+──────────────────────────────────────
+- Spam: honeypot field + 5 comments/hour/IP rate limit. If spam gets through
+  anyway, add Cloudflare Turnstile later (free) — worker validates the token.
+- CORS allows airbrushdoc.com, www, airbrushdoc.pages.dev, *.airbrushdoc.pages.dev
+  previews, and localhost:4321 for astro dev.
+- Remark42 embed was removed from PostLayout (pointed at a server that never
+  existed publicly). This replaces it entirely — nothing to run on the PC.

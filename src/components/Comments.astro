@@ -1,0 +1,136 @@
+---
+interface Props { slug: string }
+const { slug } = Astro.props;
+const API = 'https://airbrushdoc-comments.airbrushden.workers.dev';
+---
+<section class="cmt" data-slug={slug} data-api={API}>
+  <div class="cmt-title">Comments</div>
+  <div class="cmt-list" aria-live="polite"></div>
+  <form class="cmt-form">
+    <div class="cmt-row">
+      <input type="text" name="author" maxlength="80" placeholder="Your name" required aria-label="Your name" />
+    </div>
+    <input type="text" name="website" tabindex="-1" autocomplete="off" class="cmt-hp" aria-hidden="true" />
+    <textarea name="body" maxlength="2000" rows="4" placeholder="Share your thoughts, questions, or your own experience…" required aria-label="Your comment"></textarea>
+    <div class="cmt-actions">
+      <button type="submit" class="cmt-submit">Post Comment</button>
+      <span class="cmt-status" role="status"></span>
+    </div>
+    <p class="cmt-note">Comments are reviewed before they appear — usually within a day.</p>
+  </form>
+</section>
+
+<script>
+  const root = document.querySelector('.cmt') as HTMLElement;
+  if (root) {
+    const api = root.dataset.api!;
+    const slug = root.dataset.slug!;
+    const list = root.querySelector('.cmt-list') as HTMLElement;
+    const form = root.querySelector('.cmt-form') as HTMLFormElement;
+    const status = root.querySelector('.cmt-status') as HTMLElement;
+    const btn = root.querySelector('.cmt-submit') as HTMLButtonElement;
+
+    const esc = (d: string) => {
+      const t = new Date(d.replace(' ', 'T') + 'Z');
+      return isNaN(+t) ? '' : t.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+    };
+
+    fetch(`${api}/comments?slug=${slug}`)
+      .then(r => r.json())
+      .then(({ comments }) => {
+        if (!comments?.length) {
+          list.innerHTML = '<p class="cmt-empty">No comments yet — be the first.</p>';
+          return;
+        }
+        for (const c of comments) {
+          const item = document.createElement('div');
+          item.className = 'cmt-item';
+          const head = document.createElement('div');
+          head.className = 'cmt-item-head';
+          const name = document.createElement('span');
+          name.className = 'cmt-item-author';
+          name.textContent = c.author;
+          const date = document.createElement('span');
+          date.className = 'cmt-item-date';
+          date.textContent = esc(c.created_at);
+          const body = document.createElement('p');
+          body.className = 'cmt-item-body';
+          body.textContent = c.body;
+          head.append(name, date);
+          item.append(head, body);
+          list.append(item);
+        }
+      })
+      .catch(() => { list.innerHTML = '<p class="cmt-empty">Comments could not be loaded.</p>'; });
+
+    form.addEventListener('submit', async e => {
+      e.preventDefault();
+      const fd = new FormData(form);
+      btn.disabled = true;
+      status.textContent = 'Sending…';
+      try {
+        const r = await fetch(`${api}/comments`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            slug,
+            author: fd.get('author'),
+            body: fd.get('body'),
+            website: fd.get('website'),
+          }),
+        });
+        const d = await r.json();
+        if (r.ok) {
+          form.reset();
+          status.textContent = 'Thanks! Your comment is awaiting review.';
+        } else {
+          status.textContent = d.error || 'Something went wrong — try again.';
+          btn.disabled = false;
+        }
+      } catch {
+        status.textContent = 'Network error — try again.';
+        btn.disabled = false;
+      }
+    });
+  }
+</script>
+
+<style>
+.cmt { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--abd-border); }
+.cmt-title {
+  font-family: var(--abd-font-display);
+  font-size: 1.3rem; font-weight: 700; color: var(--abd-text);
+  margin-bottom: 20px;
+}
+.cmt-empty { font-size: 0.9rem; color: var(--abd-text-muted); }
+.cmt-item {
+  background: var(--abd-surface); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius-s); padding: 16px 18px; margin-bottom: 12px;
+}
+.cmt-item-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 8px; }
+.cmt-item-author { font-weight: 600; color: var(--abd-text); font-size: 0.9rem; }
+.cmt-item-date { font-size: 0.75rem; color: var(--abd-text-muted); }
+.cmt-item-body { font-size: 0.9rem; color: var(--abd-text-body); line-height: 1.65; margin: 0; white-space: pre-wrap; }
+.cmt-form { margin-top: 24px; display: flex; flex-direction: column; gap: 12px; }
+.cmt-hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.cmt-form input[type="text"]:not(.cmt-hp), .cmt-form textarea {
+  width: 100%; background: var(--abd-surface); border: 1px solid var(--abd-border);
+  border-radius: var(--abd-radius-s); padding: 10px 14px;
+  color: var(--abd-text); font-family: var(--abd-font-body); font-size: 0.9rem;
+}
+.cmt-form input:focus-visible, .cmt-form textarea:focus-visible {
+  outline: 2px solid var(--abd-orange); outline-offset: 1px; border-color: var(--abd-orange);
+}
+.cmt-row { max-width: 320px; }
+.cmt-actions { display: flex; align-items: center; gap: 16px; }
+.cmt-submit {
+  background: var(--abd-orange-cta); color: #fff; border: none;
+  border-radius: var(--abd-radius-s); padding: 10px 22px;
+  font-family: var(--abd-font-body); font-weight: 600; font-size: 0.88rem;
+  cursor: pointer; transition: background 0.2s;
+}
+.cmt-submit:hover:not(:disabled) { background: var(--abd-orange); }
+.cmt-submit:disabled { opacity: 0.6; cursor: default; }
+.cmt-status { font-size: 0.82rem; color: var(--abd-text-dim); }
+.cmt-note { font-size: 0.75rem; color: var(--abd-text-muted); margin: 0; }
+</style>

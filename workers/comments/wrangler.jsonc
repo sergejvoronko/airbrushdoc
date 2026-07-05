@@ -1,0 +1,21 @@
+{
+  "name": "airbrushdoc-comments",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "airbrushdoc-comments",
+      "database_id": "d08338bf-ebee-4c42-bf76-0d5cbe0c2bc2"
+    }
+  ],
+  "vars": {
+    // Chat that receives moderation messages (same admin chat the n8n bot uses)
+    "TG_CHAT_ID": "",
+    // Comma-separated exact origins; *.airbrushdoc.pages.dev previews are allowed in code
+    "ALLOWED_ORIGINS": "https://airbrushdoc.com,https://www.airbrushdoc.com,https://airbrushdoc.pages.dev,http://localhost:4321"
+  }
+  // Secrets (set via `wrangler secret put`):
+  //   TG_BOT_TOKEN      — dedicated comments bot token from @BotFather
+  //   TG_WEBHOOK_SECRET — random string, also passed as secret_token to setWebhook
+}

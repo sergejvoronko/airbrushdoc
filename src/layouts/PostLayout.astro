@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import TOC from '../components/TOC.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
+import Comments from '../components/Comments.astro';
 import FAQ from '../components/FAQ.astro';
 
 interface Props {
@@ -143,7 +144,7 @@ const faqSchema = faqs.length > 0 ? {
         {hasAffiliate && (
           <div class="abd-affiliate-notice">
             <svg class="abd-affiliate-notice-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
-            <span>This article contains affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. <a href="/affiliate-disclosure/">Learn more</a>.</span>
+            <span>This article contains affiliate links. If you buy through them, I may earn a small commission at no extra cost to you. <a href="/affiliate-disclosure/">Learn more</a>.</span>
           </div>
         )}
 
@@ -172,28 +173,7 @@ const faqSchema = faqs.length > 0 ? {
           </div>
         </div>
 
-        <div class="abd-comments">
-          <div class="abd-comments-title">Comments</div>
-          <div id="remark42"></div>
-          <script is:inline>
-            var remark_config = {
-              host:       "https://comments.airbrushdoc.com",
-              site_id:    "airbrushdoc",
-              components: ["embed"],
-              theme:      "dark",
-              locale:     "en",
-              show_rss_subscription: false,
-            };
-            (function(c) {
-              for (var i = 0; i < c.length; i++) {
-                var d = document, s = d.createElement("script");
-                s.src = remark_config.host + "/web/" + c[i] + ".js";
-                s.defer = true;
-                (d.head || d.body).appendChild(s);
-              }
-            })(remark_config.components || ["embed"]);
-          </script>
-        </div>
+        <Comments slug={slug} />
 
       </article>
 
