@@ -5,6 +5,8 @@ CREATE TABLE IF NOT EXISTS comments (
   body TEXT NOT NULL,
   status TEXT NOT NULL DEFAULT 'pending',
   ip_hash TEXT,
+  parent_id INTEGER,
+  avatar_hash TEXT,
   created_at TEXT NOT NULL DEFAULT (datetime('now'))
 );
 CREATE INDEX IF NOT EXISTS idx_comments_slug_status ON comments(slug, status);

@@ -50,7 +50,7 @@ async function listComments(url, env, cors) {
   const slug = url.searchParams.get('slug') || '';
   if (!SLUG_RE.test(slug)) return json({ error: 'bad slug' }, 400, cors);
   const { results } = await env.DB.prepare(
-    "SELECT id, author, body, created_at FROM comments WHERE slug = ? AND status = 'approved' ORDER BY created_at ASC"
+    "SELECT id, author, body, parent_id, avatar_hash, created_at FROM comments WHERE slug = ? AND status = 'approved' ORDER BY created_at ASC"
   ).bind(slug).all();
   return json({ comments: results }, 200, cors);
 }
@@ -62,13 +62,25 @@ async function createComment(req, env, cors) {
   const slug = String(data.slug || '');
   const author = String(data.author || '').trim();
   const body = String(data.body || '').trim();
+  const email = String(data.email || '').trim().toLowerCase();
   const honeypot = String(data.website || '');
+  const parentId = Number(data.parent_id) || null;
 
   if (honeypot) return json({ ok: true }, 200, cors); // bot filled the trap — pretend success
   if (!SLUG_RE.test(slug)) return json({ error: 'bad slug' }, 400, cors);
   if (!author || author.length > MAX_AUTHOR) return json({ error: 'name required (max 80 chars)' }, 400, cors);
   if (!body || body.length > MAX_BODY) return json({ error: 'comment required (max 2000 chars)' }, 400, cors);
+  if (email && (email.length > 200 || !email.includes('@'))) return json({ error: 'invalid email' }, 400, cors);
 
+  if (parentId) {
+    const parent = await env.DB.prepare(
+      "SELECT id FROM comments WHERE id = ? AND slug = ? AND status = 'approved'"
+    ).bind(parentId, slug).first();
+    if (!parent) return json({ error: 'invalid parent comment' }, 400, cors);
+  }
+
+  // email itself is never stored — only its hash, for Gravatar lookup
+  const avatarHash = email ? await sha256(email) : null;
   const ip = req.headers.get('CF-Connecting-IP') || '';
   const ipHash = await sha256(ip);
 
@@ -78,8 +90,8 @@ async function createComment(req, env, cors) {
   if (results[0].n >= RATE_LIMIT_PER_HOUR) return json({ error: 'too many comments, try again later' }, 429, cors);
 
   const res = await env.DB.prepare(
-    'INSERT INTO comments (slug, author, body, ip_hash) VALUES (?, ?, ?, ?)'
-  ).bind(slug, author, body, ipHash).run();
+    'INSERT INTO comments (slug, author, body, ip_hash, parent_id, avatar_hash) VALUES (?, ?, ?, ?, ?, ?)'
+  ).bind(slug, author, body, ipHash, parentId, avatarHash).run();
 
   await notifyTelegram(env, res.meta.last_row_id, slug, author, body);
   return json({ ok: true, pending: true }, 201, cors);

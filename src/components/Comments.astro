@@ -7,8 +7,13 @@ const API = 'https://airbrushdoc-comments.airbrushden.workers.dev';
   <div class="cmt-title">Comments</div>
   <div class="cmt-list" aria-live="polite"></div>
   <form class="cmt-form">
-    <div class="cmt-row">
+    <div class="cmt-replying" hidden>
+      <span class="cmt-replying-text"></span>
+      <button type="button" class="cmt-reply-cancel">Cancel</button>
+    </div>
+    <div class="cmt-fields">
       <input type="text" name="author" maxlength="80" placeholder="Your name" required aria-label="Your name" />
+      <input type="email" name="email" maxlength="200" placeholder="Email (optional — only for your avatar, never shown)" aria-label="Email, optional, used only for your Gravatar" />
     </div>
     <input type="text" name="website" tabindex="-1" autocomplete="off" class="cmt-hp" aria-hidden="true" />
     <textarea name="body" maxlength="2000" rows="4" placeholder="Share your thoughts, questions, or your own experience…" required aria-label="Your comment"></textarea>
@@ -29,10 +34,87 @@ const API = 'https://airbrushdoc-comments.airbrushden.workers.dev';
     const form = root.querySelector('.cmt-form') as HTMLFormElement;
     const status = root.querySelector('.cmt-status') as HTMLElement;
     const btn = root.querySelector('.cmt-submit') as HTMLButtonElement;
+    const replyBox = root.querySelector('.cmt-replying') as HTMLElement;
+    const replyText = root.querySelector('.cmt-replying-text') as HTMLElement;
+    const replyCancel = root.querySelector('.cmt-reply-cancel') as HTMLButtonElement;
 
-    const esc = (d: string) => {
+    let parentId: number | null = null;
+
+    const fmtDate = (d: string) => {
       const t = new Date(d.replace(' ', 'T') + 'Z');
       return isNaN(+t) ? '' : t.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+    };
+
+    const avatarEl = (c: any) => {
+      const wrap = document.createElement('div');
+      wrap.className = 'cmt-avatar';
+      if (c.author === 'AirbrushDOC') {
+        const img = document.createElement('img');
+        img.src = '/images/airbrushdoc-avatar.webp';
+        img.alt = '';
+        img.loading = 'lazy';
+        wrap.append(img);
+      } else if (c.avatar_hash) {
+        const img = document.createElement('img');
+        img.src = `https://www.gravatar.com/avatar/${c.avatar_hash}?d=blank&s=80`;
+        img.alt = '';
+        img.loading = 'lazy';
+        const fb = initialEl(c.author);
+        img.addEventListener('error', () => img.remove());
+        wrap.append(fb, img);
+      } else {
+        wrap.append(initialEl(c.author));
+      }
+      return wrap;
+    };
+
+    const initialEl = (name: string) => {
+      const s = document.createElement('span');
+      s.className = 'cmt-avatar-initial';
+      s.textContent = (name || '?').trim().charAt(0).toUpperCase();
+      return s;
+    };
+
+    const itemEl = (c: any) => {
+      const item = document.createElement('div');
+      item.className = 'cmt-item';
+      item.id = `comment-${c.id}`;
+
+      const head = document.createElement('div');
+      head.className = 'cmt-item-head';
+      const name = document.createElement('span');
+      name.className = 'cmt-item-author';
+      name.textContent = c.author;
+      head.append(avatarEl(c), name);
+      if (c.author === 'AirbrushDOC') {
+        const badge = document.createElement('span');
+        badge.className = 'cmt-badge-author';
+        badge.textContent = 'Author';
+        head.append(badge);
+      }
+      const date = document.createElement('span');
+      date.className = 'cmt-item-date';
+      date.textContent = fmtDate(c.created_at);
+      head.append(date);
+
+      const body = document.createElement('p');
+      body.className = 'cmt-item-body';
+      body.textContent = c.body;
+
+      const reply = document.createElement('button');
+      reply.type = 'button';
+      reply.className = 'cmt-reply-btn';
+      reply.textContent = 'Reply';
+      reply.addEventListener('click', () => {
+        parentId = c.id;
+        replyText.textContent = `Replying to ${c.author}`;
+        replyBox.hidden = false;
+        (form.querySelector('textarea') as HTMLTextAreaElement).focus();
+        form.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      });
+
+      item.append(head, body, reply);
+      return item;
     };
 
     fetch(`${api}/comments?slug=${slug}`)
@@ -42,26 +124,39 @@ const API = 'https://airbrushdoc-comments.airbrushden.workers.dev';
           list.innerHTML = '<p class="cmt-empty">No comments yet — be the first.</p>';
           return;
         }
+        // Build tree: top-level in order; replies nested one visual level under
+        // their top-level ancestor (deeper chains flatten to that same level).
+        const byId = new Map(comments.map((c: any) => [c.id, c]));
+        const topAncestor = (c: any) => {
+          let cur = c, guard = 0;
+          while (cur.parent_id && byId.has(cur.parent_id) && guard++ < 50) cur = byId.get(cur.parent_id);
+          return cur.id;
+        };
+        const children = new Map<number, any[]>();
+        const tops: any[] = [];
         for (const c of comments) {
-          const item = document.createElement('div');
-          item.className = 'cmt-item';
-          const head = document.createElement('div');
-          head.className = 'cmt-item-head';
-          const name = document.createElement('span');
-          name.className = 'cmt-item-author';
-          name.textContent = c.author;
-          const date = document.createElement('span');
-          date.className = 'cmt-item-date';
-          date.textContent = esc(c.created_at);
-          const body = document.createElement('p');
-          body.className = 'cmt-item-body';
-          body.textContent = c.body;
-          head.append(name, date);
-          item.append(head, body);
-          list.append(item);
+          if (!c.parent_id || !byId.has(c.parent_id)) { tops.push(c); continue; }
+          const anc = topAncestor(c);
+          if (!children.has(anc)) children.set(anc, []);
+          children.get(anc)!.push(c);
+        }
+        for (const top of tops) {
+          list.append(itemEl(top));
+          const kids = children.get(top.id) || [];
+          if (kids.length) {
+            const thread = document.createElement('div');
+            thread.className = 'cmt-thread';
+            for (const k of kids) thread.append(itemEl(k));
+            list.append(thread);
+          }
         }
       })
       .catch(() => { list.innerHTML = '<p class="cmt-empty">Comments could not be loaded.</p>'; });
+
+    replyCancel.addEventListener('click', () => {
+      parentId = null;
+      replyBox.hidden = true;
+    });
 
     form.addEventListener('submit', async e => {
       e.preventDefault();
@@ -75,13 +170,17 @@ const API = 'https://airbrushdoc-comments.airbrushden.workers.dev';
           body: JSON.stringify({
             slug,
             author: fd.get('author'),
+            email: fd.get('email'),
             body: fd.get('body'),
             website: fd.get('website'),
+            parent_id: parentId,
           }),
         });
         const d = await r.json();
         if (r.ok) {
           form.reset();
+          parentId = null;
+          replyBox.hidden = true;
           status.textContent = 'Thanks! Your comment is awaiting review.';
         } else {
           status.textContent = d.error || 'Something went wrong — try again.';
@@ -96,24 +195,73 @@ const API = 'https://airbrushdoc-comments.airbrushden.workers.dev';
 </script>
 
 <style>
+/* Everything below .cmt is created by JS at runtime, so Astro's scoping
+   never reaches it — hence the :global() wrappers (see project CLAUDE.md). */
 .cmt { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--abd-border); }
-.cmt-title {
+.cmt :global(.cmt-title) {
   font-family: var(--abd-font-display);
   font-size: 1.3rem; font-weight: 700; color: var(--abd-text);
   margin-bottom: 20px;
 }
-.cmt-empty { font-size: 0.9rem; color: var(--abd-text-muted); }
-.cmt-item {
+.cmt :global(.cmt-empty) { font-size: 0.9rem; color: var(--abd-text-muted); }
+.cmt :global(.cmt-item) {
   background: var(--abd-surface); border: 1px solid var(--abd-border);
   border-radius: var(--abd-radius-s); padding: 16px 18px; margin-bottom: 12px;
 }
-.cmt-item-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 8px; }
-.cmt-item-author { font-weight: 600; color: var(--abd-text); font-size: 0.9rem; }
-.cmt-item-date { font-size: 0.75rem; color: var(--abd-text-muted); }
-.cmt-item-body { font-size: 0.9rem; color: var(--abd-text-body); line-height: 1.65; margin: 0; white-space: pre-wrap; }
+.cmt :global(.cmt-thread) {
+  margin-left: 34px; padding-left: 16px;
+  border-left: 2px solid var(--abd-orange-b20);
+  margin-bottom: 12px;
+}
+.cmt :global(.cmt-thread .cmt-item) { background: var(--abd-surface2); }
+.cmt :global(.cmt-item-head) { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.cmt :global(.cmt-avatar) {
+  width: 34px; height: 34px; border-radius: 50%; flex-shrink: 0;
+  overflow: hidden; position: relative;
+  background: var(--abd-surface3); border: 1px solid var(--abd-border);
+}
+.cmt :global(.cmt-avatar img) {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+}
+.cmt :global(.cmt-avatar-initial) {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 0.9rem; color: var(--abd-orange);
+}
+.cmt :global(.cmt-item-author) { font-weight: 600; color: var(--abd-text); font-size: 0.9rem; }
+.cmt :global(.cmt-badge-author) {
+  font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--abd-orange); background: var(--abd-orange-soft);
+  border: 1px solid var(--abd-orange-b20); border-radius: 100px; padding: 1px 8px;
+}
+.cmt :global(.cmt-item-date) { font-size: 0.75rem; color: var(--abd-text-muted); margin-left: auto; }
+.cmt :global(.cmt-item-body) {
+  font-size: 0.9rem; color: var(--abd-text-body); line-height: 1.65;
+  margin: 0 0 10px; white-space: pre-wrap;
+}
+.cmt :global(.cmt-reply-btn) {
+  background: none; border: none; padding: 0;
+  font-family: var(--abd-font-body); font-size: 0.78rem; font-weight: 600;
+  color: var(--abd-orange); cursor: pointer;
+}
+.cmt :global(.cmt-reply-btn:hover) { color: var(--abd-orange-hover); }
+
+/* Form is static markup — scoped selectors fine from here down */
 .cmt-form { margin-top: 24px; display: flex; flex-direction: column; gap: 12px; }
+.cmt-replying {
+  display: flex; align-items: center; gap: 12px;
+  background: var(--abd-orange-soft); border: 1px solid var(--abd-orange-b20);
+  border-radius: var(--abd-radius-s); padding: 8px 14px;
+  font-size: 0.82rem; color: var(--abd-text);
+}
+.cmt-reply-cancel {
+  background: none; border: none; padding: 0; margin-left: auto;
+  font-family: var(--abd-font-body); font-size: 0.78rem; font-weight: 600;
+  color: var(--abd-text-dim); cursor: pointer; text-decoration: underline;
+}
+.cmt-fields { display: grid; grid-template-columns: 240px 1fr; gap: 12px; }
+@media (max-width: 640px) { .cmt-fields { grid-template-columns: 1fr; } }
 .cmt-hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
-.cmt-form input[type="text"]:not(.cmt-hp), .cmt-form textarea {
+.cmt-form input[type="text"]:not(.cmt-hp), .cmt-form input[type="email"], .cmt-form textarea {
   width: 100%; background: var(--abd-surface); border: 1px solid var(--abd-border);
   border-radius: var(--abd-radius-s); padding: 10px 14px;
   color: var(--abd-text); font-family: var(--abd-font-body); font-size: 0.9rem;
@@ -121,7 +269,6 @@ const API = 'https://airbrushdoc-comments.airbrushden.workers.dev';
 .cmt-form input:focus-visible, .cmt-form textarea:focus-visible {
   outline: 2px solid var(--abd-orange); outline-offset: 1px; border-color: var(--abd-orange);
 }
-.cmt-row { max-width: 320px; }
 .cmt-actions { display: flex; align-items: center; gap: 16px; }
 .cmt-submit {
   background: var(--abd-orange-cta); color: #fff; border: none;
