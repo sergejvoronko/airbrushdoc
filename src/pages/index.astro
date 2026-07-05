@@ -11,21 +11,42 @@ const recent = allPosts
 const pinnedSlugs = ['best-airbrush-for-beginners-2026', 'advanced-guide-to-airbrush-colors', 'best-air-compressor'];
 const pinnedPosts = pinnedSlugs.map(s => allPosts.find(p => p.id === s)).filter(Boolean);
 
-const testimonials = [
+const testimonials: { text: string; author: string; avatar?: string; gravatar?: string; year?: number; link?: string }[] = [
   {
     text: "It is good that you took the time to post a comprehensive listing of paint options. I wish more websites did so. The mainstream airbrush sites are sorely lacking on this point. Thanks!",
     author: "Barry Munden",
     avatar: "/images/wp-uploads/barry1.webp",
   },
   {
-    text: "One of the biggest things for me was having Walkup's 93 year old nephew tell me that he was so pleased that his family could now be recognized for all their efforts. History made real!! Keep up the good work.",
-    author: "Andy Penaluna",
-    avatar: "/images/wp-uploads/andy-penaluna-e1437996862989.webp",
+    text: "You made up my mind… so the Infinity it is. Thanks for all your reviews — they are very intuitive and interesting.",
+    author: "Mike Hulas",
+    year: 2016,
+    gravatar: "1e198ff5412a06dbb75508892e18f08236f2344cceb6f45c1c5ba7dd1de10456",
+    link: "/blog/harder-and-steenbeck-infinity-review/#comment-1614",
   },
   {
-    text: "This is my second time at your site. And now I realize you have designed a great site to study and learn from.",
-    author: "Larry Potillo",
-    avatar: "/images/wp-uploads/larry_potillo.webp",
+    text: "Thanks for taking your time to explain so well what I was looking for for days — I confirm: it works!! […] I am now able to do it like a pro!",
+    author: "Nico",
+    year: 2012,
+    link: "/blog/how-to-make-layered-stencil-in-coreldraw/#comment-1267",
+  },
+  {
+    text: "I'm new to airbrush & have no clue, so finding your how-to-make-stencils is valuable to me — thanks for the education.",
+    author: "Darren Munkley",
+    year: 2024,
+    link: "/blog/free-stencils/#comment-54008",
+  },
+  {
+    text: "Great tutorial! I like that you've explained each step… Can't wait to give this a go. Love this site!!!",
+    author: "Megan",
+    year: 2012,
+    link: "/blog/how-to-make-layered-stencil-in-coreldraw/#comment-1298",
+  },
+  {
+    text: "Been looking to build a silent compressor for a while now. Seen many guides but yours was the most helpful.",
+    author: "Mayes",
+    year: 2012,
+    link: "/blog/homemade-airbrush-compressor/#comment-1306",
   },
 ];
 
@@ -179,11 +200,17 @@ const features = [
             <p class="abd-testi-text">"{t.text}"</p>
             <div class="abd-testi-author">
               <div class="abd-testi-avatar">
-                <img src={t.avatar} alt={t.author} loading="lazy"
-                     onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
-                <div class="abd-testi-avatar-fallback">{t.author[0]}</div>
+                {(t.avatar || t.gravatar) && (
+                  <img
+                    src={t.avatar ?? `https://www.gravatar.com/avatar/${t.gravatar}?d=blank&s=80`}
+                    alt={t.author} loading="lazy"
+                    onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+                )}
+                <div class="abd-testi-avatar-fallback" style={!(t.avatar || t.gravatar) ? 'display:flex' : undefined}>{t.author[0]}</div>
               </div>
               <span class="abd-testi-name">{t.author}</span>
+              {t.year && <span class="abd-testi-year">{t.year}</span>}
+              {t.link && <a href={t.link} class="abd-testi-source" title="Read the original comment" aria-label={`Read ${t.author}'s original comment`}>↗</a>}
             </div>
           </div>
         ))}
@@ -541,6 +568,13 @@ const features = [
   font-weight: 700; color: var(--abd-orange); font-size: 1rem;
 }
 .abd-testi-name { font-weight: 600; color: var(--abd-text); font-size: 0.88rem; }
+.abd-testi-year { font-size: 0.75rem; color: var(--abd-text-muted); }
+.abd-testi-source {
+  margin-left: auto; font-size: 0.85rem; font-weight: 700;
+  color: var(--abd-text-muted); text-decoration: none !important;
+  transition: color 0.2s;
+}
+.abd-testi-source:hover { color: var(--abd-orange); }
 
 @media (max-width: 768px) {
   .abd-hero-full-content { flex-direction: column; align-items: flex-start; gap: 32px; padding: 60px 24px; }
