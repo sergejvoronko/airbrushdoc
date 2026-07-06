@@ -16,7 +16,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       Get in Touch
     </h1>
     <p style="color:var(--abd-text-dim);font-size:0.95rem;line-height:1.7;margin-bottom:48px;max-width:560px;">
-      Questions about airbrushing, feedback on an article, a collaboration idea, or something else entirely — drop us a line and we'll get back to you.
+      Questions about airbrushing, feedback on an article, a collaboration idea, or something else entirely — drop me a line and I'll get back to you.
     </p>
 
     <div class="contact-layout">
@@ -209,7 +209,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         body: JSON.stringify(body),
       });
       if (res.ok) {
-        if (status) { status.className = 'contact-status success'; status.textContent = 'Message sent — we\'ll get back to you within a couple of days.'; }
+        if (status) { status.className = 'contact-status success'; status.textContent = 'Message sent — I\'ll get back to you within a couple of days.'; }
         form.reset();
       } else {
         throw new Error('Server error');
