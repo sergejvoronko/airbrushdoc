@@ -156,6 +156,38 @@ const chapters = [
       </div>
     </section>
 
+    <!-- ═══ BONUS: STENCIL CREATOR ═══ -->
+    <section class="book-section book-sc">
+      <div class="book-inner">
+        <div class="book-sc-card">
+          <div class="book-sc-visual" aria-hidden="true">
+            <span class="book-sc-free">Free with the book</span>
+            <svg class="book-sc-icon" width="72" height="72" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="7" y="2.5" width="14" height="14" rx="1.5" opacity="0.35"/>
+              <rect x="4.5" y="5" width="14" height="14" rx="1.5" opacity="0.6"/>
+              <rect x="2" y="7.5" width="14" height="14" rx="1.5"/>
+              <path d="m9 11.2 1.06 2.14 2.36.34-1.71 1.67.4 2.35L9 16.59l-2.11 1.11.4-2.35-1.71-1.67 2.36-.34z"/>
+            </svg>
+            <div class="book-sc-visual-name">Stencil Creator</div>
+          </div>
+          <div class="book-sc-text">
+            <div class="book-sc-eyebrow">Bonus Tool — The Operating Room</div>
+            <h2 class="book-sc-title">The Stencil Creator, included free</h2>
+            <p class="book-sc-desc">
+              Turn any photo into a print-ready, multi-layer cut stencil. Import a picture, split it into up to
+              three shading layers, or draw freehand with shapes and text — then export as PNG, PDF, or cut-ready
+              SVG for your plotter. Works completely offline in your browser, no installation.
+            </p>
+            <ul class="book-sc-list">
+              <li>Photo → multi-layer stencil separation</li>
+              <li>Freehand drawing, shapes, and text tools</li>
+              <li>PNG, PDF, and plotter-ready SVG export</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- ═══ BUY ═══ -->
     <section class="book-section book-buy" id="buy">
       <div class="book-inner">
@@ -416,6 +448,56 @@ const chapters = [
 .book-preview-btn:hover { background: var(--abd-orange); color: #fff; }
 
 /* ═══ BUY ═══ */
+/* ═══ BONUS: STENCIL CREATOR ═══ */
+.book-sc { background: var(--abd-bg); }
+.book-sc-card {
+  display: flex; align-items: center; gap: 48px;
+  background: var(--abd-surface);
+  border: 1px solid var(--abd-orange-b20);
+  border-radius: var(--abd-radius);
+  padding: 40px 44px;
+}
+.book-sc-visual {
+  position: relative; flex-shrink: 0;
+  display: flex; flex-direction: column; align-items: center; gap: 14px;
+  background: var(--abd-surface2);
+  border: 1px solid var(--abd-orange-b20);
+  border-radius: var(--abd-radius);
+  padding: 36px 32px 28px;
+  color: var(--abd-orange);
+}
+.book-sc-free {
+  position: absolute; top: -12px; left: 50%; transform: translateX(-50%);
+  background: var(--abd-orange-cta); color: #fff;
+  font-size: 0.66rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.08em; padding: 4px 12px; border-radius: 100px;
+  white-space: nowrap;
+}
+.book-sc-visual-name {
+  font-family: var(--abd-font-display);
+  font-size: 0.95rem; font-weight: 700; color: var(--abd-text);
+}
+.book-sc-text { flex: 1; }
+.book-sc-eyebrow {
+  font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.1em; color: var(--abd-orange); margin-bottom: 12px;
+}
+.book-sc-title {
+  font-family: var(--abd-font-display);
+  font-size: clamp(1.3rem, 2.6vw, 1.7rem); font-weight: 800;
+  color: var(--abd-text); margin-bottom: 14px;
+}
+.book-sc-desc {
+  font-size: 0.95rem; color: var(--abd-text-dim); line-height: 1.75;
+  margin-bottom: 16px;
+}
+.book-sc-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+.book-sc-list li { font-size: 0.88rem; color: var(--abd-text-dim); }
+.book-sc-list li::before { content: '✓ '; color: var(--abd-green); font-weight: 700; }
+@media (max-width: 700px) {
+  .book-sc-card { flex-direction: column; gap: 36px; padding: 32px 24px; }
+}
+
 .book-buy { background: var(--abd-bg); }
 .book-buy-card {
   background: var(--abd-surface); border: 1px solid var(--abd-border);
