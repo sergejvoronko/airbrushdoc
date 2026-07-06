@@ -137,18 +137,31 @@ const tools = [
           <h2 class="fre-book-title">The Airbrush Technique Bible</h2>
           <p class="fre-book-desc">
             17 chapters covering every technique, surface, and style — from first spray to professional results.
-            Includes a complete Troubleshooting Encyclopedia, a business guide, and the Stencil Creator tool free as a bonus.
+            Includes a complete Troubleshooting Encyclopedia and a business guide.
           </p>
           <div class="fre-book-actions">
             <a href="/book/" class="abd-btn-primary">Get the Book — $27</a>
             <a href="/book/preview/" class="fre-book-preview">Read free preview →</a>
           </div>
         </div>
-        <div class="abd-book-mini-cover" aria-hidden="true">
-          <div class="abd-book-mini-spine"></div>
-          <div class="abd-book-mini-front">
-            <div class="abd-book-mini-title">The Airbrush<br>Technique<br>Bible</div>
-            <div class="abd-book-mini-badge">17 Chapters</div>
+        <div class="fre-bundle" aria-label="The book comes bundled with the Stencil Creator tool for free">
+          <div class="abd-book-mini-cover" aria-hidden="true">
+            <div class="abd-book-mini-spine"></div>
+            <div class="abd-book-mini-front">
+              <div class="abd-book-mini-title">The Airbrush<br>Technique<br>Bible</div>
+              <div class="abd-book-mini-badge">17 Chapters</div>
+            </div>
+          </div>
+          <div class="fre-bundle-plus" aria-hidden="true">+</div>
+          <div class="fre-bundle-tool">
+            <span class="fre-bundle-free">Free</span>
+            <svg class="fre-sc-icon" width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="7" y="2.5" width="14" height="14" rx="1.5" opacity="0.35"/>
+              <rect x="4.5" y="5" width="14" height="14" rx="1.5" opacity="0.6"/>
+              <rect x="2" y="7.5" width="14" height="14" rx="1.5"/>
+              <path d="m9 11.2 1.06 2.14 2.36.34-1.71 1.67.4 2.35L9 16.59l-2.11 1.11.4-2.35-1.71-1.67 2.36-.34z"/>
+            </svg>
+            <div class="fre-bundle-tool-name">Stencil<br/>Creator</div>
           </div>
         </div>
       </div>
@@ -340,6 +353,51 @@ const tools = [
 .fre-book-text {
   flex: 1;
   min-width: 260px;
+}
+.fre-bundle {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-shrink: 0;
+}
+.fre-bundle-plus {
+  font-family: var(--abd-font-display);
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--abd-orange);
+}
+.fre-bundle-tool {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  background: var(--abd-surface2);
+  border: 1px solid var(--abd-orange-b20);
+  border-radius: var(--abd-radius);
+  padding: 26px 20px 20px;
+  color: var(--abd-orange);
+}
+.fre-bundle-free {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background: var(--abd-orange-cta);
+  color: #fff;
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 3px 10px;
+  border-radius: 100px;
+}
+.fre-bundle-tool-name {
+  font-family: var(--abd-font-display);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--abd-text);
+  text-align: center;
+  line-height: 1.25;
 }
 .fre-book-eyebrow {
   font-size: 0.78rem;
