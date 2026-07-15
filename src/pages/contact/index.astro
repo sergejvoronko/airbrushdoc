@@ -43,7 +43,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         </div>
         <div class="contact-field">
           <label for="contact-message">Message</label>
-          <textarea id="contact-message" name="message" rows="6" placeholder="Tell us what's on your mind…" required></textarea>
+          <textarea id="contact-message" name="message" rows="6" placeholder="Tell me what's on your mind…" required></textarea>
         </div>
         <button type="submit" class="contact-submit abd-btn-primary" id="contactSubmit">
           Send Message
@@ -55,15 +55,15 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         <div class="contact-info-card">
           <div class="contact-info-icon">✉️</div>
           <div class="contact-info-label">Email</div>
-          <a href="mailto:info@airbrushdoc.com" class="contact-info-value">info@airbrushdoc.com</a>
-          <p class="contact-info-note">We reply within 2–3 business days.</p>
+          <a href="mailto:contact@airbrushdoc.com" class="contact-info-value">contact@airbrushdoc.com</a>
+          <p class="contact-info-note">I reply within 2–3 business days.</p>
         </div>
 
         <div class="contact-topics">
           <div class="contact-topics-label">Good reasons to write</div>
           <ul>
             <li>You have a question about a technique or product</li>
-            <li>You spotted an error in one of our guides</li>
+            <li>You spotted an error in one of my guides</li>
             <li>You'd like to contribute an article or gallery piece</li>
             <li>You have a merchandise or order issue</li>
             <li>You're interested in advertising or sponsorship</li>
@@ -215,7 +215,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         throw new Error('Server error');
       }
     } catch {
-      if (status) { status.className = 'contact-status error'; status.textContent = 'Something went wrong. Please email us directly at info@airbrushdoc.com'; }
+      if (status) { status.className = 'contact-status error'; status.textContent = 'Something went wrong. Please email us directly at contact@airbrushdoc.com'; }
     } finally {
       if (btn) { btn.disabled = false; btn.textContent = 'Send Message'; }
     }
