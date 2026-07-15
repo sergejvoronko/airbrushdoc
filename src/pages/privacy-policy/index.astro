@@ -30,7 +30,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         <h3>Newsletter</h3>
         <p>If you subscribe, your email address (and name, if you give one) is stored with <strong>MailerLite</strong> (MailerLite Limited, Ireland — <a href="https://www.mailerlite.com/legal/privacy-policy" rel="noopener" target="_blank">their privacy policy</a>). Legal basis: your consent, given by double opt-in. It's used to send you the downloads you signed up for and occasional new-content emails — nothing else. Every email contains an unsubscribe link; unsubscribing removes you from the list.</p>
         <h3>Contact form &amp; email</h3>
-        <p>If you use the contact form or email me directly, I receive your name, email address, and message, and use them only to reply. Legal basis: legitimate interest in answering your enquiry. Messages are kept in the mailbox for as long as the conversation is relevant, then deleted.</p>
+        <p>If you use the contact form, your name, email address, and message are stored in this site's own Cloudflare-hosted database and delivered to me as a notification via Telegram, so I can reply. Legal basis: legitimate interest in answering your enquiry. Messages are deleted once the conversation is resolved. Emailing me directly works the same way, minus the database.</p>
         <h3>Comments</h3>
         <p>If you post a comment, your <strong>name and comment text</strong> are stored in this site's own comment system (a Cloudflare-hosted database) and shown publicly once approved. Your <strong>email address is never stored</strong> — if you provide one, only an anonymous one-way hash of it is kept, used solely to display your Gravatar avatar. A one-way hash of your IP address is stored briefly for spam and rate-limiting purposes only. Legal basis: your consent, by submitting the comment. You can request removal of any comment you wrote at any time.</p>
       </section>
@@ -49,9 +49,9 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       <section class="pp-section">
         <h2>Who Processes Data on My Behalf</h2>
         <ul>
-          <li><strong>Cloudflare</strong> — hosts the site and the comment system, and provides network security. Server logs (including IP addresses) are handled by Cloudflare as part of operating the service.</li>
+          <li><strong>Cloudflare</strong> — hosts the site, the comment system, and contact form messages, and provides network security. Server logs (including IP addresses) are handled by Cloudflare as part of operating the service.</li>
           <li><strong>MailerLite</strong> — newsletter storage and sending.</li>
-          <li><strong>Formspree</strong> — contact form delivery.</li>
+          <li><strong>Telegram (Telegram Messenger Inc.)</strong> — delivers contact form messages and comment moderation notifications to me privately.</li>
           <li><strong>Gravatar (Automattic)</strong> — comment avatars, hash-based lookup only.</li>
         </ul>
         <p>I don't sell, rent, or share your personal data with anyone for marketing purposes. Full stop.</p>

@@ -55,6 +55,21 @@ Approve / reject:
   (status='rejected' to reject)
 
 ──────────────────────────────────────
+CONTACT FORM (same worker)
+──────────────────────────────────────
+POST /contact — backs the /contact/ page form (was an unwired Formspree
+placeholder). Message is stored in the D1 `messages` table and pushed to
+the admin Telegram chat with the sender's email for reply. Honeypot +
+3 messages/hour/IP rate limit.
+
+List stored messages:
+  npx wrangler d1 execute airbrushdoc-comments --remote \
+    --command "SELECT id, created_at, name, email, subject FROM messages ORDER BY id DESC LIMIT 20"
+Delete once handled (per privacy policy, messages are deleted when resolved):
+  npx wrangler d1 execute airbrushdoc-comments --remote \
+    --command "DELETE FROM messages WHERE id=<ID>"
+
+──────────────────────────────────────
 NOTES
 ──────────────────────────────────────
 - Spam: honeypot field + 5 comments/hour/IP rate limit. If spam gets through

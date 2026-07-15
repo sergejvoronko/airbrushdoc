@@ -19,6 +19,7 @@ export default {
     try {
       if (url.pathname === '/comments' && req.method === 'GET') return listComments(url, env, cors);
       if (url.pathname === '/comments' && req.method === 'POST') return createComment(req, env, cors);
+      if (url.pathname === '/contact' && req.method === 'POST') return createMessage(req, env, cors);
       if (url.pathname === '/tg-webhook' && req.method === 'POST') return telegramWebhook(req, env);
       return json({ error: 'not found' }, 404, cors);
     } catch (e) {
@@ -95,6 +96,50 @@ async function createComment(req, env, cors) {
 
   await notifyTelegram(env, res.meta.last_row_id, slug, author, body);
   return json({ ok: true, pending: true }, 201, cors);
+}
+
+async function createMessage(req, env, cors) {
+  let data;
+  try { data = await req.json(); } catch { return json({ error: 'bad json' }, 400, cors); }
+
+  const name = String(data.name || '').trim();
+  const email = String(data.email || '').trim();
+  const subject = String(data.subject || '').trim().slice(0, 50);
+  const body = String(data.message || '').trim();
+  const honeypot = String(data.website || '');
+
+  if (honeypot) return json({ ok: true }, 200, cors);
+  if (!name || name.length > 80) return json({ error: 'name required (max 80 chars)' }, 400, cors);
+  if (!email || email.length > 200 || !email.includes('@')) return json({ error: 'valid email required' }, 400, cors);
+  if (!body || body.length > 4000) return json({ error: 'message required (max 4000 chars)' }, 400, cors);
+
+  const ip = req.headers.get('CF-Connecting-IP') || '';
+  const ipHash = await sha256(ip);
+
+  const { results } = await env.DB.prepare(
+    "SELECT COUNT(*) AS n FROM messages WHERE ip_hash = ? AND created_at > datetime('now', '-1 hour')"
+  ).bind(ipHash).all();
+  if (results[0].n >= 3) return json({ error: 'too many messages, try again later' }, 429, cors);
+
+  const res = await env.DB.prepare(
+    'INSERT INTO messages (name, email, subject, body, ip_hash) VALUES (?, ?, ?, ?, ?)'
+  ).bind(name, email, subject, body, ipHash).run();
+
+  if (env.TG_BOT_TOKEN && env.TG_CHAT_ID) {
+    const text =
+      `📨 Contact message #${res.meta.last_row_id}\n` +
+      `From: ${name} <${email}>\n` +
+      (subject ? `Topic: ${subject}\n` : '') +
+      `\n${body.slice(0, 3500)}${body.length > 3500 ? '…' : ''}\n\n` +
+      `Reply by email: ${email}`;
+    const r = await fetch(`https://api.telegram.org/bot${env.TG_BOT_TOKEN}/sendMessage`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ chat_id: env.TG_CHAT_ID, text }),
+    });
+    if (!r.ok) console.error('telegram contact notify failed', await r.text());
+  }
+  return json({ ok: true }, 201, cors);
 }
 
 async function notifyTelegram(env, id, slug, author, body) {
