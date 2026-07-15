@@ -234,7 +234,7 @@ img { max-width: 100%; height: auto; display: block; }
    FOOTER
 ================================================================ */
 .abd-footer {
-  background: var(--abd-surface);
+  background: #000;
   border-top: 1px solid var(--abd-border);
 }
 .abd-footer-inner {
