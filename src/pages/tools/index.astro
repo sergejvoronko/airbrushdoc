@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsletterBox from '../../components/NewsletterBox.astro';
+import { BOOK_AVAILABLE, BOOK_PRICE } from '../../config';
 
 const tools = [
   {
@@ -126,7 +127,9 @@ const subscriberTools = [
           <div class="tools-bonus-label">Book Bonus · The Operating Room</div>
           <h2 class="tools-bonus-title">Stencil Creator</h2>
           <p class="tools-bonus-desc">Where the cutting happens. Turn any photo into a print-ready, multi-layer cut stencil — draw freehand or use shapes and text, then export as PNG, PDF, or cut-ready SVG. Included <strong>free</strong> with The Airbrush Technique Bible.</p>
-          <a href="/book/" class="abd-btn-primary">Get the Book — $27 →</a>
+          {BOOK_AVAILABLE
+            ? <a href="/book/" class="abd-btn-primary">Get the Book — {BOOK_PRICE} →</a>
+            : <a href="/book/" class="abd-btn-primary">Coming soon — learn more →</a>}
         </div>
       </div>
     </div>

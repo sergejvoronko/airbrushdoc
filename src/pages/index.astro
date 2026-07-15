@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import { BOOK_AVAILABLE, BOOK_PRICE } from '../config';
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
 const recent = allPosts
@@ -287,11 +288,13 @@ const features = [
         </div>
       </div>
       <div class="abd-book-promo-text">
-        <div class="abd-book-promo-eyebrow">✦ New — Digital Edition</div>
+        <div class="abd-book-promo-eyebrow">{BOOK_AVAILABLE ? '✦ New — Digital Edition' : '✦ Coming Soon — Digital Edition'}</div>
         <h2 class="abd-book-promo-title">Stop watching tutorials.<br/><span style="color:var(--abd-orange);">Start understanding.</span></h2>
         <p class="abd-book-promo-desc">17 chapters covering every technique, surface, and style — from first spray to professional results. Includes the Troubleshooting Encyclopedia, a complete business guide, and the Stencil Creator tool free as a bonus.</p>
         <div class="abd-book-promo-actions">
-          <a href="/book/" class="abd-btn-primary">Get the Book — $27</a>
+          {BOOK_AVAILABLE
+            ? <a href="/book/" class="abd-btn-primary">Get the Book — {BOOK_PRICE}</a>
+            : <a href="/book/" class="abd-btn-primary">Coming soon — learn more</a>}
           <a href="/book/preview/" class="abd-book-promo-preview">Read free preview →</a>
         </div>
       </div>

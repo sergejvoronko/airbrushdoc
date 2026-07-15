@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { BOOK_AVAILABLE, BOOK_PRICE } from '../../config';
 
 const chapters = [
   { part: 'Part One: Foundations', items: ['Chapter 1: Understanding Your Airbrush', 'Chapter 2: Setting Up Your Workspace', 'Chapter 3: Paint Science', 'Chapter 4: Your First Strokes'] },
@@ -33,7 +34,7 @@ const chapters = [
         </div>
 
         <div class="book-hero-text">
-          <div class="book-eyebrow">✦ Digital Edition · Instant Access</div>
+          <div class="book-eyebrow">{BOOK_AVAILABLE ? '✦ Digital Edition · Instant Access' : '✦ Digital Edition · Coming Soon'}</div>
           <h1 class="book-hero-title">
             The Airbrush<br/><span class="book-orange">Technique Bible</span>
           </h1>
@@ -52,17 +53,33 @@ const chapters = [
           </div>
 
           <div class="book-cta-box">
-            <div class="book-price-row">
-              <span class="book-price">$27</span>
-              <span class="book-price-note">one-time · digital download</span>
-            </div>
-            <div class="book-bonus-pill">🎁 Includes the <strong>Stencil Creator</strong> tool free</div>
-            <!-- Replace href with your Gumroad / Stripe / payment link -->
-            <a href="#buy" class="book-buy-btn">Get the Book →</a>
-            <div class="book-guarantee">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-              30-day money-back guarantee. No questions asked.
-            </div>
+            {BOOK_AVAILABLE ? (
+              <>
+                <div class="book-price-row">
+                  <span class="book-price">{BOOK_PRICE}</span>
+                  <span class="book-price-note">one-time · digital download</span>
+                </div>
+                <div class="book-bonus-pill">🎁 Includes the <strong>Stencil Creator</strong> tool free</div>
+                <a href="#buy" class="book-buy-btn">Get the Book →</a>
+                <div class="book-guarantee">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                  30-day money-back guarantee. No questions asked.
+                </div>
+              </>
+            ) : (
+              <>
+                <div class="book-price-row">
+                  <span class="book-price">Coming soon</span>
+                  <span class="book-price-note">in final editing</span>
+                </div>
+                <div class="book-bonus-pill">🎁 Will include the <strong>Stencil Creator</strong> tool free</div>
+                <a href="#buy" class="book-buy-btn">Get notified at launch →</a>
+                <div class="book-guarantee">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                  Subscribers get a launch bonus. Read the free preview today.
+                </div>
+              </>
+            )}
           </div>
         </div>
       </div>
@@ -188,10 +205,10 @@ const chapters = [
       </div>
     </section>
 
-    <!-- ═══ BUY ═══ -->
+    <!-- ═══ BUY / NOTIFY ═══ -->
     <section class="book-section book-buy" id="buy">
       <div class="book-inner">
-        <h2>Get Instant Access</h2>
+        <h2>{BOOK_AVAILABLE ? 'Get Instant Access' : 'Be First to Know'}</h2>
         <div class="book-buy-card">
           <div class="book-buy-left">
             <div class="book-buy-title">The Airbrush Technique Bible</div>
@@ -209,20 +226,35 @@ const chapters = [
               <span>30-day money-back guarantee. If it doesn't help you, you get a full refund — no questions asked.</span>
             </div>
           </div>
-          <div class="book-buy-right">
-            <div class="book-final-price">$27</div>
-            <div class="book-final-note">one-time payment</div>
-            <!-- Replace href with Gumroad product URL: https://gumroad.com/l/your-product -->
-            <a href="#" class="book-final-btn">Buy Now — Get Instant Access</a>
-            <div class="book-final-secure">
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
-              Secure checkout · Instant delivery
+          {BOOK_AVAILABLE ? (
+            <div class="book-buy-right">
+              <div class="book-final-price">{BOOK_PRICE}</div>
+              <div class="book-final-note">one-time payment</div>
+              <!-- Replace href with Gumroad product URL: https://gumroad.com/l/your-product -->
+              <a href="#" class="book-final-btn">Buy Now — Get Instant Access</a>
+              <div class="book-final-secure">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+                Secure checkout · Instant delivery
+              </div>
+              <div class="book-final-formats">
+                <span>HTML reader</span>
+                <span>PDF download</span>
+              </div>
             </div>
-            <div class="book-final-formats">
-              <span>HTML reader</span>
-              <span>PDF download</span>
+          ) : (
+            <div class="book-buy-right">
+              <div class="book-final-price" style="font-size: 1.6rem;">Coming soon</div>
+              <div class="book-final-note">The book is in final editing. Subscribe and you'll get the launch email — with a subscriber-only bonus.</div>
+              <div class="ml-embedded" data-form="d5CS8H"></div>
+              <div class="book-final-secure">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+                No spam · Unsubscribe anytime
+              </div>
+              <div class="book-final-formats">
+                <span>Free preview available now</span>
+              </div>
             </div>
-          </div>
+          )}
         </div>
       </div>
     </section>
@@ -236,8 +268,13 @@ const chapters = [
             { q: 'What format is the book in?', a: 'You get two versions: an interactive HTML reader you can open in any browser (works offline, no app needed), and a PDF you can download and print.' },
             { q: 'Do I need a specific airbrush?', a: 'No. The book is tool-agnostic. You need a basic dual-action gravity-feed airbrush with a 0.3–0.35mm needle. Brand doesn\'t matter.' },
             { q: 'Is this for beginners or advanced artists?', a: 'Both. Parts 1 and 2 build foundations for beginners. Parts 3 and 5 (masterclasses and business) target intermediate to advanced artists.' },
-            { q: 'How do I access the book after purchase?', a: 'You\'ll receive an email with a download link immediately after payment. The HTML reader works in any browser. No account or app needed.' },
-            { q: 'What if it\'s not for me?', a: 'Email contact@airbrushdoc.com within 30 days for a full refund. No questions asked.' },
+            ...(BOOK_AVAILABLE ? [
+              { q: 'How do I access the book after purchase?', a: 'You\'ll receive an email with a download link immediately after payment. The HTML reader works in any browser. No account or app needed.' },
+              { q: 'What if it\'s not for me?', a: 'Email contact@airbrushdoc.com within 30 days for a full refund. No questions asked.' },
+            ] : [
+              { q: 'When does it launch?', a: 'The book is in final editing. Subscribe to the newsletter and you\'ll get the launch email the moment it\'s out — with a subscriber-only launch bonus.' },
+              { q: 'Can I read anything now?', a: 'Yes — the full introduction and Chapter 1 are available as a free preview, no email required.' },
+            ]),
           ].map(item => (
             <details class="book-faq-item">
               <summary class="book-faq-q">
@@ -256,7 +293,9 @@ const chapters = [
       <div class="book-inner" style="text-align:center;">
         <h2 style="color:#fff;">Stop watching tutorials.<br/>Start understanding.</h2>
         <p style="color:rgba(255,255,255,0.7); max-width:520px; margin: 0 auto 32px;">17 chapters. Every technique. Step-by-step projects. The troubleshooting guide you'll use for years. And if it doesn't help — your money back.</p>
-        <a href="#buy" class="book-final-btn" style="font-size:1.05rem; padding: 18px 40px;">Get the Airbrush Technique Bible — $27</a>
+        {BOOK_AVAILABLE
+          ? <a href="#buy" class="book-final-btn" style="font-size:1.05rem; padding: 18px 40px;">Get the Airbrush Technique Bible — {BOOK_PRICE}</a>
+          : <a href="#buy" class="book-final-btn" style="font-size:1.05rem; padding: 18px 40px;">Get notified at launch</a>}
       </div>
     </section>
 

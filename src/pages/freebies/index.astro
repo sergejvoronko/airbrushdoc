@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { BOOK_AVAILABLE, BOOK_PRICE } from '../../config';
 
 const freebies = [
   {
@@ -140,7 +141,9 @@ const tools = [
             Includes a complete Troubleshooting Encyclopedia and a business guide.
           </p>
           <div class="fre-book-actions">
-            <a href="/book/" class="abd-btn-primary">Get the Book — $27</a>
+            {BOOK_AVAILABLE
+              ? <a href="/book/" class="abd-btn-primary">Get the Book — {BOOK_PRICE}</a>
+              : <a href="/book/" class="abd-btn-primary">Coming soon — learn more</a>}
             <a href="/book/preview/" class="fre-book-preview">Read free preview →</a>
           </div>
         </div>
