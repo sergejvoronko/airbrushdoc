@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { BOOK_AVAILABLE, BOOK_PRICE } from '../../config';
 
 const downloads = [
   {
@@ -134,11 +135,13 @@ const tools = [
     <div class="ty-book-banner">
       <div class="ty-book-text">
         <div class="ty-book-label">Ready to go further?</div>
-        <div class="ty-book-title">The Airbrush Technique Bible — 17 chapters, $27</div>
+        <div class="ty-book-title">The Airbrush Technique Bible — 17 chapters{BOOK_AVAILABLE ? `, ${BOOK_PRICE}` : ' — coming soon'}</div>
         <p class="ty-book-desc">Every technique, surface, and style. Full troubleshooting encyclopedia — plus the Stencil Creator tool free as a bonus.</p>
       </div>
       <div class="ty-book-actions">
-        <a href="/book/" class="abd-btn-primary">Get the Book</a>
+        {BOOK_AVAILABLE
+          ? <a href="/book/" class="abd-btn-primary">Get the Book</a>
+          : <a href="/book/" class="abd-btn-primary">Learn more</a>}
         <a href="/book/preview/" class="ty-preview-link">Free preview →</a>
       </div>
     </div>

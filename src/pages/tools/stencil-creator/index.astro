@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { BOOK_AVAILABLE, BOOK_PRICE } from '../../../config';
 ---
 <BaseLayout
   title="Stencil Creator — Free Bonus with The Airbrush Technique Bible | AirbrushDOC"
@@ -36,8 +37,10 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
         <li>Works offline — yours forever</li>
       </ul>
       <div class="sc-teaser-cta">
-        <a href="/book/" class="abd-btn-primary">🎁 Get it free with the Book — $27 →</a>
-        <p class="sc-teaser-note">Included as a free bonus with The Airbrush Technique Bible. Delivered with your download.</p>
+        {BOOK_AVAILABLE
+          ? <a href="/book/" class="abd-btn-primary">🎁 Get it free with the Book — {BOOK_PRICE} →</a>
+          : <a href="/book/" class="abd-btn-primary">🎁 Free with the Book — coming soon →</a>}
+        <p class="sc-teaser-note">Included as a free bonus with The Airbrush Technique Bible.{BOOK_AVAILABLE ? " Delivered with your download." : " Subscribe on the book page to get notified at launch."}</p>
       </div>
     </section>
   </main>
