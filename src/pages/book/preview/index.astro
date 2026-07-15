@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { BOOK_AVAILABLE, BOOK_PRICE } from '../../../config';
 ---
 <BaseLayout
   title="Free Preview — The Airbrush Technique Bible"
@@ -81,8 +82,17 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
     <div style="background:var(--abd-surface); border:1px solid var(--abd-border); border-radius:var(--abd-radius); padding:32px; margin-top:56px; text-align:center;">
       <div style="font-family:var(--abd-font-display); font-size:1.2rem; font-weight:800; color:var(--abd-text); margin-bottom:8px;">Continue reading — 16 more chapters</div>
       <p style="color:var(--abd-text-muted); font-size:0.88rem; margin-bottom:24px;">Core techniques, fire, portraits, skulls, chrome, troubleshooting encyclopedia, pricing your work, finding clients.</p>
-      <a href="/book/#buy" style="display:inline-block; background:var(--abd-orange); color:#fff; font-size:1rem; font-weight:700; padding:14px 32px; border-radius:var(--abd-radius-s); text-decoration:none;">Get the Full Book — $27</a>
-      <div style="font-size:0.75rem; color:var(--abd-text-muted); margin-top:12px;">30-day money-back guarantee</div>
+      {BOOK_AVAILABLE ? (
+        <>
+          <a href="/book/#buy" style="display:inline-block; background:var(--abd-orange); color:#fff; font-size:1rem; font-weight:700; padding:14px 32px; border-radius:var(--abd-radius-s); text-decoration:none;">Get the Full Book — {BOOK_PRICE}</a>
+          <div style="font-size:0.75rem; color:var(--abd-text-muted); margin-top:12px;">30-day money-back guarantee</div>
+        </>
+      ) : (
+        <>
+          <a href="/book/#buy" style="display:inline-block; background:var(--abd-orange); color:#fff; font-size:1rem; font-weight:700; padding:14px 32px; border-radius:var(--abd-radius-s); text-decoration:none;">Coming soon — get notified at launch</a>
+          <div style="font-size:0.75rem; color:var(--abd-text-muted); margin-top:12px;">Subscribers get a launch bonus</div>
+        </>
+      )}
     </div>
   </main>
 </BaseLayout>
