@@ -40,7 +40,6 @@
 /discussion/fix-bent-needle/  /blog/fix-bent-needle/  301
 /discussion/fix-nozzle-bearing/  /blog/fix-nozzle-bearing/  301
 /discussion/free-airbrush-cleaning-station-really/  /blog/free-airbrush-cleaning-station-really/  301
-/discussion/how-to-get-inspiration-for-your-airbrush-art/  /blog/how-to-get-inspiration-for-your-airbrush-art/  301
 /discussion/how-to-make-a-stencil-in-coreldraw/  /blog/how-to-make-a-stencil-in-coreldraw/  301
 /discussion/how-to-make-layered-stencil-in-coreldraw/  /blog/how-to-make-layered-stencil-in-coreldraw/  301
 /discussion/how-to-make-your-own-airbrush/  /blog/how-to-make-your-own-airbrush/  301
@@ -54,11 +53,11 @@
 /discussion/the-story-of-love-airbrush-on-electric-kettle/  /blog/the-story-of-love-airbrush-on-electric-kettle/  301
 /discussion/tuning-airbrush-evolution/  /blog/tuning-airbrush-evolution/  301
 /discussion/what-is-my-art-worth/  /blog/what-is-my-art-worth/  301
-/download/50-skull-stencils-ai-cdr-eps-jpg/  /blog/50-skull-stencils-ai-cdr-eps-jpg/  301
-/download/fire-reference-pack-part2/  /blog/fire-reference-pack-part2/  301
-/download/fire-reference-pack/  /blog/fire-reference-pack/  301
-/download/multi-layer-stencils/  /blog/multi-layer-stencils/  301
-/download/ultimate-skull-reference-pack/  /blog/ultimate-skull-reference-pack/  301
+/download/50-skull-stencils-ai-cdr-eps-jpg/  /freebies/  301
+/download/fire-reference-pack-part2/  /freebies/  301
+/download/fire-reference-pack/  /freebies/  301
+/download/multi-layer-stencils/  /freebies/  301
+/download/ultimate-skull-reference-pack/  /freebies/  301
 /gallery/airbrush-art-alexey-sulkovskiy/  /blog/airbrush-art-alexey-sulkovskiy/  301
 /gallery/airbrush-art-frank-gavere-mfa/  /blog/airbrush-art-frank-gavere-mfa/  301
 /gallery/airbrush-art-marlon-navarro/  /blog/airbrush-art-marlon-navarro/  301
@@ -99,9 +98,6 @@
 /history/paasche-big-name-in-airbrush-history/  /blog/paasche-big-name-in-airbrush-history/  301
 /history/who-invented-airbrush/  /blog/who-invented-airbrush/  301
 /tipstricks/painting-polymer-clay-forest-rogers/  /blog/painting-polymer-clay-forest-rogers/  301
-/video/airbrush-ducati-bike-exstudio/  /blog/airbrush-ducati-bike-exstudio/  301
-/video/art4car-airbrush-on-carbon-nissan-gtr/  /blog/art4car-airbrush-on-carbon-nissan-gtr/  301
-/video/hyperrealistic-art-marcello-barenghi/  /blog/hyperrealistic-art-marcello-barenghi/  301
 
 # Removed posts — 410 Gone (tells Google to deindex)
 /video/hyperrealistic-art-marcello-barenghi/    /410  410
@@ -244,3 +240,12 @@
 /go/tamiya-thinner             https://www.amazon.com/s?k=Tamiya+X-20A+acrylic+thinner&tag=aircom01f20-20   302
 /go/vallejo-flow               https://www.amazon.com/s?k=Vallejo+airbrush+flow+improver&tag=aircom01f20-20   302
 /go/valve-repair               https://www.amazon.com/s?k=airbrush+valve+repair+kit&tag=aircom01f20-20   302
+
+# Legacy WP pages without direct equivalents
+/about-us/  /about/  301
+/about/privacy-policy/  /privacy-policy/  301
+/airbrush-articles/  /blog/  301
+/airbrush-videos/  /blog/  301
+/airbrushing/  /beginners/  301
+# WP page-builder numeric artifacts under /beginners/
+/beginners/*  /beginners/  301

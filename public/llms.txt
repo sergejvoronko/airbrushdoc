@@ -4,9 +4,10 @@
 
 ## Site
 
-- Title: AirbrushDOC
-- Description: Expert airbrush guides, honest equipment reviews, step-by-step tutorials, and free stencils for artists at every level. Publishing since 2010.
-- Contact: info@airbrushdoc.com
+- Title: AirbrushDOC — Cures for Your Canvas
+- Description: Airbrush guides, honest equipment reviews, step-by-step tutorials, and free stencils. Written and personally tested by one artist (15+ years: automotive, t-shirt, fine art) — publishing since 2010. Reviews are hands-on; affiliate-partner products have been publicly criticized when warranted.
+- Contact: contact@airbrushdoc.com
+- Author: Sergej Voronko (https://airbrushdoc.com/about/)
 
 ## Key Pages
 
@@ -42,6 +43,15 @@
 - Airbrush Comparator: https://airbrushdoc.com/tools/compare/
 - Stencil Creator: https://airbrushdoc.com/tools/stencil-creator/
 - AirMix Studio (paint ratios & colour): https://airbrushdoc.com/tools/airmix/
+
+## Book
+
+- The Airbrush Technique Bible (17 chapters, free preview): https://airbrushdoc.com/book/
+
+## Policies
+
+- Privacy: https://airbrushdoc.com/privacy-policy/
+- Affiliate disclosure: https://airbrushdoc.com/affiliate-disclosure/
 
 ## Sitemap
 
