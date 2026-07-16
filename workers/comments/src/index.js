@@ -1,3 +1,5 @@
+import { EmailMessage } from 'cloudflare:email';
+
 // AirbrushDOC comments — Cloudflare Worker + D1, moderated via Telegram inline buttons.
 // GET  /comments?slug=<slug>   → approved comments, oldest first
 // POST /comments               → save as pending, notify Telegram
@@ -138,6 +140,28 @@ async function createMessage(req, env, cors) {
       body: JSON.stringify({ chat_id: env.TG_CHAT_ID, text }),
     });
     if (!r.ok) console.error('telegram contact notify failed', await r.text());
+  }
+
+  // Also deliver as email — Reply-To carries the visitor, so a plain
+  // Gmail "Reply" answers them directly.
+  if (env.EMAIL) {
+    try {
+      const clean = (s) => s.replace(/[\r\n]+/g, ' ').trim(); // header-injection guard
+      const raw =
+        `From: AirbrushDOC Contact Form <noreply@airbrushdoc.com>\r\n` +
+        `To: airbrushden@gmail.com\r\n` +
+        `Reply-To: ${clean(name)} <${clean(email)}>\r\n` +
+        `Subject: [Contact] ${clean(subject) || 'New message'} — ${clean(name)}\r\n` +
+        `Message-ID: <contact-${res.meta.last_row_id}-${Date.now()}@airbrushdoc.com>\r\n` +
+        `Date: ${new Date().toUTCString()}\r\n` +
+        `MIME-Version: 1.0\r\n` +
+        `Content-Type: text/plain; charset=utf-8\r\n` +
+        `\r\n` +
+        `${body}\r\n\r\n—\nMessage #${res.meta.last_row_id} via airbrushdoc.com/contact\nFrom: ${clean(name)} <${clean(email)}>\n`;
+      await env.EMAIL.send(new EmailMessage('noreply@airbrushdoc.com', 'airbrushden@gmail.com', raw));
+    } catch (e) {
+      console.error('email delivery failed', e); // TG + D1 already succeeded — don't fail the request
+    }
   }
   return json({ ok: true }, 201, cors);
 }
