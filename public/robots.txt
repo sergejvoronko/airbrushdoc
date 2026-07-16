@@ -1,12 +1,3 @@
-# ⚠️ PRE-LAUNCH HOLD — staging domain (airbrushdoc.pages.dev).
-# Block search engines from indexing staging to avoid duplicate content.
-# REMOVE these two blocks at DNS cutover to airbrushdoc.com.
-User-agent: Googlebot
-Disallow: /
-
-User-agent: Bingbot
-Disallow: /
-
 User-agent: *
 Allow: /
 

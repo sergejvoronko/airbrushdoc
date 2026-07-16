@@ -4,6 +4,3 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  # ⚠️ PRE-LAUNCH HOLD — staging noindex. REMOVE this line at DNS cutover
-  # or the live airbrushdoc.com site will be deindexed.
-  X-Robots-Tag: noindex, nofollow
