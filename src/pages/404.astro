@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Page not found | AirbrushDOC" description="This page doesn't exist or has been removed." noindex={true}>
+  <main class="nf-page">
+    <div class="nf-box">
+      <div class="nf-code">404</div>
+      <h1 class="nf-title">This page went missing</h1>
+      <p class="nf-text">It may have been removed during the site's renovation, or the address has a typo. Either way — the good stuff is still here.</p>
+      <div class="nf-actions">
+        <a href="/blog/" class="abd-btn-primary">Browse all articles</a>
+        <a href="/tools/" class="nf-link">Visit the Clinic →</a>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+.nf-page {
+  min-height: 60vh;
+  display: flex; align-items: center; justify-content: center;
+  padding: 64px 24px;
+}
+.nf-box { text-align: center; max-width: 480px; }
+.nf-code {
+  font-family: var(--abd-font-display);
+  font-size: 5rem; font-weight: 800; color: var(--abd-orange);
+  line-height: 1; margin-bottom: 16px;
+}
+.nf-title {
+  font-family: var(--abd-font-display);
+  font-size: 1.6rem; font-weight: 700; color: var(--abd-text);
+  margin-bottom: 12px;
+}
+.nf-text { color: var(--abd-text-dim); line-height: 1.7; margin-bottom: 28px; }
+.nf-actions { display: flex; gap: 20px; align-items: center; justify-content: center; flex-wrap: wrap; }
+.nf-link { color: var(--abd-orange); font-weight: 600; text-decoration: none; font-size: 0.9rem; }
+</style>

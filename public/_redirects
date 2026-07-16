@@ -99,15 +99,7 @@
 /history/who-invented-airbrush/  /blog/who-invented-airbrush/  301
 /tipstricks/painting-polymer-clay-forest-rogers/  /blog/painting-polymer-clay-forest-rogers/  301
 
-# Removed posts — 410 Gone (tells Google to deindex)
-/video/hyperrealistic-art-marcello-barenghi/    /410.html  410
-/video/art4car-airbrush-on-carbon-nissan-gtr/   /410.html  410
-/video/airbrush-ducati-bike-exstudio/           /410.html  410
-/discussion/how-to-get-inspiration-for-your-airbrush-art/  /410.html  410
-/blog/hyperrealistic-art-marcello-barenghi/     /410.html  410
-/blog/art4car-airbrush-on-carbon-nissan-gtr/    /410.html  410
-/blog/airbrush-ducati-bike-exstudio/            /410.html  410
-/blog/how-to-get-inspiration-for-your-airbrush-art/  /410.html  410
+# Removed posts return 404 via the site 404 page (CF Pages does not support 410 in _redirects)
 
 # New article slugs — root-level aliases so links in content work
 /best-airbrush-for-beginners-2026/          /blog/best-airbrush-for-beginners-2026/          301
