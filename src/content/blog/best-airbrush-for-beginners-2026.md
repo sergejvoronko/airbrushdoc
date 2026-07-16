@@ -14,7 +14,7 @@ draft: false
 
 You want to start airbrushing. You've watched the YouTube videos, you've seen what's possible, and now you're ready to buy your first airbrush. But the second you start looking, you're buried under hundreds of options, conflicting advice, and "best of" lists written by people who have never held an airbrush in their life.
 
-I've been airbrushing for over 13 years. I've used cheap brushes, expensive brushes, and everything in between. In this guide, I'm going to cut through the noise and show you which airbrushes actually deserve your money in 2026, and more importantly, which ones will help you *learn* rather than frustrate you into quitting.
+I've been airbrushing for over 15 years. I've used cheap brushes, expensive brushes, and everything in between. In this guide, I'm going to cut through the noise and show you which airbrushes actually deserve your money in 2026, and more importantly, which ones will help you *learn* rather than frustrate you into quitting.
 
 **Quick answer:** If you want one recommendation and don't want to read the whole article, get the **Harder & Steenbeck Ultra 2024**. It's specifically engineered for beginners, it teaches you proper technique from day one, and it grows with you. If you're on a tighter budget, the [**Iwata Neo CN**](/go/iwata-neo-cn) is the best value under $50.
 

@@ -16,7 +16,7 @@ Miniature painting is the fastest-growing segment of the airbrush world right no
 
 But here's the thing, miniature painting has very specific airbrush requirements that are different from other airbrush work. You're working on objects that fit in the palm of your hand. You need fine control at low pressure. You're constantly switching colors. And you need to be able to clean quickly, because a clogged airbrush in the middle of a batch of 30 Space Marines is maddening.
 
-I've been in the airbrush world for over 13 years. Not all of it focused on miniatures. I come from automotive and fine art airbrush work. But that actually gives me a useful perspective: I can tell you what matters specifically for miniature painting versus what's just general airbrush marketing fluff.
+I've been in the airbrush world for over 15 years. Not all of it focused on miniatures. I come from automotive and fine art airbrush work. But that actually gives me a useful perspective: I can tell you what matters specifically for miniature painting versus what's just general airbrush marketing fluff.
 
 Here's what you actually need, and the specific airbrushes I recommend at every budget level.
 

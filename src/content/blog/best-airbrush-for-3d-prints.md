@@ -25,7 +25,7 @@ If you've spent hours printing a detailed miniature or display piece only to wat
 
 ## Why 3D Prints Are Different From Other Airbrush Surfaces
 
-I've been airbrushing for 13 years across canvas, automotive, fabric, and models, and 3D prints genuinely behave differently from almost anything else. Here's the core problem:
+I've been airbrushing for 15 years across canvas, automotive, fabric, and models, and 3D prints genuinely behave differently from almost anything else. Here's the core problem:
 
 **FDM prints** (from filament printers like Enders and Bambus) have layer lines, a slightly porous surface, and micro-grooves that trap air and cause paint to bubble if you apply it too fast or too thick.
 

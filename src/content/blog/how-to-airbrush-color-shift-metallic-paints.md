@@ -25,7 +25,7 @@ Color shift and metallic paints look absolutely stunning when they're done right
 
 **Quick answer: Use a 0.4–0.5mm nozzle, run 20–25 PSI, thin metallic paints 15–20% and color shift paints 10–15%, always over a black primer base. Thin layers and patience are everything with these paints.**
 
-I've been airbrushing for 13 years, and I'll be straight with you, metallic and color shift paints follow different rules than standard acrylics. The physics of mica flakes and interference pigments demand specific setups. Get those settings wrong and you'll either clog your needle or spray something that looks like flat grey mud. Get them right and the results are genuinely jaw-dropping.
+I've been airbrushing for 15 years, and I'll be straight with you, metallic and color shift paints follow different rules than standard acrylics. The physics of mica flakes and interference pigments demand specific setups. Get those settings wrong and you'll either clog your needle or spray something that looks like flat grey mud. Get them right and the results are genuinely jaw-dropping.
 
 ---
 

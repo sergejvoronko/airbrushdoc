@@ -14,7 +14,7 @@ draft: false
 
 Buying an airbrush kit should be the easiest way to get started, everything in one box, ready to go. And sometimes it is. But the airbrush kit market is also full of cheap bundles that look impressive in photos and fall apart within weeks.
 
-I've been airbrushing for over 13 years, and in that time I've seen the kit landscape change dramatically. The good news: there are genuinely excellent starter kits available today at every price point. The bad news: there are ten mediocre kits for every good one, and they all have suspiciously similar five-star reviews.
+I've been airbrushing for over 15 years, and in that time I've seen the kit landscape change dramatically. The good news: there are genuinely excellent starter kits available today at every price point. The bad news: there are ten mediocre kits for every good one, and they all have suspiciously similar five-star reviews.
 
 This guide cuts through the noise. I'll show you which kits are actually worth buying, explain the three different approaches to building your first setup, and help you avoid the most common mistakes beginners make when choosing their first kit.
 

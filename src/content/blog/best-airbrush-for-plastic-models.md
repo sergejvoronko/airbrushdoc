@@ -25,7 +25,7 @@ Spending three hours masking a 1/48 Spitfire only to have your airbrush spit, cl
 
 ## Why Scale Modelling Demands More from an Airbrush
 
-I've been airbrushing for 13 years across everything from T-shirt art to automotive panels, but scale modelling is honestly where I see the most tool-related frustration among intermediate hobbyists. The problem is that the demands are unusually varied, in a single afternoon on a 1/35 Tiger I, you might need to:
+I've been airbrushing for 15 years across everything from T-shirt art to automotive panels, but scale modelling is honestly where I see the most tool-related frustration among intermediate hobbyists. The problem is that the demands are unusually varied, in a single afternoon on a 1/35 Tiger I, you might need to:
 
 - Lay down a smooth basecoat over large flat panels
 - Pull back to 8–10 PSI for subtle chipping effects
