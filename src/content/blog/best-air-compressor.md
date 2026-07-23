@@ -24,6 +24,8 @@ In this guide you'll learn:
 
 ## Understanding Compressor Specs
 
+*Want the full theory — duty cycle, oil-less vs diaphragm vs piston, water traps and regulators? Read the companion deep-dive: [How to Choose an Airbrush Compressor: PSI, CFM & Types Explained](/blog/air-compressor/).*
+
 ### PSI (Pounds Per Square Inch): Your Pressure
 
 PSI is how hard the air pushes through your airbrush.
