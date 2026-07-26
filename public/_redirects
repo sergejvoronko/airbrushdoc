@@ -233,11 +233,20 @@
 /go/vallejo-flow               https://www.amazon.com/s?k=Vallejo+airbrush+flow+improver&tag=aircom01f20-20   302
 /go/valve-repair               https://www.amazon.com/s?k=airbrush+valve+repair+kit&tag=aircom01f20-20   302
 
+# /diy/ was a WP category with no equivalent today (its posts are split across
+# guides/ and beginners/), so the whole namespace 404'd. Specific rules above
+# win on order; this catches everything else that lived under it.
+/diy/  /blog/  301
+/diy/*  /blog/:splat  301
+
 # Legacy WP pages without direct equivalents
 /about-us/  /about/  301
 /about/privacy-policy/  /privacy-policy/  301
 /airbrush-articles/  /blog/  301
 /airbrush-videos/  /blog/  301
 /airbrushing/  /beginners/  301
-# WP page-builder numeric artifacts under /beginners/
-/beginners/*  /beginners/  301
+# NOTE: do not add `/beginners/*  /beginners/` here. Cloudflare matches the bare
+# /beginners/ against that pattern with an empty splat and redirects it to
+# itself, which put the whole category hub into an infinite redirect loop.
+# Real posts are covered by the specific rules above; stray WP artifacts 404,
+# which is the correct outcome.
