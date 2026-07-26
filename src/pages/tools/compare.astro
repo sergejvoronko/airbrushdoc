@@ -1,8 +1,17 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { buildWebAppSchema } from '../../lib/schema';
 import toolContent from '../../tools-content/compare.html?raw';
+
+const appSchema = buildWebAppSchema({
+  name: "Compare Airbrushes",
+  description: "Put airbrush models side by side and compare specifications before buying.",
+  path: "/tools/compare/",
+  free: true,
+});
 ---
 <BaseLayout title="Compare Airbrushes | AirbrushDOC" description="Side-by-side comparison of popular airbrush models and specifications.">
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(appSchema)} />
   <main class="abd-container" style="padding: 40px 24px 80px;">
     <nav class="abd-breadcrumbs" style="margin-bottom: 24px;">
       <a href="/">Home</a>

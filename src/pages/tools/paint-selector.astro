@@ -1,8 +1,17 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { buildWebAppSchema } from '../../lib/schema';
 import toolContent from '../../tools-content/paint-selector.html?raw';
+
+const appSchema = buildWebAppSchema({
+  name: "Airbrush Paint Selector",
+  description: "Find the right airbrush-ready paint for your surface, finish and application type.",
+  path: "/tools/paint-selector/",
+  free: true,
+});
 ---
 <BaseLayout title="Airbrush Paint Selector | AirbrushDOC" description="Find the right paint for your surface and application type.">
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(appSchema)} />
   <main class="abd-container" style="padding: 40px 24px 80px;">
     <nav class="abd-breadcrumbs" style="margin-bottom: 24px;">
       <a href="/">Home</a>

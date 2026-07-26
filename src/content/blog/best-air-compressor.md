@@ -8,6 +8,45 @@ readingTime: 14
 draft: false
 heroImage: "/images/wp-uploads/Air_Compressors.webp"
 heroImageAlt: "Airbrush compressor setup on a workbench"
+reviews:
+  - name: "Master Airbrush TC-20"
+    brand: "Master Airbrush"
+    rating: 3.0
+    priceLow: 50
+    priceHigh: 65
+    verdict: "Gets the job done, but you'll upgrade within a year."
+  - name: "Badger Aspire TC909"
+    brand: "Badger"
+    rating: 3.8
+    priceLow: 90
+    priceHigh: 110
+    verdict: "Solid starter compressor from a trusted name."
+  - name: "Iwata-Medea IS 800"
+    brand: "Iwata"
+    rating: 5.0
+    priceLow: 200
+    priceHigh: 240
+    url: "/go/iwata-smart-jet"
+    verdict: "The gold standard for hobbyist compressors."
+  - name: "California Air Tools CAT-1P1060S"
+    brand: "California Air Tools"
+    rating: 4.7
+    priceLow: 180
+    priceHigh: 220
+    url: "/go/california-air-cat1p1060s"
+    verdict: "Premium quiet performance."
+  - name: "Harder & Steenbeck Infinity Two in One"
+    brand: "Harder & Steenbeck"
+    rating: 4.8
+    priceLow: 240
+    priceHigh: 280
+    verdict: "Premium quality at premium price."
+  - name: "Silentaire Sil-Air 50-24"
+    brand: "Silentaire"
+    rating: 5.0
+    priceLow: 450
+    priceHigh: 550
+    verdict: "Worth every penny if you're making money with your airbrush."
 ---
 
 You've got your airbrush. You're excited to start creating. But then you realise: **an airbrush is useless without the right air source.**

@@ -8,6 +8,60 @@ readingTime: 13
 draft: false
 heroImage: "/images/wp-uploads/airbrush.webp"
 heroImageAlt: "Collection of professional airbrushes from top brands"
+reviews:
+  - name: "Iwata Neo CN"
+    brand: "Iwata"
+    rating: 4.5
+    priceLow: 65
+    priceHigh: 80
+    url: "/go/iwata-neo-cn"
+    verdict: "The best value for beginners, hands down."
+  - name: "Badger Patriot 105"
+    brand: "Badger"
+    rating: 4.3
+    priceLow: 90
+    priceHigh: 110
+    url: "/go/badger-patriot-105"
+    verdict: "Versatile workhorse at a great price."
+  - name: "Harder & Steenbeck Ultra"
+    brand: "Harder & Steenbeck"
+    rating: 4.4
+    priceLow: 95
+    priceHigh: 120
+    verdict: "Premium feel at budget price."
+  - name: "Iwata Eclipse HP-CS"
+    brand: "Iwata"
+    rating: 5.0
+    priceLow: 150
+    priceHigh: 175
+    url: "/go/iwata-eclipse-hp-cs"
+    verdict: "The gold standard."
+  - name: "Badger Renegade Krome"
+    brand: "Badger"
+    rating: 4.6
+    priceLow: 140
+    priceHigh: 160
+    url: "/go/badger-renegade-krome"
+    verdict: "Best value for versatility."
+  - name: "Harder & Steenbeck Infinity CR Plus"
+    brand: "Harder & Steenbeck"
+    rating: 4.8
+    priceLow: 180
+    priceHigh: 220
+    url: "/go/hs-infinity-two-in-one"
+    verdict: "Premium quality, premium results."
+  - name: "Iwata Hi-Line HP-CH"
+    brand: "Iwata"
+    rating: 5.0
+    priceLow: 220
+    priceHigh: 260
+    verdict: "For professional illustrators, automotive artists and production work."
+  - name: "Harder & Steenbeck Infinity Solo"
+    brand: "Harder & Steenbeck"
+    rating: 5.0
+    priceLow: 300
+    priceHigh: 360
+    verdict: "For fine art, hyper-realistic work and professional miniature painting."
 ---
 
 Choosing your first airbrush can be overwhelming. Walk into any art store or browse online, and you'll find hundreds of options ranging from $30 Chinese knockoffs to $500+ professional guns.

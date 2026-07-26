@@ -1,8 +1,17 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { buildWebAppSchema } from '../../lib/schema';
 import toolContent from '../../tools-content/quiz.html?raw';
+
+const appSchema = buildWebAppSchema({
+  name: "Airbrush Finder Quiz",
+  description: "Answer six questions about your style, surface and budget to get an airbrush recommendation.",
+  path: "/tools/airbrush-quiz/",
+  free: true,
+});
 ---
 <BaseLayout title="Find Your Perfect Airbrush | AirbrushDOC" description="Answer 6 questions to discover the right airbrush for your style, surface, and budget.">
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(appSchema)} />
   <main class="abd-container" style="padding: 40px 24px 80px;">
     <nav class="abd-breadcrumbs" style="margin-bottom: 24px;">
       <a href="/">Home</a>

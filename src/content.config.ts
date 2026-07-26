@@ -15,6 +15,19 @@ const blog = defineCollection({
     draft: z.boolean().default(false),
     readingTime: z.number().optional(),
     faqs: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
+    // Products reviewed in the post, used to emit Review / ItemList markup.
+    // Declared here rather than parsed out of the prose so it stays accurate
+    // and the ratings are always the author's, never inferred.
+    reviews: z.array(z.object({
+      name: z.string(),
+      brand: z.string().optional(),
+      rating: z.number().min(1).max(5),
+      priceLow: z.number().optional(),
+      priceHigh: z.number().optional(),
+      currency: z.string().default('USD'),
+      url: z.string().optional(),
+      verdict: z.string().optional(),
+    })).optional(),
     wpId: z.number().optional(),
   }),
 });

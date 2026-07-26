@@ -1,11 +1,20 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { buildWebAppSchema } from '../../../lib/schema';
 import { BOOK_AVAILABLE, BOOK_PRICE } from '../../../config';
+
+const appSchema = buildWebAppSchema({
+  name: "Stencil Creator",
+  description: "Turn any photo into a print-ready multi-layer cut stencil and export as PNG, PDF or cut-ready SVG.",
+  path: "/tools/stencil-creator/",
+  free: false,
+});
 ---
 <BaseLayout
   title="Stencil Creator — Free Bonus with The Airbrush Technique Bible | AirbrushDOC"
   description="Turn any photo into a print-ready, multi-layer cut stencil. The Stencil Creator tool is included free with The Airbrush Technique Bible."
 >
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(appSchema)} />
   <main class="abd-container">
     <div class="blg-page-header" style="margin-bottom: 20px;">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">

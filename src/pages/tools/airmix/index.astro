@@ -1,10 +1,19 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { buildWebAppSchema } from '../../../lib/schema';
+
+const appSchema = buildWebAppSchema({
+  name: "AirMix Studio",
+  description: "Paint ratio calculator, project logbook, needle and nozzle reference, and colour harmony tools.",
+  path: "/tools/airmix/",
+  free: true,
+});
 ---
 <BaseLayout
   title="AirMix — Airbrush Studio App | AirbrushDOC"
   description="Free browser-based airbrush studio app. Paint formulas, ratio calculator, project logbook, needle & nozzle reference, and color harmony tools — all in one place."
 >
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(appSchema)} />
   <main class="abd-container" style="padding-bottom: 0;">
     <div class="blg-page-header" style="margin-bottom: 20px;">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
