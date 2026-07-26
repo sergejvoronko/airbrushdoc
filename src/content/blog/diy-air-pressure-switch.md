@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/home-made-pressure-switch1.webp"
 ---
 ## Why DIY Airbrush Compressors Need a Pressure Switch
 
-There is no secret that many Airbrushists love to use DIY stuff as it comes much cheaper and they can spend more money for a good [**airbrush gun**](http://www.airbrushdoc.com/sqeez/).
+There is no secret that many Airbrushists love to use DIY stuff as it comes much cheaper and they can spend more money for a good [**airbrush gun**](/freebies/).
 
 [**Home-made compressor**](/blog/silent-compressor/) build of old refrigerator compressor with an old fire extinguisher tank or even with coke bottle tank and car fuel filters in it isn't unusual anymore. Even manometer isn't a problem to get. The biggest problem is to find an air pressure switch or set it up so it will work properly. I have found out a temporary solution which can be made in few minutes untill you get the real one.
 

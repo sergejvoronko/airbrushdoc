@@ -12,13 +12,13 @@ heroImage: "/images/wp-uploads/Monster-Energy-Theme-Car-23.webp"
 
 *Today's post is from my friend Joseph from Zambia. He has sent me much more stuff that I could enter into one article so you could expect more later on. Now just enjoy simple tutorial with lots of pictures.* 
 
-I first heard about airbrushing in 2006 when I was in college, I spent a lot of time on the net you-tubing any and everything I could on airbrushing, I spent 3 years researching, reading and googling airbrushing, from what an airbrush is, how it works, [what paint to use](/blog/advanced-guide-to-airbrush-colors/), tech nicks, [tricks and tips](http://www.airbrushdoc.com/discussion/), how to maintain it, where to get one, what problem they usually have. 
+I first heard about airbrushing in 2006 when I was in college, I spent a lot of time on the net you-tubing any and everything I could on airbrushing, I spent 3 years researching, reading and googling airbrushing, from what an airbrush is, how it works, [what paint to use](/blog/advanced-guide-to-airbrush-colors/), tech nicks, [tricks and tips](/discussion/), how to maintain it, where to get one, what problem they usually have. 
 
 After all that I finally decided to get one in 2009, but getting an airbrush compressor was not that easy so I opted to get a small single piston compressor from a local hardware store. Since then I have been airbrushing and never ever looked back. I have to admit; it was and has not been easy but now when I look back if it was worth it, **would not change anything**.
 
 ## Monster Levin Car Design Concept
 
-The project I decided to share with audience of [airbrushdoc.com](http://www.airbrushdoc.com) is called **Monster Levin**.
+The project I decided to share with audience of [airbrushdoc.com](/) is called **Monster Levin**.
 
 The car belongs to a friend of mine who just wanted to get the car repainted. So I came up with the idea of designing it the way it is right now, it was designed to be **mat-black** with a **glossy green** for the contrast (monster energy logo). I don't intend to clear coat that car. It probably took me two weeks to finish the job from start to finish. 
 

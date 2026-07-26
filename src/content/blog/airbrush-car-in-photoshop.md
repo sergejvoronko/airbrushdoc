@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush-car-photoshop1.webp"
 ---
 
-Imagine that your client wants to see a preview of his car with the motive he has chosen. Many [airbrush](http://www.airbrushdoc.com) custom studios are doing this previews of airbrush in photoshop or gimp photo-editors on daily basis. And some of them are using projectors to show customer the real size painted car. I've ran couple times into a question about the software used especially for this and questions about making stencils as well...
+Imagine that your client wants to see a preview of his car with the motive he has chosen. Many [airbrush](/) custom studios are doing this previews of airbrush in photoshop or gimp photo-editors on daily basis. And some of them are using projectors to show customer the real size painted car. I've ran couple times into a question about the software used especially for this and questions about making stencils as well...
 
 So today I decided to present a step by step tutorial of an easy way to make a preview of your future work in Photoshop. Personally I think that this is good, not for customers only, but for you as an artist as well.
 

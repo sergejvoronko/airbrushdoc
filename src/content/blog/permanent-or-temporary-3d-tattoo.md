@@ -15,7 +15,7 @@ A small piercing or small **tattoo** are not going to surprise anyone these days
 
 The 21st century gives us 3D in all the forms you can imagine. Especially it didn't go far from **tattoo art**. BTW, Tattoo is one of the oldest arts that made it to nova-days. First **body art** has been found by archaeologists on one of Egypt's mummy. Hence its age, e.g. 4000 years, the art piece was high quality one.
 
-Here I decided to post some works as [gallery](http://www.airbrushdoc.com/gallery/) that have something in common with the [theme of this blog](http://www.airbrushdoc.com/start/).
+Here I decided to post some works as [gallery](/gallery/) that have something in common with the [theme of this blog](/about/).
 
 <div class="abd-gallery abd-gallery-3">
   <div class="abd-gallery-item"><img src="/images/wp-uploads/3D-tattoo-spider-foot.webp" loading="lazy" /></div>
@@ -79,7 +79,7 @@ To be honest some of this art looks scary and frightening but 3D on man's body i
 
 ### Despite this fact in my opinion you should not have any on your body, at least not permanently.
 
-I don't have any **tattoo** and I'm not planing to have one. Better is just to make a **temporary tattoo using [airbrush](http://www.airbrushdoc.com)**. Try it and see how people will react to that and mainly how you, yourself will live with that.
+I don't have any **tattoo** and I'm not planing to have one. Better is just to make a **temporary tattoo using [airbrush](/)**. Try it and see how people will react to that and mainly how you, yourself will live with that.
 
 I would like to know what do you think? Is it worth to have one image on your body for good?
 

@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Charles-Burdick.webp"
 ---
 
-Another important name in history of [**Airbrush**](http://www.airbrushdoc.com) apart from ***Liberty Walkup**,* ***Thayer and Chandler** *or ***Paasche** *is *Charles Burdick*.
+Another important name in history of [**Airbrush**](/) apart from ***Liberty Walkup**,* ***Thayer and Chandler** *or ***Paasche** *is *Charles Burdick*.
 
 **Charles Burdick** came from a family of inventors and pioneers. He worked on various patents and designs throughout his life and is widely attributed with the design of the Airbrush. Following the World Fair he moved to Great Britain where he set up a new airbrush manufacturing company, the Fountain Brush Co., in Clerkenwell Green, London.
 

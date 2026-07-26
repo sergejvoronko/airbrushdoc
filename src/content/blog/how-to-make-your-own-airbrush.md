@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/Home-made-airbrush-91.webp"
 
 The idea to write this article came to me when I found a video of **homemade airbrush** on the web. I got curious and started to look for some more. First, I didn't believe that there are many people making their own airbrushes but you'll be surprised that the number is huge. I've chosen the best of them (in my opinion) and included it in this post.
 
-I'm not sure if any of you are going to use any of next advices maybe if you desperately want to try [airbrushing](http://www.airbrushdoc.com) or need to do some very simple art work on your airplane model, just give it a try ;)
+I'm not sure if any of you are going to use any of next advices maybe if you desperately want to try [airbrushing](/) or need to do some very simple art work on your airplane model, just give it a try ;)
 
 Let's start with the simplest one
 
@@ -97,4 +97,4 @@ I have seen more home-made airbrushes that deserve to be mentioned, but the lack
 
 ![home made airbrush](/images/wp-uploads/1202854799_zubograf-foto.webp)![home made airbrush](/images/wp-uploads/1982357.webp)![home made airbrush](/images/wp-uploads/d181d0b0d0bcd0bed0b4d0b5d0bbd18cd0bdd18bd0b9_-d0b0d18dd180d0bed0b3d180d0b0d184.webp)
 
-If you find this interesting and have something similar (like [**airbrush**](http://www.airbrushdoc.com)) made on your own that you want to share, don't hesitate and comment below...
+If you find this interesting and have something similar (like [**airbrush**](/)) made on your own that you want to share, don't hesitate and comment below...

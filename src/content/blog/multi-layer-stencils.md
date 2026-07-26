@@ -5,7 +5,7 @@ pubDate: 2012-03-19
 category: "download"
 tags: ["airbrush stencils free", "celebrity", "corel stencils", "coreldraw", "download stencil", "free wall stencils", "multi layer stencils", "stencil"]
 readingTime: 3
-draft: true
+draft: false
 heroImage: "/images/wp-uploads/multilayer-stencils.webp"
 ---
 ## New Mix Stencils for Airbrush Artists
@@ -20,25 +20,18 @@ So I created a few of those and decided to tell everyone, not just my subscriber
 
 Here is preview.
 
-[caption id="attachment_7363" align="aligncenter" width="500"]![](/images/wp-uploads/VincentCassel-preview.webp) Vincent Cassel[/caption]
-
-[caption id="attachment_7361" align="aligncenter" width="500"]![](/images/wp-uploads/MichelleRodriguez-preview.webp) Michelle Rodriguez[/caption]
-
-[caption id="attachment_7359" align="aligncenter" width="500"]![](/images/wp-uploads/BruceWillis-preview.webp) Bruce Willis[/caption]
-
-[caption id="attachment_7362" align="aligncenter" width="500"]![](/images/wp-uploads/SylvesterStallone-preview.webp) Sylvester Stallone[/caption]
-
-[caption id="attachment_7360" align="aligncenter" width="500"]![](/images/wp-uploads/JimCarey-preview.webp) Jim Carey[/caption]
-
-[caption id="attachment_7481" align="aligncenter" width="500"]![](/images/wp-uploads/AshtonKutcher-preview.webp) Ashton Kutcher[/caption]
-
-[caption id="attachment_7482" align="aligncenter" width="500"]![](/images/wp-uploads/CristianSlater-preview.webp) Cristian Slater[/caption]
-
-[caption id="attachment_7484" align="aligncenter" width="500"]![](/images/wp-uploads/JamesFranco-preview.webp) James Franco[/caption]
-
-[caption id="attachment_7485" align="aligncenter" width="500"]![](/images/wp-uploads/LeonardoDiCaprio-preview.webp) Leonardo DiCaprio[/caption]
-
-[caption id="attachment_7486" align="aligncenter" width="500"]![](/images/wp-uploads/robertdowneyjr-preview.webp) Robert Downey JR[/caption]
+<div class="abd-gallery abd-gallery-3">
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/VincentCassel-preview.webp" alt="Vincent Cassel multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/MichelleRodriguez-preview.webp" alt="Michelle Rodriguez multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/BruceWillis-preview.webp" alt="Bruce Willis multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/SylvesterStallone-preview.webp" alt="Sylvester Stallone multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/JimCarey-preview.webp" alt="Jim Carey multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/AshtonKutcher-preview.webp" alt="Ashton Kutcher multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/CristianSlater-preview.webp" alt="Cristian Slater multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/JamesFranco-preview.webp" alt="James Franco multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/LeonardoDiCaprio-preview.webp" alt="Leonardo DiCaprio multi-layer airbrush stencil preview" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/robertdowneyjr-preview.webp" alt="Robert Downey JR multi-layer airbrush stencil preview" loading="lazy" /></div>
+</div>
 
 ## Quality and Development Process
 
@@ -46,7 +39,9 @@ The details of these stencils are more complicated and the whole process is taki
 
 ## How to Access the Stencils
 
-Here is the [link](https://rapidshare.com/files/572614094/VincentCassel.zip) to one of these stencils. If you'd like to get your hands on the rest of them you need to be a subscriber. It is **100% FREE** and I think to ask you to subscribe is the least you can do to appreciate my time I invest into this blog and all these stencils.
+Every one of these layered stencils is free to subscribers.
+
+> **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.
 
 I also will appreciate if you share it in your social network (like it, tweet it, give a plus, pin it, digg or stumble it) or leave a comment.
 Cheers.

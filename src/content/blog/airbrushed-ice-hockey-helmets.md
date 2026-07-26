@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/ice_hockey_helmets1.webp"
 ---
 
-Time for [airbrush gallery](http://www.airbrushdoc.com/gallery/) again. I don't know if there is any **ice hockey** season going on right now but I'm going to post it anyway. A gallery of airbrushed helmets, particularly, ice hockey helmets . Maybe you will get some ideas to airbrush helmet yourself. Enjoy :)
+Time for [airbrush gallery](/gallery/) again. I don't know if there is any **ice hockey** season going on right now but I'm going to post it anyway. A gallery of airbrushed helmets, particularly, ice hockey helmets . Maybe you will get some ideas to airbrush helmet yourself. Enjoy :)
 
 ## Airbrushed Helmets Gallery
 

@@ -35,7 +35,9 @@ Not really needed stuff: Laptop or PC and projector.
 
 Here is the design:
 
-[caption id="attachment_10512" align="aligncenter" width="625"]![](/images/wp-uploads/Red-airbrush-tutorial-01.webp) Photoshop Design[/caption]
+![Photoshop Design](/images/wp-uploads/Red-airbrush-tutorial-01.webp)
+
+*Photoshop Design*
 
  
 

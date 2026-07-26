@@ -16,7 +16,7 @@ I would love to welcome here everyone who is still following me and all who reme
 
 Honored Sergej, I feel that if the various art worlds communicated more frequently, we'd all have a lot more great information to work with!
 
-Thanks for the excellent entry about [painting on polymer clay](/blog/airbrushing-on-polymer-clay/)! I was searching for info on using **[Wicked Colors](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/#wicked) on polymer**, and found yours.
+Thanks for the excellent entry about [painting on polymer clay](/blog/airbrushing-on-polymer-clay/)! I was searching for info on using **[Wicked Colors](/blog/advanced-guide-to-airbrush-colors/#wicked) on polymer**, and found yours.
 
 ## Gallery of Forest Rogers' Polymer Clay Work
 
@@ -26,11 +26,17 @@ Here is a couple of my pieces, both in **[Kato Polyclay](http://en.wikipedia.org
 
 Both are tinted with **[Genesis](http://www.genesisartistcolors.com/) Heat Set Paints**:
 
-[caption id="attachment_11609" align="aligncenter" width="1024"]![Goblin Spider](/images/wp-uploads/goblin-spider-2-sml-wb.webp) Goblin Spider by Forest Rogers[/caption]
+![Goblin Spider](/images/wp-uploads/goblin-spider-2-sml-wb.webp)
 
-[caption id="attachment_11607" align="aligncenter" width="922"]![Versailles Mermaid](/images/wp-uploads/001A3145-copy.webp) Versailles Mermaid by Forest Rogers[/caption]
+*Goblin Spider by Forest Rogers*
 
-[caption id="attachment_11606" align="aligncenter" width="960"]![Versailles Mermaid](/images/wp-uploads/001A3113wb.webp) Other look of Versailles Mermaid by Forest Rogers[/caption]
+![Versailles Mermaid](/images/wp-uploads/001A3145-copy.webp)
+
+*Versailles Mermaid by Forest Rogers*
+
+![Versailles Mermaid](/images/wp-uploads/001A3113wb.webp)
+
+*Other look of Versailles Mermaid by Forest Rogers*
 
 ## Tips for Painting Polymer Clay
 
@@ -50,7 +56,9 @@ The other odd paint that is good on polymer clay is **Genesis Heat Set "Oil" pai
 
 P.S. I also make the prototypes for the [Carnegie Museum of Natural History](http://www.carnegiemnh.org/)'s model toy line. The **Carnotaurus** below is unpainted, but when I paint the resin paint guides, I always use the **Golden GAC 200 medium** (by brush). It helps the paint adhere through factory use. This is the **Kato Polyclay** mixed to brown for ease of detailing:
 
-[caption id="attachment_11608" align="aligncenter" width="1024"]![The Carnotaurus](/images/wp-uploads/carnotaurus-wb.webp) The Carnotaurus by Forest Rogers[/caption]
+![The Carnotaurus](/images/wp-uploads/carnotaurus-wb.webp)
+
+*The Carnotaurus by Forest Rogers*
 
 Thanks so much for the suggestions on Wicked Colors! I'm off to try them!
 Love **[Megan's Kirin](/blog/airbrushing-on-polymer-clay/)**!

@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/pc-case-airbrush-4.webp"
 ---
 ## About Steven Lane
 
-*Today's story is from **Steven Lane**, Australian artist, who started using airbrush just a while ago but already loves it. What is also interesting is that he does not limit himself to some special "one" particular style and I feel like he may give you some motivation to try something new. It's also a help to someone with imagination or perhaps [brings back the inspiration](http://www.airbrushdoc.com/discussion/how-to-get-inspiration-for-your-airbrush-art/). Steven Lane will show us some of his airbrush designs and will tell us his story.*
+*Today's story is from **Steven Lane**, Australian artist, who started using airbrush just a while ago but already loves it. What is also interesting is that he does not limit himself to some special "one" particular style and I feel like he may give you some motivation to try something new. It's also a help to someone with imagination or perhaps [brings back the inspiration](/gallery/). Steven Lane will show us some of his airbrush designs and will tell us his story.*
 
 Since childhood I have been painting and drawing as well as taking things apart and putting them back together (That would usually get me in a lot of trouble!). I had seen what an **airbrush** was capable of but had never picked one up or even understood how they worked. I used to work with different mediums but my favorites were **pen and ink**, **pencil and oil painting**.
 

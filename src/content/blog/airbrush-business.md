@@ -28,7 +28,7 @@ Let's go step by step to see what's there on the bill.
 
  	- Taking some of its parts apart
 
- 	- [Car preparation](http://www.airbrushdoc.com/tipstricks/how-to-paint-a-car/) (this is just like "I did it to save money", I don't think your client will be satisfied with this kind of solution)
+ 	- [Car preparation](/blog/prepare-surface-for-airbrush/) (this is just like "I did it to save money", I don't think your client will be satisfied with this kind of solution)
 
  	- Masking
 

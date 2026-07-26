@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/Compressor_oil.webp"
 ---
 ## The Importance of Compressor Oil
 
-In my opinion one of the most important things about your [**compressor**](/blog/air-compressor/) is to use the right oil and change it periodically - that will ensure a long life for the compressor. Especially if you built it yourselves following my article about [**Homemade Compressor**](http://www.airbrushdoc.com/?p=32). If you have bought a professional one you will find the relevant information in the manual.
+In my opinion one of the most important things about your [**compressor**](/blog/air-compressor/) is to use the right oil and change it periodically - that will ensure a long life for the compressor. Especially if you built it yourselves following my article about [**Homemade Compressor**](/blog/homemade-airbrush-compressor/). If you have bought a professional one you will find the relevant information in the manual.
 
 Talking about the homemade compressor I don't have to speculate that much as nobody's compressor has broken by the choice of oil yet it might cause issues with overheating and therefore impact the amount of time you spent airbrushing. So the question is **"Which oil to use?"**. Here's what I'm going to recommend.
 

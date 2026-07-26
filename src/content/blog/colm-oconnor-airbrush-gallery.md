@@ -13,7 +13,7 @@ One day I got an e-mail from guy named Colm, an Irish based airbrush artist. He 
 
 ## Who is Colm O'Connor and what does he do?
 
-Colm is a Wexford (Ireland) based artist who specializes in good old ***pen and paper***, [***airbrush***](http://www.airbrushdoc.com) and ***acrylics***.
+Colm is a Wexford (Ireland) based artist who specializes in good old ***pen and paper***, [***airbrush***](/) and ***acrylics***.
 
 Also dabble in a bit of ***photoshop***, ***illustrator*** and most recently ***web design***.
 He has some background in*** architecture***, **tattoo**, and ***design*** and considers his personal style to be an **eye-catching mix of tattoo, street and pop art**.

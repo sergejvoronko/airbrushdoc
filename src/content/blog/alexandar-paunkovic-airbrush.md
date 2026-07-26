@@ -13,7 +13,7 @@ heroImage: "/images/wp-uploads/cropped-header-airbrushdoc1.webp"
 
 ## Graf Studio Airbrush Art
 
-My name is **Aleksandar Paunkovic**. I am 18 years old and I live in Serbia. Videos of [AirbrushTutor](http://www.airbrushdoc.com/tipstricks/how-to-airbrush/) inspired me to buy my first airbrush just 10 months ago and start making airbrush artworks.
+My name is **Aleksandar Paunkovic**. I am 18 years old and I live in Serbia. Videos of [AirbrushTutor](/blog/start-airbrushing/) inspired me to buy my first airbrush just 10 months ago and start making airbrush artworks.
 
 My first art made with airbrush was portrait of **Robert de Niro**.
 

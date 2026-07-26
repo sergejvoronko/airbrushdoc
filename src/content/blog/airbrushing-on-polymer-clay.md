@@ -63,7 +63,7 @@ Here is Createx reply:
 
 ***All of our paints work onto polymer clay**. Our best preforming and most durable paints are **Auto Air Colors** and **Wicked Colors**. * *They can be applied direct to the clay. Although not absolutely necessary for adhesion, we always recommend starting with [Auto Air 4000 Series Sealers](http://autoaircolors.com/paints/4000series.html). Our sealers adhere excellent to most any substrate, dry quickly and create a very smooth surface to paint and tape on which does not have to be scuffed prior to painting.* *Auto Air and Wicked can be safely oven cured up to 250 - 350 degrees F. Both paints are safe for exposure up to 400 degrees F.* *They also can be inter-layered with solvent-based paints provided the solvent-based paint has flashed it excess solvent/ cured and then scuffed with 600 – 800 grit sandpaper. *
 
-***Neither may be directly inter-mixed with a solvent-based paint**. Here are application guides for [auto-air](http://www.airbrushdoc.com/downloads/crtx/AppGuide_AutoAirColors.pdf) and [createx](http://www.airbrushdoc.com/downloads/crtx/AppGuide_CreatexAirbrushColors.pdf)*
+***Neither may be directly inter-mixed with a solvent-based paint**. Here are application guides for auto-air and createx*
 
 And here is reply from AlsaCorp:
 
@@ -77,6 +77,6 @@ She is working on one project right now and has sent me two snaps.
 
 ![](/images/wp-uploads/kirin-sculpture-2.webp)
 
-*This particular sculpture is a "**Kirin**" or "**QUILIN**" which is sort of an Asian unicorn, or their version of one. It's obviously a fantasy creature and so I've added my own idea's to what a Kirin might look like. The things on its neck are abalone shells which will act as the "scales" of the creature. It will have more of them along its back. After it's complete, it will have a Tibetan lamb hair mane and tail which is why it doesn't have hair yet.* Thank you Megan. I can't wait to see the progress and the final sculpture and also the results of your experiment. Dear reader, if you have anything to add please leave a comment or send me an [email](http://www.airbrushdoc.com/contact/). Otherwise don't forget to spread the love and share.
+*This particular sculpture is a "**Kirin**" or "**QUILIN**" which is sort of an Asian unicorn, or their version of one. It's obviously a fantasy creature and so I've added my own idea's to what a Kirin might look like. The things on its neck are abalone shells which will act as the "scales" of the creature. It will have more of them along its back. After it's complete, it will have a Tibetan lamb hair mane and tail which is why it doesn't have hair yet.* Thank you Megan. I can't wait to see the progress and the final sculpture and also the results of your experiment. Dear reader, if you have anything to add please leave a comment or send me an [email](/contact/). Otherwise don't forget to spread the love and share.
 
 Useful sources: polymer clay web, [polymer clay central](http://www.polymerclaycentral.com/cyclopedia/categories.html), [polymer clay daily](http://polymerclaydaily.com/), [poly clay](http://polyclay.com/PolymerFAQ.htm)

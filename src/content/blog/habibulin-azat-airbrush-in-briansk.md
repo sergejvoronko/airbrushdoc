@@ -28,6 +28,6 @@ Off course I included some links so you can check other art works of this talent
 Find out more here [http://vk.com/airbrush32](http://vk.com/airbrush32)
 
 Anyway, for all my returning visitors, you may have noticed that I have change the design and that I am trying a new type of posts.
-This one is [gallery](http://www.airbrushdoc.com/gallery/) post and it works as a slideshow. So to view the images you just click on arrows on the side of image.
+This one is [gallery](/gallery/) post and it works as a slideshow. So to view the images you just click on arrows on the side of image.
 
 Let me also know if you like this kind of posting.

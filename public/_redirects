@@ -53,11 +53,11 @@
 /discussion/the-story-of-love-airbrush-on-electric-kettle/  /blog/the-story-of-love-airbrush-on-electric-kettle/  301
 /discussion/tuning-airbrush-evolution/  /blog/tuning-airbrush-evolution/  301
 /discussion/what-is-my-art-worth/  /blog/what-is-my-art-worth/  301
-/download/50-skull-stencils-ai-cdr-eps-jpg/  /freebies/  301
-/download/fire-reference-pack-part2/  /freebies/  301
-/download/fire-reference-pack/  /freebies/  301
-/download/multi-layer-stencils/  /freebies/  301
-/download/ultimate-skull-reference-pack/  /freebies/  301
+/download/50-skull-stencils-ai-cdr-eps-jpg/  /blog/50-skull-stencils-ai-cdr-eps-jpg/  301
+/download/fire-reference-pack-part2/  /blog/fire-reference-pack-part2/  301
+/download/fire-reference-pack/  /blog/fire-reference-pack/  301
+/download/multi-layer-stencils/  /blog/multi-layer-stencils/  301
+/download/ultimate-skull-reference-pack/  /blog/ultimate-skull-reference-pack/  301
 /gallery/airbrush-art-alexey-sulkovskiy/  /blog/airbrush-art-alexey-sulkovskiy/  301
 /gallery/airbrush-art-frank-gavere-mfa/  /blog/airbrush-art-frank-gavere-mfa/  301
 /gallery/airbrush-art-marlon-navarro/  /blog/airbrush-art-marlon-navarro/  301
@@ -188,12 +188,11 @@
 /tipstricks/    /guides/    301
 /download/      /freebies/  301
 
-# Download posts → freebies page (content gated behind subscription)
-/blog/50-skull-stencils-ai-cdr-eps-jpg/    /freebies/    301
-/blog/fire-reference-pack/                  /freebies/    301
-/blog/fire-reference-pack-part2/            /freebies/    301
-/blog/multi-layer-stencils/                 /freebies/    301
-/blog/ultimate-skull-reference-pack/        /freebies/    301
+# NOTE: the five download posts deliberately do NOT redirect to /freebies/.
+# They each carry ~20 external backlinks between them, and collapsing distinct
+# URLs onto one generic hub reads as a soft 404 to Google, passing no equity.
+# Each post is a real page that describes its pack and CTAs through to
+# /freebies/, where the files stay gated behind the subscription.
 
 # Merged duplicate into the pillar comparison post
 /blog/iwata-eclipse-vs-hs-evolution-2024/   /blog/iwata-vs-harder-steenbeck/   301

@@ -40,10 +40,7 @@ Here are some examples
 </div>
 
  
-[sociallocker id="12884"] 
-http://ge.tt/3CdWXkq/v/1
-**pass: AirbrushDOC**
-[/sociallocker]
+> **Free for subscribers** — [get this pack on the freebies page](/freebies/).
 
 ## WOLVES
 
@@ -65,10 +62,7 @@ Here are some examples
 </div>
 
 The Pack has 26MB.
-[sociallocker id="12884"] 
-http://ge.tt/3CdWXkq/v/3
-**pass: AirbrushDOC**
-[/sociallocker]
+> **Free for subscribers** — [get this pack on the freebies page](/freebies/).
 
 ## Animal Mix
 
@@ -90,9 +84,6 @@ Here are some examples
 </div>
 
 The Pack has 35MB.
-[sociallocker id="12884"] 
-http://ge.tt/3CdWXkq/v/0
-**pass: AirbrushDOC**
-[/sociallocker]
+> **Free for subscribers** — [get this pack on the freebies page](/freebies/).
 
-I wanted to collect more but I think there is enough of good models to start working on. If you have any ideas what I'm missing here please let me know in comments or send a private message through my [contact form](http://www.airbrushdoc.com/contact/)
+I wanted to collect more but I think there is enough of good models to start working on. If you have any ideas what I'm missing here please let me know in comments or send a private message through my [contact form](/contact/)

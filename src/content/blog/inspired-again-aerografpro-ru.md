@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/aerografpro1.webp"
 ---
 
-Get inspired by another [**airbrush car gallery**](http://www.airbrushdoc.com/gallery/) exhibition show from my eastern friends from Russia. Enjoy :)
+Get inspired by another [**airbrush car gallery**](/gallery/) exhibition show from my eastern friends from Russia. Enjoy :)
 
 ## Here is the airbrush car gallery I promised
 

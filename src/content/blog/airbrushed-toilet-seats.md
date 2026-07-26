@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush_toilet_seats_55.webp"
 ---
 
-As usual it's [gallery](http://www.airbrushdoc.com/gallery/) time and as usual the gallery is unusual :). I have found some pictures of airbrushed toilet seats and as it's unusual to me why not to post it here. Maybe some of you will find it interesting...
+As usual it's [gallery](/gallery/) time and as usual the gallery is unusual :). I have found some pictures of airbrushed toilet seats and as it's unusual to me why not to post it here. Maybe some of you will find it interesting...
 
 ## Airbrushed Toilet Seats Gallery
 

@@ -15,7 +15,7 @@ Here is the schema:
 
 ![](/images/wp-uploads/schema1.webp)
 
-As you noticed this does not include the electric drawing as it is exactly the same as in my earlier [post](http://www.airbrushdoc.com/?p=32). On top of that I've added a pressure switch which needs its own power cord.
+As you noticed this does not include the electric drawing as it is exactly the same as in my earlier [post](/blog/homemade-airbrush-compressor/). On top of that I've added a pressure switch which needs its own power cord.
 
 ## So how does it work?
 

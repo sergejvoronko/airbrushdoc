@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush_gallery_car_52-e1471355410702.webp"
 ---
 
-Yes, this is [airbrush gallery](http://www.airbrushdoc.com/gallery/) again. I think all of you may noticed that the last post has been posted a good while ago. I've planned to post another article about air compressors today but I've been busy last week, so instead of reading, check out some nice pictures of airbrushed cars from Russia.
+Yes, this is [airbrush gallery](/gallery/) again. I think all of you may noticed that the last post has been posted a good while ago. I've planned to post another article about air compressors today but I've been busy last week, so instead of reading, check out some nice pictures of airbrushed cars from Russia.
 
 ## Airbrushed Cars Gallery
 

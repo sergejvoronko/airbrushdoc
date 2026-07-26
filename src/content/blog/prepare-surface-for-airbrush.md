@@ -78,7 +78,7 @@ Not every surface needs all three steps. Fabric doesn't need scuffing or priming
 
 Metal is probably the surface I have the most experience with, especially for automotive and custom graphics work.
 
-Cars and bikes are probably the most common stuff to see on Internet in [airbrush galleries](https://www.airbrushdoc.com/gallery/) and they all have similar surface which is metal.
+Cars and bikes are probably the most common stuff to see on Internet in [airbrush galleries](/gallery/) and they all have similar surface which is metal.
 
 Many people having wrong knowledge about this process are doing way more that is required and some people not knowing enough about this process are just stripping the whole coat off the car leaving **bare metal surface**. Here I recommend the **golden middle** (take off enough of **clear coat** but not too much as the coat is very thin anyway).
 
@@ -94,7 +94,7 @@ So, this hood has base coat on and a few layers of clear coat. To achieve maxima
 
 ![Prepare Car Surface 1 how to airbrush on metal](/images/wp-uploads/Prepare-Car-Surface-1.webp)
 
-The right side of the hood is going to be processed on dry and for that I’m using **abrasive sandpaper** with grit **P800** (for dry sanding!) and **Scoth-Brite UltraFine** (abrasive sponge) from [3M](https://airbrushdoc.com/go/3m-ultrafine).
+The right side of the hood is going to be processed on dry and for that I’m using **abrasive sandpaper** with grit **P800** (for dry sanding!) and **Scoth-Brite UltraFine** (abrasive sponge) from [3M](/go/3m-ultrafine).
 
 Left side of the hood will be done with **abrasive sandpaper P1000** for **wet sanding**.
 
@@ -400,13 +400,13 @@ Miniature preparation is its own discipline. Here's the streamlined workflow:
 
 **Best miniature primers for airbrush:**
 
-- **[Badger Stynylrez](https://airbrushdoc.com/go/badger-stynylrez-primer)** — Sprays like a dream, self-levels, excellent adhesion. The most recommended airbrush primer in the miniatures community. Available in black, white, grey.
+- **[Badger Stynylrez](/go/badger-stynylrez-primer)** — Sprays like a dream, self-levels, excellent adhesion. The most recommended airbrush primer in the miniatures community. Available in black, white, grey.
 
-- **[Vallejo Surface Primer](https://airbrushdoc.com/go/vallejo-surface-primer)** — Excellent quality, many color options. Thin with a small amount of water. Can also be brush-applied.
+- **[Vallejo Surface Primer](/go/vallejo-surface-primer)** — Excellent quality, many color options. Thin with a small amount of water. Can also be brush-applied.
 
-- **[AK Interactive 3rd Gen Primer](https://airbrushdoc.com/go/ak-interactive-gen-primer)** — Good alternative, airbrush-ready.
+- **[AK Interactive 3rd Gen Primer](/go/ak-interactive-gen-primer)** — Good alternative, airbrush-ready.
 
-- **[Citadel spray primers](https://airbrushdoc.com/go/citadel-spray-primers)** — Rattle cans only (not for airbrush). Decent but expensive and weather-dependent.
+- **[Citadel spray primers](/go/citadel-spray-primers)** — Rattle cans only (not for airbrush). Decent but expensive and weather-dependent.
 
 **Airbrush settings for priming miniatures:** 0.3mm or larger nozzle, 20–25 PSI, 4–6 inches distance. Apply in thin passes, 2–3 light coats beats one heavy coat. Let each coat dry for a few minutes before the next.
 

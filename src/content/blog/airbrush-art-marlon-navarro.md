@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/Grafico-Marlon-Navarro.webp"
 ---
 ## About the Artist
 
-*Hi guys! Today's post goes into [gallery](http://www.airbrushdoc.com/gallery/) category again. You could say "Another gallery?", yes indeed but yet another great **airbrush artist** presenting his **airbrush art** right here and right now. When this guy sent me a picture of his version of famous [Heath Ledger](http://en.wikipedia.org/wiki/Heath_Ledger) (**Joker**) from [The Dark Knight movie](http://www.imdb.com/title/tt0468569/) I knew I have to share at least a few of his art works with you guys.* 
+*Hi guys! Today's post goes into [gallery](/gallery/) category again. You could say "Another gallery?", yes indeed but yet another great **airbrush artist** presenting his **airbrush art** right here and right now. When this guy sent me a picture of his version of famous [Heath Ledger](http://en.wikipedia.org/wiki/Heath_Ledger) (**Joker**) from [The Dark Knight movie](http://www.imdb.com/title/tt0468569/) I knew I have to share at least a few of his art works with you guys.* 
 
 Hi, I am an **airbrush artist** from South America (Colombia). Since childhood my passions were drawing and painting.
 

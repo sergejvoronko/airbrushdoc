@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush-paints.webp"
 ---
 
-Let's assume that you have all the equipment that is required for [airbrushing](http://www.airbrushdoc.com). You've got [airbrush gun](/blog/choose-airbrush/) and [compressor](/blog/air-compressor/). You also know what you are going to paint and what surface are you going to paint. The only thing missing is proper paint. When you're starting out you can experiment but I think if you knew something about all the paints available on the market you could save some time and frustration as well.  This article is a compilation and consists of three parts. You don't have to read all of it, that's why I included these links:
+Let's assume that you have all the equipment that is required for [airbrushing](/). You've got [airbrush gun](/blog/choose-airbrush/) and [compressor](/blog/air-compressor/). You also know what you are going to paint and what surface are you going to paint. The only thing missing is proper paint. When you're starting out you can experiment but I think if you knew something about all the paints available on the market you could save some time and frustration as well.  This article is a compilation and consists of three parts. You don't have to read all of it, that's why I included these links:
 
  	- **[Types](#painttypes)**
 
@@ -299,7 +299,7 @@ Here are results collected from votes on this blog (222 total voters):
   <div class="poll-row"><span class="poll-name">Autobourne</span><div class="poll-bar-wrap"><div class="poll-bar-fill" style="--pct:0%"></div></div><span class="poll-pct">0%</span><span class="poll-votes">0</span></div>
 </div>
 
-If you have any suggestion or notes about colors that you use please share it with me. Maybe I've missed some big brand or some specific color types so don't hesitate to leave a comment or send me an [e-mail](http://www.airbrushdoc.com/contact/). As usual don't forget to share this article in your social network (of course if you like it).
+If you have any suggestion or notes about colors that you use please share it with me. Maybe I've missed some big brand or some specific color types so don't hesitate to leave a comment or send me an [e-mail](/contact/). As usual don't forget to share this article in your social network (of course if you like it).
 
 > Sources: [http://www.createxcolors.com/](http://www.createxcolors.com/)
 > [http://www.liquitex.com/](http://www.liquitex.com/)

@@ -30,7 +30,7 @@ Now take the nozzle cap and unscrew the nozzle - use the tool key that comes wit
 
 ![](/images/wp-uploads/6.webp)
 
-For those who want to [start with airbrush](http://www.airbrushdoc.com/beginners) but don't know anything about it yet and probably have never hold an airbrush in their hands, here is an size comparison between the **nozzle** and a lighter.
+For those who want to [start with airbrush](/beginners/) but don't know anything about it yet and probably have never hold an airbrush in their hands, here is an size comparison between the **nozzle** and a lighter.
 
 ![](/images/wp-uploads/7.webp)
 

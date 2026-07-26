@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Jens-working-on-airbrushes-1910.webp"
 ---
 
-[**Airbrush history**](http://www.airbrushdoc.com/history/) of the 20th century starts with name **PAASCHE**.
+[**Airbrush history**](/history/) of the 20th century starts with name **PAASCHE**.
 
 The gunsmith **Jens Andreas Paasche** emigrated from Norway in 1900. For a while he worked for **Thayer and Chandler** but then left them and in 1904 started his own airbrush company. Same way as ***Olaus S. Wold*** who has left "***Thayler and Chandler***" too and called his company **"*Wold Airbrush Company***", Paasche gave his company name **"Paasche Airbrush Company"**.
 
@@ -51,7 +51,7 @@ On the 19th of January 1915 "**Paasche Airbrush Company**" has patented some new
 
 ![](/images/wp-uploads/1915_Paasche_airbrush_cat.webp)
 
-Only 28 of these pages are available and you can download this book [here](http://www.airbrushdoc.com/paaschecatalog).
+Only 28 of these pages are available and you can download this book here.
 
 After this one company publishes their catalogs on a few years basis (1923, 1926, 1929, 1932, 1938, 1939, 1942, ...)
 
@@ -76,7 +76,9 @@ The original factory was constructed in Chicago in 1922.  It was later expanded
 
 ![Paasche Building 2007](/images/wp-uploads/Paasche-Building-2007.webp)Paasche Airbrush is now operated by Jens A. Paasche's grandson John Paasche Pettersen, his wife Vallie Pettersen and their twin sons Brian and Steven Pettersen.
 
-[caption id="attachment_12736" align="aligncenter" width="798"]![](/images/wp-uploads/PAASCHE-EMPLOYEES.webp) Paasche Emplyees[/caption]
+![Paasche Emplyees](/images/wp-uploads/PAASCHE-EMPLOYEES.webp)
+
+*Paasche Emplyees*
 
 Sources: [airbrush museum](http://www.airbrushmuseum.com/), [airbrushwiki](http://airbrushwiki.ru), [Andy Penaluna](http://thecommunicationspace.com/profile/AndyPenaluna)
 

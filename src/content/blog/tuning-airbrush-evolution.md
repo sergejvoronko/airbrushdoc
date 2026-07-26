@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/evolution_2_in_1.webp"
 ---
 ## Understanding the Harder & Steenbeck Evolution Airbrush
 
-When you buy a new [airbrush](http://www.airbrushdoc.com) it's nice clean and shiny and if you will clean it after every use be sure it is going to work for many years. I use [this airbrush](/blog/harder-and-steenbeck-evolution-two-in-one/) for four years and I love it. Some of its specs from official website:
+When you buy a new [airbrush](/) it's nice clean and shiny and if you will clean it after every use be sure it is going to work for many years. I use [this airbrush](/blog/harder-and-steenbeck-evolution-two-in-one/) for four years and I love it. Some of its specs from official website:
 
 - A double-action airbrush
 - Innovative level mechanism

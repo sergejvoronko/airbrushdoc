@@ -13,7 +13,7 @@ Every starting airbrush artist or scale-modeller will get to a point in his life
 
 Here we go! I started it and my first patient is **Aztek 7778 airbrush**. I think that many skilled airbrushists will skip this post as they probably have their experience with this brand or even with this particular airbrush gun.
 
-If you are new to airbrush then read this [posts for beginners](http://www.airbrushdoc.com/beginners/) first. And only then I recommend you to read reviews. I can't promise that I will fill this category really soon but I'll try.
+If you are new to airbrush then read this [posts for beginners](/beginners/) first. And only then I recommend you to read reviews. I can't promise that I will fill this category really soon but I'll try.
 
 To be honest, and pro's will agree, if you decide to choose an airbrush, please choose carefully. Your choice will then be your pain in a butt. The quality of airbrush gun can give you freedom or you can waste a lot of time (not mentioning the frustration).
 
@@ -131,7 +131,7 @@ The fitting of reservoirs is interesting - they can be done from any side so it 
 
 ![](/images/wp-uploads/nozzle_tip_conection.webp)And the magic wheel for switching the action regime
 
-![](/images/wp-uploads/aztek_wheel1.webp)First impression when you see the wheel - you may think that it's for control of needle move. In this case you just change the needle starting position. If we screw the needle to most right we get maximum flow of paint at all time (there you go - single action). But if you screw the needle to the most left the paint flow will be blocked and it won't work at all. So you will have to find a position somewhere in the middle which you're comfortable with. This can be done in 30 secs and I think that this kind of system can help to adjust the [airbrush](http://www.airbrushdoc.com) for special type of work. You can not only switch regimes but even adjust them.
+![](/images/wp-uploads/aztek_wheel1.webp)First impression when you see the wheel - you may think that it's for control of needle move. In this case you just change the needle starting position. If we screw the needle to most right we get maximum flow of paint at all time (there you go - single action). But if you screw the needle to the most left the paint flow will be blocked and it won't work at all. So you will have to find a position somewhere in the middle which you're comfortable with. This can be done in 30 secs and I think that this kind of system can help to adjust the [airbrush](/) for special type of work. You can not only switch regimes but even adjust them.
 
 ## Functionality
 
@@ -155,6 +155,6 @@ As I mentioned before, the size of the set is asking for more, but I overestimat
 
 After looking for other people reactions I found that very common problem is that wire inside the gun will ripe up after about 6 months of use. And as I said manufacturer isn't selling spare parts for the gun. To avoid this do not make rapid moves with the pedal. Overall feeling is that most of your money you will pay for a nice packed stuff that can be used but with some limits.
 
-[support airbrushdoc by shopping at Chicago Airbrush Supply](http://www.airbrushdoc.com/chicagoairbrush)
+support airbrushdoc by shopping at Chicago Airbrush Supply
 
 If you have any experience with this tool please leave your comment, what do you think about it and what are your recommendations.

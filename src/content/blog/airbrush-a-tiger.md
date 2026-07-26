@@ -25,7 +25,7 @@ Rotation polishing machine, Abranet-400 disks, soft pad, Scotch-Brite, degreaser
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-03.webp" loading="lazy" /></div>
 </div>
 
-After I've [prepared the surface](http://www.airbrushdoc.com/tipstricks/preparing-surface-for-airbrushing/) I'll start with white and paint the whole image in kind of negative from a to z, every small detail, every hair even if you going to hate it after a few hours but get it all up.
+After I've [prepared the surface](/blog/prepare-surface-for-airbrush/) I'll start with white and paint the whole image in kind of negative from a to z, every small detail, every hair even if you going to hate it after a few hours but get it all up.
 
 <div class="abd-gallery abd-gallery-3">
   <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-04.webp" loading="lazy" /></div>

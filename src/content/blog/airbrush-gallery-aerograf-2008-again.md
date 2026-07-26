@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/DSC00499.webp"
 
 Well yes, again! Why? If you follow my site you know that I have posted a gallery from this Russian exhibition event for everyone who loves airbrush. Yes I'm posting the gallery again but this time there is more. More pictures, more angles, more details, better resolution and even some works that weren't there before. The gallery may take a while to load as there is 360 images...
 
-I've been out for a couple of weeks and now when I'm back I'm trying to finish an article I started before, but still don't have time to do that, So enjoy this [airbrush gallery](http://www.airbrushdoc.com/gallery/).
+I've been out for a couple of weeks and now when I'm back I'm trying to finish an article I started before, but still don't have time to do that, So enjoy this [airbrush gallery](/gallery/).
 
 It was not taken from any site. It is a private collection of pictures made with authors own camera.
 

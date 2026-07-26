@@ -5,11 +5,11 @@ pubDate: 2011-02-10
 category: "download"
 tags: ["50 skulls", "ai", "airbrush", "airbrush gallery", "airbrush photo", "airbrush skull", "airbrush skull stencil downloadable", "airbrush skulls", "airbrush stencils", "cdr", "eps", "free eps airbrush stencil", "free stencils", "skull", "skull art", "skull reference pack", "skull stencil", "skull stencils", "stencil", "stencils"]
 readingTime: 1
-draft: true
+draft: false
 heroImage: "/images/wp-uploads/50-scull-stencils1.webp"
 ---
 
-Here we go again. Another pack of [stencils](http://www.airbrushdoc.com/sqeez/) comes from a very good source [**aerografpro**](http://aerografpro.narod.ru/). All skull stencils are stored in separate folders and there is a palette of 4 formats to choose from.
+Here we go again. Another pack of [stencils](/freebies/) comes from a very good source [**aerografpro**](http://aerografpro.narod.ru/). All skull stencils are stored in separate folders and there is a palette of 4 formats to choose from.
 
 Vector graphics are ready for print:
 
@@ -43,6 +43,5 @@ Some examples:
   <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_050_aerografpro.ru_.webp" loading="lazy" /></div>
 </div>
 
-download link:
-https://drive.google.com/file/d/1U17mvsGNN_oTob8pRcJp410BJwv0iXH6/view?usp=sharing
+> **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.
 

@@ -24,7 +24,7 @@ Brother as a true airbrush artist decided to do also some painting. The car is a
 
 ![](/images/wp-uploads/sub-woofer.webp)
 
-You may have seen some snapshots on my [Facebook fan page](http://www.airbrushdoc.com/onfacebook) already but I've promised to make a video so here it is.
+You may have seen some snapshots on my [Facebook fan page](https://www.facebook.com/airbrushdoc) already but I've promised to make a video so here it is.
 
 https://youtu.be/4qC7NECTQlw
 

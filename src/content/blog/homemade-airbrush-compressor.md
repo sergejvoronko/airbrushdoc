@@ -97,7 +97,7 @@ That’s all you will need at the moment:
 
 ![](/images/wp-uploads/compressor04.webp)
 
-Next we have to change the oil. Why? Read next [article](http://www.airbrushdoc.com/?p=688) on this topic.
+Next we have to change the oil. Why? Read next [article](/blog/oil-compressor/) on this topic.
 
 At this stage there is a technical question: Which type of compressor do you have in your hands? By shape there are two types - cylindrical and casserole type. First one is practically extinct as production of this type stopped at the end of 70s, but if you manage to find one and it’s alive you are very lucky. The pressure on its output is higher than on casserole type. So how do we change the oil? The cylindrical one has a big screw-bolt. Unscrew it and drain out the oil into some bowl so you can later measure the volume of the oil. Depending on the type of cylinder it might be something between 300ml and 500ml. Then screw the bolt back and don’t forget to seal it using silicon sealant.
 
@@ -105,7 +105,7 @@ With the casserole type it is a bit more complicated as there is 3 pipes stickin
 
 [![](/images/wp/2010/12/compressor02-500x242.gif)](/images/wp/2010/12/compressor02.gif)![](/images/wp-uploads/compressor05.webp)
 
-On the second picture is the same compressor however a bit restored ![icon smile Home made airbrush compressor](http://www.airbrushdoc.com/wp-includes/images/smilies/icon_smile.gif) and with new oil already in. As you can see I've used rubber hose on the oil pipe outlet.
+On the second picture is the same compressor however a bit restored ! and with new oil already in. As you can see I've used rubber hose on the oil pipe outlet.
 
 For this type of compressor you will need about 250 – 350 ml of oil. After that screw the lag screw into rubber hose and put some rubber seal under the screw.
 
@@ -128,7 +128,7 @@ For this type of compressor we will need receiver with capacity of 1 – 2l. Pra
 
 How to make a receiver? When you have your bottle ready take the lid off and drill two holes into it. If you can get 2 copper pipes something like 15cm each (if the pipes on the compressor are long enough you can cut those off but leave at least 10cm on the compressor). These pipes are supposed to fit into holes on the lid you’ve drilled before. After fitting put some epoxy resin on the inside of the lid but not too much so you can screw the lid back on the bottle. Do that only when the epoxy is dry. Don’t forget to use some silicon sealant between the bottle and the lid. When you will be fitting the pipes make sure they are very close and their ends are exactly as on the drawing (output pipe is shorter and the end is positioned higher).
 
-After you have all the parts ready you can see what size of board you will need for the chassis. Don’t forget that compressor needs some cooling so leave some more space around it. I used timber board with size of 30cmx40cm. The finish of the panel is up to your own taste. I've also used rubber pads to prevent the stand from moving during the work process and it absorbs the noise as well. I hope you didn’t forget all the screws at the crime scene ![icon smile Home made airbrush compressor](http://www.airbrushdoc.com/wp-includes/images/smilies/icon_smile.gif) as now you’ll need them to mount your compressor to the timber board.
+After you have all the parts ready you can see what size of board you will need for the chassis. Don’t forget that compressor needs some cooling so leave some more space around it. I used timber board with size of 30cmx40cm. The finish of the panel is up to your own taste. I've also used rubber pads to prevent the stand from moving during the work process and it absorbs the noise as well. I hope you didn’t forget all the screws at the crime scene ! as now you’ll need them to mount your compressor to the timber board.
 
 I would recommend mounting the receiver exactly as you see below:
 

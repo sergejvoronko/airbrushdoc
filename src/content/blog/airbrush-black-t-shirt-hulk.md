@@ -26,7 +26,9 @@ First I had to make guides to transfer the picture onto the t-shirt. I've made a
 
 I've used paints **Jacard** (white opaque). I've sprayed it over the stencil and right after this step I ran into a trouble because of fuzz that is so unpredictable and so obvious when you work with t-shirts. What I've done is I got rid of it just by using a masking tape (taping it around my finger with the sticky site on the outside). When the textile is clear from the fuzz you can work on it without the problem. I also recommend ironing it before you start.
 
-[caption id="attachment_10630" align="aligncenter" width="660"]![hulk-airbrush-t-shirt-1](/images/wp-uploads/hulk-airbrush-t-shirt-1.webp) Airbrushing Hulk on T-shirt - Step 1[/caption]
+![hulk-airbrush-t-shirt-1](/images/wp-uploads/hulk-airbrush-t-shirt-1.webp)
+
+*Airbrushing Hulk on T-shirt - Step 1*
 
 ## Building Depth with Light and Shadow
 

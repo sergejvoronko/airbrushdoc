@@ -13,7 +13,7 @@ Maybe you all remember that I have mentioned this **airbrush** before. I did not
 
 When I started to search for a perfect airbrush I had some requirements. One of them was the price and I bet that perfect one would cost a nice bunch of cash. So the word "perfect"  here is limited by it cost. I didn't want to spend fortune on something I wasn't sure is worth this money. And paying just for a brand name was not an option too.
 
-I preferred an [airbrush](http://www.airbrushdoc.com) with **gravity feed**. Another reason to consider was good build and availability of spare parts for the gun - for a good price as well. I was checking even the quality of materials that airbrush is made of.
+I preferred an [airbrush](/) with **gravity feed**. Another reason to consider was good build and availability of spare parts for the gun - for a good price as well. I was checking even the quality of materials that airbrush is made of.
 
 ![](/images/wp-uploads/Harder-and-Steenback-Evolution-1.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-2.webp)
 
@@ -65,4 +65,4 @@ I hope that this is enough just to see that this is very good airbrush.
 
 I am satisfied with this airbrush (even with some surprises that it showed). I would recommend also to add to your buying list AB-117 quick release and quick fix. The work with airbrush is easy. Really satisfying is that Germans did confirm the quality of their product (again don't forget to check my earlier post about this tool I have mentioned in the first paragraph). Comparing to my earlier patient [Aztek 7778](/blog/aztek-7778-airbrush/) it is better tool even if it doesn't have that much accessories packed in beautiful box. **Evolution Two in One **gives me much more flexibility in fine art and I highly recommend buying  this [airbrush for beginners](/blog/choose-airbrush/).
 
-[support airbrushdoc by shopping at Chicago Airbrush Supply](http://www.airbrushdoc.com/chicagoairbrush)
+support airbrushdoc by shopping at Chicago Airbrush Supply

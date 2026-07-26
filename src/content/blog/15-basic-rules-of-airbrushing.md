@@ -11,9 +11,9 @@ heroImage: "/images/wp-uploads/airbrush-schema1.webp"
 
 My readers who have painted a few pieces on their own are probably not that interested in reading any poems because most of their mistakes were already made and probably fixed too and they know how to deal with it next time as they found the solution to every wrong step by themselves.
 
-Why do I write this article then? Well, many of [airbrush beginners](http://www.airbrushdoc.com/beginners/) have not heard the evil HISS of compressed air and didn't get the edgy scent of spilled reducer yet. So, while just starting out, they may avoid many of most common mistakes that could be made in airbrushing, just by reading this article.
+Why do I write this article then? Well, many of [airbrush beginners](/beginners/) have not heard the evil HISS of compressed air and didn't get the edgy scent of spilled reducer yet. So, while just starting out, they may avoid many of most common mistakes that could be made in airbrushing, just by reading this article.
 
-My dear newbies, I hope you have already made choice on [**airbrush gun**](/blog/choose-airbrush/), [**air compressor**](/blog/air-compressor/) and you have read the [**airbrush color guide**](/blog/advanced-guide-to-airbrush-colors/). Now it is time to get to know some basic airbrush rules that you have to follow while working with [airbrush](http://www.airbrushdoc.com). Many of this rules have different tendency and some are more important and some less. I tried to arrange them as best as I could and I hope nobody will get lost while reading it.
+My dear newbies, I hope you have already made choice on [**airbrush gun**](/blog/choose-airbrush/), [**air compressor**](/blog/air-compressor/) and you have read the [**airbrush color guide**](/blog/advanced-guide-to-airbrush-colors/). Now it is time to get to know some basic airbrush rules that you have to follow while working with [airbrush](/). Many of this rules have different tendency and some are more important and some less. I tried to arrange them as best as I could and I hope nobody will get lost while reading it.
 
 ## Airbrush and Safety
 
@@ -21,7 +21,7 @@ Usually with paints like urethane or lacquer need to wear a mask with proper fil
 
 Any paint is dangerous to breathe, even if it says non-toxic. I would compare it to smoking.
 
-Passive smoking is more dangerous than smoking itself, now imagine that you inhale the spray dust every time your [airbrush](http://www.airbrushdoc.com) is atomizing and all **that stuff lands in your lungs**!
+Passive smoking is more dangerous than smoking itself, now imagine that you inhale the spray dust every time your [airbrush](/) is atomizing and all **that stuff lands in your lungs**!
 ![](/images/wp-uploads/respirator.webp)
 Make sure the pigments are NOT poisonous i.e. contain lead of cadmium or zinc... It could be very dangerous. Well I heard that some of them can kill you very quickly if you inhale them... but I can't confirm that.
 

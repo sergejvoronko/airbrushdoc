@@ -62,7 +62,7 @@ The use of liquid frisket comes in handy when your art piece includes many tiny 
 
 ### Stencils for Airbrush Art
 
-**Stencils ** - Everybody knows what stencils are. A lot of airbrush artist can't imagine to work without them but they are not that crucial. Yes, they make our lives easier but I know about artists that don't use them at all and paint unbelievable art (for example - [Airbrush Fitto](http://www.airbrushfitto.com/)). If you are the one that can't exist without stencils then I recommend to visit [Airsick Stencils](http://www.airbrushdoc.com/airsick-stencils) store - their stencils are one of the best.
+**Stencils ** - Everybody knows what stencils are. A lot of airbrush artist can't imagine to work without them but they are not that crucial. Yes, they make our lives easier but I know about artists that don't use them at all and paint unbelievable art (for example - [Airbrush Fitto](http://www.airbrushfitto.com/)). If you are the one that can't exist without stencils then I recommend to visit Airsick Stencils store - their stencils are one of the best.
 
 ## Cutting and Precision Tools
 

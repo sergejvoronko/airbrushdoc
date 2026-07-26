@@ -34,7 +34,7 @@ Alright, but what if it happened already? If you lost adhesion between clear-coa
 
 ### b. for plastic
 
-![](/images/wp-uploads/adhesion-plastic.webp)When you lose adhesion with plastic there is more causes than in previous case. First of all it could be poorly cleaned surface, contamination and bad treated material. Also very common cause when you did not identify the plastic substrate properly (I mentioned this in post about [preparing plastic surface](http://www.airbrushdoc.com/tipstricks/preparing-plastic-surface-for-airbrush/)). If you don't use proper primer or wrong coat.
+![](/images/wp-uploads/adhesion-plastic.webp)When you lose adhesion with plastic there is more causes than in previous case. First of all it could be poorly cleaned surface, contamination and bad treated material. Also very common cause when you did not identify the plastic substrate properly (I mentioned this in post about [preparing plastic surface](/blog/prepare-surface-for-airbrush/)). If you don't use proper primer or wrong coat.
 
 To prevent this effect identify, clean and degrease the plastic surface properly. Follow all recommendations from manufacturer. Use recommended primer and keep recommended mixing ratio. Use only proper and recommended coat system for particular plastic substrate.
 
@@ -54,7 +54,7 @@ Once the mistake is done, sand the area very good, refill and refinish.
 
 I think it is better to tell exactly what to do to avoid them. First and most important is to keep your working place as clean as possible. Also wear special spray suits. Sometimes if you're painting the car you should connect the body to electrical earth, as it helps to prevent any static charges on the surface to attract any dust. Clean the surface from any dirt and dust (use air to blow everything out outside the spray booth).
 
-If the effect appears anyway, wait until it dries completely, then fine-sand (dry sand with P1000 - P2000, wet sand from P2000 and up) and [polish](http://www.airbrushdoc.com/tipstricks/how-to-polish-the-car/). Sand and polish very lightly so you won't get rid of the top layer. If the effect is very extreme I recommend sanding it properly and painting it again.
+If the effect appears anyway, wait until it dries completely, then fine-sand (dry sand with P1000 - P2000, wet sand from P2000 and up) and [polish](/blog/prepare-surface-for-airbrush/). Sand and polish very lightly so you won't get rid of the top layer. If the effect is very extreme I recommend sanding it properly and painting it again.
 
 ## 3. Orange Peel
 

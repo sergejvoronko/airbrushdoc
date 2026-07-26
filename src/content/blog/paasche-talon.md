@@ -100,7 +100,7 @@ In the manual book you will find useful lessons for beginners. Even if you are t
 
 ## Performance Testing
 
-I have run till today a bit of **[Createx](http://www.airbrushdoc.com/beginners/advanced-guide-to-airbrush-colors/#createx)** paint through this airbrush and I have to admit I was not expecting that airbrush in this price range will be that good.
+I have run till today a bit of **[Createx](/blog/advanced-guide-to-airbrush-colors/#createx)** paint through this airbrush and I have to admit I was not expecting that airbrush in this price range will be that good.
 
 Here are some lines and dots compared to 2 cent euro coin.
 
@@ -120,6 +120,6 @@ With the 0.38mm and 0.25mm head set-up, this is a really surprisingly very good 
 
 My overall feeling is that I really like this tool and I still can't believe that this quality airbrush gun can be that cheap (Update: My gun is still fine but there are people with kind of different experience, check this out - [bad talon](/blog/paasche-talon-problem/)).
 
-Big thanks to [Chicago Airbrush Supply](http://www.airbrushdoc.com/chicagoairbrush) to be so kind for sponsoring this review. Follow that link to get to the page with actual price.
+Big thanks to Chicago Airbrush Supply to be so kind for sponsoring this review. Follow that link to get to the page with actual price.
 
 👉 **[Check the Paasche Talon price on Amazon →](/go/paasche-talon-starter-set)**

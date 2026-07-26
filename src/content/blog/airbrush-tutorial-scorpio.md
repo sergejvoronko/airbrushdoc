@@ -36,7 +36,7 @@ Here is what I needed to make it happen:
 
 ## Surface Preparation for the Scorpio Airbrush Design
 
-Before I start painting I have to prepare the surface of the bonnet. For this purpose I used **Scotch-Brite** and sanded the whole top side of the bonnet untill it lost its glance. The bonnet has to become mat. You can also use some other techniques such as the ones described in [Preparing Surfaces for Airbrushing](http://www.airbrushdoc.com/tipstricks/preparing-surface-for-airbrushing/) but I did it with Scotch-Brite. When you prepare the surface don't forget to degrease it by using anti-silicone.
+Before I start painting I have to prepare the surface of the bonnet. For this purpose I used **Scotch-Brite** and sanded the whole top side of the bonnet untill it lost its glance. The bonnet has to become mat. You can also use some other techniques such as the ones described in [Preparing Surfaces for Airbrushing](/blog/prepare-surface-for-airbrush/) but I did it with Scotch-Brite. When you prepare the surface don't forget to degrease it by using anti-silicone.
 
 ## Step-by-Step Scorpio Airbrush Painting Process
 

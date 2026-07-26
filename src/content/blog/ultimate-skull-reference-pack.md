@@ -5,7 +5,7 @@ pubDate: 2011-03-18
 category: "download"
 tags: ["airbrush skull", "airbrush skull reference", "airbrush skull references", "airbrush skulls", "reference for airbrush", "reference skull", "skull art", "skull drawings", "skull photo", "skull reference", "skull reference pack"]
 readingTime: 2
-draft: true
+draft: false
 heroImage: "/images/wp-uploads/Human_Skull_2_by_rgstock777.webp"
 ---
 ## Skull Reference Pack for Airbrush Artists
@@ -53,3 +53,5 @@ But hey, why to go elsewhere when you have most of it here in couple of clicks. 
 <div class="abd-gallery-item"><img src="/images/wp-uploads/American_Kaiser_Dragon_Skull_by_Zhon.webp" loading="lazy" /></div>
 <div class="abd-gallery-item"><img src="/images/wp-uploads/A_dragon_and_his_skull_by_alecan.webp" loading="lazy" /></div>
 </div>
+
+> **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.

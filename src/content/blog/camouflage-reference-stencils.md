@@ -33,7 +33,7 @@ Have you heard the term "**Digital Camo**"? It is probably the youngest type of 
 
 After I've read about generator I found out that there is [online DIY Stencil generator](http://tacticalcamo.com/MARPAT/digi.php) for camouflages. Well the thing is that you can generate any pattern you want and choose colors you want but then if you want the real stencil you'll have to buy it (I don't know anything about the quality of it).
 
-I think that it is worth to mention here that my friends from **[airsick stencils](http://www.airbrushdoc.com/airsick-stencils)** have camouflage stencils in their shop too and I can guarantee the quality of all of their stencils - **they are the best**. At the moment I am working on a review of their stencils and very soon I'll publish it so stay with me.
+I think that it is worth to mention here that my friends from **airsick stencils** have camouflage stencils in their shop too and I can guarantee the quality of all of their stencils - **they are the best**. At the moment I am working on a review of their stencils and very soon I'll publish it so stay with me.
 
 You can always do everything by yourself, that's why I prepared the material below.
 
@@ -72,7 +72,7 @@ It took me much more time to prepare these stencils comparing to the pack above.
   <div class="abd-gallery-item"><img src="/images/wp-uploads/tigerstripe-preview.webp" loading="lazy" /></div>
 </div>
 
-Here is the link ([ge.tt](http://ge.tt/9R7JdlF/v/7)) to one of the stencils. In order to get access to the rest you have to be a subscriber (it is totally free) and you can have the stencil ready to print in your favorite program.
+Here is the link  to one of the stencils. In order to get access to the rest you have to be a subscriber (it is totally free) and you can have the stencil ready to print in your favorite program.
 
 BTW, if you are newbie at this and don't exactly know how to use the stencil to paint camouflage I found this [site](http://www.mcarterbrown.com/forums/diy-tech/5266-how-choose-paint-your-marker.html) very useful and informative. Also there is a lot of videos on YouTube walking you through all the process.
 

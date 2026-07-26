@@ -80,7 +80,7 @@ Another great thing about Harder & Steenback airbrushes is their compatibility. 
 
 The only con of this tool is its price. But quality always cost more. Overall I am very impressed by the work, look and feel of this very well balanced airbrush and can recommend it to everyone. If you don't have enough finances for this guy I would recommend Evolution 2 in1 as it's almost exact copy of infinity (or the other way around) except for few details that gives Inifnity the right to carry its name.
 
-[support airbrushdoc by shopping at Chicago Airbrush Supply](http://www.airbrushdoc.com/chicagoairbrush)
+support airbrushdoc by shopping at Chicago Airbrush Supply
 
 Next time I'll try to get my hands on my brother's [Iwata Custom Micron](/blog/iwata-custom-micron-c-plus/).
 

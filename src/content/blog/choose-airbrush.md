@@ -13,7 +13,7 @@ Why do we have to choose the best *airbrush gun*? I think that many of my visito
 
 Let's say you are totally new to airbrushing, a newbie that loves art and loves to paint, knows how to use a pencil or a brush and one day someone has told you to try airbrush or maybe you have seen it somewhere and considered to give it a try. I'm sure that you have seen some videos about "***how to airbrush***" on the Internet already and finally you've decided - "**Yes** - I want to do **Airbrush**!".
 
-> Many times you may have noticed that people call *airbrush gun* just *airbrush. *Well, to give everything the right name I'm not going to call airbrush gun just simple **airbrush** because [airbrush](http://www.airbrushdoc.com) in my opinion is a type of art but not a tool, at least in this article I'm going to call it gun.
+> Many times you may have noticed that people call *airbrush gun* just *airbrush. *Well, to give everything the right name I'm not going to call airbrush gun just simple **airbrush** because [airbrush](/) in my opinion is a type of art but not a tool, at least in this article I'm going to call it gun.
 
 What you have to know that not always it is so easy to start because you will have to invest some money in it. I just want to warn you now that beside airbrush gun you will need other tools ([air compressor](/blog/air-compressor/), [special paints](/blog/advanced-guide-to-airbrush-colors/) ...). In this post precisely, I'm going to talk about airbrush guns only.
 

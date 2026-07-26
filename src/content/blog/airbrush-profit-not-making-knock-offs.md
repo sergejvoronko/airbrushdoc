@@ -39,7 +39,7 @@ Placing second offer on the market with a different price completely changes the
 
 ### Adding Value Through Bundling
 
-Watch this, by adding even more, for example a video course or a book (i.e [how to airbrush for beginners](http://www.airbrushdoc.com/airbrush-reviews/classic-airbrush-techniques/)) the price increases even more.
+Watch this, by adding even more, for example a video course or a book (i.e [how to airbrush for beginners](/blog/start-airbrushing/)) the price increases even more.
 
 ## The Psychology of Pricing Strategy
 
