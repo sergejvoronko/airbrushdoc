@@ -2,6 +2,7 @@
 title: "Street Art Airbrush from Per Corell"
 description: "Not that long ago I got a message from Danish Street Artist name Per Corell who decided to share excellent tool with me. It was Street Art Airbrush made from ."
 pubDate: 2012-08-23
+updatedDate: 2026-05-13
 category: "gallery"
 tags: ["airbrush", "Danemark artist", "garden-spray airbrush", "homemade airbrush", "Per Corell", "street art", "street art stencils"]
 readingTime: 6

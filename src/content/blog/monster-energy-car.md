@@ -2,6 +2,7 @@
 title: "Monster Energy Car from Zambia"
 description: "The project I decided to share with audience of airbrushdoc is called Monster Energy Car - Levin. The car belongs to a friend of mine who just wanted"
 pubDate: 2012-09-24
+updatedDate: 2026-05-13
 category: "gallery"
 tags: ["airbrush monster energy logo", "airbrush zambia", "black mat car", "levin car", "monster energy car"]
 readingTime: 8

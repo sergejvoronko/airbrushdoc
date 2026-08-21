@@ -2,6 +2,7 @@
 title: "Airbrush Compressor Review (AS189)"
 description: "Todays adept for airbrush compressor review is AS-189 from Chinese factory. No, I didn't buy it in China, I have a local seller here that sells this fella under"
 pubDate: 2012-05-02
+updatedDate: 2026-05-13
 category: "airbrush-reviews"
 tags: ["3L air tank", "air compressor", "airbrush compressor", "as189", "Cheap air compressor", "Chinese airbrush compressor", "compressor reviews", "review"]
 readingTime: 5

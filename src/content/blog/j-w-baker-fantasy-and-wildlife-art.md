@@ -2,6 +2,7 @@
 title: "J.W. Baker - Fantasy and Wildlife Art"
 description: "J W has been painting all his life and believes that the purpose of art is communication. I have been actively “communicating” throughout my life through .."
 pubDate: 2012-01-02
+updatedDate: 2026-05-13
 category: "gallery"
 tags: ["acrylic and oil", "airbrush artist", "airbrush gallery", "Fantasy Art", "gallery", "J W Baker", "Sandi Baker", "Wildlife Art", "Wolf Song Studio"]
 readingTime: 3

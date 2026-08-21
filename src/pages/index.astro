@@ -64,7 +64,7 @@ const features = [
 ];
 ---
 <BaseLayout
-  title="AirbrushDOC — Cures for Your Canvas | Reviews, Tutorials &amp; Free Stencils"
+  title="Airbrush Reviews, Tutorials &amp; Free Stencils | AirbrushDOC"
   description="Cures for Your Canvas. Expert airbrush equipment reviews, step-by-step tutorials, and free downloadable stencils — for beginners and professionals since 2010."
 >
   <link slot="head" rel="preload" as="image" href="/images/airbrushdoc.webp" imagesrcset="/images/airbrushdoc-mobile.webp 900w, /images/airbrushdoc.webp 1536w" imagesizes="100vw" fetchpriority="high" />
@@ -581,7 +581,9 @@ const features = [
 
 @media (max-width: 768px) {
   .abd-hero-full-content { flex-direction: column; align-items: flex-start; gap: 32px; padding: 60px 24px; }
-  .abd-hero-right { align-items: flex-start; flex-direction: row; flex-wrap: wrap; }
+  .abd-hero-right { align-items: flex-start; max-width: 100%; }
+  .abd-hero-full-subtitle { text-align: left; }
+  .abd-hero-ctas { justify-content: flex-start; }
   .abd-hero-full-bg { left: 0; width: 100%; }
   .abd-hero-full-overlay::before { background: linear-gradient(to bottom, rgba(10,10,10,0.5) 0%, rgba(10,10,10,0.3) 100%); }
 }

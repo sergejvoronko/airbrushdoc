@@ -2,6 +2,7 @@
 title: "The Story of Love - Airbrush on Electric Kettle"
 description: "Last time I've had nice chat with author and founder of that site and he gave me the permission to use his website as my source of information. As most of my .."
 pubDate: 2011-08-08
+updatedDate: 2026-05-13
 category: "guides"
 tags: ["airbrush", "airbrush electric kettle", "nice motif for airbrush", "ochre color", "photorealistic shadow", "step by step airbrush", "UNREALTECH.RU"]
 readingTime: 12

@@ -2,6 +2,7 @@
 title: "The Right Oil For Your Compressor"
 description: "Mineral oil in these conditions is loosing its properties really fast. That causes compressor to overheat, raises noise level, and causes damage..."
 pubDate: 2011-02-05
+updatedDate: 2026-07-05
 category: "discussion"
 tags: ["airbrush compressor", "can I put car oil in my compressor", "compressor", "compressor oil", "motor oil", "oil advise", "synthetic oil for compressor"]
 readingTime: 3

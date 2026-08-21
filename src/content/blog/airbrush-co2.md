@@ -2,6 +2,7 @@
 title: "Water in Airbrush and Using CO2"
 description: "This article talks about the quality of water for airbrush, its effect on your artwork and providing some kind of solution. Mentioning CO2 ... "
 pubDate: 2012-10-22
+updatedDate: 2026-05-13
 category: "beginners"
 tags: ["airbrush co2", "airbrush nitrogen", "airbrush water", "water in air source"]
 readingTime: 6

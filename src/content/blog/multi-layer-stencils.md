@@ -2,6 +2,7 @@
 title: "Mix Stencils"
 description: "Anyone hungry for stencils? Celebrity look better and show more character if they have more shades of a color then only two. Mix Stencils!"
 pubDate: 2012-03-19
+updatedDate: 2026-07-26
 category: "download"
 tags: ["airbrush stencils free", "celebrity", "corel stencils", "coreldraw", "download stencil", "free wall stencils", "multi layer stencils", "stencil"]
 readingTime: 3

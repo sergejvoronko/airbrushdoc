@@ -2,6 +2,7 @@
 title: "More Tools for Airbrush"
 description: "Last time I mentioned some tools for airbrush and thought that for the time being the topic is covered and wanted to prepare a “how to” about"
 pubDate: 2012-12-11
+updatedDate: 2026-05-13
 category: "beginners"
 tags: []
 readingTime: 6

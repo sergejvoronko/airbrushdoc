@@ -2,6 +2,7 @@
 title: "How to Start Airbrushing? What to Get?"
 description: "If you are just thinking about airbrushing and maybe just looking for some more info than continue reading about tools needed to start airbrushing.."
 pubDate: 2012-12-03
+updatedDate: 2026-05-13
 category: "beginners"
 tags: ["air hose", "airbrush cleaning station", "airbrush holder", "airbrush lube", "airbrush supply", "buy airbrush", "kabuki tape", "masking tape", "nylon precision brush set", "superlube"]
 readingTime: 6

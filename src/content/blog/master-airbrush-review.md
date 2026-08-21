@@ -2,6 +2,7 @@
 title: "Master Airbrush Review"
 description: "I realized there are some unknown manufacturers offer something that looks like the high-end airbrushes, eg, Iwata CM-C Plus. People won't have the budget.."
 pubDate: 2012-03-27
+updatedDate: 2026-05-13
 category: "airbrush-reviews"
 tags: ["airbrush review", "airbrush reviews", "bad airbrush", "chinese airbrush", "master airbrush", "needle offset", "nozzle offset"]
 readingTime: 7

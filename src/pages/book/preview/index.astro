@@ -16,13 +16,14 @@ import { BOOK_AVAILABLE, BOOK_PRICE } from '../../../config';
     </div>
 
     <div class="book-prose">
+      <h1 class="book-page-title">The Airbrush Technique Bible — Free Preview</h1>
       <p style="font-style:italic; color:var(--abd-text-muted); font-size:0.85rem; margin-bottom:48px;">
         From First Spray to Professional Results · 17 Chapters · By AirbrushDOC
       </p>
 
       <img src="/images/book/intro.webp" alt="The Airbrush Technique Bible — Introduction" style="width:100%; border-radius:8px; margin-bottom:40px;" />
 
-      <h1>Introduction: Why This Book Exists</h1>
+      <h2 class="book-chapter-title">Introduction: Why This Book Exists</h2>
 
       <p>There are thousands of airbrush tutorials online. YouTube is full of them. So why would you pay for a book?</p>
       <p><strong>Because tutorials teach you tricks. This book teaches you how to think.</strong></p>
@@ -45,7 +46,7 @@ import { BOOK_AVAILABLE, BOOK_PRICE } from '../../../config';
 
       <hr />
 
-      <h1>Chapter 1: Understanding Your Airbrush</h1>
+      <h2 class="book-chapter-title">Chapter 1: Understanding Your Airbrush</h2>
       <img src="/images/book/ch01.webp" alt="Chapter 1 — Understanding Your Airbrush" style="width:100%; border-radius:8px; margin:0 0 32px;" />
       <p>Before you can use an airbrush well, you need to understand what it actually is — not just how to hold it, but how it works mechanically and why those mechanics matter for the results you get.</p>
       <p>Most beginners skip this chapter in spirit. They read the words but rush to start spraying. Don't. The artists who develop fastest are the ones who can feel what's happening inside the airbrush while they work. That understanding starts here.</p>
@@ -99,12 +100,15 @@ import { BOOK_AVAILABLE, BOOK_PRICE } from '../../../config';
 
 <style>
 .book-prose { line-height: 1.8; }
-.book-prose h1 {
+.book-prose h1,
+.book-prose .book-chapter-title {
   font-family: var(--abd-font-display); font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 800; color: var(--abd-text); letter-spacing: -0.02em;
   margin: 48px 0 20px;
 }
-.book-prose h1:first-child { margin-top: 0; }
+.book-prose h1:first-child,
+.book-prose .book-chapter-title:first-child { margin-top: 0; }
+.book-prose .book-page-title { margin: 0 0 10px; }
 .book-prose h2 { font-size: 1.15rem; font-weight: 700; color: var(--abd-text); margin: 32px 0 14px; }
 .book-prose p { color: var(--abd-text-dim); margin-bottom: 16px; }
 .book-prose strong { color: var(--abd-text); }
