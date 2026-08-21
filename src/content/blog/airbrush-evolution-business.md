@@ -27,7 +27,7 @@ By 1885 Airbrush production was in full swing and **Liberty Walkup** was able to
 
 ## 1885 – The Production Model Airbrush
 
-![](/images/wp-uploads/walkup.webp)![](/images/wp-uploads/85patpro.webp)![](/images/wp-uploads/incase.webp)
+![Early wooden-handled airbrush laid on red fabric](/images/wp-uploads/walkup.webp)![L. Walkup paint distributor patent drawing beside the original airbrush](/images/wp-uploads/85patpro.webp)![Antique airbrush and its tools presented in a red-lined presentation case](/images/wp-uploads/incase.webp)
 
 **Patented in January 1885**, the production model Airbrush came in a smart black case complete with spare needles in a glass jar and a toolkit comprising of a screwdriver and tweezers. The two spare paint spoons at the top of the box were spare parts that could be ordered separately from a parts catalogue. Mass production techniques were employed so each airbrush carried an individual number on the reverse of the handle to identify it.
 

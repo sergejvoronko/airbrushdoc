@@ -19,9 +19,9 @@ Renegade range comes in around $150 and has three models in this series where ev
 
 Please note that the airbrushes photographed in this review are **Special Edition** Black finish (black electroplated brass).
 
-![](/images/wp-uploads/Badger-Renegate-Review-2.webp)
-![](/images/wp-uploads/Badger-Renegate-Review-3.webp)
-![](/images/wp-uploads/Badger-Renegade-Review.webp)
+![Closed Harder & Steenbeck moulded carry case](/images/wp-uploads/Badger-Renegate-Review-2.webp)
+![Open Badger Renegade case with airbrush, jar and accessories in foam](/images/wp-uploads/Badger-Renegate-Review-3.webp)
+![The three Badger Renegade models with their cups, jars and adaptors](/images/wp-uploads/Badger-Renegade-Review.webp)
 
 So, what's inside of Extreme Set?
 
@@ -45,7 +45,7 @@ So, what's inside of Extreme Set?
 
 **Gravity feed** airbrush with **ultra-fine tip **(0.21mm). Paint cup in this model  is integrated on top of the airbrush body (1/4 oz). Gravity feed means that this airbrush will require less air pressure compared to other feed systems (the paint does not need to be pulled into the body - [read more](/blog/choose-airbrush/)).
 
-![](/images/wp-uploads/Badger-Velocity-Airbrush.webp)
+![Badger Velocity gravity-feed airbrush with top cup](/images/wp-uploads/Badger-Velocity-Airbrush.webp)
 
 Actually **Badger’s Renegade Series** of airbrushes are not that new as they have been out for few years already. All they've done is that they just revised them a little. If you are already familiar with the Renegade series all of this will be more like a revision.
 
@@ -69,13 +69,13 @@ I can say that this airbrush is very good for **fine art**, especially for **fre
 
 The second airbrush of the Renegade line is the **Spirit** with** side feed and ultra fine tip **(0.21mm). Here the cup can be attached to the right or left side of the airbrush. The paint flows from the cup through a small pipe into the body of airbrush. This allows the paint cup to be rotated from horizontal to vertical so that the brush can be held even vertically without spilling out the paint.
 
-![](/images/wp-uploads/Badger-Spirit-Airbrush.webp)
+![Badger Spirit side-feed airbrush with its paint cup fitted](/images/wp-uploads/Badger-Spirit-Airbrush.webp)
 
 ## Badger Rage
 
 The third model is Rage with **bottom feed**, or **siphon feed**, with a fine tip ( 0.33 mm). This model has paint cup mounted under the airbrush and the paint is drawn up into the body of the brush as a result of air pressure differential resulting from the airflow. The bottom feed allows the user to switch between colors when more than one color cup is used. The paint will not leak from the siphon feed paint cup when sitting on the workbench.
 
-![](/images/wp-uploads/Badger-Rage-Airbrush.webp)
+![Badger Rage bottom-feed airbrush body without a jar](/images/wp-uploads/Badger-Rage-Airbrush.webp)
 
 ## My Experience with Renegade Airbrushes
 
@@ -85,7 +85,7 @@ Other note about paint cups as on the **Velocity** (*gravity feed*), and the **S
 
 Paint tip on **Velocity** (*gravity*) and **Spirit** (*side feed*) is **“ultra fine” at .21mm**. The **Rage** (*bottom feed*) is **fine at 0.33mm**. While you'll be able to easy achieve fine lines with the **ultra fine tip**, the **fine tip** makes **soft-pencil thick lines**.
 
-![](/images/wp-uploads/badger-lines.webp)
+![Fine airbrushed lines beside a steel ruler showing millimetre spacing](/images/wp-uploads/badger-lines.webp)
 
 Always be careful when handling the needle while cleaning and especially when re-inserting the needle into the body.
 

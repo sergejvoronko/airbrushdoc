@@ -37,7 +37,7 @@ This day has come. Today's candidate for airbrush compressor review is AS-189 fr
 
 Here is the box:
 
-![](/images/wp-uploads/as189-2.webp)
+![Retail box for the AS-189 mini piston-type air compressor](/images/wp-uploads/as189-2.webp)
 
 It is a single Cylinder Piston Compressor with 3L Air Tank and 1/6 Horse Power. The speed is 1450 - 1700 rpm and it can deliver 20~23L per minute. **Double Air Pressure switch** means that you can choose between two regimes:
 
@@ -47,7 +47,7 @@ It is a single Cylinder Piston Compressor with 3L Air Tank and 1/6 Horse Power. 
 
 All this is described in **instructional manual**
 
-![](/images/wp-uploads/as189-3.webp)
+![Opened AS-189 compressor instruction manual showing the product photo](/images/wp-uploads/as189-3.webp)
 
 ### Key Details and Compatibility
 
@@ -55,37 +55,37 @@ Another thing to be really aware of is the outlet thread which is 1/8 BSP.  In c
 
 In manual you can also find all the safety instructions and of course complete list of parts which compressor is built of.
 
-![](/images/wp-uploads/as189-4.webp)
+![AS-189 manual page with the exploded spare-parts diagram and parts list](/images/wp-uploads/as189-4.webp)
 
 ## Why Choose the AS-189 Compressor
 
 First reason was that it was cheaper than most other air compressors with the tank and second reason was the tank. I think that I have mentioned before all the good qualities of compressor with some reservoir to store the air (that's why each of the [diy compressors](/blog/) have their own tank). The main positive property is that because of tank you will **lose the pulsing air effect** at the output and other is that** compressor doesn't have to be on all the time**. By considering this fact, the life of compressor engine increases. Also tank is a great first in line **moisture trap**.
 
-![](/images/wp-uploads/as189-5.webp)
+![AS-189 compressor cylinder showing the model and specification label](/images/wp-uploads/as189-5.webp)
 
-![](/images/wp-uploads/as189-6.webp)
+![AS-189 compressor viewed from above with the motor cooling fan visible](/images/wp-uploads/as189-6.webp)
 
 On the picture above you can see the special Double Air Pressure switch.
 
-![](/images/wp-uploads/as189-7.webp)
+![AS-189 compressor mounted on its air tank, seen from the front](/images/wp-uploads/as189-7.webp)
 
 And here is the detail on gauge and the air regulator.
 
-![](/images/wp-uploads/as189-9.webp)
+![Close-up of the AS-189 double air pressure switch and cut-off adjuster](/images/wp-uploads/as189-9.webp)
 
 ## AS-189 Design and Build Quality
 
 The AS189 compressor is very compact. You can see on the picture bellow my hand holding its handle, **it is really compact compressor**.
 
-![](/images/wp-uploads/as189-10.webp)
+![Close-up of the AS-189 pressure gauge and air regulator assembly](/images/wp-uploads/as189-10.webp)
 
 Here are few more shots of the whole product.
 
-![](/images/wp-uploads/as189-111.webp)
+![AS-189 compressor with regulator and moisture trap fitted, side view](/images/wp-uploads/as189-111.webp)
 
-![](/images/wp-uploads/as189-13.webp)
+![Orlik-branded compressor unit photographed from the rear](/images/wp-uploads/as189-13.webp)
 
-![](/images/wp-uploads/as189-14.webp)
+![Complete Orlik AS-189 compressor with tank, gauge and warning labels](/images/wp-uploads/as189-14.webp)
 
 ## Performance and Noise Testing
 

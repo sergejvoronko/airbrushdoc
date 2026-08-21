@@ -19,11 +19,11 @@ First of all let's see what we have in the box and what feeling does it make whe
 
 ## First Impressions of Iwata
 
-![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-2.webp)![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-1.webp)![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-unboxing.webp)
+![Closed red Iwata Custom Micron case](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-2.webp)![Iwata badge on the lid of the red Custom Micron case](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-1.webp)![Custom Micron case opened with the airbrush, manual and leaflets](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-unboxing.webp)
 
 Nice metal box and nice finish color which gives you the felling of top quality. The nice box (definitely in this case) is not just for a demonstration. So, what's in it?
 
-![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-4.webp)
+![Iwata Custom Micron airbrush seated in its fitted case](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-4.webp)
 
  	- The airbrush gun itself
 
@@ -35,17 +35,17 @@ Nice metal box and nice finish color which gives you the felling of top quality.
 
 ## Closer Look at Custom Micron
 
-**![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-51.webp)**It is **a gravity feed double action** airbrush with **internal mix**. It comes with only one 9ml cup but with a lid by default. Airbrush comes only with one nozzle tip 0.23mm (100psi/0.2cfm) but you can optionally buy smaller 0.18mm tip.
+**![Iwata Custom Micron C Plus airbrush, full side view](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-51.webp)**It is **a gravity feed double action** airbrush with **internal mix**. It comes with only one 9ml cup but with a lid by default. Airbrush comes only with one nozzle tip 0.23mm (100psi/0.2cfm) but you can optionally buy smaller 0.18mm tip.
 
-![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-18.webp)![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-19.webp)In my opinion the default tip 0.23mm is good enough for the finest art work you may need. The lines are so thin that I don't see any reason to buy additional nozzle tip which is expensive too.
+![Custom Micron held in the hand with the needle withdrawn](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-18.webp)![Close-up of the Custom Micron paint cup and trigger](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-19.webp)In my opinion the default tip 0.23mm is good enough for the finest art work you may need. The lines are so thin that I don't see any reason to buy additional nozzle tip which is expensive too.
 
 If I look at everything that comes with this airbrush, I can see a big difference when comparing to airbrushes I have reviewed before ([airbrush reviews](/airbrush-reviews/)). Actually the set is very poor. So, what makes this airbrush so special and so expensive?
 
  	- **Quick Fix with a dial**
 
-![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-6.webp)Yes, it has a speed dial similar to one I mentioned in [Infinity review](/blog/harder-and-steenbeck-infinity-review/). The function is similar to set the limit for trigger maximum level. As in Infinity it adjusts the needle movement and paint flow but it doesn't have two functions (screwing only).
+![Custom Micron tail with the knurled needle-stop adjuster](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-6.webp)Yes, it has a speed dial similar to one I mentioned in [Infinity review](/blog/harder-and-steenbeck-infinity-review/). The function is similar to set the limit for trigger maximum level. As in Infinity it adjusts the needle movement and paint flow but it doesn't have two functions (screwing only).
 
-![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-9.webp)
+![Iwata CM-C body showing the model marking along the barrel](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-9.webp)
 
 It has open quick fix but some professionals prefer to work without it. Some even take the front part off. Why? First it gives you better visibility and second, the airbrush feels much lighter. So, all that fancy speed dial becomes useless in hands of a Pro. When I asked for advice "*Have* you ever needed to use speed dial to limit the paint flow?" I received an answer "*No, I have a good feeling in my fingers, why would I need to limit the paint flow and waste my time playing with a dial. It is for beginners only*".
 
@@ -59,7 +59,7 @@ Also useful feature when you use more airbrushes at the same time or perhaps if 
 
  	- **The Cup 9ml**
 
-Is permanent (means no leaks at all). The size is good for any user doing fine art and the lid is a plus too. ***![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-10.webp)***
+Is permanent (means no leaks at all). The size is good for any user doing fine art and the lid is a plus too. ***![Close-up of the polished Custom Micron paint cup interior](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-10.webp)***
 
 ## Minuses (cons) of Custom Micron
 
@@ -77,7 +77,7 @@ This is the most common problem but it's only user fault. In some cases needles 
 
 Here is the airbrush taken apart.
 
-***![](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-16.webp)***
+***![Custom Micron dismantled into body, needle, nozzle and cap](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-16.webp)***
 
 ## Cleaning
 

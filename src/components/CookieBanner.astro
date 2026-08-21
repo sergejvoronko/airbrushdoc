@@ -72,7 +72,12 @@
 
   function dismiss() { banner?.classList.remove('abd-cookie-show'); }
 
-  acceptBtn?.addEventListener('click', () => { localStorage.setItem('abd-cookie-consent', 'accepted'); dismiss(); });
+  acceptBtn?.addEventListener('click', () => {
+    localStorage.setItem('abd-cookie-consent', 'accepted');
+    // Let consent-gated third-party embeds (Gravatar avatars) load without a reload.
+    window.dispatchEvent(new CustomEvent('abd-consent-accepted'));
+    dismiss();
+  });
   declineBtn?.addEventListener('click', () => { localStorage.setItem('abd-cookie-consent', 'declined'); dismiss(); });
 
   // Basic focus trap

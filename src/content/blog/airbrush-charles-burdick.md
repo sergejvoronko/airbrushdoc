@@ -13,13 +13,13 @@ Another important name in history of [**Airbrush**](/) apart from ***Liberty Wal
 
 **Charles Burdick** came from a family of inventors and pioneers. He worked on various patents and designs throughout his life and is widely attributed with the design of the Airbrush. Following the World Fair he moved to Great Britain where he set up a new airbrush manufacturing company, the Fountain Brush Co., in Clerkenwell Green, London.
 
-![](/images/wp-uploads/burdick.webp) The US market was left to **Thayer and Chandler** while he pursued Europe and the British Empire. He took advantage of the lack of development in airbrush design and even developed an air driven eraser that could be used alongside the airbrush.
+![Portrait photograph of Charles Burdick, inventor of the airbrush](/images/wp-uploads/burdick.webp) The US market was left to **Thayer and Chandler** while he pursued Europe and the British Empire. He took advantage of the lack of development in airbrush design and even developed an air driven eraser that could be used alongside the airbrush.
 It is clear that he studied the use of atomizers and was reputed to be friends with **Doctor Allan Devilbiss** who patented medical throat sprays. He was most likely aware of previous patents that included centralized needle control systems which he employed in his own design of airbrush. Below is an extremely rare **prototype** which could be considered to be an early spray can design as it mixes the paint and air internally.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/burlong.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/burdprot.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/burfaces.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/burlong.webp" loading="lazy" alt="Early airbrush work associated with Charles Burdick — image 1 of 6" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/burdprot.webp" loading="lazy" alt="Early airbrush work associated with Charles Burdick — image 2 of 6" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/burfaces.webp" loading="lazy" alt="Early airbrush work associated with Charles Burdick — image 3 of 6" /></div>
 </div>
 
 ## Charles Burdick, airbrushed art
@@ -31,9 +31,9 @@ It is clear that he studied the use of atomizers and was reputed to be friends w
 ## 1893 – Fountain Airbrush by Charles Burdick
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/96apart.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/pat05_burdick00434105l-1.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/pat06_burdick00474158l-1.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/96apart.webp" loading="lazy" alt="Early airbrush work associated with Charles Burdick — image 4 of 6" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/pat05_burdick00434105l-1.webp" loading="lazy" alt="Early airbrush work associated with Charles Burdick — image 5 of 6" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/pat06_burdick00474158l-1.webp" loading="lazy" alt="Early airbrush work associated with Charles Burdick — image 6 of 6" /></div>
 </div>
 
 **Charles Burdick’s** design had developed significantly from the original Walkup Airbrush which he had initially copied. On the picture is the design presented at the 1893 show. And in the right is the updated patent for the 1896 Production model which can be seen partially dismantled below. Note that Burdick is not named as the inventor as by this time he had left for Great Britain. The instrument would cost $30 for the handpiece or $43 to include the tank and pump.

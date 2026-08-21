@@ -201,13 +201,19 @@ const features = [
             <p class="abd-testi-text">"{t.text}"</p>
             <div class="abd-testi-author">
               <div class="abd-testi-avatar">
-                {(t.avatar || t.gravatar) && (
+                {t.avatar && (
                   <img
-                    src={t.avatar ?? `https://www.gravatar.com/avatar/${t.gravatar}?d=blank&s=80`}
+                    src={t.avatar}
                     alt={t.author} loading="lazy"
                     onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
                 )}
-                <div class="abd-testi-avatar-fallback" style={!(t.avatar || t.gravatar) ? 'display:flex' : undefined}>{t.author[0]}</div>
+                {!t.avatar && t.gravatar && (
+                  <img
+                    data-gravatar={`https://www.gravatar.com/avatar/${t.gravatar}?d=blank&s=80`}
+                    alt={t.author} loading="lazy" style="display:none"
+                    onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+                )}
+                <div class="abd-testi-avatar-fallback" style={!t.avatar ? 'display:flex' : undefined}>{t.author[0]}</div>
               </div>
               <span class="abd-testi-name">{t.author}</span>
               {t.year && <span class="abd-testi-year">{t.year}</span>}
@@ -766,3 +772,19 @@ const features = [
 }
 
 </style>
+
+<script>
+  // Gravatar is a third party (Automattic) and the request reveals the visitor's
+  // IP, so avatars only load once cookie consent is given.
+  function abdLoadGravatars() {
+    document.querySelectorAll<HTMLImageElement>('img[data-gravatar]').forEach(img => {
+      img.src = img.dataset.gravatar!;
+      img.style.display = '';
+      const fb = img.nextElementSibling as HTMLElement | null;
+      if (fb) fb.style.display = 'none';
+      img.removeAttribute('data-gravatar');
+    });
+  }
+  if (localStorage.getItem('abd-cookie-consent') === 'accepted') abdLoadGravatars();
+  else window.addEventListener('abd-consent-accepted', abdLoadGravatars, { once: true });
+</script>

@@ -1,5 +1,6 @@
 ---
 title: "Airbrush Troubleshooting: Every Common Problem & How to Fix It (2026 Guide)"
+seoTitle: "Airbrush Troubleshooting: Every Problem & Fix (2026)"
 description: "Airbrush not working? Spitting, spidering, bubbling, clogging, I cover every common airbrush problem with step-by-step fixes. 15+ years of real solutions."
 pubDate: 2025-12-09
 category: "guides"

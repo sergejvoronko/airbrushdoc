@@ -28,48 +28,48 @@ BTW, I think I've been one of the first to make a compressor from an old fridge 
 Here are some of my works.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-1.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-2.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-4.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-5.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-6.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-7.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-8.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-9.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-10.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-11.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-12.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-13.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-14.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-15.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-16.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-17.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-18.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-20.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-22.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-23.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-25.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-26.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-27.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-28.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-29.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-31.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-32.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-33.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-35.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-37.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-38.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-39.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-1.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 1 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-2.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 2 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-3.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 3 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-4.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 4 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-5.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 5 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-6.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 6 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-7.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 7 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-8.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 8 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-9.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 9 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-10.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 10 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-11.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 11 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-12.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 12 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-13.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 13 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-14.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 14 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-15.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 15 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-16.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 16 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-17.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 17 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-18.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 18 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-20.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 19 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-22.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 20 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-23.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 21 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-25.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 22 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-26.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 23 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-27.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 24 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-28.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 25 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-29.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 26 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-31.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 27 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-32.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 28 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-33.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 29 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-35.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 30 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-37.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 31 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-38.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 32 of 33" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/street-art-airbrush-39.webp" loading="lazy" alt="Street art airbrush piece by Per Corell — image 33 of 33" /></div>
 </div>
 
 ## Professional Airbrush Equipment and Artistic Development
 
 When I again started with airbrush, I found the same two used airbrushes on Ebay (wonder if one of them could be the same as the ones we used back in 67).
 
-![](/images/wp-uploads/airbrush-per-corell-2.webp)
+![Row of airbrushes stored in a wooden bench holder](/images/wp-uploads/airbrush-per-corell-2.webp)
 
-![](/images/wp-uploads/airbrush-per-corell.webp)
+![Several airbrushes laid out on the workbench beside their hoses](/images/wp-uploads/airbrush-per-corell.webp)
 
 Today I use only quality airbrushes. **Efbe**, **Grafo**, **H&S**, **Aeroraph Super 63** and tools like that and I love finding an old tool on Ebay, to restore it with new nozzle and O rings. My style is very different from the traditional skulls and bones. If you look on my [Facebook images](https://www.facebook.com/per.corell/photos) a lot of what you see there as smaller paintings on canvas, is also painted in huge size as **Street Art**. Some 4 years ago I cooperated with the German Street Art master [Seak](https://www.facebook.com/seakone) and we made a piece that the local still today call "**our little mermaid**". You will find a woman holding hand weights in over size that is the one.
 
@@ -93,9 +93,9 @@ https://www.youtube.com/watch?v=wgk7Zcc78Sw
 
 The Garden Airbrush has been used for some 3 years for whole figures and finer details in my Street Art. But I think it have an opportunity within Street Art by adding the Airbrush techniques, that is difficult with a spray can. Beside it is a cheap alternative to get an quality airbrush.
 
-![](/images/wp-uploads/street-art-airbrush-30.webp)
+![Airbrush connected to a portable pressurised spray bottle system](/images/wp-uploads/street-art-airbrush-30.webp)
 
-![](/images/wp-uploads/street-art-airbrush-21.webp)
+![Portable airbrush system with the bottle, hose and airbrush assembled](/images/wp-uploads/street-art-airbrush-21.webp)
 
 ### DIY Garden Airbrush Construction
 

@@ -34,7 +34,7 @@ Now I need just an air compressor. First I went through all local stores that se
 
 So this is how I got the main parts. What more did I need? After looking through some materials and info on Internet I decided to use **regulator** and **needle valve**. As connection between each component I've decided to use **copper pipes**.
 
-![](/images/wp-uploads/diy-air-compressor-7.webp)
+![Fridge compressor and tank mounted on a board with a blue silencer](/images/wp-uploads/diy-air-compressor-7.webp)
 
 ## Building and Troubleshooting the Electronics
 
@@ -48,7 +48,7 @@ As I found out later on, this kind of the compressor needs longer period to star
 
 I had to find out how to close the circuit for at least 0.4 sec and then ensure it goes off. Then I've found something in my own collection that I bought a few years back to provide soft start of electric motor and could switch the working regime to **star-triangle** (Electricians know what that means). It is called "**Time Relay**"
 
-![](/images/wp-uploads/diy-air-compressor-4.webp)
+![ODM 1 electronic relay module used to switch the compressor](/images/wp-uploads/diy-air-compressor-4.webp)
 
 That way the compressor gets whole second to start which was enough. Now all I needed was a pressure regulator. I found a relay from hydraulic pump. It needed some tweaks as it was switching off at about 75psi. I just changed the spring and the bolt inside of it.
 
@@ -56,13 +56,13 @@ That way the compressor gets whole second to start which was enough. Now all I n
 
 That's was it. And here is the finished device.
 
-![](/images/wp-uploads/diy-air-compressor-3.webp)
+![Small DIY compressor with a blue receiver beside the motor unit](/images/wp-uploads/diy-air-compressor-3.webp)
 
-![](/images/wp-uploads/diy-air-compressor-2.webp)
+![DIY compressor assembly with the tank mounted above the pump](/images/wp-uploads/diy-air-compressor-2.webp)
 
-![](/images/wp-uploads/diy-air-compressor.webp)
+![DIY compressor with cooling fan, blue tank and pressure gauge](/images/wp-uploads/diy-air-compressor.webp)
 
-![](/images/wp-uploads/diy-air-compressor-5.webp)
+![Twin-compressor build with regulators, gauges and copper pipework](/images/wp-uploads/diy-air-compressor-5.webp)
 
 Another nice build of air compressor for all airbrush artists or DIY enthusiasts. If you like it don't forget to comment or tweet it, like it and give it a plus. In one word - "SHARE".
 

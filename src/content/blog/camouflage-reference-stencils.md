@@ -42,18 +42,18 @@ You can always do everything by yourself, that's why I prepared the material bel
 Here is some preview from the pack.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-1.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-9.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-4.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-1.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-1.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-19.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-22.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-10.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-11.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-5.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-1.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 1 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-3.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 2 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-clothes-9.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 3 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-4.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 4 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-1.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 5 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-gear-3.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 6 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-1.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 7 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-19.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 8 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-22.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 9 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-10.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 10 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-11.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 11 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Camouflage-pattern-5.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 12 of 21" /></div>
 </div>
 
 ## Camouflage Stencils
@@ -61,15 +61,15 @@ Here is some preview from the pack.
 It took me much more time to prepare these stencils comparing to the pack above. This is just a preview.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo1-preview.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo2-preview.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo3-preview.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo4-preview.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo6-preview.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo-preview.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/capcamo-preview.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/grass-preview.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/tigerstripe-preview.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo1-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 13 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo2-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 14 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo3-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 15 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo4-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 16 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo6-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 17 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/camo-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 18 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/capcamo-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 19 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/grass-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 20 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/tigerstripe-preview.webp" loading="lazy" alt="Camouflage reference pattern and stencil — image 21 of 21" /></div>
 </div>
 
 Here is the link  to one of the stencils. In order to get access to the rest you have to be a subscriber (it is totally free) and you can have the stencil ready to print in your favorite program.

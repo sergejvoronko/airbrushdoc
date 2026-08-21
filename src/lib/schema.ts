@@ -121,3 +121,104 @@ export function buildWebAppSchema({
     publisher: PUBLISHER,
   };
 }
+
+export interface BreadcrumbCrumb {
+  name: string;
+  /** Absolute path, e.g. "/tools/". Omit on the final (current) crumb. */
+  path?: string;
+}
+
+/** BreadcrumbList mirroring the visible breadcrumb nav on a page. */
+export function buildBreadcrumbSchema(crumbs: BreadcrumbCrumb[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((c, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: c.name,
+      ...(c.path && { item: `${SITE}${c.path}` }),
+    })),
+  };
+}
+
+/** FAQPage from question/answer pairs that are visible on the page. */
+export function buildFaqSchema(faqs: { q: string; a: string }[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(f => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  };
+}
+
+export interface BookOpts {
+  name: string;
+  description: string;
+  url: string;
+  image?: string;
+  numberOfPages?: number;
+  /** Undefined while the book is pre-launch — no Offer is emitted. */
+  price?: string;
+  currency?: string;
+  available: boolean;
+}
+
+/**
+ * Book + Offer for the paid edition. While `available` is false the book is
+ * still a real work worth describing, but no Offer is emitted: advertising a
+ * price for something that cannot be bought is exactly what Google treats as
+ * an invalid offer.
+ */
+export function buildBookSchema(o: BookOpts) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Book',
+    name: o.name,
+    description: o.description,
+    url: o.url,
+    ...(o.image && { image: o.image }),
+    bookFormat: 'https://schema.org/EBook',
+    inLanguage: 'en',
+    author: AUTHOR,
+    publisher: PUBLISHER,
+    ...(o.numberOfPages && { numberOfPages: o.numberOfPages }),
+    ...(o.available && o.price
+      ? {
+          offers: {
+            '@type': 'Offer',
+            price: o.price,
+            priceCurrency: o.currency ?? 'USD',
+            availability: 'https://schema.org/InStock',
+            url: o.url,
+          },
+        }
+      : {}),
+  };
+}
+
+export interface GlossaryTerm {
+  title: string;
+  slug: string;
+  description?: string;
+}
+
+/** DefinedTermSet for the A–Z glossary. */
+export function buildGlossarySchema(terms: GlossaryTerm[], opts: { name: string; url: string }) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTermSet',
+    name: opts.name,
+    url: opts.url,
+    hasDefinedTerm: terms.map(t => ({
+      '@type': 'DefinedTerm',
+      name: t.title,
+      ...(t.description && { description: t.description }),
+      url: `${SITE}/airbrush-glossary/${t.slug}/`,
+      inDefinedTermSet: opts.url,
+    })),
+  };
+}

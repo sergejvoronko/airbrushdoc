@@ -23,9 +23,9 @@ I've studied **graphic design** but I'm more passionate about illustration and w
 I wanted to feel paint, graphite, brushes, pencils and pigments.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/terminator-Marlon-Navarro.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/toy-story-1-Marlon-Navarro.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/toy-story-Marlon-Navarro.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/terminator-Marlon-Navarro.webp" loading="lazy" alt="Airbrush artwork by Marlon Navarro Duran — image 1 of 3" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/toy-story-1-Marlon-Navarro.webp" loading="lazy" alt="Airbrush artwork by Marlon Navarro Duran — image 2 of 3" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/toy-story-Marlon-Navarro.webp" loading="lazy" alt="Airbrush artwork by Marlon Navarro Duran — image 3 of 3" /></div>
 </div>
 
 I took the decision to tackle this race with oils, charcoals, watercolors and finally I got left with the **airbrush** and I love it.

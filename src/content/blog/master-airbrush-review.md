@@ -21,53 +21,53 @@ So let's see if this is good stuff for small money.
 
 ## Physical Design and Appearance
 
-![](/images/wp-uploads/Master-Airbrush-Review-36.webp)
+![Master Airbrush BD-200 gravity-feed airbrush, side view](/images/wp-uploads/Master-Airbrush-Review-36.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-4.webp)
+![Master Airbrush BD-200 photographed from a raised angle](/images/wp-uploads/Master-Airbrush-Review-4.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-10.webp)
+![BD-200 body beside its needle laid on a white sheet](/images/wp-uploads/Master-Airbrush-Review-10.webp)
 
 A few closeups at the tool so you can see how it actually looks.
 
-![](/images/wp-uploads/Master-Airbrush-Review-11.webp)
+![BD-200 held in the hand with the nozzle parts and barrel removed](/images/wp-uploads/Master-Airbrush-Review-11.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-13.webp)
+![Close view of the BD-200 paint cup and its small fittings](/images/wp-uploads/Master-Airbrush-Review-13.webp)
 
 You may see from the pictures above how this airbrush looks after some time and what the use of different paints and reducers  may cause for the chrome look (especially seen on the cup).
 
 ## Internal Components and Build Quality
 
-![](/images/wp-uploads/Master-Airbrush-Review-14.webp)
+![BD-200 dismantled with barrel, nozzle parts and needle laid out](/images/wp-uploads/Master-Airbrush-Review-14.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-15.webp)
+![BD-200 body held in the hand with the tail removed](/images/wp-uploads/Master-Airbrush-Review-15.webp)
 
 Let's take it apart to see how it looks on the inside.
 
-![](/images/wp-uploads/Master-Airbrush-Review-20.webp)
+![BD-200 reassembled and photographed against white](/images/wp-uploads/Master-Airbrush-Review-20.webp)
 
 ### Needle Quality
 
 Closer look at the needle.
 
-![](/images/wp-uploads/Master-Airbrush-Review-17.webp)
+![BD-200 and its needle on a green background for contrast](/images/wp-uploads/Master-Airbrush-Review-17.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-22.webp)
+![All BD-200 components spread out on a white sheet](/images/wp-uploads/Master-Airbrush-Review-22.webp)
 
 I would like to apologize for my dirty hands but I think all painters will understand why they are dirty and that sometimes it is really difficult to get rid of all that paint.
 
-![](/images/wp-uploads/Master-Airbrush-Review-24.webp)
+![BD-200 held in the hand while the nozzle is unscrewed](/images/wp-uploads/Master-Airbrush-Review-24.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-25.webp)
+![BD-200 body with the nozzle cap and small parts beside it](/images/wp-uploads/Master-Airbrush-Review-25.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-26.webp)
+![Close view of the BD-200 trigger and rocker assembly](/images/wp-uploads/Master-Airbrush-Review-26.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-27.webp)
+![BD-200 in the hand with the paint cup detached](/images/wp-uploads/Master-Airbrush-Review-27.webp)
 
 ## Materials and Durability Issues
 
 In my opinion, so far this airbrush has too much useless parts that fail their purpose (if I compare it to any good brand airbrush). The quality of materials used for this tool is fairly good as in this price range you can't expect more. Huge minus here is that all the sealing (O-rings) are made of rubber so any good reducer will destroy them all very quickly. To solve this there is a small tweak that you can read [here](/blog/tuning-airbrush-evolution/).
 
-![](/images/wp-uploads/Master-Airbrush-Review-32.webp)
+![Close-up of the BD-200 paint cup showing the machining quality](/images/wp-uploads/Master-Airbrush-Review-32.webp)
 
 ### Paint Compatibility
 
@@ -75,15 +75,15 @@ I find it very difficult to control this airbrush while using **Createx** and **
 
 The best solution is probably to use **china ink** or something similar as it is very soft, does not smell and it's not toxic. Of course the use is limited (Can't do car airbrushing for example).
 
-![](/images/wp-uploads/Master-Airbrush-Review-34.webp)
+![BD-200 airbrush lying on a white sheet, three-quarter view](/images/wp-uploads/Master-Airbrush-Review-34.webp)
 
-![](/images/wp-uploads/Master-Airbrush-Review-36.webp)
+![BD-200 photographed from the opposite side](/images/wp-uploads/Master-Airbrush-Review-36.webp)
 
 ## Needle Centering and Performance Problems
 
 Another thing that I would like to point out is needle centering. Well it is far from something called **self-centering nozzle system** I mentioned in [H&S Infinity Review](/blog/harder-and-steenbeck-infinity-review/). Actually there is no way to center the needle the proper way and it is not centered at all, the whole time. I could not make a proper snapshot so I made a drawing just to show you how it is actually centered :).
 
-![](/images/wp-uploads/master-airbrush-centering1.webp)
+![Diagram of needle centring inside the nozzle, numbered one to four](/images/wp-uploads/master-airbrush-centering1.webp)
 
 1. needle, 2. nozzle, 3. air, 4. nozzle cap
 

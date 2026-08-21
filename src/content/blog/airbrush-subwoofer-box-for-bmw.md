@@ -22,7 +22,7 @@ The box has been made closed. Why? Well the BMW E39 on its own has a good audio 
 
 Brother as a true airbrush artist decided to do also some painting. The car is actually in the process of designing for further airbrushing and maybe when he gets some time and money he's going to paint that too but right now all he wanted to do - at least - was to start and paint the speaker box.
 
-![](/images/wp-uploads/sub-woofer.webp)
+![Home-made spray booth built from a black box and extractor on a patio](/images/wp-uploads/sub-woofer.webp)
 
 You may have seen some snapshots on my [Facebook fan page](https://www.facebook.com/airbrushdoc) already but I've promised to make a video so here it is.
 

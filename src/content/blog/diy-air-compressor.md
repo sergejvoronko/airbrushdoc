@@ -24,21 +24,21 @@ I think this is really enough, if someone wants to read more in detail the whole
 
 ### Compressor Components
 
-![](/images/wp-uploads/diy-compressor-01.webp)
+![Two black fridge compressors mounted side by side on a workbench](/images/wp-uploads/diy-compressor-01.webp)
 
 On this picture is compressor **Embraco Aspera T6220GK** from air conditioning system. After some searching on internet I have found a [product-sheet](/images/wp-uploads/compressor.webp) of this system where you can check its specifications. The price for it, if you want to buy new, is around €180 here in Europe.
 
-![](/images/wp-uploads/diy-compressor-04.webp)
+![Home-built compressor on a red tank with gauge and regulator fitted](/images/wp-uploads/diy-compressor-04.webp)
 
 Above is an old fire extinguisher tank with already welded support base for compressor, welded feet and mounted practically all the air system with gauge, [pressure switch](/blog/how-to-set-up-the-air-pressure-switch/) and water filter. Below you can see same thing without air system because it was painted. As you can see Viorel gave it something like branding.
 
-![](/images/wp-uploads/diy-compressor-05.webp)
+![Red Crow-branded air receiver tank](/images/wp-uploads/diy-compressor-05.webp)
 
 ## Finished DIY Compressor Design
 
 And here is finished "thing". As Viorel mentioned he has used copper pipes instead of rubber hoses between compressor and tank to save as much **psi** as possible. Not a bad thinking. Another trick could be to make those pipes really short, but I have not tried such a thing, so this is just my thought.
 
-![](/images/wp-uploads/diy-compressor-03.webp)
+![DIY compressor with fridge unit mounted above a red tank and filter](/images/wp-uploads/diy-compressor-03.webp)
 
 This guy has done a great job and I'm sure he's going to enjoy it.
 

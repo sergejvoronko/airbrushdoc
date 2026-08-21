@@ -1,5 +1,6 @@
 ---
 title: "How to Prepare Surface for Airbrush Painting (Complete Guide)"
+seoTitle: "How to Prepare a Surface for Airbrush Painting"
 description: "Complete guide to prepare surface for airbrush painting, metal, plastic, wood, resin, 3D prints, fabric, canvas, leather &amp; more. Primer picks included."
 pubDate: 2026-03-11
 category: "beginners"
@@ -412,7 +413,6 @@ Miniature preparation is its own discipline. Here's the streamlined workflow:
 
 ## Quick Reference: Surface Prep by Material
 
-![]()
 
 ## Frequently Asked Questions
 

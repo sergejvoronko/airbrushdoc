@@ -1,5 +1,6 @@
 ---
-title: "Airbrush FAQ: 30 Questions Every Beginner Asks (Answered by a 13-Year Pro)"
+title: "Airbrush FAQ: 30 Questions Every Beginner Asks (Answered by a 15-Year Pro)"
+seoTitle: "Airbrush FAQ: 30 Questions Every Beginner Asks | AirbrushDOC"
 description: "Every airbrush question answered, equipment, paint, cleaning, technique, and troubleshooting. 15+ years of experience condensed into clear, honest answers."
 pubDate: 2026-01-20
 category: "beginners"

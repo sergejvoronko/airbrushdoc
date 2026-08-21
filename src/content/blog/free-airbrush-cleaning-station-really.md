@@ -16,11 +16,11 @@ When I need to clean my airbrush I usually use some pieces of paper that I don't
 
 So I googled it and there you go, first result "[**Iwata Airbrush Cleaning Station**](/go/iwata-cleaning-station)". When I saw how it looks like I decided to build a simple one by myself. As to build this tool is really very simple and I don't see any reason to pay for that thing any money.
 
-![](/images/wp-uploads/iwata_clean_2.webp)
+![Iwata airbrush cleaning pot with the airbrush hanger and glass jar](/images/wp-uploads/iwata_clean_2.webp)
 
-![](/images/wp-uploads/iwata_clean_1.webp)This one looks very simple. It comes in a plastic pot and with some filters and holder.
+![Commercial cleaning pot shown with its lid, filter and spare pads](/images/wp-uploads/iwata_clean_1.webp)This one looks very simple. It comes in a plastic pot and with some filters and holder.
 
-And here is a detailed view of all components.![](/images/wp-uploads/cleaning-pot-250.webp) Actually for my purpose I don't need any hanger as I don't keep my airbrush in my cleaning station but on a special hanger. So if I don't need this one, the thing is much simpler then.
+And here is a detailed view of all components.![Labelled diagram of a cleaning pot: cap, filter, hanger, lid, pot and handle](/images/wp-uploads/cleaning-pot-250.webp) Actually for my purpose I don't need any hanger as I don't keep my airbrush in my cleaning station but on a special hanger. So if I don't need this one, the thing is much simpler then.
 
 ## DIY Airbrush Cleaning Station Build
 
@@ -30,7 +30,7 @@ First of all I have tried to find something that could replace the original Iwat
 
 ### Preparing the Lid and Components
 
-![](/images/wp-uploads/1235202293_stancija_003.webp)
+![Plastic lid with two holes drilled for the airbrush and spray tube](/images/wp-uploads/1235202293_stancija_003.webp)
 This image shows the lid with already made holes. As you can see one hole is a bit oval. This one is going to be for airbrush. Then I took a piece of cable I had in my garage and pulled off the rubber insulation but you can use any piece of hose or plastic pipe that can hold your airbrush. Now cut the hose at angle that best fits you and how you think will be the best; I recommend something around 50 or 60 degrees. Find some sand paper, clean everything and don't forget to get rid of any oil. I have used super-glue to glue the hose to the lid. Now why do I actually need another two holes? First I thought that one will be fine but later I found out that I need two. At the beginning the lid had only one hole and a piece of rubber hose for my airbrush - I tried if it works. I poured some water into the jar, closed the lid and tried to clean my airbrush (actually all you have to do is to blow an air out of airbrush) and it worked but there was one BUT! During the blowing there is a lot of smoke coming out of the hole. So I had to clog the hole with some filter, scratching my head I thought **"*this is time to quit smoking :)* "** so I took a cigarette and snapped off the filter. I found another piece of hose to fit in the filter, glued it on the lid and pushed in the filter.
 
 ### Testing and Refining the Design
@@ -41,7 +41,7 @@ Now when I tried it again I got a panic attack as the thing didn't work. To my s
 
 Here is the final unit:
 
-![](/images/wp-uploads/1235202293_stancija_0011.webp)![](/images/wp-uploads/1235202293_stancija_002.webp)![](/images/wp-uploads/1235202293_stancija_004.webp)
+![Jar lid fitted with two tubes forming the DIY cleaning station top](/images/wp-uploads/1235202293_stancija_0011.webp)![Glass jar cleaning station with the lid and tubes assembled](/images/wp-uploads/1235202293_stancija_002.webp)![DIY cleaning station in use with an airbrush resting in the holder](/images/wp-uploads/1235202293_stancija_004.webp)
 
 Now everything works like a magic, I would even say as a professional unit. Here's just couple of advises: If you use bigger container - put some old towel in it, that will cut the smoke.
 
@@ -49,7 +49,7 @@ Now everything works like a magic, I would even say as a professional unit. Here
 
 As I was looking on the web for something similar I have found some, so I just posted some images here:
 
-![](/images/wp-uploads/cleaner.webp)![](/images/wp-uploads/can7.webp)![](/images/wp-uploads/can5.webp)![](/images/wp-uploads/can2.webp)![](/images/wp-uploads/can1.webp)![](/images/wp-uploads/97089903932D43ECA2B7C309728F3442.webp)
+![Old brass cleaning pot with a tap at the base](/images/wp-uploads/cleaner.webp)![3M dual-cartridge respirator in its packaging beside an airbrush](/images/wp-uploads/can7.webp)![Airbrush inserted through the lid of a Cool Whip tub cleaning pot](/images/wp-uploads/can5.webp)![Filter pad and cloth packing inside the tub cleaning station](/images/wp-uploads/can2.webp)![Kraft Cool Whip tub used as the body of a DIY cleaning station](/images/wp-uploads/can1.webp)![Cleaning station built into a small blue and yellow plastic box](/images/wp-uploads/97089903932D43ECA2B7C309728F3442.webp)
 
 ## Materials and Tools Needed
 

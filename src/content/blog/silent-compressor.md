@@ -13,7 +13,7 @@ I have posted an article about [silent home-made airbrush compressor](/blog/home
 
 Here is the schema:
 
-![](/images/wp-uploads/schema1.webp)
+![Schematic of a silent compressor: pressure switch, tank, filters and output](/images/wp-uploads/schema1.webp)
 
 As you noticed this does not include the electric drawing as it is exactly the same as in my earlier [post](/blog/homemade-airbrush-compressor/). On top of that I've added a pressure switch which needs its own power cord.
 
@@ -22,31 +22,31 @@ As you noticed this does not include the electric drawing as it is exactly the s
 The air from fridge compressor is pumped to receiver (tank). To keep the air clean I've used air filter (petrol filter) on the input of the compressor.
 Tank (receiver) works as capacitor (collecting the air) and we can use any empty gas tank or fire extinguisher that can hold the pressure around **100 psi**. Some people are using **2L** or **5L** plastic bottles which I wouldn't recommend as it can't hold that pressure. Here is the tank I have used.
 
-![](/images/wp-uploads/P011210_14.070001.webp)
+![Salvaged fridge compressor with its outlet pipe, seen from above](/images/wp-uploads/P011210_14.070001.webp)
 
-![](/images/wp-uploads/P011210_14.090001.webp)
+![Fridge compressor showing the discharge pipe and mounting foot](/images/wp-uploads/P011210_14.090001.webp)
 
 When we consider the pressure in the tank, the air is as well pressing in reverse on compressor with that pressure and this can cause the compressor to overheat or even destroy it after some time. So I recommend to use **check valve** (non-return/one-way valve) between compressor and receiver.
 
-![](/images/wp-uploads/reverse_valve1.webp)
+![Large brass one-way valve](/images/wp-uploads/reverse_valve1.webp)
 
 Check valve allows air to flow only one way.
 
 Do not forget what I mentioned in my earlier article about compressor that fridge compressor use to spit some oil on its output, and I've recommended to use transparent tank that you could see all the spat oil in it and from time to time empty it. Here we go further by using  oil-humidity collector-reducer (professionally called Air Filter / Regulator / gauge - *Ampro AR2654 3/8-Inch Air Filter, Regulator*) before the check valve, that means there will be no need to empty the receiver :).
 
-![](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
+![Combined air regulator, gauge and water trap unit](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
 
 Very useful part is a manometer on your tank. You can watch the pressure inside while configuring the air pressure switch.
 
-![](/images/wp-uploads/P011210_14.110002.webp)
+![Two pressure gauges, one dial and one blank, side by side](/images/wp-uploads/P011210_14.110002.webp)
 
-![](/images/wp-uploads/P011210_14.110003.webp)
+![Rear of the pressure gauges showing the threaded fittings](/images/wp-uploads/P011210_14.110003.webp)
 
 ## Automatic Pressure switch
 
 A really scary word for someone who builds his own compressor. Don't worry there is nothing scary about it. Setting it up is also very easy.
 
-![](/images/wp-uploads/pressure_switch_01.webp)
+![Automatic pressure switch with the cover in place](/images/wp-uploads/pressure_switch_01.webp)
 
 Simple explanation of its function:
 
@@ -56,7 +56,7 @@ The pressure switch is very useful thing because it saves not only my compressor
 
 ### How to set-up the pressure switch?
 
-![](/images/wp-uploads/pressure_switch_02.webp)
+![Pressure switch opened to show the spring and contact block](/images/wp-uploads/pressure_switch_02.webp)
 
 This switch has two threads under the hood. All you have to do is to set the position of screw females to set the maximum and minimum level of the pressure. First turn on the compressor and notice the pressure on manometer when it goes off; after that, loose some air to notice the pressure when it goes back on. Now pick one of the threads and screw the female screw halfway in. Turn it on and watch the pressure again for both positions.
 
@@ -68,19 +68,19 @@ That is all from theory. Let's do some manual work. I won't write about building
 
 Here is some of the stuff I have used.
 
-![](/images/wp-uploads/P011210_14.150002.webp)
+![Parts collected for the build: gauges, fittings, hose and switch](/images/wp-uploads/P011210_14.150002.webp)
 
 As case I've used an old speaker box.
 
-![](/images/wp-uploads/P011210_12.420001.webp)![](/images/wp-uploads/P011210_14.040002.webp)
+![Empty wooden speaker box reused as the compressor housing](/images/wp-uploads/P011210_12.420001.webp)![Pressure switch and wiring mounted inside the housing](/images/wp-uploads/P011210_14.040002.webp)
 
-![](/images/wp-uploads/P011210_14.050001.webp)
+![Compressor fitted inside the wooden case, front open](/images/wp-uploads/P011210_14.050001.webp)
 
 And some pictures of final product "Silent almost maintenance free airbrush compressor". I hope that not only airbrushists will enjoy this post...
 
 ![home made compressor](/images/wp-uploads/P021210_11.290002.webp)
 
-![](/images/wp-uploads/P021210_11.280001.webp)
+![Finished silent compressor in the wooden case with gauge and switch](/images/wp-uploads/P021210_11.280001.webp)
 
 ![home made compressor](/images/wp-uploads/P021210_11.280002.webp)
 

@@ -1,5 +1,6 @@
 ---
 title: "Best Airbrush for Beginners in 2026: The Only Guide You Actually Need"
+seoTitle: "Best Airbrush for Beginners in 2026 | AirbrushDOC"
 description: "Looking for your first airbrush? After 15+ years of airbrushing, here are the 5 best beginner airbrushes in 2026, with honest pros, cons & comparison table."
 pubDate: 2025-05-12
 category: "airbrush-reviews"

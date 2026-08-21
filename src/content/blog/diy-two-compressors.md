@@ -66,9 +66,9 @@ If you have to choose between **relay or capacitor**, choose relay. But if you w
 
 ### One-Way Valve
 
-![](/images/wp-uploads/diy-two-compressors_1.webp)The **one-way valve** in this build is special as it has two inputs. Especially in this build it came in use, but I don't know what is common use for this kind of valve.
+![Brass one-way valve fitting with two inlet ports](/images/wp-uploads/diy-two-compressors_1.webp)The **one-way valve** in this build is special as it has two inputs. Especially in this build it came in use, but I don't know what is common use for this kind of valve.
 
-![](/images/wp-uploads/diy-two-compressors_21.webp)
+![Pressure switch with wiring loom and threaded fitting](/images/wp-uploads/diy-two-compressors_21.webp)
 
 ### Pressure Switch and Tank
 
@@ -88,17 +88,17 @@ Author was unable to find some of connectors in shops, so he had to get it from 
 
 These compressors are very quiet and silence is really important factor in here. And for those who are wondering "why to use two compressors?" there's a simple answer: the use of two compressors simply speeds up the process of filling the tank with compressed air which provides on return more stable air pressure during constant and long period of time (compared to one compressor systems). Simply said you can work longer without breaks and concentrating on what's the most important - airbrushing. Here are some pictures of the final product.
 
-![](/images/wp-uploads/diy-two-compressors_4.webp)
+![Dual-compressor build mounted in an open upright frame](/images/wp-uploads/diy-two-compressors_4.webp)
 
-![](/images/wp-uploads/diy-two-compressors_6.webp)
+![Rear of the dual-compressor frame showing wiring and pipework](/images/wp-uploads/diy-two-compressors_6.webp)
 
-![](/images/wp-uploads/diy-two-compressors_3.webp)
+![Dual-compressor unit with the tall cylindrical tank fitted](/images/wp-uploads/diy-two-compressors_3.webp)
 
-![](/images/wp-uploads/diy-two-compressors_5.webp)
+![Inside of the finished dual compressor cabinet showing the electronics](/images/wp-uploads/diy-two-compressors_5.webp)
 
-![](/images/wp-uploads/diy-two-compressors_0.webp)
+![Finished silent compressor cabinet with gauges on the top panel](/images/wp-uploads/diy-two-compressors_0.webp)
 
-![](/images/wp-uploads/diy-two-compressors_8.webp)
+![Closed aluminium compressor cabinet with ventilation slots](/images/wp-uploads/diy-two-compressors_8.webp)
 
 Source: [scalemodels.ru](http://scalemodels.ru/modules/myarticles/article_storyid_3486.html)
 Author: Goldenram

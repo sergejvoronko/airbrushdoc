@@ -20,23 +20,23 @@ What do you need to prepare?
 Rotation polishing machine, Abranet-400 disks, soft pad, Scotch-Brite, degreaser (Body Antisicone), DuPont paint Black (1-2), White (1-2-3), Orange (1-2), Red (1-2), Blue (1-2), Light Blue(1-2), Yellow(1-3), Reducer and airbrush gun (I don’t even remember which one I used). Let’s go!
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-01.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-02.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-03.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-01.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 1 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-02.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 2 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-03.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 3 of 30" /></div>
 </div>
 
 After I've [prepared the surface](/blog/prepare-surface-for-airbrush/) I'll start with white and paint the whole image in kind of negative from a to z, every small detail, every hair even if you going to hate it after a few hours but get it all up.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-04.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-05.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-06.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-07.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-08.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-09.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-10.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-11.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-12.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-04.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 4 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-05.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 5 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-06.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 6 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-07.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 7 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-08.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 8 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-09.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 9 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-10.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 10 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-11.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 11 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-12.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 12 of 30" /></div>
 </div>
 
 ![Airbrushed Tiger](/images/wp-uploads/Airbrush-Tiger-Car-Hood-13.webp)
@@ -46,9 +46,9 @@ I hope your mood will last and will be the same as when you started (this kind o
 Now it's the right time to lay some colors. I hope you guessed correctly which one is first.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-14.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-15.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-16.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-14.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 13 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-15.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 14 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-16.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 15 of 30" /></div>
 </div>
 
 ![Airbrushed Tiger](/images/wp-uploads/Airbrush-Tiger-Car-Hood-17.webp)
@@ -62,25 +62,25 @@ Now it's the right time to lay some colors. I hope you guessed correctly which o
 ## Mix some BROWN (orange + black)
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-20.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-21.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-22.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-20.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 16 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-21.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 17 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-22.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 18 of 30" /></div>
 </div>
 
 ## Don't forget about BLACK
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-23.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-24.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-25.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-23.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 19 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-24.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 20 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-25.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 21 of 30" /></div>
 </div>
 
 Now I'll take light blue color and lightly spray it over white base and on some pieces of the cruncher (but not too much!). Then I need a regular blue to connect the light blue with the car color.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-27.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-28.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-29.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-27.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 22 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-28.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 23 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-29.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 24 of 30" /></div>
 </div>
 
 I can even add a drop of black to make the transition looks at it's best.
@@ -88,9 +88,9 @@ I can even add a drop of black to make the transition looks at it's best.
 After all, again my favorite, WHITE color ;) to bring alive the light parts of the fume, teeth, eyes and please don’t forget to smile - I hope you are enjoying what you're doing right now ;))
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-30.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-31.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-33.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-30.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 25 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-31.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 26 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-33.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 27 of 30" /></div>
 </div>
 
 ![Airbrushed Tiger](/images/wp-uploads/Airbrush-Tiger-Car-Hood-32.webp)
@@ -106,9 +106,9 @@ After sand-paper I used polishing pastes from 3M (74, 76).
 The whole project took 3 days to accomplish and here is the result.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-35.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-36.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-37.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-35.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 28 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-36.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 29 of 30" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Tiger-Car-Hood-37.webp" loading="lazy" alt="Step in airbrushing a tiger on a car hood — image 30 of 30" /></div>
 </div>
 
 ![Airbrushed Tiger](/images/wp-uploads/Airbrush-Tiger-Car-Hood-38.webp)

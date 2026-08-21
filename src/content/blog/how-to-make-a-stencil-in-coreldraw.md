@@ -40,29 +40,29 @@ BTW, if on your computer, pictures in this tutorial look blurred, click on them 
 
 I'm going to stay with Corel for the process (Corel has bitmap editor too). As image I'm going to use a photo of [**Milla Jovovich**](http://en.wikipedia.org/wiki/Milla_Jovovich) (she is not just a good actress but good singer and fine model ;)).
 
-![](/images/wp-uploads/milla-jovovich.webp)
+![Source photograph of a woman in a leather jacket used for the stencil](/images/wp-uploads/milla-jovovich.webp)
 
 ## Bitmap Editor
 
 So open your image in** CorelPhotoPaint** and head to **Menu > Adjust > Contrast Enhancement **(Levels in older version)**. **If our picture has low contrast and misses the Black and White, this will help us to set the colours in full range from black to white.
 
-![](/images/wp-uploads/stencil_1.webp)Desaturation can be easy if you just use **Desaturate** tool but we can use something better that can help not just desaturate the photo but also raise some of colour levels.
+![Corel PHOTO-PAINT contrast enhancement dialog over the source photo](/images/wp-uploads/stencil_1.webp)Desaturation can be easy if you just use **Desaturate** tool but we can use something better that can help not just desaturate the photo but also raise some of colour levels.
 
 So, we use **Menu > Adjust > Chanel Mixer**. Actually we need to set RGB the right way. For every picture it is going to be different depending on colorization. In this case I would say the **red channel** dominates. The green channel is not important at all and blue channel gives our picture a good contrast. Actually, if we don't want to over expose the picture, the sum of channels has to be 100 (R30, G0, B70). But for our case exposure is good so we set R50, G0, R100  (sum of 150).
 
-![](/images/wp-uploads/stencil_2.webp)Don't forget to set these values for every "**Output Channel**". If you make the right choice for the levels the output picture will be **B&W**.
+![Corel channel mixer dialog used to desaturate the photograph](/images/wp-uploads/stencil_2.webp)Don't forget to set these values for every "**Output Channel**". If you make the right choice for the levels the output picture will be **B&W**.
 
 Next step is needed if picture has different local lightness. To fix this we use tool "**Local Equalization**". Do not be scared of stains and lower contrast (it is going to be fixed later). But first erase everything you don't need (I used eraser tool)
 
-![](/images/wp-uploads/stencil_3.webp)after** Local Equalization**
+![Photograph reduced to high-contrast black and white](/images/wp-uploads/stencil_3.webp)after** Local Equalization**
 
-![](/images/wp-uploads/stencil_4.webp)And now we actually start making a stencil using a tool "**Brightness/Contrast/Intensity**". Set contrast to max and try to play with brightness.
+![Local equalization dialog adjusting the black and white image](/images/wp-uploads/stencil_4.webp)And now we actually start making a stencil using a tool "**Brightness/Contrast/Intensity**". Set contrast to max and try to play with brightness.
 
-![](/images/wp-uploads/stencil_5.webp)If you have a wish to make edges a bit smoother use **Menu > Effects > Blur > Gaussian Blur**, and then repeat contrast procedure again and again untill you get really B&W picture.
+![Brightness and contrast dialog refining the stencil image](/images/wp-uploads/stencil_5.webp)If you have a wish to make edges a bit smoother use **Menu > Effects > Blur > Gaussian Blur**, and then repeat contrast procedure again and again untill you get really B&W picture.
 
-![](/images/wp-uploads/stencil_6.webp)Here comes very important step. By using eraser or brush you have to break some lines and areas. In this particular case, if you need only the positive of the stencil, break all the black (after you cut the black out no whites will fall out as well). Here is my example where I've fixed a bit more but I think still not enough, so whites are still too thin and it could be difficult to cut it with your hands on the paper or even for vinyl when you cut it with the plotter (this is just a demonstration).
+![Image converted to solid black shapes ready for stencil cutting](/images/wp-uploads/stencil_6.webp)Here comes very important step. By using eraser or brush you have to break some lines and areas. In this particular case, if you need only the positive of the stencil, break all the black (after you cut the black out no whites will fall out as well). Here is my example where I've fixed a bit more but I think still not enough, so whites are still too thin and it could be difficult to cut it with your hands on the paper or even for vinyl when you cut it with the plotter (this is just a demonstration).
 
-![](/images/wp-uploads/stencil_8.webp)
+![Stencil artwork after erasing the unwanted black areas](/images/wp-uploads/stencil_8.webp)
 
 Actually if we don't have a plotter there is no point to go any further, but if we have then open this image in** CorelDraw**. As you see I'm almost done and I didn't even open a vector editor. Well, if you want a bigger stencil then it's going to be better to convert it to vectors.
 
@@ -72,16 +72,16 @@ When in **CorelDraw**, go to **"File > New**." Then "**File > Import"**. When yo
 
 Go with the setting on the picture. You can see that even with max zoom there is no squares typical for bitmaps. :)
 
-![](/images/wp-uploads/stencil_9.webp)You may, if you want to tick the "**delete original image**" box, but you don't have to. In tab colors, switch to B&W.
+![Corel trace dialog previewing the bitmap converted to vectors](/images/wp-uploads/stencil_9.webp)You may, if you want to tick the "**delete original image**" box, but you don't have to. In tab colors, switch to B&W.
 
-![](/images/wp-uploads/stencil_13.webp)
+![Traced vector stencil of the figure in solid black](/images/wp-uploads/stencil_13.webp)
 
-![](/images/wp-uploads/stencil_10.webp)Of course you don't want to print it with that much black, so click on the image with right mouse button and select "Properties". Here you can select the width of the lines (I chose 0.1mm) and the fill of the object (I chose white) so, the printer will print (or plotter will cut) the lines only.
+![Close-up of the traced vector edges around the face](/images/wp-uploads/stencil_10.webp)Of course you don't want to print it with that much black, so click on the image with right mouse button and select "Properties". Here you can select the width of the lines (I chose 0.1mm) and the fill of the object (I chose white) so, the printer will print (or plotter will cut) the lines only.
 
-**![](/images/wp-uploads/stencil_12.webp)![](/images/wp-uploads/stencil_11.webp)**After all, if you want to make your stencil larger, select the background and in left top corner change format from A4 to A1 (for example) and then  just  stretch your image to the size you want.
+**![Object properties dialogs setting outline width and uniform fill](/images/wp-uploads/stencil_12.webp)![Stencil shown as outlines only, ready for cutting](/images/wp-uploads/stencil_11.webp)**After all, if you want to make your stencil larger, select the background and in left top corner change format from A4 to A1 (for example) and then  just  stretch your image to the size you want.
 
-**![](/images/wp-uploads/ctencil_A1.webp)![](/images/wp-uploads/ctencil_A1_stretch.webp)**This is it! the only thing when you're going to print the big stencil on small A4 printer you have to adjust in **File > Print **some settings
+**![CorelDRAW page with the stencil placed small on an A4 sheet](/images/wp-uploads/ctencil_A1.webp)![Stencil scaled up on the page beside the original small version](/images/wp-uploads/ctencil_A1_stretch.webp)**This is it! the only thing when you're going to print the big stencil on small A4 printer you have to adjust in **File > Print **some settings
 
-![](/images/wp-uploads/setting_stencil_A1_print.webp)and here is print preview
+![Print dialog set to tile the enlarged stencil across pages](/images/wp-uploads/setting_stencil_A1_print.webp)and here is print preview
 
-![](/images/wp-uploads/final_stencil_A1_print.webp)Now we're done. I hope this tutorial will help you. I just want to point out that I am not a professional in **CorelDraw** so perhaps there are different ways on how to achieve the same results in this **stencil tutorial** but I hope that many of you will appreciate my effort I put in this by leaving a short comment.
+![Stencil outline split across tiled page guides for printing](/images/wp-uploads/final_stencil_A1_print.webp)Now we're done. I hope this tutorial will help you. I just want to point out that I am not a professional in **CorelDraw** so perhaps there are different ways on how to achieve the same results in this **stencil tutorial** but I hope that many of you will appreciate my effort I put in this by leaving a short comment.

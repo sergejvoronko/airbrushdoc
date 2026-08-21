@@ -47,7 +47,7 @@ If you want to work with** nitros**, you will have to mix them as the palette of
 
 It is good to get some schema of mixing colors, so you know which colors to mix to get the desired one. I decided to include this schema here, so you don't have to waste your time looking for it elsewhere.
 
-![](/images/wp/2011/07/color-wheel.gif)
+![Colour wheel diagram showing primary, secondary and tertiary colours](/images/wp/2011/07/color-wheel.gif)
 
 I think many of you are very familiar with this model. The colors connected with black line are primary ones, yellow is the second level of mixing (i.e. if you mix red and blue you get violet and so on). The blue line is the third level of mixing. The schema is universal as if you mix red-violet and red-orange you will get red color.
 
@@ -65,7 +65,7 @@ The marking in this standard is made of two letters FS (federal standard) and 5 
 
 Example: FS35237 -Opaque, grey, half-intensity; FS34092 - Opaque, green, intensive, dark-green-lightblue. Here is the picture as better example:
 
-![](/images/wp-uploads/Federal-color-standard.webp)
+![Federal Standard colour chart of matt military paint swatches](/images/wp-uploads/Federal-color-standard.webp)
 
 If you want to find out more, follow this link - [Colorserver](http://colorserver.net).
 

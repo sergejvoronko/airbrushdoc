@@ -10,6 +10,7 @@ interface Props {
   title: string;
   description?: string;
   pubDate: Date;
+  seoTitle?: string;
   updatedDate?: Date;
   heroImage?: string;
   heroImageAlt?: string;
@@ -24,7 +25,7 @@ interface Props {
 }
 
 const {
-  title, description, pubDate, updatedDate,
+  title, seoTitle, description, pubDate, updatedDate,
   heroImage, heroImageAlt, category = 'general',
   tags = [], readingTime, slug, faqs = [], headings = [],
   hasAffiliate = false, reviews,
@@ -88,7 +89,7 @@ const faqSchema = faqs.length > 0 ? {
 } : null;
 ---
 <BaseLayout
-  title={title.length > 46 ? title : `${title} | AirbrushDOC`}
+  title={seoTitle ?? (title.length > 46 ? title : `${title} | AirbrushDOC`)}
   description={description}
   image={heroImage}
   canonicalURL={pageUrl}
@@ -165,7 +166,7 @@ const faqSchema = faqs.length > 0 ? {
         {faqs.length > 0 && <FAQ faqs={faqs} />}
 
         <div class="abd-author-bio">
-          <div class="abd-author-bio-avatar"><img src="/images/airbrushdoc-avatar.webp" alt="AirbrushDOC" width="72" height="72" /></div>
+          <div class="abd-author-bio-avatar"><img src="/images/airbrushdoc-avatar-160.webp" alt="AirbrushDOC" width="72" height="72" loading="lazy" /></div>
           <div class="abd-author-bio-info">
             <div class="abd-author-bio-label">Written by</div>
             <div class="abd-author-bio-name"><a href="/about/" class="abd-author-name-link">AirbrushDOC</a></div>

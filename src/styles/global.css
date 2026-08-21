@@ -326,6 +326,7 @@ img { max-width: 100%; height: auto; display: block; }
 .abd-footer-col ul a {
   font-size: 0.85rem; color: var(--abd-text-dim);
   text-decoration: none !important; transition: color 0.2s;
+  display: inline-block;
 }
 .abd-footer-col ul a:hover { color: var(--abd-orange); }
 .abd-footer-bottom {
@@ -339,6 +340,10 @@ img { max-width: 100%; height: auto; display: block; }
 .abd-footer-bottom a:hover { color: var(--abd-orange); }
 @media (max-width: 640px) {
   .abd-footer-inner { grid-template-columns: 1fr; gap: 28px; }
+  /* Footer links are ~18px tall on a pointer device, which is fine for a mouse
+     but an awkward tap target. Pad them out on touch layouts only. */
+  .abd-footer-col ul { gap: 2px; }
+  .abd-footer-col ul a { padding: 10px 0; }
 }
 
 /* ================================================================

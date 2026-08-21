@@ -1,5 +1,6 @@
 ---
 title: "How Can Airbrush Manufacturers Profit by Avoiding Making Knock Offs"
+seoTitle: "Why Airbrush Makers Should Avoid Knock-Offs | AirbrushDOC"
 description: "In a hurry to make a lot of money the quick way some of airbrush manufacturers make a lot of mistakes. What do I mean? They are forgetting about the quality."
 pubDate: 2014-07-19
 heroImage: "/images/airbrush-profit-not-making-knock-offs.webp"

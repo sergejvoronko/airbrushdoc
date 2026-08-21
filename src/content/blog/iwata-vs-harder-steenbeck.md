@@ -1,5 +1,6 @@
 ---
 title: "Iwata vs Harder & Steenbeck: Which Airbrush Brand Is Better? (Honest Comparison)"
+seoTitle: "Iwata vs Harder & Steenbeck: Which Is Better? | AirbrushDOC"
 description: "Iwata vs Harder & Steenbeck, a head-to-head comparison of the two most popular airbrush brands. Nozzle systems, build quality, pricing, and which to buy."
 pubDate: 2025-10-28
 category: "airbrush-reviews"

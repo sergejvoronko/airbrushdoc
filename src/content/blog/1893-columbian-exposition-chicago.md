@@ -13,11 +13,11 @@ The American people were a composite of the world and the Columbus celebration w
 
 Each **World Fair** was expected to surpass previous efforts and as the Paris exhibition had been so successful the levels of achievement had to be high. Likewise the venue was a hard fought battle and Chicago did well to win it with their “**White City**”. 65,000 exhibits from all over the world attracted more than **21 million** people over the 6 months that it was open.
 
-![](/images/wp-uploads/Weltausstellung-chicago_brockhaus.webp)
+![Aerial view of the 1893 World's Columbian Exposition grounds in Chicago](/images/wp-uploads/Weltausstellung-chicago_brockhaus.webp)
 
 [**Airbrush**](/) was a very small part of this enormous show but its presence in the Liberal Arts Building was nevertheless important. Both **Walkup’s Airbrush Manufacturing Company** and **Thayer and Chandler** had a unique opportunity to gain sales in the international art communities that had come to their doorstep. It is unlikely that this ever happened in the economic slump that followed but in any case it would not be long before others followed suit with their own design of Airbrushes.
 
-![](/images/wp-uploads/Chicago_Worlds_Columbian_Exposition_18931.webp)
+![Crowds outside the domed exhibition halls at the 1893 Columbian Exposition](/images/wp-uploads/Chicago_Worlds_Columbian_Exposition_18931.webp)
 
 The event itself was monumental in the development of Chicago as a city, it was the “Columbian Exposition” or “**World Fair**”. An aim of the Fair was to upstage the previous “**Paris Internationale**” of 1889 and to show the world what America could do. Chicago hosted the event despite fierce competition from New York. For Airbrush historians the facts are quite straightforward. Thayer and Chandler stole centre stage leaving a much aggrieved Walkup threatening legal action over the use of the name "[**Airbrush**](/)". Their model was significantly different being more like a pen and acting more like an atomizer than the fan and needle design of Walkup.
 

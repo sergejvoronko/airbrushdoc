@@ -16,23 +16,23 @@ I've been using mostly **acrylic paints** and used to clean the **airbrush** wit
 
 ### Take airbrush apart
 
-![](/images/wp-uploads/2.webp)
+![Airbrush fully disassembled with body, needle, nozzle and springs laid out](/images/wp-uploads/2.webp)
 
 Find a sewing needle in your house - you will need that to clean all the holes in the airbrush, especially the airbrush needle duct.
 
-![](/images/wp-uploads/3.webp)
+![Nozzle housing with dried paint deposits before cleaning](/images/wp-uploads/3.webp)
 
 This is how it should look like after cleaning. This part regulates the movement of the needle and it is located at the rear of the needle. Just look at the dirt! When you clean your airbrush and pull out the needle there is always some paint left inside.
 
-![](/images/wp-uploads/4_2.webp) It's a terrible view.
+![Needle removed from the airbrush, showing the tapered tip](/images/wp-uploads/4_2.webp) It's a terrible view.
 
 Now take the nozzle cap and unscrew the nozzle - use the tool key that comes with the airbrush.
 
-![](/images/wp-uploads/6.webp)
+![Nozzle unscrewed with the supplied spanner tool beside it](/images/wp-uploads/6.webp)
 
 For those who want to [start with airbrush](/beginners/) but don't know anything about it yet and probably have never hold an airbrush in their hands, here is an size comparison between the **nozzle** and a lighter.
 
-![](/images/wp-uploads/7.webp)
+![Sewing needle and green lighter used as improvised cleaning tools](/images/wp-uploads/7.webp)
 
 ## Choosing and Installing a Replacement Nozzle Seal
 
@@ -42,29 +42,29 @@ I decided to test **hermetic fiber** used on construction sites (check out you l
 
 The fiber is used as seal for heating pipes. However the fiber diameter is too big to be used under the nozzle so I have to split up the fiber using a knife.
 
-![](/images/wp-uploads/9.webp)
+![Nozzle, O-ring and a length of heating-pipe sealing fibre](/images/wp-uploads/9.webp)
 
-![](/images/wp-uploads/10.webp)Chose what suits you best and wind it up in the way of the nozzle tread.
+![Sealing fibre teased into thin strands next to the nozzle and O-ring](/images/wp-uploads/10.webp)Chose what suits you best and wind it up in the way of the nozzle tread.
 
-![](/images/wp-uploads/11.webp)
+![Nozzle seal being wound onto the thread with the fibre](/images/wp-uploads/11.webp)
 
-![](/images/wp-uploads/12.webp)
+![Nozzle refitted into the airbrush head with the needle in place](/images/wp-uploads/12.webp)
 
 As you can see it doesn't look very nice and the fiber doesn't stick to the nozzle. Therefore screw the nozzle back in place. Now this is the moment when the lighter comes in, just a small flame makes it look so much better. The one thing left to do, is to clean the rest of the parts especially the needle.
 
-![](/images/wp-uploads/13.webp)
+![Assembled nozzle and needle viewed from the front](/images/wp-uploads/13.webp)
 
 I have found some **nail polish remover** and cleaned everything with that.
 
-![](/images/wp-uploads/14.webp)
+![Nail polish remover, cotton pad and parts used for the final clean-up](/images/wp-uploads/14.webp)
 
 ## Final Assembly and Testing
 
 At last assemble it all back together.
 
-![](/images/wp-uploads/15.webp)
+![Reassembled airbrush head with the cup and nozzle cap fitted](/images/wp-uploads/15.webp)
 
-![](/images/wp-uploads/16.webp)
+![Fully reassembled airbrush after the nozzle bearing repair](/images/wp-uploads/16.webp)
 
 If you have any interesting ideas, advice or recommendation on other materials that can be used don't hesitate and share it with me!
 

@@ -47,7 +47,7 @@ I don't know if I have the airbrush made for CO2 but that airbrush works perfect
 
 I just suggested CO2 and explained it. The „**Fisher CO2**", a very well made airbrush that is a true double action gun that works differently than most of today's double actions that leave a millimeter to regulate amount of air. This one works smoothly and offers full control over both functions, in particular the nozzle and spray system is very well made.  Its name reflects its use with CO2 instead of air, guess CO2 was cheaper in the old days (I think this airbrush could be from the early 60's).
 
-![](/images/wp-uploads/Per-Corell.webp)
+![Airbrushed figure study beside a photographed airbrush and hose](/images/wp-uploads/Per-Corell.webp)
 
 ### CO2 Benefits for Specialty Applications
 

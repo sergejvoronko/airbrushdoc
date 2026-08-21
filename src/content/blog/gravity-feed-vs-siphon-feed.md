@@ -1,5 +1,6 @@
 ---
 title: "Gravity Feed vs Siphon Feed Airbrush: Which Type Do You Need?"
+seoTitle: "Gravity Feed vs Siphon Feed Airbrush Explained"
 description: "Gravity feed vs siphon feed airbrush, clear comparison of both types with pros, cons, and which is best for your specific projects. Plus side feed explained."
 pubDate: 2025-08-05
 category: "beginners"

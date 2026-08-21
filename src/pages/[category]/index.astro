@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
+import { buildBreadcrumbSchema } from '../../lib/schema';
 
 const CATEGORY_META: Record<string, { title: string; description: string; label: string }> = {
   'airbrush-reviews': {
@@ -72,8 +73,11 @@ const meta = CATEGORY_META[category!] ?? {
   title: `${category} | AirbrushDOC`,
   description: `Articles in the ${category} category.`,
 };
+const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Blog', path: '/blog/' }, { name: meta.label! }]);
+
 ---
 <BaseLayout title={meta.title} description={meta.description}>
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <main class="abd-container">
     <div class="blg-page-header">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">

@@ -50,18 +50,26 @@ const API = 'https://airbrushdoc-comments.airbrushden.workers.dev';
       wrap.className = 'cmt-avatar';
       if (c.author === 'AirbrushDOC') {
         const img = document.createElement('img');
-        img.src = '/images/airbrushdoc-avatar.webp';
+        img.src = '/images/airbrushdoc-avatar-160.webp';
         img.alt = '';
         img.loading = 'lazy';
         wrap.append(img);
       } else if (c.avatar_hash) {
-        const img = document.createElement('img');
-        img.src = `https://www.gravatar.com/avatar/${c.avatar_hash}?d=blank&s=80`;
-        img.alt = '';
-        img.loading = 'lazy';
+        // Gravatar is a third party (Automattic) and the request reveals the
+        // visitor's IP, so it only loads once cookie consent is given. Until
+        // then the author's initial stands in.
         const fb = initialEl(c.author);
-        img.addEventListener('error', () => img.remove());
-        wrap.append(fb, img);
+        wrap.append(fb);
+        const loadAvatar = () => {
+          const img = document.createElement('img');
+          img.src = `https://www.gravatar.com/avatar/${c.avatar_hash}?d=blank&s=80`;
+          img.alt = '';
+          img.loading = 'lazy';
+          img.addEventListener('error', () => img.remove());
+          wrap.append(img);
+        };
+        if (localStorage.getItem('abd-cookie-consent') === 'accepted') loadAvatar();
+        else window.addEventListener('abd-consent-accepted', loadAvatar, { once: true });
       } else {
         wrap.append(initialEl(c.author));
       }

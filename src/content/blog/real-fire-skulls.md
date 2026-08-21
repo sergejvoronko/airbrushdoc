@@ -14,7 +14,7 @@ Do you remember the first time when someone told you about **AIRBRUSH**, what as
 
 "*I heard that you are writing a blog, what is it about?*" I said "***Airbrush***", his reaction was - *Hmmm... What? Come again... Airbrush? What is it?* [Tweet This!](http://clicktotweet.com/tVLeY)
 
-![](/images/wp-uploads/airbrush_scull_1.webp)
+![True fire artwork airbrushed across a panel in yellow and orange](/images/wp-uploads/airbrush_scull_1.webp)
 
 ### What Is Airbrush Painting?
 
@@ -34,52 +34,52 @@ So here comes my questions to my readers (I hope there are some Pro's as well):
 
 I can go on and on ...
 
-![](/images/wp-uploads/airbrush_scull_12.webp)
+![Flaming skull artwork by JT's Custom Paint Garage](/images/wp-uploads/airbrush_scull_12.webp)
 
 ## Airbrush Skulls and Real Fire Gallery
 
 Here is just a gallery of different types of airbrushed skulls and real fire paintings. Before I wanted to write on this two topics separately but if you try to find one, in most cases, you'll find it in combination with another one.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_0.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_2.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_5.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_6.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_7.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_8.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_9.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_10.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_11.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_13.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_14.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_15.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_16.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_17.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_18.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_19.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_20.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_21.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_22.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_23.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_24.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_25.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_26.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_27.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_28.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_29.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_30.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_31.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_32.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_33.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_34.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_35.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_36.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_37.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_38.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_39.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_40.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_41.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_0.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 1 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_2.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 2 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_3.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 3 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_5.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 4 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_6.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 5 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_7.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 6 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_8.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 7 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_9.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 8 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_10.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 9 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_11.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 10 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_13.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 11 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_14.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 12 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_15.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 13 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_16.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 14 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_17.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 15 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_18.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 16 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_19.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 17 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_20.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 18 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_21.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 19 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_22.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 20 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_23.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 21 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_24.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 22 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_25.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 23 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_26.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 24 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_27.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 25 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_28.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 26 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_29.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 27 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_30.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 28 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_31.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 29 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_32.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 30 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_33.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 31 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_34.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 32 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_35.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 33 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_36.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 34 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_37.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 35 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_38.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 36 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_39.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 37 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_40.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 38 of 39" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_41.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 39 of 39" /></div>
 </div>
 
 Source of images: [Flikr.com](http://flikr.com), (All images in this gallery are with **Creative Commons-license**).

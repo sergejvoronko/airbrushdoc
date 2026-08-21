@@ -37,18 +37,18 @@ So, needless to say you need a tall easil that will hold them with an extension.
 ### Venetian Blinds Gallery
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Venetian-blinds.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-2.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-4.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-5.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-6.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-7.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-8.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-9.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-10.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-11.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp/2011/05/airbrush-venetian-blinds-1.gif" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Venetian-blinds.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 1 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-2.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 2 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-3.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 3 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-4.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 4 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-5.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 5 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-6.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 6 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-7.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 7 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-8.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 8 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-9.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 9 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-10.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 10 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-11.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 11 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp/2011/05/airbrush-venetian-blinds-1.gif" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 12 of 12" /></div>
 </div>
 
 Awesome... Thank You Douglass!

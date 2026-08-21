@@ -1,5 +1,6 @@
 ---
 title: "Best Airbrush for T-Shirts 2026: Airbrushes, Paints & Setup Guide"
+seoTitle: "Best Airbrush for T-Shirts 2026: Paints & Setup"
 description: "Best airbrushes for T-shirt art, siphon and gravity feed picks, textile paint recommendations, and the complete beginner setup guide for fabric airbrushing."
 pubDate: 2025-10-07
 category: "airbrush-reviews"

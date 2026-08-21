@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { BOOK_AVAILABLE, BOOK_PRICE } from '../../config';
+import { buildBreadcrumbSchema } from '../../lib/schema';
 
 const freebies = [
   {
@@ -41,11 +42,14 @@ const tools = [
     desc: 'Paint ratio calculator, project logbook, needle & nozzle reference, and color harmony tool — all in one.',
   },
 ];
+const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Freebies' }]);
+
 ---
 <BaseLayout
   title="Free Airbrush Stencils & Resources | AirbrushDOC"
   description="Free skull stencils, fire reference packs, mix CorelDraw stencils, and exclusive tools — available to subscribers. Subscribe free to unlock everything."
 >
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <main class="abd-container">
 
     <div class="blg-page-header">

@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsletterBox from '../../components/NewsletterBox.astro';
 import { BOOK_AVAILABLE, BOOK_PRICE } from '../../config';
+import { buildBreadcrumbSchema } from '../../lib/schema';
 
 const tools = [
   {
@@ -44,8 +45,11 @@ const subscriberTools = [
     desc: 'Paint ratio calculator, project logbook, needle & nozzle reference, and color harmony tool — all in one.',
   },
 ];
+const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Tools' }]);
+
 ---
 <BaseLayout title="Interactive Tools — The AirbrushDOC Clinic" description="Free interactive tools to diagnose and fix airbrush problems: consultation quiz, paint prescription, model comparison, and the Troubleshooter ER.">
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <main class="abd-container">
     <div class="blg-page-header">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">

@@ -28,45 +28,45 @@ https://youtu.be/F733G8P5fLI
 
 I used foil with size 1.52x1.5m. Before painting it has to be prepared. As abrasive I recommend using **3М Trizact 1000** (that will be good enough). I also used **Smirdex P2000** for wet sanding just as test.
 
-![](/images/wp-uploads/Airbrush-on-vinyl-1.webp)
+![Mirdex vinyl foil being unpacked before application](/images/wp-uploads/Airbrush-on-vinyl-1.webp)
 
-![](/images/wp-uploads/Airbrush-on-vinyl-2.webp)
+![Applying vinyl foil to a large black wall panel](/images/wp-uploads/Airbrush-on-vinyl-2.webp)
 
-![](/images/wp-uploads/Airbrush-on-vinyl-3.webp)
+![Smoothing the vinyl foil with a squeegee](/images/wp-uploads/Airbrush-on-vinyl-3.webp)
 
-![](/images/wp-uploads/Airbrush-on-vinyl-4.webp)
+![Working the vinyl foil into the top edge of the panel](/images/wp-uploads/Airbrush-on-vinyl-4.webp)
 
 ## Airbrushing Technique on Vinyl
 
 As you can see from the images the foil has been fitted on the wall. Do not take the bottom layer off, just stick it around the edges with some tape. In my case I have used only one stencil to get the proportion of the painted head right and centered. All the rest of works have been performed as **free-hand** with help of small masks from time to time.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-5.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-8.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-10.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-11.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-12.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-13.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-14.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-15.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-16.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-17.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-18.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-19.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-20.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-21.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-22.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-23.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-24.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-25.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Vinylography.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-5.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 1 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-8.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 2 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-10.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 3 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-11.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 4 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-12.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 5 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-13.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 6 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-14.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 7 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-15.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 8 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-16.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 9 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-17.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 10 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-18.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 11 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-19.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 12 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-20.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 13 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-21.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 14 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-22.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 15 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-23.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 16 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-24.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 17 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-on-vinyl-25.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 18 of 19" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Vinylography.webp" loading="lazy" alt="Step in airbrushing onto vinyl foil — image 19 of 19" /></div>
 </div>
 
 ## Best Paints for Airbrushing on Vinyl
 
 I forgot to mention the details of paint I've used. I tried **Createx Classic** and **Auto Air** and damn they hold like they were there all the time! But last time I stopped in my local modelers shop and they had some new paints, so I decided to give it a try as they were very cheap and seller told me that they are very good.
 
-![](/images/wp-uploads/Revell-aqua-color.webp)
+![Row of paint bottles arranged on a blue cutting mat](/images/wp-uploads/Revell-aqua-color.webp)
 
 ### Revell Aqua Color Paint
 

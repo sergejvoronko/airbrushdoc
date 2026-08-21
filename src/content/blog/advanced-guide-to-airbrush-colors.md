@@ -86,7 +86,7 @@ I will mention, in my opinion, only the most popular brands on the market. If I 
 
 ### GOLDEN ARTIST COLORS
 
-![](/images/wp-uploads/golden.webp)
+![Golden Artist Colors brand logo](/images/wp-uploads/golden.webp)
 Very popular brand that makes ***Opaque*** and ***Transparent*** lines espessially for airbrushing.
 
 **Opaque** - made from a 100% water-based acrylic emulsion and they claim that it's incorporating only the most lightfast pigments available, what results in exceptional permanency and performance.
@@ -113,14 +113,14 @@ They easily spray through the smallest nozzles available for airbrushes. They ca
 
 ### IWATA MEDEA
 
-![](/images/wp-uploads/iwata-medea_logo.webp)
+![Iwata-Medea brand logo](/images/wp-uploads/iwata-medea_logo.webp)
 **Comart Colors** by Medea website is considered to be one of the finest and most versatile professional airbrush colors in the world (***can't confirm that as I've never used it, if someone does please leave a comment***). Because of a common hydro-carbon base binder, **Com-Art** transparent and opaque colors can be used together without bleeding between colors. It's non-toxic, ready to use color specifically made for airbrushing. Also heavily pigmented and light fast, allowing for accurate 4 color separations. It provides smooth spraying, and dries instantly.
 
 **Textile colors** ***Medea Textile Colors** by **Jürek***. For spraying on a variety of surfaces, including leather, wood, canvas, textiles, silk and found objects. Now even sprays well on hard surfaces such as license plate tags, metals, plastics and more! After work Medea recommends to use **Medea topcoat** (water-based polyurethane) for a final durable finish. The “**Lube**” provides an exclusive wetting agent and a flow enhancer that allow four hours of hassle-free spraying. Additionally, the flow enhancer breaks down the surface tension and results in better fabric absorption (when applied to textiles) for greater wash-ability and wear.
 
 ### AQUAFLOW
 
-![](http://t3.gstatic.com/images?q=tbn:ANd9GcSZASceFMXWF7fsHYXSHVJQh_sei7svEk3S9IAz7olyBNT4ja29)Aqua Flow colors contain premium acrylic binders that provide durability and stability. They claim that they select materials that are environmentally sound and are as safe as possible, making your work Earth friendly. It is a flexible acrylic color used for textiles, illustration, auto tags, wall murals, and many other types of art media.
+![AquaFlow airbrush paint brand logo](/images/wp-uploads/aquaflow-logo.webp)Aqua Flow colors contain premium acrylic binders that provide durability and stability. They claim that they select materials that are environmentally sound and are as safe as possible, making your work Earth friendly. It is a flexible acrylic color used for textiles, illustration, auto tags, wall murals, and many other types of art media.
 
 This brand manufactures** IllumaAir, Lacquerol and BodyAir** airbrush colors.
 
@@ -134,7 +134,7 @@ This brand manufactures** IllumaAir, Lacquerol and BodyAir** airbrush colors.
 
 ### CREATEX COLORS
 
-![](/images/wp-uploads/CXlogo.webp)
+![Createx Colors brand logo](/images/wp-uploads/CXlogo.webp)
 This brand is probably the number one colors brand for airbrushes (my own subjective look). For airbrush they make a few lines like, Opaque, Transparent, Fluoroscent, Pearlized and Iridiscent.
 
 **Opaque** - Opaque Colors are solid colors intended to cover underlying colors and surfaces with 2 – 3 coats. Opaque Colors make excellent base colors. For many projects, starting with either Opaque White or Black works best; other color types will cover quicker with vivid, brighter effects compared to applying colors. Opaque colors work best with larger tip-sized airbrushes operated at higher PSI settings.
@@ -151,7 +151,7 @@ This brand is probably the number one colors brand for airbrushes (my own subjec
 
 All Wicked Colors are highly pigmented, transparent colors, which cover semi-opaque right out of the bottle, perfect for full color saturation with virtually no tip-dry. They work with all airbrush tip-sizes and air dry incredibly fast.
 
-![](/images/wp-uploads/Auto_Air_Graphic.webp)
+![Createx Wicked Colors brand logo](/images/wp-uploads/Auto_Air_Graphic.webp)
 
 Createx colors can be used for wood, fabric, glass, plaster, canvass, aluminium, leather, ceramic, poster boards, bricks, plastic ... So as you can see any surface is good to go. Requires heat air drying which results in **Self-cross linking **(combination of polymers or oligomers with a high acid content to upgrade the resistance properties):
 
@@ -169,14 +169,14 @@ These properties tell us that Createx are made with 'exterior grade' pigments. T
 
 ### [AUTO-AIR COLORS from Createx](/go/createx-auto-air-colors)
 
-![](/images/wp-uploads/Createx_Logo.gif)
+![Createx Auto-Air Colors custom automotive paint logo](/images/wp-uploads/Createx_Logo.gif)
 ***Auto Air Colors*** are premium water-based custom paints and work well for graphics over existing finishes and for complete paint jobs. Colors are inter-mixable for a limitless palette of colors & effects.
 
 **Pigment Candy Full Color Paint** are ready to spray out of the bottle without the need for mixing a catalyst or reducer. Colors may be thinned with Auto Air Reducer to achieve a lower viscosity when spraying with an airbrush. Auto Air Colors do not have a limited shelf life during use and their storage life exceeds 2 years. They may be top-coated with a urethane clear at any time after they’ve cured no matter how long the time past between painting and clearing. Auto-Air Colors are compatible with all urethane clears. They are lightfast and durable and contain less than 0.1% V.O.C. These Colors have been tested according to industry-wide accepted standards for fade resistance and durability.
 
 ### BADGER
 
-**![](/images/wp-uploads/badgerlogo1.webp)
+**![Badger Air-Brush Co. brand logo](/images/wp-uploads/badgerlogo1.webp)
 **
 
 ### TOTALLY TATTOO from BADGER
@@ -195,7 +195,7 @@ Spectra-Tex Airbrush Colors™ are highly pigmented and ready to use. Spectra-Te
 
 ### HOUSE OF KOLOR
 
-![](/images/wp-uploads/house-of-kolor-logo.webp)
+![House of Kolor brand logo](/images/wp-uploads/house-of-kolor-logo.webp)
 
 This brand does many things beside colors (stencils, reducers, etc...). Actually they have probably everything that artist doing automotive job will need. Even **Craig Fraser** recommends this brand as best brand for automotive (maybe he has contract with them - I don't know). I didn't want to say that they are bad, NOT at all; I just got that feeling at first. Well this guy just gave an example of brand you can use (if you have it in your local shop or can buy it online).
 

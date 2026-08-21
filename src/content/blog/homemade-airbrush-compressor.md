@@ -61,7 +61,7 @@ DO NOT turn it on now - READ FIRST!
 
 Put the relay back on the compressor according to your drawing you’ve made before. Relay has to be oriented exactly the same way as it was on the fridge as the relay depends on earth gravitation. ***Otherwise it may cost you the relay or even the engine inside the compressor might burn out.***
 
-Now connect the temporary cradle to the input of the relay and don’t forget to use electrical tape. I don't think you want to die. This is how the draft version looks like:[![](/images/wp/2010/12/compressor01-250x282.gif)](/images/wp/2010/12/compressor01.gif)
+Now connect the temporary cradle to the input of the relay and don’t forget to use electrical tape. I don't think you want to die. This is how the draft version looks like:[![Rusty salvaged fridge compressor sitting on the build instructions](/images/wp/2010/12/compressor01-250x282.gif)](/images/wp/2010/12/compressor01.gif)
 
 Next use the pliers and release the squeezed pipes and leave them opened. When everything is ready connect the plug into the mains socket. The launch itself could be very loud depending on the power of the unit but it understandable so don’t get scared. If you hear the engine and it is pretty quiet then everything should be fine. The pipes will suck and blow the air - you have to find out which one does what. You don’t have to leave it on for a very long time as the main thing right now is to make sure that it is alive. If the engine didn’t start or if it started but then after short time went off the things aren't looking good. If you have some experience and electric multi-meter you can check what exactly is wrong and more skilled of you could even try to fix it. Otherwise forget about the whole thing and start looking for another one. If it’s working skip the checking process.
 
@@ -93,9 +93,9 @@ Than go to electrical shop and buy:
 
 That’s all you will need at the moment:
 
-![](/images/wp-uploads/compressor03.webp)
+![Plastic receiver bottle, filters, silicone hose and hose clamps](/images/wp-uploads/compressor03.webp)
 
-![](/images/wp-uploads/compressor04.webp)
+![Rubber feet, bolts, nuts and washers for mounting the compressor](/images/wp-uploads/compressor04.webp)
 
 Next we have to change the oil. Why? Read next [article](/blog/oil-compressor/) on this topic.
 
@@ -103,7 +103,7 @@ At this stage there is a technical question: Which type of compressor do you hav
 
 With the casserole type it is a bit more complicated as there is 3 pipes sticking out of it. Two are pumping the air in and out, the third one is for oil. Again do not saw the pipe!!! And remember after you have drained the oil out do not turn the compressor on, you have to pour the new oil in first. 
 
-[![](/images/wp/2010/12/compressor02-500x242.gif)](/images/wp/2010/12/compressor02.gif)![](/images/wp-uploads/compressor05.webp)
+[![Fridge compressor with its start relay attached, before cleaning](/images/wp/2010/12/compressor02-500x242.gif)](/images/wp/2010/12/compressor02.gif)![Cleaned and painted compressor bolted to its baseboard](/images/wp-uploads/compressor05.webp)
 
 On the second picture is the same compressor however a bit restored ! and with new oil already in. As you can see I've used rubber hose on the oil pipe outlet.
 
@@ -116,7 +116,7 @@ Oil has to be changed before you turn on the compressor as running it without oi
 Second of all if you pour to much oil (in pistons mechanics) you risk something called **hydraulic hit**.
 It happens when into space above the piston comes more fluid that it can compress (fluids are almost not compressible). As result we destroy the whole piston system. I hope you get the point.
 
-Let's continue. On the next image you can see how it is going to be set.![](/images/wp-uploads/schema.webp)
+Let's continue. On the next image you can see how it is going to be set.![Schematic of the DIY compressor: pressure switch, tank, filters and output](/images/wp-uploads/schema.webp)
 
 If you connect everything according to this drawing you're going to get fully working airbrush compressor. To make it more practical you have to fix everything on some kind of stand or table that will minimize the possibility of breaking it. I have used a piece of timber board. The size of the board depends on the size of the receiver you are going to use. Receiver is a big white bottle you have seen on the photos. Why do we need it?
 
@@ -132,25 +132,25 @@ After you have all the parts ready you can see what size of board you will need 
 
 I would recommend mounting the receiver exactly as you see below:
 
-![](/images/wp-uploads/compressor06.webp)
+![Plastic receiver tank fitted with a mounting strap and outlet](/images/wp-uploads/compressor06.webp)
 
 Of course as belt you can use anything, for example rubber, leather but it has to be firm.
 
 And here is an example of how to fit the relay, switch and cable:
 
-![](/images/wp-uploads/compressor07.webp)
+![Compressor wired to a relay and switch on the baseboard](/images/wp-uploads/compressor07.webp)
 
 When you finish with the electrical part we're going to fit the pneumatic system. At the inlet of the compressor  we connect petrol (gasoline) fuel filter using short rubber hose and 2 metal clamps. Someone might say this is useless but I say go for it anyway, it’s cheap and you won’t have to worry about dust getting into your compressor. Very important thing is not to get any oil into that filter as it won’t do any filtering anymore.
 
 Next, with a piece of rubber hose and other two clamps connect output pipe of the compressor with input of receiver. On the output of receiver put another piece of hose and fix it with a clamp and other end of it will hold diesel fuel filter fixed with last clamp we have left. Be very careful when fitting the receiver and make sure you don’t break the lid.
 
-![](/images/wp-uploads/compressor28.webp)
+![Diesel filter plumbed inline between the tank and the compressor](/images/wp-uploads/compressor28.webp)
 
-![](/images/wp-uploads/compressor18.webp)
+![Rubber hose joining the receiver tank to the compressor outlet](/images/wp-uploads/compressor18.webp)
 
 Diesel filter is almost last element of our unit. Now fit the PVC hose. Usually the diameter of that hose is smaller than output of the filter so it is very difficult to put it on. If you have white spirit put the end of the hose into it but not deep (5mm is enough). After that it won’t be a problem to fit that hose. Fit the hose to timber board and it's done. Congratulations if it works well, but I would recommend to start using it only after couple of days after silicon sealant is completely dry.
 
-![](/images/wp-uploads/compressor09.webp)
+![Finished home-made compressor with tank, filter and hose connected](/images/wp-uploads/compressor09.webp)
 
 ## Utilization
 

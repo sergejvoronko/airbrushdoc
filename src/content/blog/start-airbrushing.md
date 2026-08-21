@@ -17,7 +17,7 @@ First of all, today's article is for true **airbrush beginners**. If you are jus
 
 One of the most important things besides [airbrush gun](/blog/best-airbrush/), [air compressor](/blog/best-air-compressor/) and [paint](/blog/advanced-guide-to-airbrush-colors/) is a **hose**. Yes just a hose. Every airbrushist needs the hose to connect airbrush and compressor into working system. The important part in this case is the fitting. You can always use some adapters but I would be much happier to have only one fitting on each side of the hose. The most common fitting is 1/8 inch thread.
 
-![](/images/wp-uploads/air-hose.webp)
+![Coiled and braided airbrush hoses with quick-release fittings](/images/wp-uploads/air-hose.webp)
 
 ### Hose Types and Choices
 
@@ -45,29 +45,29 @@ To clean up the needle is also not a big problem, just wipe it up with a napkin 
 
 For cleaning the chamber and needle tip there are special tools – cylindrical brushes also known as "**Nylon Precision Brush Set**". You can buy those anywhere in airbrush supply shop and they are so cheap that everyone can afford it.
 
-![](/images/wp-uploads/Nylon-Precision-Brush-Set.webp)
+![Set of airbrush cleaning brushes on a ring](/images/wp-uploads/Nylon-Precision-Brush-Set.webp)
 
 For blowing out the rests of paint and cleaning solutions from airbrush gun the clever people invented **cleaning station**. The price is very affordable but if you don't want or can't get one you can [build cleaning station yourself](/blog/free-airbrush-cleaning-station-really/). When you understand how it works and unleash your imagination you would be able to make it out of anything (even a rubbish).
 
-![](/images/wp-uploads/airbrush-cleaning-station.webp)
+![Airbrush cleaning pot with a metal lid and holder arm](/images/wp-uploads/airbrush-cleaning-station.webp)
 
 ## Paint Handling and Storage Tools
 
 **Pipettes and bottles** – only for your comfort. Pipettes are very useful when working with aggressive paints or reducers. Set of bottles of different sizes, with good lids are very useful for mixing paints. You can buy a special set in airbrush shop or find some in your house.
 
-![](/images/wp-uploads/Glass-Ink-Bottles-Pippetes.webp)
+![Glass pipettes and small paint storage bottles](/images/wp-uploads/Glass-Ink-Bottles-Pippetes.webp)
 
 ## Must-Have Airbrush Accessories
 
 **Airbrush holder** – a must have. I didn't know how useful it is when I started airbrushing but now, working without it is like missing one hand.
 
-![](/images/wp-uploads/airbrush-holder.webp)
+![Airbrush holder clamp and stand](/images/wp-uploads/airbrush-holder.webp)
 
 ### Masking Tape for Airbrush Work
 
 **Masking tape** – a must have – also known as Kabuki Tape. Be careful when buying those as there is a few types depending on adhesion to surface. I recommend brand 3M but Tamiya makes good tapes too.
 
-![](/images/wp-uploads/masking-tape.webp)
+![Rolls of masking tape in several widths](/images/wp-uploads/masking-tape.webp)
 
 ## Safety and Maintenance Equipment
 
@@ -75,13 +75,13 @@ For blowing out the rests of paint and cleaning solutions from airbrush gun the 
 
 **Respirator** – when working with water based paints it is not a life decision but breathing any paint dust over long period of time can cause some serious health issues. Medical or disposable masks known from construction site are absolutely useless. My own recommendation when looking at protection level, comfort and price the respirator 3M 6000 Series is probably optimal choice.
 
-![](/images/wp-uploads/3m-respirator.webp)
+![Half-face respirator with twin particulate filters](/images/wp-uploads/3m-respirator.webp)
 
 ### Airbrush Lubrication
 
 **Airbrush Lube** – not really required but it's good to have. Many brands like Iwata, for example, sell their own lube with airbrush. You can also use synthetic oil (for lubing the bicycle parts) instead of airbrush lube.
 
-![](/images/wp-uploads/airbrush-lube.webp)
+![Tube of Super Lube non-toxic silicone-free airbrush lubricant](/images/wp-uploads/airbrush-lube.webp)
 
 Mineral oil, silicon paste or WD40 CAN'T be used in any case!
 

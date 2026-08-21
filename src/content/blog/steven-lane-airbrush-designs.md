@@ -21,26 +21,26 @@ It wasn't until I left the US and came to Australia that my styles started to ch
 I did some research on the web and chose the **Iwata HP-CP** airbrush since it was considered "**the workhorse**" of the airbrush world and received the highest ratings from everyone. And everything I read was true, this is a great airbrush. While I was waiting for it to arrive, I read about techniques, how to thin the paint, etc. I was even able to get some used **motorcycle helmets** so I could practice when it came. Here are a couple of the first helmets I painted:
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-helmet.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-helmet-3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-helmet-2.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-helmet.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 1 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-helmet-3.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 2 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-helmet-2.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 3 of 18" /></div>
 </div>
 
 ### Custom PC Cases and Sculptures
 
 I also started painting **PC cases**
 
-![](/images/wp-uploads/pc-case-airbrush.webp)![](/images/wp-uploads/pc-case-airbrush-2.webp)
+![Green Ninja-themed PC case with airbrushed panels](/images/wp-uploads/pc-case-airbrush.webp)![PC case airbrushed with a red and white rising sun design](/images/wp-uploads/pc-case-airbrush-2.webp)
 
 And started using some of the techniques that I was reading about on my **sculptures**.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-6.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-5.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-4.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-2.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-6.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 4 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-5.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 5 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-4.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 6 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-3.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 7 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture-2.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 8 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-sculpture.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 9 of 18" /></div>
 </div>
 
 ## Tools, Equipment, and Materials
@@ -76,17 +76,17 @@ I try not to limit myself to any style, I love to try anything different and I l
 Here are some more examples of work I've done, hope you like them!
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/super-mario-2.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/super-mario.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/skull-gun-airbrush-motive.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/pc-case-airbrush-4.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/pc-case-airbrush-3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-xbox.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-sculpture.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-buggy.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-guitar.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/super-mario-2.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 10 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/super-mario.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 11 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/skull-gun-airbrush-motive.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 12 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/pc-case-airbrush-4.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 13 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/pc-case-airbrush-3.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 14 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-xbox.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 15 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-sculpture.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 16 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-buggy.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 17 of 18" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrushed-guitar.webp" loading="lazy" alt="Airbrush design by Steven Lane — image 18 of 18" /></div>
 </div>
 
-![](/images/wp-uploads/unusual-airbrush.webp)
+![Airbrushed artwork of red and orange flames over a dark ground](/images/wp-uploads/unusual-airbrush.webp)
 
 *I think some of Stevens works are unusual in airbrush world, that's why they deserve to be seen and brought to broader public. If you like this artist please share his story with all your friends.*

@@ -1,6 +1,7 @@
 ---
 title: "How to Choose an Airbrush Compressor: PSI, CFM & Types Explained"
-description: "How airbrush compressors actually work — PSI vs CFM, noise, duty cycle, water traps, regulators, and every compressor type explained, so you can judge any model yourself."
+seoTitle: "How to Choose an Airbrush Compressor: PSI & CFM"
+description: "How airbrush compressors work: PSI vs CFM, noise, duty cycle, water traps, regulators and every compressor type, so you can judge any model yourself."
 pubDate: 2014-07-26
 category: "beginners"
 tags: ["airbrush compressor", "PSI CFM", "compressor types", "oil-less compressor", "diaphragm compressor", "piston compressor", "duty cycle", "how to choose a compressor"]
@@ -63,7 +64,7 @@ It can go on with almost no sound, and go off with some "psssss" or you can hear
 
 ### 4. Water
 
-All compressors generate water and water vapour! Regardless of the type of compressor you purchase, water spraying out of your nozzle will destroy all your paint work. So usually we use* filters* that can remove the water from the air and ***point-of-use dryer*** to remove water vapour and to ensure that no water can reach your work.![](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
+All compressors generate water and water vapour! Regardless of the type of compressor you purchase, water spraying out of your nozzle will destroy all your paint work. So usually we use* filters* that can remove the water from the air and ***point-of-use dryer*** to remove water vapour and to ensure that no water can reach your work.![Inline water trap and pressure regulator mounted on a workshop wall](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
 
 ### 5. Regulators
 
@@ -141,23 +142,23 @@ Does not require any oil for a run. Some people will point it out that this type
 
 ### Diaphragm
 
-Some of this compressors don't have a steady airflow (I call it pulsing air flow).![](/images/wp-uploads/paasche_417J7DE8XQL._SL500_AA300_.webp) This could be compensated with a tank (receiver). If your airbrush is gravity feed and you are using very thin paint you can give it a try. (example [**Paasche D500SR**](/go/paasche-d500sr) can be used with airbrush gun Paasche VL). Diaphragm compressors achieve compression with the use of a flexing diaphragm that moves back and forth in a closed chamber. The design is an alteration of the reciprocating piston concept. The motion of the connecting rod under the diaphragm causes the flexing and only a short stroke is needed to generate similar pressure effects as those of a reciprocating piston compressor.
+Some of this compressors don't have a steady airflow (I call it pulsing air flow).![Portable diaphragm airbrush compressor with a carry handle](/images/wp-uploads/paasche_417J7DE8XQL._SL500_AA300_.webp) This could be compensated with a tank (receiver). If your airbrush is gravity feed and you are using very thin paint you can give it a try. (example [**Paasche D500SR**](/go/paasche-d500sr) can be used with airbrush gun Paasche VL). Diaphragm compressors achieve compression with the use of a flexing diaphragm that moves back and forth in a closed chamber. The design is an alteration of the reciprocating piston concept. The motion of the connecting rod under the diaphragm causes the flexing and only a short stroke is needed to generate similar pressure effects as those of a reciprocating piston compressor.
 
 ### Piston
 
 This one is good for gravity feed fixed nozzle and thin colours (Comart, Golden Airbrush)
 
-**Single piston** (***SprintJet***)![](/images/wp-uploads/yhst-80343540264639_2149_36926939.webp)
+**Single piston** (***SprintJet***)![Iwata Studio Series single-piston compressor with moisture filter and gauge](/images/wp-uploads/yhst-80343540264639_2149_36926939.webp)
 
 **Double piston** in Metal Case (***PowerJet***) - good for home or apartment.
-![](/images/wp-uploads/iwata-power-jet-pro-studio-compressor-2.webp)
+![Iwata Studio Series double-piston compressor in a metal noise-damping case](/images/wp-uploads/iwata-power-jet-pro-studio-compressor-2.webp)
 They are "quite" but will not work with thick paints (**high viscosity** - textile colors with floating nozzle). I used quotation marks because it is not really quite (check some videos on youtube).
 
 ***Silent Air* 1/2 horse** power compressor has enough PSI to work with textile colours and can be great for art work, but it has not enough air for base coating or clear coating (Silent Air makes more powerful compressors that are good for coating but they are more expensive).
 
 **Fridge compressor with tank** (***Iwata Great White Shark***) is airbrush compressor (because it uses fridge type compressor it's really very quite). It can run up to 3 airbrushes at the same time with almost no problem. But this quality costs big money :(
 
-![](/images/wp-uploads/518H2cK+iAL._SS500_.webp)
+![Iwata Great White Shark fridge-type compressor with tank on a wheeled frame](/images/wp-uploads/518H2cK+iAL._SS500_.webp)
 
 ### Little or Big Compressor?
 
@@ -179,7 +180,7 @@ Don't forget to drain the receiver regularly to eliminate free water from the ta
 
 Actually during my research I have found that some companies that produce airbrush guns and compressor will recommend you which compressor could be used with the gun you bought from them. Here is the table from IWATA that even recommends their equipment depending on your level of skills in airbrushing.
 
-![](/images/wp-uploads/iwata.webp)
+![Iwata-Medea chart matching airbrush models to compressors by skill level](/images/wp-uploads/iwata.webp)
 
 I think that you may get the feeling that I'm promoting one brand. Well I was trying not to, but that is my own experience and I think they deserve it. By the way I'm not getting any money from them for mentioning their name.
 Here are some advises from professionals:

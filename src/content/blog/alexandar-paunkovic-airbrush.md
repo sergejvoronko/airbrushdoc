@@ -22,21 +22,21 @@ My first art made with airbrush was portrait of **Robert de Niro**.
 Here is the gallery that I've made with airbrush. Some of these artworks are really huge in dimensions.
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/yoda.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Gandalf.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Shepard-from-Mass-Effect-3-video-game.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-Downey-Jr.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-de-Niro-and-air-compressor.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-de-Niro-airbrush.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Rihana-aurbrush-portrait.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Liam-Neeson-as-Ras-al-Ghul-airbrush.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Gladiator-airbrush.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/first-metal-airbrush.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/customer-airbrush.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/custom-airbrush-1.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Crysis-Nanosuit-airbrush.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/BruceLee-airbrush.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Anthony-Hopkins-airbrush.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/yoda.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 1 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Airbrush-Gandalf.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 2 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Shepard-from-Mass-Effect-3-video-game.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 3 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-Downey-Jr.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 4 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-de-Niro-and-air-compressor.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 5 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Robert-de-Niro-airbrush.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 6 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Rihana-aurbrush-portrait.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 7 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Liam-Neeson-as-Ras-al-Ghul-airbrush.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 8 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Gladiator-airbrush.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 9 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/first-metal-airbrush.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 10 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/customer-airbrush.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 11 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/custom-airbrush-1.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 12 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Crysis-Nanosuit-airbrush.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 13 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/BruceLee-airbrush.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 14 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Anthony-Hopkins-airbrush.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 15 of 21" /></div>
 </div>
 
 On YouTube you can watch some of my time lapse videos of airbrushing. Here are two of them.
@@ -58,12 +58,12 @@ And I use some paint from local seller for painting on walls, good enough for th
 Of course I didn't learn to be artist in those 10 months. I have had some experience with art before I've taken airbrush into my hands. Here are some drawings I have made with Graphite Pencils or my first drawing experience with charcoal - Portrait of Joker:
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Armin-Mersmann.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Drawing.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Heath-Ledger.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Heath-Ledger-Joker-charcoal.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Hugh-Laurie.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Jean-Reno.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Armin-Mersmann.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 16 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Drawing.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 17 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Heath-Ledger.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 18 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Heath-Ledger-Joker-charcoal.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 19 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Hugh-Laurie.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 20 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Jean-Reno.webp" loading="lazy" alt="Airbrush artwork by Alexandar Paunkovic — image 21 of 21" /></div>
 </div>
 
 <div class="abd-author-credit">

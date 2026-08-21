@@ -1,5 +1,6 @@
 ---
 title: "Best Airbrush for 3D Prints: Primers, Paints & Settings That Actually Work"
+seoTitle: "Best Airbrush for 3D Prints: Paints & Settings | AirbrushDOC"
 description: "The best airbrush for 3D prints, plus primers, PSI settings, and paint tips that actually stick to resin and FDM surfaces. A practical guide for beginners."
 pubDate: 2026-05-05
 readingTime: 10

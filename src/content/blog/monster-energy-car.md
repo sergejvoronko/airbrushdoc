@@ -27,89 +27,89 @@ The car belongs to a friend of mine who just wanted to get the car repainted. So
 
 Here are some pictures of what the Levin looked like before i started working on it, in some of the pictures you can see i used a blue marker to mark the spots that I thought needed some attention.
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-1.webp)
+![White Toyota Levin before restoration, rear three-quarter view](/images/wp-uploads/Monster-Energy-Theme-Car-1.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-2.webp)
+![Levin with bodywork stripped and filler visible on the wings](/images/wp-uploads/Monster-Energy-Theme-Car-2.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-3.webp)
+![Levin bonnet and roof after the first sanding pass](/images/wp-uploads/Monster-Energy-Theme-Car-3.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-4.webp)
+![Levin side view during panel preparation](/images/wp-uploads/Monster-Energy-Theme-Car-4.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-5.webp)
+![Levin with windows and trim removed ready for paint](/images/wp-uploads/Monster-Energy-Theme-Car-5.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-6.webp)
+![Levin door opening with the panel stripped back](/images/wp-uploads/Monster-Energy-Theme-Car-6.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-7.webp)
+![Levin interior with seats and trim still fitted](/images/wp-uploads/Monster-Energy-Theme-Car-7.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-8.webp)
+![Rear interior of the Levin before the respray](/images/wp-uploads/Monster-Energy-Theme-Car-8.webp)
 
 ## Sanding, Priming, and Base Coat Application
 
 in the next set of pictures i have sanded the car down and given it a few coats of primmer and also painted the inner portion of the doors in green.
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-9.webp)
+![Car doors masked in green tape before spraying](/images/wp-uploads/Monster-Energy-Theme-Car-9.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-10.webp)
+![Close view of the masked window aperture](/images/wp-uploads/Monster-Energy-Theme-Car-10.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-11.webp)
+![Door shell masked in green ready for primer](/images/wp-uploads/Monster-Energy-Theme-Car-11.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-12.webp)
+![Two doors masked and primed side by side](/images/wp-uploads/Monster-Energy-Theme-Car-12.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-13.webp)
+![Masked door with the glass aperture taped over](/images/wp-uploads/Monster-Energy-Theme-Car-13.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-14.webp)
+![Levin front wing in primer after masking](/images/wp-uploads/Monster-Energy-Theme-Car-14.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-15.webp)
+![Levin bonnet in primer with newspaper masking](/images/wp-uploads/Monster-Energy-Theme-Car-15.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-16.webp)
+![Whole car in primer inside the workshop](/images/wp-uploads/Monster-Energy-Theme-Car-16.webp)
 
 ## Progress: Matt Black Finish and Final Details
 
 In these pictures you can see the before and after of the rims and what the final **matt black** looks on the car but I'm yet to airbrush the **monster logo** on the doors and the front hood, the spoiler is not fitted yet and also the door panels are yet to be fitted, but you can get the basic idea of what the final product will look like.
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-17.webp)
+![Levin resprayed in matt black, parked outdoors](/images/wp-uploads/Monster-Energy-Theme-Car-17.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-18.webp)
+![Rear of the matt black Levin with doors masked green](/images/wp-uploads/Monster-Energy-Theme-Car-18.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-19.webp)
+![Matt black Levin with both doors open](/images/wp-uploads/Monster-Energy-Theme-Car-19.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-20.webp)
+![Finished matt black Levin outside a red building](/images/wp-uploads/Monster-Energy-Theme-Car-20.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-21.webp)
+![Matt black Levin front three-quarter view](/images/wp-uploads/Monster-Energy-Theme-Car-21.webp)
 
 ### Wheels Transformation
 
 Here is how wheels looked like and what I did with them.
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-27.webp)
+![Four original alloy wheels before refinishing](/images/wp-uploads/Monster-Energy-Theme-Car-27.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-28.webp)
+![The four wheels resprayed in Monster green](/images/wp-uploads/Monster-Energy-Theme-Car-28.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-29.webp)
+![Close view of two green-painted alloy wheels](/images/wp-uploads/Monster-Energy-Theme-Car-29.webp)
 
 ## Finished Monster Levin Gallery
 
 And here is finished Monster Levin.
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-24.webp)
+![Levin on axle stands with the Monster claw logo applied](/images/wp-uploads/Monster-Energy-Theme-Car-24.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-25.webp)
+![Levin with green accents and logo, wheels removed](/images/wp-uploads/Monster-Energy-Theme-Car-25.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-26.webp)
+![Levin interior with green painted door cards and trim](/images/wp-uploads/Monster-Energy-Theme-Car-26.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-31.webp)
+![Monster Energy claw logo airbrushed on the car door](/images/wp-uploads/Monster-Energy-Theme-Car-31.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-32.webp)
+![DC Shoes logo airbrushed in green inside the car](/images/wp-uploads/Monster-Energy-Theme-Car-32.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-22.webp)
+![Finished Monster Levin with green wheels being worked on outdoors](/images/wp-uploads/Monster-Energy-Theme-Car-22.webp)
 
-![](/images/wp-uploads/Monster-Energy-Theme-Car-23.webp)
+![Monster Levin with doors and bonnet open, showing the green interior](/images/wp-uploads/Monster-Energy-Theme-Car-23.webp)
 
 ## Airbrush Tools and Equipment Setup
 
 Here are some picks of the tools I use. I have a small 25ltr single piston compressor that I adjusted to regulate between 40psi and 60psi.
 
-![](/images/wp-uploads/compressor.webp)
+![Compressor with twin gauges, regulator and brass fittings](/images/wp-uploads/compressor.webp)
 
 ### Cutting Tools and Airbrush Models
 
@@ -117,7 +117,7 @@ I also use a set of exacto-blades that has different sizes and types of blades t
 
 I have two airbrushes that use, a **master double action gravity feed** that I only use for those really small details, and another air brush that I bought in South Africa but I don't know the brand name.
 
-![](/images/wp-uploads/master-airbrush-noname-airbrush.webp)
+![Cutting tools, knives and stencil material laid out on the floor](/images/wp-uploads/master-airbrush-noname-airbrush.webp)
 
 I have a homemade cutting board that is basically a 6inch board that I cut into a usable size.
 
@@ -125,11 +125,11 @@ I have a homemade cutting board that is basically a 6inch board that I cut into 
 
 I use the normal **urethane automotive paints** but I just over reduce them when airbrushing. I also have a touch up gun, and a gravity feed spray guy that I use for clear coat application.
 
-![](/images/wp-uploads/airbrush-work-place.webp)
+![Home workshop bench with paint bottles and airbrushes on a rack](/images/wp-uploads/airbrush-work-place.webp)
 
 I work from the garage at home. All I do Is just close the gates spill some water on the floor and get to work.
 
-![](/images/wp-uploads/garage.webp)
+![Empty home garage used as the spray area, doors open](/images/wp-uploads/garage.webp)
 
 That's basically it.
 

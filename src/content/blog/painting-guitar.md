@@ -32,23 +32,23 @@ Why have I mentioned the trouble in first paragraph? The thing is that all you s
 
 A long time has passed since I first introduced [airsick stencils](http://www.airsickhowto.com/) on my site but I never had any chance to review them or show some painting using them. So here it is. Of course my bro did use just some of them but they have helped a lot. Here they are!
 
-![](/images/wp-uploads/airsickstencils-1.webp)
+![Airsick stencil sheets and barbed-wire designs on a blue mat](/images/wp-uploads/airsickstencils-1.webp)
 
 These snaps were made after the painting so you can see the paint on them.
 
-![](/images/wp-uploads/airsickstencils-2.webp)
+![Skull and filigree stencil sheets laid out for the guitar project](/images/wp-uploads/airsickstencils-2.webp)
 
-![](/images/wp-uploads/airsickstencils-3.webp)
+![Barbed-wire stencils beside the skull sheets under work lighting](/images/wp-uploads/airsickstencils-3.webp)
 
 ### Custom Stencil Application
 
 The main object on the guitar has been custom made stencil specially made for this particular project and to keep it unique we decided not to share the stencil.
 
-![](/images/wp-uploads/painting-guitar-1.webp)
+![Demon face airbrushed in white on the black guitar body](/images/wp-uploads/painting-guitar-1.webp)
 
-![](/images/wp-uploads/painting-guitar-2.webp)
+![Guitar body with a pentagram motif sprayed near the edge](/images/wp-uploads/painting-guitar-2.webp)
 
-![](/images/wp-uploads/painting-guitar-3.webp)
+![Guitar body with the demon face and background taking shape](/images/wp-uploads/painting-guitar-3.webp)
 
 ## Guitar Painting Process: Step-by-Step
 
@@ -56,43 +56,43 @@ The main object on the guitar has been custom made stencil specially made for th
 
 Here is the time to start making textures and background.
 
-![](/images/wp-uploads/painting-guitar-4.webp)
+![Guitar with green eyes and white scrollwork added](/images/wp-uploads/painting-guitar-4.webp)
 
 Also to add some color.
 
-![](/images/wp-uploads/painting-guitar-5.webp)
+![Guitar body showing the scrollwork extending around the horn](/images/wp-uploads/painting-guitar-5.webp)
 
 ### Adding Details and Shadows
 
 Here was my advice taken care of. I recommended adding some cracks to skulls.
 
-![](/images/wp-uploads/painting-guitar-6.webp)
+![Guitar artwork with a second skull worked into the lower body](/images/wp-uploads/painting-guitar-6.webp)
 
 And also give those cracks some shadows to make them look more realistic.
 
-![](/images/wp-uploads/painting-guitar-7.webp)
+![Guitar laid on the bench with masking in place during painting](/images/wp-uploads/painting-guitar-7.webp)
 
-![](/images/wp-uploads/painting-guitar-8.webp)
+![Guitar body with shadows added under the scrollwork](/images/wp-uploads/painting-guitar-8.webp)
 
-![](/images/wp-uploads/painting-guitar-9.webp)
+![Close view of the demon eyes and airbrushed smoke](/images/wp-uploads/painting-guitar-9.webp)
 
 ### Clear Coating and Finishing
 
 The picture bellow is after clear coat. The process of clear coating itself is not seen on the video because it was very difficult for me to let my camcorder be exposed to those clouds of coat-dust.
 
-![](/images/wp-uploads/painting-guitar-10.webp)
+![Guitar after clear coat, showing the gloss finish](/images/wp-uploads/painting-guitar-10.webp)
 
 Finished and polished. All that's left is just to mount all the parts of the guitar together.
 
-![](/images/wp-uploads/painting-guitar-11.webp)
+![Finished guitar body assembled with pickups and hardware](/images/wp-uploads/painting-guitar-11.webp)
 
-![](/images/wp-uploads/painting-guitar-12.webp)
+![Detail of the finished guitar around the bridge and controls](/images/wp-uploads/painting-guitar-12.webp)
 
-![](/images/wp-uploads/painting-guitar-13.webp)
+![Completed guitar photographed against a dark cloth](/images/wp-uploads/painting-guitar-13.webp)
 
-![](/images/wp-uploads/painting-guitar-14.webp)
+![Full view of the finished airbrushed guitar with neck fitted](/images/wp-uploads/painting-guitar-14.webp)
 
-![](/images/wp-uploads/painting-guitar-15.webp)
+![Close-up of the demon's green eyes on the finished guitar](/images/wp-uploads/painting-guitar-15.webp)
 
 ## Key Takeaways
 

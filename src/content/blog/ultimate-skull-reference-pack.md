@@ -31,27 +31,27 @@ I just want to warn you all that many of pictures have watermarks so I decline h
 But hey, why to go elsewhere when you have most of it here in couple of clicks. This pack is 103MB big, contains 555 images and here are some samples:
 
 <div class="abd-gallery abd-gallery-3">
-<div class="abd-gallery-item"><img src="/images/wp-uploads/dmanisi-skull-front-500.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/variants_large_6554.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/variants_large_4412.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/variants_large_3615.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/skull_dental.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/category5_species_1646_large_3.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/category3_family_34_large.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/Wolf_Skull_by_rgstock777.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/Steampunk_skull_by_8Fallen2.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/Skull_by_motherpearl666.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/Skull_by_EvermadetoBe.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/Skull_by_BasDeEsch.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/skull_by_aikonss.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/Skull_16_by_Ezekielsdoom.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/Possibly_Human_Skull_by_PixelTribe.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/Human_Skull_2_by_rgstock777.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/f418626e33277a1225dd77d5ae1e6d42.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/f6efd4a87d393e1916ac585dd350bd7b.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/d593f4d082cfe4efe61d5bc7b03f8677.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/American_Kaiser_Dragon_Skull_by_Zhon.webp" loading="lazy" /></div>
-<div class="abd-gallery-item"><img src="/images/wp-uploads/A_dragon_and_his_skull_by_alecan.webp" loading="lazy" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/dmanisi-skull-front-500.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 1 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/variants_large_6554.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 2 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/variants_large_4412.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 3 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/variants_large_3615.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 4 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/skull_dental.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 5 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/category5_species_1646_large_3.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 6 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/category3_family_34_large.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 7 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/Wolf_Skull_by_rgstock777.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 8 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/Steampunk_skull_by_8Fallen2.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 9 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/Skull_by_motherpearl666.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 10 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/Skull_by_EvermadetoBe.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 11 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/Skull_by_BasDeEsch.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 12 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/skull_by_aikonss.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 13 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/Skull_16_by_Ezekielsdoom.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 14 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/Possibly_Human_Skull_by_PixelTribe.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 15 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/Human_Skull_2_by_rgstock777.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 16 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/f418626e33277a1225dd77d5ae1e6d42.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 17 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/f6efd4a87d393e1916ac585dd350bd7b.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 18 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/d593f4d082cfe4efe61d5bc7b03f8677.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 19 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/American_Kaiser_Dragon_Skull_by_Zhon.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 20 of 21" /></div>
+<div class="abd-gallery-item"><img src="/images/wp-uploads/A_dragon_and_his_skull_by_alecan.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 21 of 21" /></div>
 </div>
 
 > **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.

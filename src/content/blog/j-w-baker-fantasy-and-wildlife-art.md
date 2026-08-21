@@ -28,7 +28,7 @@ J.W. believes that being an Artist is not a job, nor a trade but rather a way of
 
 > True art is a journey to rediscover the simplicity of directness you already possess. [Tweet This!](http://clicktotweet.com/dPG4y)
 
-![](/images/wp-uploads/painting_owl.webp)J.W.'s past artistic associations include works for Walt Disney World Orlando, Sacramento Zoo, Sierra Endangered Cat Haven, The CARE Foundation, Shambala Preserve, University of Florida and many others. He also has been featured in art related publications like Airbrush Action Magazine, Airbrush Art + Action (Art Scene International), Airbrush Technique Magazine, Nature's Paint Box, and most recently Airbrush Step by Step.
+![J. W. Baker at his easel working on a brightly coloured owl painting](/images/wp-uploads/painting_owl.webp)J.W.'s past artistic associations include works for Walt Disney World Orlando, Sacramento Zoo, Sierra Endangered Cat Haven, The CARE Foundation, Shambala Preserve, University of Florida and many others. He also has been featured in art related publications like Airbrush Action Magazine, Airbrush Art + Action (Art Scene International), Airbrush Technique Magazine, Nature's Paint Box, and most recently Airbrush Step by Step.
 
 ### Artist Background and Influences
 
@@ -49,55 +49,55 @@ BTW, every aspect of the process of creating J.W.'s artworks starts with buildin
 ## J.W. Baker Fantasy and Wildlife Art Gallery
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/broadband.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/brother_hawk.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/brother_wolf.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/catfood_bandit.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/catnap.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/crossroads.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/dappled.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/direct_connect.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/do_you_believe_in_magic.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/encounter.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/ephemeral.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/eye_in_the_sky.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/feed_the_fire.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/fox_medicine.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/happy_hippo.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/hard_wired_connection_ii.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/ill_news.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/internal_connection.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/medicine_bear_ii.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/mystery.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/nonchalant.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/quest.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/raven.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/reverie.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/sanctuary.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/shaken_not_stirred.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/shiny.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/spirit_within.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/summers_end.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/the_medicine_wheel.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/thetaobear.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/three_friends.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/timely_connection_ii.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/unbearable_knight.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/ursa_major.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/when_in_doubt_ii.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/where_i_am.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/whitewolf.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/who_knew.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/wise_counsel.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/wizards_apprentice.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/you_talking_to_me.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/broadband.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 1 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/brother_hawk.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 2 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/brother_wolf.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 3 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/catfood_bandit.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 4 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/catnap.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 5 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/crossroads.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 6 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/dappled.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 7 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/direct_connect.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 8 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/do_you_believe_in_magic.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 9 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/encounter.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 10 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/ephemeral.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 11 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/eye_in_the_sky.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 12 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/feed_the_fire.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 13 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/fox_medicine.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 14 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/happy_hippo.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 15 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/hard_wired_connection_ii.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 16 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/ill_news.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 17 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/internal_connection.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 18 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/medicine_bear_ii.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 19 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/mystery.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 20 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/nonchalant.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 21 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/quest.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 22 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/raven.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 23 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/reverie.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 24 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/sanctuary.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 25 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/shaken_not_stirred.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 26 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/shiny.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 27 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/spirit_within.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 28 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/summers_end.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 29 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/the_medicine_wheel.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 30 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/thetaobear.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 31 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/three_friends.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 32 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/timely_connection_ii.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 33 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/unbearable_knight.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 34 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/ursa_major.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 35 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/when_in_doubt_ii.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 36 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/where_i_am.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 37 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/whitewolf.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 38 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/who_knew.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 39 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wise_counsel.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 40 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/wizards_apprentice.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 41 of 42" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/you_talking_to_me.webp" loading="lazy" alt="Fantasy and wildlife artwork by J. W. Baker — image 42 of 42" /></div>
 </div>
 
 ALL Images © Copyright J. W. Baker / 1991 - 2011 | WOLF SONG STUDIO 2005 - 2011
 
 ## Visit J.W. Baker's Official Website
 
-[![](/images/wp-uploads/jwbaker-banner.webp)](http://www.jwbart.com/)
+[![Banner reading Artist J. W. Baker over a wildlife artwork](/images/wp-uploads/jwbaker-banner.webp)](http://www.jwbart.com/)
 
 I have included just some of J.W.'s works in this gallery. If you want to see more and also read the story that every of this masterpieces tells, visit his website by clicking the banner above or use this link - [J W Baker Gallery](http://www.jwbart.com/).
 

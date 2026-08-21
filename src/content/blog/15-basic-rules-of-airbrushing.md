@@ -22,7 +22,7 @@ Usually with paints like urethane or lacquer need to wear a mask with proper fil
 Any paint is dangerous to breathe, even if it says non-toxic. I would compare it to smoking.
 
 Passive smoking is more dangerous than smoking itself, now imagine that you inhale the spray dust every time your [airbrush](/) is atomizing and all **that stuff lands in your lungs**!
-![](/images/wp-uploads/respirator.webp)
+![Respirator mask with replaceable filter cartridges for airbrush safety](/images/wp-uploads/respirator.webp)
 Make sure the pigments are NOT poisonous i.e. contain lead of cadmium or zinc... It could be very dangerous. Well I heard that some of them can kill you very quickly if you inhale them... but I can't confirm that.
 
 Urethane, lacquers and automotive paints could be dangerous for your skin and sometimes cause allergic reaction. So, from safety point come my first two rules:
@@ -65,7 +65,7 @@ Well, this is all good, you say, but what if you use more colors and every paint
 
 If you hold airbrush in acute angle it will result in rough surface and cause other side effects.
 
-![](/images/wp-uploads/paint-drips1.webp)
+![Paint runs and drips on a panel caused by spraying too much paint at once](/images/wp-uploads/paint-drips1.webp)
 
 ### 8. DO NOT hold airbrush at one point! it has to move all the time it atomizes. Otherwise you will have paint drips or paint runs.
 9. Always start with bright colors. Covering black with white is a pain in the butt. Sometimes it is the other way around (difficult to cover white as well)
@@ -76,7 +76,7 @@ If you want to paint bright object on dark background through the stencil (such 
 
 Any airbrush is high quality product and you have to be careful with it if you want to get best results. Good thing is to get to know all the parts of your airbrush and how it's build. This knowledge will help you with cleaning and with maintenance too.
 
-![](/images/wp-uploads/airbrush-schema.webp)
+![Printed airbrush manual open at the exploded parts diagram](/images/wp-uploads/airbrush-schema.webp)
 
 ### 10. DO NOT start any repairing if you are not sure that you can finish it.
 
@@ -99,7 +99,7 @@ Bad atomization and clogged nozzle are usually a result of bad or irregular clea
 
 ### 13. When you finish your work, NEVER leave airbrush without cleaning.
 
-![](/images/wp-uploads/dirty-airbrush.webp)
+![Airbrush left uncleaned with dried paint around the needle and nozzle](/images/wp-uploads/dirty-airbrush.webp)
 While servicing your tool yourself, for the first time, have a schema of airbrush (usually it comes with airbrush). When changing nozzle use only special key that comes with airbrush. Be careful not to tight it too hard or you can break the treads. If it happens you will have to buy new nozzle.
 
 Sometimes I use lubricants for airbrush gun and I would advice you to use only the one that comes with airbrush or, if you don't have any, use **glycerin**.

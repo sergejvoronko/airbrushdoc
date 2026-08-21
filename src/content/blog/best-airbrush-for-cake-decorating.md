@@ -1,5 +1,6 @@
 ---
 title: "Best Airbrush for Cake Decorating 2026: Food-Safe Kits & Buying Guide"
+seoTitle: "Best Airbrush for Cake Decorating 2026 (Food-Safe)"
 description: "Best cake decorating airbrush kits, food-safe options for beginners and pros. What to look for, which food colors to use, and how to get started safely."
 pubDate: 2025-12-30
 category: "airbrush-reviews"

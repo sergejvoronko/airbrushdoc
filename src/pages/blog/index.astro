@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
+import { buildBreadcrumbSchema } from '../../lib/schema';
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
 const sorted = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -20,8 +21,11 @@ const CAT_LABELS: Record<string, string> = {
 const cats = ['airbrush-reviews', 'beginners', 'discussion', 'download', 'gallery', 'guides', 'history', 'tipstricks', 'video'];
 const catCounts: Record<string, number> = {};
 sorted.forEach(p => { catCounts[p.data.category] = (catCounts[p.data.category] || 0) + 1; });
+const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Blog' }]);
+
 ---
 <BaseLayout title="Blog | AirbrushDOC" description="All airbrush articles — techniques, equipment reviews, beginner guides, and more.">
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <main class="abd-container">
     <div class="blg-page-header">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">

@@ -19,14 +19,14 @@ Let's start with the simplest one
 
 All we need for construction of this airbrush is **syringe** and empty** ball-pen refill **(as shown below).
 
-![](/images/wp-uploads/ball-pen-airbrush-1.webp)![](/images/wp-uploads/syringe-airbrush-2.webp)
+![Ball-pen refill used as the paint tube of a home-made airbrush](/images/wp-uploads/ball-pen-airbrush-1.webp)![Disposable syringe and needle used to build a home-made airbrush](/images/wp-uploads/syringe-airbrush-2.webp)
 
 First you have to remove the ball from the ball-pen refill and stick the needle of the syringe through the plastic lead. The syringe then works as a gravity feed airbrush cup. Connect the air hose on the other end of the lead and it's done!
-![](/images/wp-uploads/syringe-ball-pen-airbrush-1.webp)![](/images/wp-uploads/syringe-ball-pen-airbrush-2.webp)The strange piece of plastic on the pen refill is a kind of pressure regulator. The refill has few holes and by moving the regulator we will release some air trough those holes and the pressure will decrease.
+![Syringe needle and pen refill held together at right angles](/images/wp-uploads/syringe-ball-pen-airbrush-1.webp)![Assembled syringe airbrush with the bent needle in place](/images/wp-uploads/syringe-ball-pen-airbrush-2.webp)The strange piece of plastic on the pen refill is a kind of pressure regulator. The refill has few holes and by moving the regulator we will release some air trough those holes and the pressure will decrease.
 
 ### Syringe airbrush with siphon feed
 
-![](/images/wp-uploads/diy-airbrush-31.webp)
+![Diagram of a ball-pen airbrush with reservoir, refill and air source](/images/wp-uploads/diy-airbrush-31.webp)
 
 Identical idea, but instead of the whole syringe we use just the end where we connect the needle, and glue it to some bottle lid. The lid on the bottle should have a small hole to let the air in, which will push the paint up into the needle.
 
@@ -34,19 +34,19 @@ Identical idea, but instead of the whole syringe we use just the end where we co
 
 This time you won't need the syringe as the airbrush will be siphon feed. You will need the ball-pen (simple one), some reservoir and maybe a piece of metal plate or maybe you'll be fine with some wire.
 
-![](/images/wp-uploads/DIY-Airbrush-schema1.webp)
+![Diagram of the simpler pen-body airbrush drawing paint from a jar](/images/wp-uploads/DIY-Airbrush-schema1.webp)
 
 Simple, isn't it? The author of this airbrush recommends to cut the tip of ball-pen refill in 15-30 degree angle after removing the ball.
 
-![](/images/wp-uploads/DIY-Airbrush.webp)
+![Diagram and photo showing the 15 to 30 degree angle between tubes](/images/wp-uploads/DIY-Airbrush.webp)
 
 On the picture above author used as an airbrush body a piece of wire and taped it to the pen body. The tip has to be cut, otherwise there is going to be a blob of paint which will finish on your art work. On the picture bellow is the same construction, but instead of wire author used rather a metal plate.
 
-![](/images/wp-uploads/hand_made_airbrush.webp)
+![Home-made airbrush built into a clear plastic pen body](/images/wp-uploads/hand_made_airbrush.webp)
 
 Another schema of possible similar construction
 
-![](/images/wp-uploads/diy-airbrush-2.webp)
+![Cross-section diagram of the siphon-feed home-made airbrush](/images/wp-uploads/diy-airbrush-2.webp)
 
 Really simple constructions, don't you think? That's not everything. The next construction isn't that easy but I had to include it here.
 
@@ -58,35 +58,35 @@ The whole airbrush is made out of brass, except for some stainless steel parts.
 
 ### Check This Out!
 
-**![](/images/wp-uploads/Home-made-airbrush-Nozzle.webp)**
+**![Engineering drawing of a nozzle with dimensions and packing detail](/images/wp-uploads/Home-made-airbrush-Nozzle.webp)**
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/hm-airbrush-nozzle-cap-schema.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-air-valve.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-cup-schema.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-look-top.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-needle-schema.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-trigger-schema.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-body.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/hm-airbrush-nozzle-cap-schema.webp" loading="lazy" alt="Home-made airbrush build detail — image 1 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-air-valve.webp" loading="lazy" alt="Home-made airbrush build detail — image 2 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-cup-schema.webp" loading="lazy" alt="Home-made airbrush build detail — image 3 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-look-top.webp" loading="lazy" alt="Home-made airbrush build detail — image 4 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-needle-schema.webp" loading="lazy" alt="Home-made airbrush build detail — image 5 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-trigger-schema.webp" loading="lazy" alt="Home-made airbrush build detail — image 6 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-body.webp" loading="lazy" alt="Home-made airbrush build detail — image 7 of 21" /></div>
 </div>
 
-![](/images/wp-uploads/homemade-airbrush.webp)
+![Photo panel of a stripped airbrush body, trigger ring and nozzle cap](/images/wp-uploads/homemade-airbrush.webp)
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-aibrush-with-big-nozzle.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-1.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-2.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-3.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-4.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-5.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-6.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-7.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-11.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-10.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-9.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-8.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-air-channel.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-aibrush-with-big-nozzle.webp" loading="lazy" alt="Home-made airbrush build detail — image 8 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-1.webp" loading="lazy" alt="Home-made airbrush build detail — image 9 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-2.webp" loading="lazy" alt="Home-made airbrush build detail — image 10 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-3.webp" loading="lazy" alt="Home-made airbrush build detail — image 11 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-4.webp" loading="lazy" alt="Home-made airbrush build detail — image 12 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-5.webp" loading="lazy" alt="Home-made airbrush build detail — image 13 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-6.webp" loading="lazy" alt="Home-made airbrush build detail — image 14 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-7.webp" loading="lazy" alt="Home-made airbrush build detail — image 15 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-11.webp" loading="lazy" alt="Home-made airbrush build detail — image 16 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-10.webp" loading="lazy" alt="Home-made airbrush build detail — image 17 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-9.webp" loading="lazy" alt="Home-made airbrush build detail — image 18 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush-8.webp" loading="lazy" alt="Home-made airbrush build detail — image 19 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/Home-made-airbrush.webp" loading="lazy" alt="Home-made airbrush build detail — image 20 of 21" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/homemade-airbrush-air-channel.webp" loading="lazy" alt="Home-made airbrush build detail — image 21 of 21" /></div>
 </div>
 
 This is everything I could find that had some instructions or drawings that could be used to help in case you'd like to build it yourself (I doubt that anyone is going to do it anyway).

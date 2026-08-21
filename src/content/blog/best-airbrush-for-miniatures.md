@@ -1,5 +1,6 @@
 ---
 title: "Best Airbrush for Miniature Painting in 2026: Warhammer, D&D, Gunpla & Scale Models"
+seoTitle: "Best Airbrush for Miniature Painting in 2026 | AirbrushDOC"
 description: "Expert picks for the best airbrush for miniatures in 2026, from budget starter to pro-grade. Covers Warhammer, D&D, Gunpla, scale models & 3D prints."
 pubDate: 2025-07-15
 category: "airbrush-reviews"

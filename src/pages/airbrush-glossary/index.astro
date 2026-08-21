@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsletterBox from '../../components/NewsletterBox.astro';
+import { buildGlossarySchema, buildBreadcrumbSchema } from '../../lib/schema';
 
 const terms = await getCollection('glossary');
 const sorted = terms.sort((a, b) => a.data.title.localeCompare(b.data.title));
@@ -24,11 +25,22 @@ for (const term of sorted) {
   byLetter[letter].push(term);
 }
 const letters = Object.keys(byLetter).sort();
+const glossarySchema = buildGlossarySchema(
+  sorted.map(t => ({ title: t.data.title, slug: t.data.slug, description: t.data.description })),
+  { name: 'Airbrush Glossary', url: 'https://airbrushdoc.com/airbrush-glossary/' },
+);
+const crumbSchema = buildBreadcrumbSchema([
+  { name: 'Home', path: '/' },
+  { name: 'Airbrush Glossary' },
+]);
+
 ---
 <BaseLayout
   title="Airbrush Glossary — Complete A-Z Dictionary | AirbrushDOC"
   description="Complete airbrush glossary with 55+ terms explained. From atomization and CFM to viscosity and zenithal priming — everything you need to know."
 >
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(glossarySchema)} />
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <main class="abd-container">
     <div class="blg-page-header">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">

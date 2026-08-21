@@ -26,7 +26,7 @@ Once, when I was fitting the air hose onto airbrush I noticed that it is easier 
 
 EUREKA! I can make it in five minutes. How? Can you afford to make a hole in your air hose that goes to airbrush? If yes, you are good to go. I think that some of you got the idea already. See, if you make a hole (0.5mm) in the hose you will notice that pressure drops down. The thing is just to make the hole to open up at certain pressure. The air hose is made of silicone, mostly. I need just a piece of dry rubber hose which I can slide on silicone hose and cover the hole. When the pressure gets high the dry rubber stretches more than silicon and opens the hole. By moving the dry rubber hose, as it is shown below, I can set the pressure limits.
 
-![](/images/wp-uploads/diy-pressure-switch.webp)
+![Diagram of a home-made one-way valve built from hose and a tooth-pick](/images/wp-uploads/diy-pressure-switch.webp)
 
 ### Solving Initial Problems
 

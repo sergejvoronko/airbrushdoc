@@ -27,17 +27,17 @@ Before you do anything with the airbrush needle you should remove it from the ai
 
 First, before you pull the needle out try to straighten the needle tip as much as possible without doing any damage to nozzle. As I said before, the nozzle tip is very delicate. Take off the nozzle cap so you can see the needle. To straighten bent needle tip you can use some small pliers, but most common tool to be used would be **tweezers**. Loosen the rear needle nut afterwards and pull the needle out very carefully.
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-2.webp)
+![Hands straightening a bent airbrush needle against a metal edge](/images/wp-uploads/Bent-Airbrush-Needle-2.webp)
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-3.webp)
+![Bent needle tip being rolled flat with a knife blade](/images/wp-uploads/Bent-Airbrush-Needle-3.webp)
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-4.webp)
+![Fingertip pressing the needle against the airbrush body to straighten it](/images/wp-uploads/Bent-Airbrush-Needle-4.webp)
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-33.webp)
+![Bent needle tip examined under a magnifying mirror](/images/wp-uploads/Bent-Airbrush-Needle-33.webp)
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-5.webp)
+![Needle being withdrawn from the airbrush body over a white sheet](/images/wp-uploads/Bent-Airbrush-Needle-5.webp)
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-6.webp)
+![Needle held against a white sheet to check the tip for straightness](/images/wp-uploads/Bent-Airbrush-Needle-6.webp)
 
 This process is practically identical for any airbrush and any of the method described below. Needle has to be held at the same angle (good end around 5mm from the table) for the whole process. Only then you'll get the best result. Don't forget to do everything on hard surface.
 
@@ -47,23 +47,23 @@ This process is practically identical for any airbrush and any of the method des
 
 Mostly the **airbrush** or **exacto-knife** has a rounded metal handle. You can use it here. I used a pencil. Hold the needle at the angle I told you before. Start above the pointed needle end, swipe the handle or pencil (with slight pressure) down, at the same time rotating the needle.
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-7.webp)
+![Needle rolled on a flat surface beside a sanding stick](/images/wp-uploads/Bent-Airbrush-Needle-7.webp)
 
 You can also use tools like pliers tapping them on the damaged area. Most important here is to rotate the needle the whole time.
 
 After close examination (you can even use a magnifying glass) the needle has to be polished to get rid of any scratches made during process of straightening. Here I recommend using sandpaper with grit above 1000. First do it the dry way. By slightly pressing on the center of the needle and with the proper angle rotate the needle and at the same time drag it on the paper against its rotation.
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-8.webp)
+![Needle being wet-sanded on a small abrasive block](/images/wp-uploads/Bent-Airbrush-Needle-8.webp)
 
 It is very important to rotate the needle the whole time; otherwise you will over-sand one side.
 
 Afterwards proceed with wet sanding. It's the same process as the one described above with use of a bit of lubricant (frying oil is good enough). Do this step properly checking on the result all the time.
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-9.webp)
+![Sanded needle checked against a white sheet for a clean taper](/images/wp-uploads/Bent-Airbrush-Needle-9.webp)
 
 Only after you are sure you've done a good job you should do a fine polish of the needle. Here you have to use a drill with polishing bit and some compound. Jeweler's rouge is a very good and fine abrasive compound. Usually called "**the green**", Chromium Oxide is the most used abrasive compound. I recommend checking out company [Dremel](http://www.dremel.com) for any polishing tools. Polish the needle starting from the center and moving to the tip. Again, don't forget to rotate your needle the whole time holding it at the very same angle as before.
 
-![](/images/wp-uploads/Bent-Airbrush-Needle-10.webp)
+![Close-up of a repaired airbrush needle with a restored point](/images/wp-uploads/Bent-Airbrush-Needle-10.webp)
 
 Perform the operation at lower rpm (1000) then change the speed to higher rpm and repeat until you get a high polished needle.
 
@@ -89,7 +89,7 @@ Here you use only a pencil and here is the link to [video](http://www.youtube.co
 
 One nice addition I ran into during my "*search for the perfect method*" is an old hard drive used for polishing :).
 
-![](/images/wp-uploads/hard-drive-polishing.webp)
+![Old hard drive opened to reuse its polishing disc for the needle](/images/wp-uploads/hard-drive-polishing.webp)
 
 ## Conclusion
 

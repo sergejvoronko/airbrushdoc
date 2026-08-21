@@ -29,7 +29,7 @@ Please don't think I'm promoting this airbrush on my site. I just wanted to shar
 
 Take of the paint cup and pull out the rubber o-ring which provides good hermetic contact between cup and the body of airbrush. The thing is that this seal isn't good for any car paints as this paint will destroy it in no time.
 
-![](/images/wp-uploads/evolution_2_in_1-01.webp)![](/images/wp-uploads/evolution_2_in_1-02.webp)
+![Original rubber O-ring being pulled from the paint cup seat](/images/wp-uploads/evolution_2_in_1-01.webp)![The removed black rubber O-ring on a white background](/images/wp-uploads/evolution_2_in_1-02.webp)
 
 Now I have to find something to replace it as no seal could cause a blot.
 
@@ -39,16 +39,16 @@ The cap is screwed to the body and paint can get through the thread and drop of 
 
 - After you take the o-ring out, take a coil stitch or hermetic fiber and coil it around thread on the paint cup.
 
-![](/images/wp-uploads/evolution_2_in_1-03.webp)
+![Hermetic fibre stitch being wound onto the cup thread](/images/wp-uploads/evolution_2_in_1-03.webp)
 
 - Do not coil too much (one layer is enough)
 - Then screw it back to airbrush body
 
-![](/images/wp-uploads/evolution_2_in_1-04.webp)
+![Fibre-sealed paint cup screwed back into the airbrush body](/images/wp-uploads/evolution_2_in_1-04.webp)
 
 - Cut off the rest of the stitch
 
-![](/images/wp-uploads/evolution_2_in_1-06.webp)
+![Excess sealing fibre being trimmed away with a blade](/images/wp-uploads/evolution_2_in_1-06.webp)
 
 Now you can use any paint you want.
 
@@ -65,21 +65,21 @@ You need to make a lid for your cup (especially if you work with water colors). 
 
 I hope that it won't be a problem for you to get that film roll (of course without film).
 
-![](/images/wp-uploads/evolution_2_in_1-07.webp)
+![Clear plastic film cup and a cut lid held in the hand](/images/wp-uploads/evolution_2_in_1-07.webp)
 
 ### Cutting and Assembly Steps
 
 Cut that lid as shown on the picture.
 
-![](/images/wp-uploads/evolution_2_in_1-08.webp)
+![Plastic lid being cut to shape for the paint cup](/images/wp-uploads/evolution_2_in_1-08.webp)
 
 Now heat up one end of the wire and pierce a hole into your lid.
 
-![](/images/wp-uploads/evolution_2_in_1-09.webp)![](/images/wp-uploads/evolution_2_in_1-10.webp)![](/images/wp-uploads/evolution_2_in_1-11.webp)
+![Finished custom lid showing the cut opening](/images/wp-uploads/evolution_2_in_1-09.webp)![Wire end heated with a lighter to pierce the plastic lid](/images/wp-uploads/evolution_2_in_1-10.webp)![Bent wire handle fitted through the custom cup lid](/images/wp-uploads/evolution_2_in_1-11.webp)
 
 As You can see the result is a nice lid that prevents the paint to splash around no matter how strong is the air pressure or your motivation.
 
-![](/images/wp-uploads/evolution_2_in_1-12.webp)
+![Custom lid fitted to the airbrush paint cup](/images/wp-uploads/evolution_2_in_1-12.webp)
 
 ## Double-Action Airbrush Technique
 

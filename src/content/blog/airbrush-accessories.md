@@ -1,5 +1,6 @@
 ---
 title: "Essential Airbrush Accessories & Tools: The Complete Checklist (2026)"
+seoTitle: "Essential Airbrush Accessories & Tools (2026) | AirbrushDOC"
 description: "Everything you need beyond the airbrush itself, cleaning supplies, safety gear, masking, workspace tools, and accessories organized by priority. Full checkl..."
 pubDate: 2025-11-18
 category: "beginners"

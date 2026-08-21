@@ -27,20 +27,20 @@ Preview:
 Some examples:
 
 <div class="abd-gallery abd-gallery-3">
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/50-scull-stencils1.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/50-scull-stencils.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_001_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_005_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_009_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_014_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_017_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_020_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_027_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_034_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_040_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_044_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_046_aerografpro.ru_.webp" loading="lazy" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_050_aerografpro.ru_.webp" loading="lazy" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/50-scull-stencils1.webp" loading="lazy" alt="Skull stencil design from the download pack — image 1 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/50-scull-stencils.webp" loading="lazy" alt="Skull stencil design from the download pack — image 2 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_001_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 3 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_005_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 4 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_009_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 5 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_014_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 6 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_017_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 7 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_020_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 8 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_027_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 9 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_034_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 10 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_040_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 11 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_044_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 12 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_046_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 13 of 14" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_050_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 14 of 14" /></div>
 </div>
 
 > **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.

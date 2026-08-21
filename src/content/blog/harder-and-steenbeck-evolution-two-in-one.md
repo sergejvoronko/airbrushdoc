@@ -15,7 +15,7 @@ When I started to search for a perfect airbrush I had some requirements. One of 
 
 I preferred an [airbrush](/) with **gravity feed**. Another reason to consider was good build and availability of spare parts for the gun - for a good price as well. I was checking even the quality of materials that airbrush is made of.
 
-![](/images/wp-uploads/Harder-and-Steenback-Evolution-1.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-2.webp)
+![Closed yellow Harder & Steenbeck Evolution case](/images/wp-uploads/Harder-and-Steenback-Evolution-1.webp)![Open Evolution case showing the airbrush and spare parts in foam](/images/wp-uploads/Harder-and-Steenback-Evolution-2.webp)
 
 ## Why did I choose Harder and Steenbeck?
 
@@ -31,15 +31,15 @@ I preferred an [airbrush](/) with **gravity feed**. Another reason to consider w
 
 I have to admit, I prefered German firmness instead of Japanese quality. To my luck I found online shop in UK and ordered not only airbrush but "**Finespray Quick Release Body & Tail Kit AB-117**" and **Quick Fix** too.
 
-![](/images/wp-uploads/Harder-and-Steenback-Evolution-8.webp)
+![AB-117 Finespray quick-release body and tail kit](/images/wp-uploads/Harder-and-Steenback-Evolution-8.webp)
 
 After five days it was on my desk.
 
-![](/images/wp-uploads/Harder-and-Steenback-Evolution-4.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-5.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-6.webp)
+![Evolution airbrush with its two interchangeable paint cups](/images/wp-uploads/Harder-and-Steenback-Evolution-4.webp)![Harder & Steenbeck Evolution airbrush on a cutting mat, side view](/images/wp-uploads/Harder-and-Steenback-Evolution-5.webp)![Evolution airbrush laid out with the quick-release tail fitting](/images/wp-uploads/Harder-and-Steenback-Evolution-6.webp)
 
 Then I started my painting tests. To be honest I was surprised with the results, I would say "delighted". It is light, well-balanced (some airbrushes are heavier in the front) and it lays into hand very well. After 30 minutes of experimenting I didn't feel any tiredness on my wrist or fingers. Control of paint flow is very easy and after using Quick fix it is even easier. Less frustration with control gave me more power to concentrate on art work.
 
-![](/images/wp-uploads/Harder-and-Steenback-Evolution-7.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-9.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-10.webp)
+![Evolution airbrush with a spare nozzle unit beside it](/images/wp-uploads/Harder-and-Steenback-Evolution-7.webp)![Close view of the Evolution body, trigger and threaded tail](/images/wp-uploads/Harder-and-Steenback-Evolution-9.webp)![Evolution airbrush connected to a blue braided air hose](/images/wp-uploads/Harder-and-Steenback-Evolution-10.webp)
 
 With this airbrush I got really thin and contrast lines, 0.1 - 0.2mm. I've tried to make small dots but maybe I didn't use a proper paint or maybe I need more practice (You'll see at the end).
 
@@ -47,17 +47,17 @@ With this airbrush I got really thin and contrast lines, 0.1 - 0.2mm. I've tried
 
 There were no problems. The canal for paint is easy to clean just with cotton buds. After just a little while bubbling the reducer in airbrush all paint was gone (literally all of it). I think these elements were polished to something we call German firmness. I have to admit they did a great job.
 
-![](/images/wp-uploads/Harder-and-Steenback-Evolution-11.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-12.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-13.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-14.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-15.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-16.webp)
+![Nozzle cap, nozzle and needle guard separated on a wooden surface](/images/wp-uploads/Harder-and-Steenback-Evolution-11.webp)![Evolution nozzle assembly dismantled into its three parts](/images/wp-uploads/Harder-and-Steenback-Evolution-12.webp)![Close-up of the polished brass paint cup interior](/images/wp-uploads/Harder-and-Steenback-Evolution-13.webp)![Airbrush held in the hand showing the open paint channel](/images/wp-uploads/Harder-and-Steenback-Evolution-14.webp)![Two interchangeable cup sizes shown beside the airbrush body](/images/wp-uploads/Harder-and-Steenback-Evolution-15.webp)![Detail of the paint cup seated in the airbrush body](/images/wp-uploads/Harder-and-Steenback-Evolution-16.webp)
 
 The swap of nozzle and needle doesn't take more that 1 minute. In just two turns and quick fix goes off and gives an access to needle.
 
-![](/images/wp-uploads/Harder-and-Steenback-Evolution-17.webp)
+![Evolution airbrush beside its needle and nozzle components](/images/wp-uploads/Harder-and-Steenback-Evolution-17.webp)
 
 Here are some lines with measuring-tape (in mm) - you can see how precise this tool is.
 
-![](/images/wp-uploads/Harder-and-Steenback-Evolution-19.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-20.webp)![](/images/wp-uploads/Harder-and-Steenback-Evolution-21.webp)
+![Fine spray lines drawn beside a steel rule for width comparison](/images/wp-uploads/Harder-and-Steenback-Evolution-19.webp)![Test panel of small dots sprayed at close range](/images/wp-uploads/Harder-and-Steenback-Evolution-20.webp)![Row of consistent fine lines sprayed as a control test](/images/wp-uploads/Harder-and-Steenback-Evolution-21.webp)
 
-![](/images/wp-uploads/Harder-and-Steenback-Evolution-18.webp)
+![Looping freehand spray lines measured against a steel rule](/images/wp-uploads/Harder-and-Steenback-Evolution-18.webp)
 
 I hope that this is enough just to see that this is very good airbrush.
 

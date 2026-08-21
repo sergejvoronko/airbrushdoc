@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { BOOK_AVAILABLE, BOOK_PRICE } from '../../config';
+import { buildBookSchema, buildFaqSchema, buildBreadcrumbSchema } from '../../lib/schema';
 
 const chapters = [
   { part: 'Part One: Foundations', items: ['Chapter 1: Understanding Your Airbrush', 'Chapter 2: Setting Up Your Workspace', 'Chapter 3: Paint Science', 'Chapter 4: Your First Strokes'] },
@@ -10,11 +11,42 @@ const chapters = [
   { part: 'Part Five: Business', items: ['Chapter 16: Pricing Your Work', 'Chapter 17: Finding Clients', 'Appendices & About the Author'] },
 ];
 
+// Single source for the visible FAQ and its FAQPage markup, so the two cannot
+// drift apart.
+const faqs = [
+  { q: 'What format is the book in?', a: 'You get two versions: an interactive HTML reader you can open in any browser (works offline, no app needed), and a PDF you can download and print.' },
+  { q: 'Do I need a specific airbrush?', a: 'No. The book is tool-agnostic. You need a basic dual-action gravity-feed airbrush with a 0.3\u20130.35mm needle. Brand doesn\'t matter.' },
+  { q: 'Is this for beginners or advanced artists?', a: 'Both. Parts 1 and 2 build foundations for beginners. Parts 3 and 5 (masterclasses and business) target intermediate to advanced artists.' },
+  ...(BOOK_AVAILABLE ? [
+    { q: 'How do I access the book after purchase?', a: 'You\'ll receive an email with a download link immediately after payment. The HTML reader works in any browser. No account or app needed.' },
+    { q: 'What if it\'s not for me?', a: 'Email contact@airbrushdoc.com within 30 days for a full refund. No questions asked.' },
+  ] : [
+    { q: 'When does it launch?', a: 'The book is in final editing. Subscribe to the newsletter and you\'ll get the launch email the moment it\'s out \u2014 with a subscriber-only launch bonus.' },
+    { q: 'Can I read anything now?', a: 'Yes \u2014 the full introduction and Chapter 1 are available as a free preview, no email required.' },
+  ]),
+];
+
+const bookSchema = buildBookSchema({
+  name: 'The Airbrush Technique Bible',
+  description: 'A 17-chapter guide to airbrushing, from first strokes through style masterclasses, troubleshooting and pricing your work.',
+  url: 'https://airbrushdoc.com/book/',
+  available: BOOK_AVAILABLE,
+  price: BOOK_PRICE.replace('$', ''),
+});
+const faqSchema = buildFaqSchema(faqs);
+const crumbSchema = buildBreadcrumbSchema([
+  { name: 'Home', path: '/' },
+  { name: 'The Airbrush Technique Bible' },
+]);
+
 ---
 <BaseLayout
   title="The Airbrush Technique Bible — Complete Guide | AirbrushDOC"
   description="17 chapters covering every airbrush technique, surface and style: foundations, fire, portraits, skulls, chrome, troubleshooting and pricing your work."
 >
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(bookSchema)} />
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(faqSchema)} />
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <main class="book-page">
 
     <!-- ═══ HERO ═══ -->
@@ -264,18 +296,7 @@ const chapters = [
       <div class="book-inner book-faq-inner">
         <h2>Common Questions</h2>
         <div class="book-faq-list">
-          {[
-            { q: 'What format is the book in?', a: 'You get two versions: an interactive HTML reader you can open in any browser (works offline, no app needed), and a PDF you can download and print.' },
-            { q: 'Do I need a specific airbrush?', a: 'No. The book is tool-agnostic. You need a basic dual-action gravity-feed airbrush with a 0.3–0.35mm needle. Brand doesn\'t matter.' },
-            { q: 'Is this for beginners or advanced artists?', a: 'Both. Parts 1 and 2 build foundations for beginners. Parts 3 and 5 (masterclasses and business) target intermediate to advanced artists.' },
-            ...(BOOK_AVAILABLE ? [
-              { q: 'How do I access the book after purchase?', a: 'You\'ll receive an email with a download link immediately after payment. The HTML reader works in any browser. No account or app needed.' },
-              { q: 'What if it\'s not for me?', a: 'Email contact@airbrushdoc.com within 30 days for a full refund. No questions asked.' },
-            ] : [
-              { q: 'When does it launch?', a: 'The book is in final editing. Subscribe to the newsletter and you\'ll get the launch email the moment it\'s out — with a subscriber-only launch bonus.' },
-              { q: 'Can I read anything now?', a: 'Yes — the full introduction and Chapter 1 are available as a free preview, no email required.' },
-            ]),
-          ].map(item => (
+          {faqs.map(item => (
             <details class="book-faq-item">
               <summary class="book-faq-q">
                 {item.q}

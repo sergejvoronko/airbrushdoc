@@ -73,9 +73,9 @@ Megan was very excited about using Alsa paints as they have very good shades of 
 
 She is working on one project right now and has sent me two snaps.
 
-![](/images/wp-uploads/kirin-sculpture.webp)
+![Polymer clay stag figure with airbrushed shading and gold antlers](/images/wp-uploads/kirin-sculpture.webp)
 
-![](/images/wp-uploads/kirin-sculpture-2.webp)
+![Second view of the airbrushed polymer clay stag figure](/images/wp-uploads/kirin-sculpture-2.webp)
 
 *This particular sculpture is a "**Kirin**" or "**QUILIN**" which is sort of an Asian unicorn, or their version of one. It's obviously a fantasy creature and so I've added my own idea's to what a Kirin might look like. The things on its neck are abalone shells which will act as the "scales" of the creature. It will have more of them along its back. After it's complete, it will have a Tibetan lamb hair mane and tail which is why it doesn't have hair yet.* Thank you Megan. I can't wait to see the progress and the final sculpture and also the results of your experiment. Dear reader, if you have anything to add please leave a comment or send me an [email](/contact/). Otherwise don't forget to spread the love and share.
 
