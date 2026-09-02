@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /
 
+# Affiliate redirects — no crawl value
+Disallow: /go/
+
 # AI crawlers — allowed
 User-agent: GPTBot
 Allow: /

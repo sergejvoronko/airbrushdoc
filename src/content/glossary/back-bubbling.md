@@ -12,4 +12,4 @@ Back-bubbling is when air travels backward through the paint cup, causing paint 
 **Fix:** Remove and inspect the nozzle. Soak in cleaning solution if clogged. Check the needle tip for bends. Ensure the nozzle is fully tightened (finger-tight plus a quarter turn with the nozzle wrench).
 
 **Related:** [Nozzle](/airbrush-glossary/nozzle/) · [Needle](/airbrush-glossary/needle/) · [Backflush](/airbrush-glossary/backflush/)
-**Learn more:** [Airbrush Troubleshooting Guide](/blog/airbrush-troubleshooting/)
+**Learn more:** [Airbrush Troubleshooting Guide](/blog/airbrush-troubleshooting-guide/)

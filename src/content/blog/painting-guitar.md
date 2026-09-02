@@ -22,7 +22,7 @@ https://youtu.be/3hT6JP2j9b0
 
 ### Original Soundtrack
 
-Just a note. My brother besides his passion to painting and airbrushing had few other hobbies long time ago. He's been mixing music and composing something in programs like **[fasttracker2](http://en.wikipedia.org/wiki/FastTracker_2)** and **[modplugtracker](http://www.modplug.com/)**. For this video he decided to try it again. I would like to see any comments about the music in this video and if you like it you can download it [here](/images/wp/2012/07/music_airbrushdoc.mp3).
+Just a note. My brother besides his passion to painting and airbrushing had few other hobbies long time ago. He's been mixing music and composing something in programs like **[fasttracker2](http://en.wikipedia.org/wiki/FastTracker_2)** and **[modplugtracker](http://www.modplug.com/)**. For this video he decided to try it again. I would like to see any comments about the music in this video.
 
 ## Lessons Learned: Paint Defects and Surface Preparation
 

@@ -169,7 +169,7 @@ These properties tell us that Createx are made with 'exterior grade' pigments. T
 
 ### [AUTO-AIR COLORS from Createx](/go/createx-auto-air-colors)
 
-![Createx Auto-Air Colors custom automotive paint logo](/images/wp-uploads/Createx_Logo.gif)
+![Createx Auto-Air Colors custom automotive paint logo](/images/wp-uploads/Createx_Logo.webp)
 ***Auto Air Colors*** are premium water-based custom paints and work well for graphics over existing finishes and for complete paint jobs. Colors are inter-mixable for a limitless palette of colors & effects.
 
 **Pigment Candy Full Color Paint** are ready to spray out of the bottle without the need for mixing a catalyst or reducer. Colors may be thinned with Auto Air Reducer to achieve a lower viscosity when spraying with an airbrush. Auto Air Colors do not have a limited shelf life during use and their storage life exceeds 2 years. They may be top-coated with a urethane clear at any time after they’ve cured no matter how long the time past between painting and clearing. Auto-Air Colors are compatible with all urethane clears. They are lightfast and durable and contain less than 0.1% V.O.C. These Colors have been tested according to industry-wide accepted standards for fade resistance and durability.

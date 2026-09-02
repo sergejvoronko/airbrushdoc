@@ -17,4 +17,4 @@ A reducer (or thinner) is a liquid used to thin paint to the correct viscosity f
 **Target viscosity:** Paint thinned for airbrushing should flow like skim milk — not watery, not thick. It should form a smooth stream off a stir stick, not drip in chunks.
 
 **Related:** [Viscosity](/airbrush-glossary/viscosity/) · [Flow Improver](/airbrush-glossary/flow-improver/) · [Binder](/airbrush-glossary/binder/) · [Tip Dry](/airbrush-glossary/tip-dry/)
-**Learn more:** [Airbrush Paint Thinning Guide](/blog/airbrush-paint-thinning-guide/)
+**Learn more:** [Airbrush Paint Thinning Guide](/blog/how-to-thin-acrylic-paint-for-airbrush/)

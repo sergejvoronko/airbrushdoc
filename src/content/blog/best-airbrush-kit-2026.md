@@ -265,9 +265,9 @@ If I were starting from zero today, here's exactly what I'd buy:
 Whichever path you choose, the most important thing is to start. A $80 budget kit will teach you more in one afternoon than a month of reading about which airbrush to buy. You can always upgrade later, and by then, you'll know exactly what you need.
 
 
-- [Best Airbrush for Beginners 2026](/best-airbrush-for-beginners-2026/). Detailed airbrush-only recommendations
-- [Best Airbrush Compressor 2026](/beginners/air-compressor/). Compressor buying guide
-- [Essential Airbrush Accessories & Tools](/beginners/tools-for-airbrush/). Everything else you need
-- [How to Choose the Right Airbrush Paint](/beginners/advanced-guide-to-airbrush-colors/). Paint by project type
-- [How to Clean an Airbrush](/how-to-clean-airbrush/). Essential from day one
-- [Best Airbrush for Miniatures](/best-airbrush-for-miniatures/). Miniature-specific recommendations
+- [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). Detailed airbrush-only recommendations
+- [Best Airbrush Compressor 2026](/blog/best-air-compressor/). Compressor buying guide
+- [Essential Airbrush Accessories & Tools](/blog/tools-for-airbrush/). Everything else you need
+- [How to Choose the Right Airbrush Paint](/blog/advanced-guide-to-airbrush-colors/). Paint by project type
+- [How to Clean an Airbrush](/blog/how-to-clean-airbrush/). Essential from day one
+- [Best Airbrush for Miniatures](/blog/best-airbrush-for-miniatures/). Miniature-specific recommendations

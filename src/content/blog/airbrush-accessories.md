@@ -334,9 +334,9 @@ Mostly no, the same hose, holder, mixing cups, and masking supplies work for all
 The best accessory setup is one you actually use. It's better to have a small, well-organized collection of the right tools than a drawer full of things you bought once and forgot about. Start with the must-haves, add the should-haves as you settle into your workflow, and upgrade to nice-to-haves when a specific need arises in your projects.
 
 
-- [Best Airbrush for Beginners 2026](/best-airbrush-for-beginners-2026/). Choosing your first airbrush
-- [Best Airbrush Compressor 2026](/beginners/air-compressor/). Compressor guide
-- [How to Choose the Right Airbrush Paint](/beginners/advanced-guide-to-airbrush-colors/). Paints by project type
-- [How to Clean an Airbrush](/how-to-clean-airbrush/). Complete cleaning guide
-- [How to Prepare Any Surface for Airbrush Painting](/beginners/preparing-surfaces-for-airbrush/). Surface prep
-- [Airbrush Troubleshooting Guide](/airbrush-troubleshooting/). Solving common problems
+- [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). Choosing your first airbrush
+- [Best Airbrush Compressor 2026](/blog/best-air-compressor/). Compressor guide
+- [How to Choose the Right Airbrush Paint](/blog/advanced-guide-to-airbrush-colors/). Paints by project type
+- [How to Clean an Airbrush](/blog/how-to-clean-airbrush/). Complete cleaning guide
+- [How to Prepare Any Surface for Airbrush Painting](/blog/prepare-surface-for-airbrush/). Surface prep
+- [Airbrush Troubleshooting Guide](/blog/airbrush-troubleshooting-guide/). Solving common problems

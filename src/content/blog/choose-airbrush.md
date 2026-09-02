@@ -39,7 +39,7 @@ In this airbrush gun the trigger controls airflow only. Paint volume is constant
 
 **Double-Action (DA)**
 
-Here one trigger controls both - the airflow and the paint flow. Pushing the trigger down lets air to flow and when you pull the trigger backwards paint will come into mixing chamber. The amount of paint depends on how far you pulled the trigger backwards. [![Group of gold and chrome airbrush bodies photographed together](/images/wp/2011/02/evolution_01_intro-150x150.gif)](/images/wp/2011/02/evolution_01_intro.gif)That means that you can change the amount of paint on the fly (no stopping, no adjusting). Double-action requires more skills and time to get used to it as you have to do two things at once (regulate the airflow and paint flow).
+Here one trigger controls both - the airflow and the paint flow. Pushing the trigger down lets air to flow and when you pull the trigger backwards paint will come into mixing chamber. The amount of paint depends on how far you pulled the trigger backwards. [![Group of gold and chrome airbrush bodies photographed together](/images/wp-uploads/evolution_01_intro-150x150.webp)](/images/wp-uploads/evolution_01_intro.webp)That means that you can change the amount of paint on the fly (no stopping, no adjusting). Double-action requires more skills and time to get used to it as you have to do two things at once (regulate the airflow and paint flow).
 
 > These airbrushes are good for detailed jobs and are very popular among scale modelers (but not all of them use double-action airbrushes as for their purpose single-action could be good enough).
 

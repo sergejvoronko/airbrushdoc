@@ -50,7 +50,7 @@ On the next picture you can see two screws in opened quick fix (One is responsib
 
 Swap of the needle caps is literally plug and play. In combination with distance cap, ***Harder and Steenbeck Infinity Two in One ***becomes almost unbeatable.
 
-![Two close views of the Infinity needle cap beside a millimetre rule](/images/wp/2011/05/Harder-Steenbeck-Infinity-10.gif)
+![Two close views of the Infinity needle cap beside a millimetre rule](/images/wp-uploads/Harder-Steenbeck-Infinity-10.webp)
 
 Two cups are beveled so it gives it some plus even comparing to Iwata and especially if you don't use a lid. To have a beveled cup is great because you can hold the brush even at accurate angle without spilling paint (that's probably the reason they ship it without lids, but you can additionally buy it if your type of work requires it).
 

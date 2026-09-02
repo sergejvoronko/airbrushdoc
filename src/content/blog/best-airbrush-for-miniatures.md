@@ -292,9 +292,9 @@ If budget is tight: **Iwata Neo CN** ($50–70). A real quality airbrush at the 
 For priming and basecoating armies at speed: **Badger Patriot 105** ($70–90). Keep this alongside your detail brush. It's a beast.
 
 
-- [Best Airbrush for Beginners 2026](/best-airbrush-for-beginners-2026/). Broader guide covering all airbrush uses
-- [Best Airbrush Compressor 2026](/beginners/air-compressor/). Compressor recommendations
-- [How to Choose the Right Airbrush Paint](/beginners/advanced-guide-to-airbrush-colors/). Paint guide by project type
-- [How to Prepare Any Surface for Airbrush Painting](/beginners/preparing-surfaces-for-airbrush/). Priming miniatures
-- [How to Clean an Airbrush](/how-to-clean-airbrush/). Essential maintenance
-- [Airbrush Troubleshooting Guide](/airbrush-troubleshooting/). When things go wrong
+- [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). Broader guide covering all airbrush uses
+- [Best Airbrush Compressor 2026](/blog/best-air-compressor/). Compressor recommendations
+- [How to Choose the Right Airbrush Paint](/blog/advanced-guide-to-airbrush-colors/). Paint guide by project type
+- [How to Prepare Any Surface for Airbrush Painting](/blog/prepare-surface-for-airbrush/). Priming miniatures
+- [How to Clean an Airbrush](/blog/how-to-clean-airbrush/). Essential maintenance
+- [Airbrush Troubleshooting Guide](/blog/airbrush-troubleshooting-guide/). When things go wrong

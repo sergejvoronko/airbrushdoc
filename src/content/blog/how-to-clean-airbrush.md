@@ -352,8 +352,8 @@ Think of airbrush cleaning the way a chef thinks about keeping knives sharp, it'
 Build the habit now, and your airbrush will reward you with consistent, frustration-free performance for years.
 
 
-- [Airbrush Troubleshooting: Every Common Problem & Fix](/airbrush-troubleshooting/). When cleaning alone doesn't solve it
-- [How to Prepare Any Surface for Airbrush Painting](/beginners/preparing-surfaces-for-airbrush/). Get your surface right before you start
-- [How to Choose the Right Airbrush Paint in 2026](/beginners/advanced-guide-to-airbrush-colors/). Paint recommendations by project type
-- [Best Airbrush for Beginners in 2026](/best-airbrush-for-beginners-2026/). Airbrush buying guide
-- [Best Airbrush Compressor in 2026](/beginners/air-compressor/). Compressor guide
+- [Airbrush Troubleshooting: Every Common Problem & Fix](/blog/airbrush-troubleshooting-guide/). When cleaning alone doesn't solve it
+- [How to Prepare Any Surface for Airbrush Painting](/blog/prepare-surface-for-airbrush/). Get your surface right before you start
+- [How to Choose the Right Airbrush Paint in 2026](/blog/advanced-guide-to-airbrush-colors/). Paint recommendations by project type
+- [Best Airbrush for Beginners in 2026](/blog/best-airbrush-for-beginners-2026/). Airbrush buying guide
+- [Best Airbrush Compressor in 2026](/blog/best-air-compressor/). Compressor guide

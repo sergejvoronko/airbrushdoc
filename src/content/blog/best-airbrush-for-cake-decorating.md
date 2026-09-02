@@ -203,7 +203,7 @@ Starter kits with airbrush, compressor, and food colors range from $50–100. Co
 ---
 
 
-- [Best Airbrush Kit for Beginners](/best-airbrush-kit-2026/). General kit guide
-- [Gravity Feed vs Siphon Feed](/gravity-feed-vs-siphon-feed-airbrush/). Why gravity feed is standard for cakes
-- [How to Clean an Airbrush](/how-to-clean-airbrush/). Cleaning techniques (adapt for food-safe)
-- [Best Airbrush for Beginners 2026](/best-airbrush-for-beginners-2026/). All-purpose airbrush recommendations
+- [Best Airbrush Kit for Beginners](/blog/best-airbrush-kit-2026/). General kit guide
+- [Gravity Feed vs Siphon Feed](/blog/gravity-feed-vs-siphon-feed/). Why gravity feed is standard for cakes
+- [How to Clean an Airbrush](/blog/how-to-clean-airbrush/). Cleaning techniques (adapt for food-safe)
+- [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). All-purpose airbrush recommendations

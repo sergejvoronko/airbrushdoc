@@ -212,9 +212,9 @@ Yes, but you need to spray a white opaque base layer first. Airbrush paints are 
 ---
 
 
-- [Best Airbrush for Beginners 2026](/best-airbrush-for-beginners-2026/). General recommendations
-- [Gravity Feed vs Siphon Feed](/gravity-feed-vs-siphon-feed-airbrush/). Feed type comparison
-- [How to Choose the Right Airbrush Paint](/beginners/advanced-guide-to-airbrush-colors/). Paint guide including textile paints
-- [How to Thin Acrylic Paint for Airbrush](/how-to-thin-acrylic-paint-for-airbrush/). Createx thinning ratios
-- [Essential Airbrush Accessories & Tools](/beginners/tools-for-airbrush/). Full accessory checklist
-- [Best Airbrush Kit for Beginners](/best-airbrush-kit-2026/). Kit options for T-shirt work
+- [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). General recommendations
+- [Gravity Feed vs Siphon Feed](/blog/gravity-feed-vs-siphon-feed/). Feed type comparison
+- [How to Choose the Right Airbrush Paint](/blog/advanced-guide-to-airbrush-colors/). Paint guide including textile paints
+- [How to Thin Acrylic Paint for Airbrush](/blog/how-to-thin-acrylic-paint-for-airbrush/). Createx thinning ratios
+- [Essential Airbrush Accessories & Tools](/blog/tools-for-airbrush/). Full accessory checklist
+- [Best Airbrush Kit for Beginners](/blog/best-airbrush-kit-2026/). Kit options for T-shirt work

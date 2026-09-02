@@ -178,8 +178,8 @@ Yes, in specific fields. T-shirt artists, automotive airbrush painters, body pai
 ---
 
 
-- [Best Airbrush for Beginners 2026](/best-airbrush-for-beginners-2026/). Full airbrush recommendations
-- [Best Airbrush for Miniatures](/best-airbrush-for-miniatures/). Gravity feed models for detail work
-- [Airbrush Needle Sizes Explained](/airbrush-needle-sizes-explained/). Needle size guide
-- [Best Airbrush Kit for Beginners](/best-airbrush-kit-2026/). Starter kits (mostly gravity feed)
-- [Best Airbrush for T-Shirts](/best-airbrush-for-t-shirts/). Siphon vs gravity for textile work
+- [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). Full airbrush recommendations
+- [Best Airbrush for Miniatures](/blog/best-airbrush-for-miniatures/). Gravity feed models for detail work
+- [Airbrush Needle Sizes Explained](/blog/airbrush-needle-sizes/). Needle size guide
+- [Best Airbrush Kit for Beginners](/blog/best-airbrush-kit-2026/). Starter kits (mostly gravity feed)
+- [Best Airbrush for T-Shirts](/blog/best-airbrush-for-t-shirts/). Siphon vs gravity for textile work

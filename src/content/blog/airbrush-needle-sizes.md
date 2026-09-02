@@ -189,9 +189,9 @@ Not necessarily. Many excellent miniature painters use 0.3–0.35mm needles for 
 ---
 
 
-- [Best Airbrush for Beginners 2026](/best-airbrush-for-beginners-2026/). Airbrush recommendations by size
-- [Best Airbrush for Miniatures](/best-airbrush-for-miniatures/). Miniature-specific needle guidance
-- [Iwata vs Harder & Steenbeck](/iwata-vs-harder-steenbeck/). Brand comparison including 2-in-1 systems
-- [How to Thin Acrylic Paint](/how-to-thin-acrylic-paint-for-airbrush/). Thinning by needle size
-- [How to Clean an Airbrush](/how-to-clean-airbrush/). Needle cleaning and inspection
-- [Airbrush Troubleshooting Guide](/airbrush-troubleshooting/). Diagnosing needle-related problems
+- [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). Airbrush recommendations by size
+- [Best Airbrush for Miniatures](/blog/best-airbrush-for-miniatures/). Miniature-specific needle guidance
+- [Iwata vs Harder & Steenbeck](/blog/iwata-vs-harder-steenbeck/). Brand comparison including 2-in-1 systems
+- [How to Thin Acrylic Paint](/blog/how-to-thin-acrylic-paint-for-airbrush/). Thinning by needle size
+- [How to Clean an Airbrush](/blog/how-to-clean-airbrush/). Needle cleaning and inspection
+- [Airbrush Troubleshooting Guide](/blog/airbrush-troubleshooting-guide/). Diagnosing needle-related problems

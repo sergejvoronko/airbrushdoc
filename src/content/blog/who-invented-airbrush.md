@@ -58,7 +58,7 @@ The **airbrush** that was first given the name **Air Brush**, was developed by 
 
 and used a **hand-operated [compressor](/blog/homemade-airbrush-compressor/)**, and the inventor patented it "for the painting of [watercolors](http://en.wikipedia.org/wiki/Watercolor) and other artistic purposes". It was rather crude, being based on a number of spare parts in a jeweller’s workshop such as old screwdrivers and welding torches.
 
-[![Abner Peeler paint distributor patent drawing from 1883](/images/wp/2010/12/pat01_peeler00256852-1s.gif)](/images/wp/2010/12/pat01_peeler00256852-1s.gif)
+[![Abner Peeler paint distributor patent drawing from 1883](/images/wp-uploads/pat01_peeler00256852-1s.webp)](/images/wp-uploads/pat01_peeler00256852-1s.webp)
 
 It took 4 years of further development before a truly practical device was developed.
 So now you see that it wasn't that easy to use the airbrush at that period :)

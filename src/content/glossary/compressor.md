@@ -18,4 +18,4 @@ The compressor is the power source for your airbrush — it takes atmospheric ai
 **Common models:** Iwata Smart Jet, Sparmax AC-501, Badger Aspire Pro. For beginners, any oil-free compressor with a tank and regulator in the $80–$150 range will serve well.
 
 **Related:** [PSI](/airbrush-glossary/psi/) · [CFM](/airbrush-glossary/cfm/) · [Regulator](/airbrush-glossary/regulator/) · [Tank](/airbrush-glossary/tank/) · [Moisture Trap](/airbrush-glossary/moisture-trap/)
-**Learn more:** [Best Airbrush Compressor 2026](/beginners/air-compressor/)
+**Learn more:** [Best Airbrush Compressor 2026](/blog/best-air-compressor/)

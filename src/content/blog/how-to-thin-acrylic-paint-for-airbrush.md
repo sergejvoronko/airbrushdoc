@@ -265,8 +265,8 @@ No. Dedicated airbrush thinners contain additives beyond water, flow improvers t
 Keep a paint journal. When you find the perfect ratio for a specific paint at a specific pressure with your specific airbrush, write it down. Every paint brand, every color line, and even individual colors within a line can behave differently. Building your own reference table eliminates guesswork and makes every future session faster and more consistent.
 
 
-- [How to Choose the Right Airbrush Paint](/beginners/advanced-guide-to-airbrush-colors/). Paint recommendations by project type
-- [How to Clean an Airbrush](/how-to-clean-airbrush/). Essential maintenance after every session
-- [How to Prepare Any Surface for Airbrush Painting](/beginners/preparing-surfaces-for-airbrush/). Primer application guide
-- [Airbrush Troubleshooting Guide](/airbrush-troubleshooting/). When problems persist after proper thinning
-- [Essential Airbrush Accessories & Tools](/beginners/tools-for-airbrush/). Mixing cups, pipettes, and other supplies
+- [How to Choose the Right Airbrush Paint](/blog/advanced-guide-to-airbrush-colors/). Paint recommendations by project type
+- [How to Clean an Airbrush](/blog/how-to-clean-airbrush/). Essential maintenance after every session
+- [How to Prepare Any Surface for Airbrush Painting](/blog/prepare-surface-for-airbrush/). Primer application guide
+- [Airbrush Troubleshooting Guide](/blog/airbrush-troubleshooting-guide/). When problems persist after proper thinning
+- [Essential Airbrush Accessories & Tools](/blog/tools-for-airbrush/). Mixing cups, pipettes, and other supplies

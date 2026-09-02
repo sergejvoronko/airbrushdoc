@@ -22,7 +22,7 @@ This pack was downloaded from one famous torrent tracker and I hope author of th
 <div class="abd-gallery abd-gallery-3">
   <div class="abd-gallery-item"><img src="/images/wp-uploads/fire-reference-pack.webp" loading="lazy" alt="Fire reference photograph for airbrush artists — image 1 of 12" /></div>
   <div class="abd-gallery-item"><img src="/images/wp-uploads/aftermath-20.webp" loading="lazy" alt="Fire reference photograph for airbrush artists — image 2 of 12" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp/2011/01/animations-24.webp" loading="lazy" alt="Fire reference photograph for airbrush artists — image 3 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/animations-24.webp" loading="lazy" alt="Fire reference photograph for airbrush artists — image 3 of 12" /></div>
   <div class="abd-gallery-item"><img src="/images/wp-uploads/blazes-2.webp" loading="lazy" alt="Fire reference photograph for airbrush artists — image 4 of 12" /></div>
   <div class="abd-gallery-item"><img src="/images/wp-uploads/burning-cars-12.webp" loading="lazy" alt="Fire reference photograph for airbrush artists — image 5 of 12" /></div>
   <div class="abd-gallery-item"><img src="/images/wp-uploads/burning-man-5.webp" loading="lazy" alt="Fire reference photograph for airbrush artists — image 6 of 12" /></div>

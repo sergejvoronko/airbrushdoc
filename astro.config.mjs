@@ -29,7 +29,7 @@ export default defineConfig({
   build: {
     inlineStylesheets: 'always',
   },
-  integrations: [sitemap({ filter: (page) => !page.includes('/book/read') })],
+  integrations: [sitemap({ filter: (page) => !page.includes('/book/read') && !page.endsWith('/download/') })],
   markdown: {
     rehypePlugins: [rehypeExternalLinks],
     shikiConfig: {

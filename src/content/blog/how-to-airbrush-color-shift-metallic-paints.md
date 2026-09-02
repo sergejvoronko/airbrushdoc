@@ -138,6 +138,6 @@ For cleaning up after a metallic session, don't skip this step. Metallic particl
 
 If this article got you thinking about your overall setup and technique, these are worth reading next:
 
-- [My 15 Basic Airbrush Rules](/15-basic-rules-of-airbrushing), foundational habits that apply directly to working with difficult paints like these
-- [Advanced Guide to Airbrush Paint](/advanced-guide-to-airbrush-colors), a deeper look at paint chemistry, binders, and how different paint types behave under pressure
-- [Choosing The Right Air Compressor](/air-compressor), since pressure stability is critical for metallic and color shift work, make sure your compressor isn't the weak link
+- [My 15 Basic Airbrush Rules](/blog/15-basic-rules-of-airbrushing/), foundational habits that apply directly to working with difficult paints like these
+- [Advanced Guide to Airbrush Paint](/blog/advanced-guide-to-airbrush-colors/), a deeper look at paint chemistry, binders, and how different paint types behave under pressure
+- [Choosing The Right Air Compressor](/blog/air-compressor/), since pressure stability is critical for metallic and color shift work, make sure your compressor isn't the weak link

@@ -121,4 +121,4 @@ A huge disappointment for me as I used this coat with half of details just gone 
 ## Final Results Gallery
 
 Here is the final piece after clear coat.
-![Completed kettle reassembled with the airbrushed artwork](/images/wp-uploads/airbrush-story-of-love-44.webp)[![](/images/wp/2011/08/airbrush
+![Completed kettle reassembled with the airbrushed artwork](/images/wp-uploads/airbrush-story-of-love-44.webp)

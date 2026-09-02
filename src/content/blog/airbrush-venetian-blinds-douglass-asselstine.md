@@ -48,7 +48,7 @@ So, needless to say you need a tall easil that will hold them with an extension.
   <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-9.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 9 of 12" /></div>
   <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-10.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 10 of 12" /></div>
   <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-11.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 11 of 12" /></div>
-  <div class="abd-gallery-item"><img src="/images/wp/2011/05/airbrush-venetian-blinds-1.gif" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 12 of 12" /></div>
+  <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush-venetian-blinds-1.webp" loading="lazy" alt="Airbrushed venetian blind by Douglass Asselstine — image 12 of 12" /></div>
 </div>
 
 Awesome... Thank You Douglass!

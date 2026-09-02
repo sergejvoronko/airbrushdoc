@@ -61,7 +61,7 @@ DO NOT turn it on now - READ FIRST!
 
 Put the relay back on the compressor according to your drawing you’ve made before. Relay has to be oriented exactly the same way as it was on the fridge as the relay depends on earth gravitation. ***Otherwise it may cost you the relay or even the engine inside the compressor might burn out.***
 
-Now connect the temporary cradle to the input of the relay and don’t forget to use electrical tape. I don't think you want to die. This is how the draft version looks like:[![Rusty salvaged fridge compressor sitting on the build instructions](/images/wp/2010/12/compressor01-250x282.gif)](/images/wp/2010/12/compressor01.gif)
+Now connect the temporary cradle to the input of the relay and don’t forget to use electrical tape. I don't think you want to die. This is how the draft version looks like:[![Rusty salvaged fridge compressor sitting on the build instructions](/images/wp-uploads/compressor01-250x282.webp)](/images/wp-uploads/compressor01.webp)
 
 Next use the pliers and release the squeezed pipes and leave them opened. When everything is ready connect the plug into the mains socket. The launch itself could be very loud depending on the power of the unit but it understandable so don’t get scared. If you hear the engine and it is pretty quiet then everything should be fine. The pipes will suck and blow the air - you have to find out which one does what. You don’t have to leave it on for a very long time as the main thing right now is to make sure that it is alive. If the engine didn’t start or if it started but then after short time went off the things aren't looking good. If you have some experience and electric multi-meter you can check what exactly is wrong and more skilled of you could even try to fix it. Otherwise forget about the whole thing and start looking for another one. If it’s working skip the checking process.
 
@@ -103,7 +103,7 @@ At this stage there is a technical question: Which type of compressor do you hav
 
 With the casserole type it is a bit more complicated as there is 3 pipes sticking out of it. Two are pumping the air in and out, the third one is for oil. Again do not saw the pipe!!! And remember after you have drained the oil out do not turn the compressor on, you have to pour the new oil in first. 
 
-[![Fridge compressor with its start relay attached, before cleaning](/images/wp/2010/12/compressor02-500x242.gif)](/images/wp/2010/12/compressor02.gif)![Cleaned and painted compressor bolted to its baseboard](/images/wp-uploads/compressor05.webp)
+[![Fridge compressor with its start relay attached, before cleaning](/images/wp-uploads/compressor02-500x242.webp)](/images/wp-uploads/compressor02.webp)![Cleaned and painted compressor bolted to its baseboard](/images/wp-uploads/compressor05.webp)
 
 On the second picture is the same compressor however a bit restored ! and with new oil already in. As you can see I've used rubber hose on the oil pipe outlet.
 

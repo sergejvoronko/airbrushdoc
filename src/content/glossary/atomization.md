@@ -14,4 +14,4 @@ Good atomization depends on three factors: air pressure (higher PSI = finer atom
 When atomization is poor, you'll see grainy texture, orange peel effect, or visible paint droplets on the surface. Common fixes: increase air pressure slightly, thin your paint further, or clean a partially blocked nozzle.
 
 **Related:** [PSI](/airbrush-glossary/psi/) · [Viscosity](/airbrush-glossary/viscosity/) · [Nozzle](/airbrush-glossary/nozzle/) · [Orange Peel](/airbrush-glossary/orange-peel/)
-**Learn more:** [Airbrush Paint Thinning Guide](/blog/airbrush-paint-thinning-guide/)
+**Learn more:** [Airbrush Paint Thinning Guide](/blog/how-to-thin-acrylic-paint-for-airbrush/)

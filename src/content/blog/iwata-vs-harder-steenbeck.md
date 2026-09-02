@@ -238,9 +238,9 @@ If you've tried H&S and prefer a heavier trigger with more tactile feedback: [**
 Either way, you're getting a professional tool that will last years with proper care. The gap between these brands is far smaller than the gap between either brand and a cheap no-name airbrush.
 
 
-- [Best Airbrush for Beginners 2026](/best-airbrush-for-beginners-2026/). All brands compared
-- [Best Airbrush for Miniatures](/best-airbrush-for-miniatures/). Model-specific recommendations
-- [Best Airbrush Kit for Beginners](/best-airbrush-kit-2026/). Kit buying guide
-- [How to Clean an Airbrush](/how-to-clean-airbrush/). Cleaning tips for both brands
-- [Best Airbrush Compressor 2026](/beginners/air-compressor/). Compressor guide
-- [Airbrush Troubleshooting Guide](/airbrush-troubleshooting/). Common problems and fixes
+- [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). All brands compared
+- [Best Airbrush for Miniatures](/blog/best-airbrush-for-miniatures/). Model-specific recommendations
+- [Best Airbrush Kit for Beginners](/blog/best-airbrush-kit-2026/). Kit buying guide
+- [How to Clean an Airbrush](/blog/how-to-clean-airbrush/). Cleaning tips for both brands
+- [Best Airbrush Compressor 2026](/blog/best-air-compressor/). Compressor guide
+- [Airbrush Troubleshooting Guide](/blog/airbrush-troubleshooting-guide/). Common problems and fixes

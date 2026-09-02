@@ -123,6 +123,6 @@ Medea Airbrush Cleaner is safe on all seals and works on both lacquer and acryli
 
 If you're building out your full airbrushing setup beyond just the brush itself, these will help:
 
-- [Essential Airbrush Accessories & Tools: The Complete Checklist (2026)](/airbrush-accessories). Everything that should be on your bench alongside the airbrush, from moisture traps to holders to cleaning stations.
-- [Choosing The Right Air Compressor](/air-compressor). A deeper breakdown of compressor specs, tank sizes, and duty cycles if you're still deciding between the Sparmax and the Iwata Smart Jet.
-- [Advanced Guide to Airbrush Paint](/advanced-guide-to-airbrush-colors). Goes further into paint chemistry, thinning ratios, and why the same color can behave completely differently across brands, essential reading before you start mixing your own colors.
+- [Essential Airbrush Accessories & Tools: The Complete Checklist (2026)](/blog/airbrush-accessories/). Everything that should be on your bench alongside the airbrush, from moisture traps to holders to cleaning stations.
+- [Choosing The Right Air Compressor](/blog/air-compressor/). A deeper breakdown of compressor specs, tank sizes, and duty cycles if you're still deciding between the Sparmax and the Iwata Smart Jet.
+- [Advanced Guide to Airbrush Paint](/blog/advanced-guide-to-airbrush-colors/). Goes further into paint chemistry, thinning ratios, and why the same color can behave completely differently across brands, essential reading before you start mixing your own colors.

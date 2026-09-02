@@ -154,6 +154,6 @@ Yes, with a proper pressure regulator and moisture trap inline. Shop compressors
 ---
 
 
-- [Best Airbrush Compressor 2026](/beginners/air-compressor/) — Commercial compressor recommendations
-- [Essential Airbrush Accessories & Tools](/beginners/tools-for-airbrush/) — Full setup checklist
-- [Best Airbrush for Beginners](/best-airbrush-for-beginners-2026/) — Pair your compressor with the right airbrush
+- [Best Airbrush Compressor 2026](/blog/best-air-compressor/) — Commercial compressor recommendations
+- [Essential Airbrush Accessories & Tools](/blog/tools-for-airbrush/) — Full setup checklist
+- [Best Airbrush for Beginners](/blog/best-airbrush-for-beginners-2026/) — Pair your compressor with the right airbrush

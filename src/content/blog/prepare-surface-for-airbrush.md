@@ -91,7 +91,7 @@ In painting there is a term **Adhesion**, which is an ability of paint to stick
 
 I’ll show three different methods and compare them. As an example I use one engine hood which I have separated to three areas with masking tape.
 
-So, this hood has base coat on and a few layers of clear coat. To achieve maximal adhesion we have to get rid of “**the gloss**” and make surface **matt**. This can be done with [abrasive](http://en.wikipedia.org/wiki/Abrasive) **sandpaper** or **[Scotch-Brites](/go/scotch-brite)**. They are going to make micro scratches on the surface and the paint is going to hold thanks to that.
+So, this hood has base coat on and a few layers of clear coat. To achieve maximal adhesion we have to get rid of “**the gloss**” and make surface **matt**. This can be done with [abrasive](http://en.wikipedia.org/wiki/Abrasive) **sandpaper** or **Scotch-Brites**. They are going to make micro scratches on the surface and the paint is going to hold thanks to that.
 
 ![Prepare Car Surface 1 how to airbrush on metal](/images/wp-uploads/Prepare-Car-Surface-1.webp)
 
@@ -199,7 +199,7 @@ Plastic is the most common airbrush surface for hobbyists in 2026, thanks to the
 
 - **[Vallejo Surface Primer](/go/vallejo-surface-primer)** — Extremely popular, widely available. Works via airbrush or brush-on. Thin slightly with water (3:1 to 4:1 primer to water). Available in many colors including unique options like German dark yellow and rust.
 
-- **[Tamiya Fine Surface Primer](/go/tamiya-fine-surface-primer)** — Spray can primer (not for airbrush). Excellent quality, very fine grain, but produces fumes, use outdoors. The L (light grey) version is the most versatile.
+- **Tamiya Fine Surface Primer** — Spray can primer (not for airbrush). Excellent quality, very fine grain, but produces fumes, use outdoors. The L (light grey) version is the most versatile.
 
 - **[AK Interactive Primer](/go/ak-interactive-gen-primer)** — Good alternative to Vallejo, available in multiple colors. Airbrush-ready with minimal thinning.
 
@@ -273,7 +273,7 @@ Resin prints are already smooth but need chemical prep:
 
 ## Wood
 
-In matter of quality you need to seal the wood otherwise the paint will quickly discolor. If you want the grain to show you can use a **clear sealer**. If you require a flat, colored surface consider to use [Gesso](/go/gesso). It has been used for centuries as a painting base for a huge variety of mediums and has been proven as best by time. It is very comfortable to airbrush on.I recommend to use a **screen printer’s squeegee** (or rubber spatula).
+In matter of quality you need to seal the wood otherwise the paint will quickly discolor. If you want the grain to show you can use a **clear sealer**. If you require a flat, colored surface consider to use **Gesso**. It has been used for centuries as a painting base for a huge variety of mediums and has been proven as best by time. It is very comfortable to airbrush on.I recommend to use a **screen printer’s squeegee** (or rubber spatula).
 
 If you plan to make just some experimental painting you don’t have to seal the wood. Well, some artists don’t even use it in their professional work. **Sealing the wood is optional**, depends on what finish you are looking for. If you want to bring out the woodgrain and you can’t get clear sealer then do not seal, but if you need smooth (no woodgrain look) then you should seal it.
 
@@ -349,7 +349,7 @@ Fabric prep is simple but often done wrong:
 
 **After painting:** Heat-set the paint. This is essential for washability. Use a heat press (330°F / 165°C for 30–45 seconds) or a household iron on the highest non-steam setting, pressing through parchment paper or a Teflon sheet. Without heat-setting, the paint will wash out.
 
-[Createx colors](/beginners/advanced-guide-to-airbrush-colors/#createx)
+[Createx colors](/blog/advanced-guide-to-airbrush-colors/#createx)
 
 ---
 
@@ -437,6 +437,6 @@ Surface preparation isn't glamorous, and it's the step everyone wants to skip. B
 
 The specific steps depend on your material, but the mindset is universal: give the paint something clean and textured to grip, and it will reward you with durability and beauty.
 
-- [How to Choose the Right Airbrush Paint in 2026](/beginners/advanced-guide-to-airbrush-colors/) — Paint recommendations by surface type
+- [How to Choose the Right Airbrush Paint in 2026](/blog/advanced-guide-to-airbrush-colors/) — Paint recommendations by surface type
 
-- [Best Airbrush Compressor in 2026](/beginners/air-compressor/) — Compressor guide
+- [Best Airbrush Compressor in 2026](/blog/best-air-compressor/) — Compressor guide

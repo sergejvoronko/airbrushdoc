@@ -385,6 +385,6 @@ Keep your airbrush clean, keep spare needles and nozzles on hand, and remember: 
 Happy spraying, and if you've found a problem that's not covered here, drop a comment below. After 15+ years, I'm still learning too.
 
 
-- [How to Choose the Right Airbrush Paint in 2026](/beginners/advanced-guide-to-airbrush-colors/). Complete paint guide by project type
-- [Best Airbrush for Beginners in 2026](/best-airbrush-for-beginners-2026/). Airbrush buying guide
-- [Best Compressor for Airbrush](/best-compressor-for-airbrush/). Compressor buying guide
+- [How to Choose the Right Airbrush Paint in 2026](/blog/advanced-guide-to-airbrush-colors/). Complete paint guide by project type
+- [Best Airbrush for Beginners in 2026](/blog/best-airbrush-for-beginners-2026/). Airbrush buying guide
+- [Best Compressor for Airbrush](/blog/best-air-compressor/). Compressor buying guide

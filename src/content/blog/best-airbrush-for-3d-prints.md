@@ -144,8 +144,8 @@ That workflow works on everything from tabletop miniatures to full-size cosplay 
 
 ## What's Next
 
-If you're new to airbrushing and want to build a solid foundation before you start shooting primer at your prints, my [15 Basic Airbrush Rules](/15-basic-rules-of-airbrushing) covers the fundamentals I wish someone had explained to me at the start. It'll save you a lot of trial and error.
+If you're new to airbrushing and want to build a solid foundation before you start shooting primer at your prints, my [15 Basic Airbrush Rules](/blog/15-basic-rules-of-airbrushing/) covers the fundamentals I wish someone had explained to me at the start. It'll save you a lot of trial and error.
 
-For compressor selection in more depth, [Choosing The Right Air Compressor](/air-compressor) walks through tank size, PSI output, and noise levels, all relevant if you're setting up a workspace around 3D print painting.
+For compressor selection in more depth, [Choosing The Right Air Compressor](/blog/air-compressor/) walks through tank size, PSI output, and noise levels, all relevant if you're setting up a workspace around 3D print painting.
 
-And once you're ready to level up your paint knowledge, the [Advanced Guide to Airbrush Paint](/advanced-guide-to-airbrush-colors) covers thinning ratios, paint chemistry, and color layering in the kind of detail that actually changes how you paint.
+And once you're ready to level up your paint knowledge, the [Advanced Guide to Airbrush Paint](/blog/advanced-guide-to-airbrush-colors/) covers thinning ratios, paint chemistry, and color layering in the kind of detail that actually changes how you paint.

@@ -17,4 +17,4 @@ An air tank is a pressurized container connected to the compressor that stores c
 **Strongly recommended:** Virtually every experienced airbrush user recommends a compressor with a tank. Tankless compressors work but produce noticeable pulsing that affects spray quality.
 
 **Related:** [Compressor](/airbrush-glossary/compressor/) · [PSI](/airbrush-glossary/psi/) · [CFM](/airbrush-glossary/cfm/) · [Regulator](/airbrush-glossary/regulator/)
-**Learn more:** [Best Airbrush Compressor 2026](/beginners/air-compressor/)
+**Learn more:** [Best Airbrush Compressor 2026](/blog/best-air-compressor/)
