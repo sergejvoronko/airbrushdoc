@@ -46,7 +46,7 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
           All Posts <span class="blg-filter-count">{sorted.length}</span>
         </a>
         {cats.filter(cat => (catCounts[cat] ?? 0) > 0).map(cat => (
-          <a class="blg-filter-tab" href={`/${cat}/`}>
+          <a class="blg-filter-tab" href={cat === 'download' ? '/freebies/' : `/${cat}/`}>
             {CAT_LABELS[cat] ?? cat}
             <span class="blg-filter-count">{catCounts[cat]}</span>
           </a>

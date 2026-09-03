@@ -112,7 +112,7 @@ const faqSchema = faqs.length > 0 ? {
 
         <header class="abd-post-header">
           <div class="abd-post-header-top">
-            <a href={`/${category}/`} class="abd-category-badge">{categoryLabel}</a>
+            <a href={category === 'download' ? '/freebies/' : `/${category}/`} class="abd-category-badge">{categoryLabel}</a>
           </div>
           <h1 class="abd-post-title">{title}</h1>
           <div class="abd-meta-row">
