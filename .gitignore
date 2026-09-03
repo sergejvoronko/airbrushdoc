@@ -27,8 +27,7 @@ public/downloads/*.zip
 # jetbrains setting folder
 .idea/
 
-# old WordPress image archives — too large for git, served from CDN or local
-public/images/wp/
+# old WordPress image archives — dir removed 2026-09-03, all assets migrated to wp-uploads/ as WebP
 public/images/wp-uploads/airbrush-infographic-full.webp
 
 # generated SEO audit reports
