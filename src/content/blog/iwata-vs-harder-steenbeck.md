@@ -1,7 +1,7 @@
 ---
 title: "Iwata vs Harder & Steenbeck: Which Airbrush Brand Is Better? (Honest Comparison)"
-seoTitle: "Iwata vs Harder & Steenbeck: Which Is Better? | AirbrushDOC"
-description: "Iwata vs Harder & Steenbeck, a head-to-head comparison of the two most popular airbrush brands. Nozzle systems, build quality, pricing, and which to buy."
+seoTitle: "Iwata vs Harder & Steenbeck: Which Should You Buy?"
+description: "Eclipse HP-CS against the Evolution and Infinity: nozzle systems, spares, cleaning and price, so you can pick the brand that fits how you paint."
 pubDate: 2025-10-28
 category: "airbrush-reviews"
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "How to Make Your Own Homemade Airbrush"
-description: "The idea to write this article came to me when I found a video of homemade airbrush on the web. I got curious and started to look for some more."
+seoTitle: "DIY Airbrush: Build One From a Pen or Syringe"
+description: "Two homemade airbrushes you can build in an afternoon from a ballpoint pen or a syringe, what they can actually spray, and where they fall short."
 pubDate: 2011-06-24
 category: "guides"
 tags: ["airbrush", "ball pen airbrush", "brass airbrush", "diy airbrush", "diy airbrush schema", "home made airbrush", "syringe airbrush"]

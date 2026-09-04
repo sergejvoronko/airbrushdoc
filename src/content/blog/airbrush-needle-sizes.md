@@ -1,7 +1,7 @@
 ---
 title: "Airbrush Needle Sizes Explained: Which Size Do You Actually Need?"
-seoTitle: "Airbrush Needle Sizes Explained: Which Do You Need?"
-description: "Airbrush needle sizes demystified, what each size does, which projects they're best for, and why 0.3mm is the sweet spot for most artists. Simple comparison..."
+seoTitle: "Airbrush Needle Sizes: Chart and What Each Does"
+description: "A plain chart of 0.2, 0.3 and 0.5 mm needles, what each sprays well, which suits miniatures or T-shirts, and why 0.3 mm fits most painters."
 pubDate: 2025-08-26
 category: "beginners"
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Best Airbrush 2026: Honest Reviews for Every Budget"
-description: "Find the perfect airbrush for your skill level and budget. Expert hands-on reviews of Iwata, Badger, Paasche, and Harder & Steenbeck, updated 2026."
+seoTitle: "Best Airbrush 2026: Tested Picks for Every Budget"
+description: "Iwata, Badger, Paasche and Harder & Steenbeck compared after hands-on use, with the best airbrush for beginners, miniatures, T-shirts and fine art."
 pubDate: 2026-02-15
 category: "airbrush-reviews"
 tags: ["best airbrush", "airbrush reviews", "iwata", "badger", "harder steenbeck", "beginner airbrush", "airbrush buying guide"]

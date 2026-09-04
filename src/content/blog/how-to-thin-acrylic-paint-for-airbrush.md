@@ -1,7 +1,7 @@
 ---
 title: "How to Thin Acrylic Paint for Airbrush: Ratios, Methods & Brand-Specific Guide"
-seoTitle: "How to Thin Acrylic Paint for Airbrushing: Ratios & Tips"
-description: "Exact thinning ratios for every major airbrush paint brand. Createx, Vallejo, Citadel, Tamiya, Golden & more. Plus what to thin with and how to test consist..."
+seoTitle: "How to Thin Acrylic Paint for Airbrush: Ratios"
+description: "Exact thinning ratios for Createx, Vallejo, Citadel, Tamiya and Golden, what to thin with, and the milk test that tells you when it is right."
 pubDate: 2025-09-16
 category: "beginners"
 tags:

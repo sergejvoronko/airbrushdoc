@@ -1,6 +1,7 @@
 ---
-title: "Paint Defects - Why and How to Deal With it?"
-description: "Apart of proper paint and have a skill it is important to be aware of external factors that cause real problem even if you have done everything right."
+title: "Paint Defects: What Causes Them and How to Fix Them"
+seoTitle: "Paint Defects: Sagging, Cissing, Orange Peel, Fixes"
+description: "Sagging, cissing, orange peel, fisheyes and blushing, what causes each paint defect, how to spot it early, and how to fix it without stripping back."
 pubDate: 2012-03-14
 category: "guides"
 tags: ["adhesion loss", "airbrush", "corrosion", "matting", "orange peel", "paint", "paint and dust", "paint defects", "paint fish eye", "paint stains", "runs", "slow drying", "solvent penetration", "yellowing"]

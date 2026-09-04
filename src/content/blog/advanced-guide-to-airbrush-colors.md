@@ -1,6 +1,7 @@
 ---
 title: "Airbrush Paint Guide: Types, Thinning & Best Picks (2026)"
-description: "This is ultimate guide for airbrush beginners about chosing the right airbrush paint for their work. Includes look at types and brands and also provides pro adv"
+seoTitle: "Airbrush Paint Types Compared: Which to Buy"
+description: "Acrylic, watercolor, gouache, candy and urethane airbrush paints compared, which brands suit which surface, and how much thinning each type needs."
 pubDate: 2011-05-03
 category: "beginners"
 tags: ["airbrush", "airbrush acrylic", "airbrush color", "airbrush colour", "airbrush paint", "airbrush tattoo", "aquaflow", "auto air", "autoair", "candy colors", "color", "colour", "com-art", "createx", "golden artist colors", "house of kolor", "how to choose the right airbrush color", "liquitex", "medea body art", "paint", "spectra-tex", "totally tattoo", "Urethane paint", "wicked colors"]
