@@ -1,6 +1,7 @@
 ---
 title: "Harder and Steenbeck Infinity Review"
-description: "This is Harder and Steenbeck Infinity review. Airbrush of German solid quality and very good price for something of this high-end class. Check this out."
+seoTitle: "Harder & Steenbeck Infinity Review: Worth the Price?"
+description: "Hands-on with the Infinity: nozzle sizes, trigger feel, cleaning, spares cost, and whether the step up from the Evolution is justified for your work."
 pubDate: 2011-06-01
 category: "airbrush-reviews"
 tags: ["airbrush", "airbrush distance cap", "airbrush Quick Fix", "airbrush review", "airbrush reviews", "Evolution airbrush", "harder and steenbeck", "Infinity 2in1", "infinity airbrush", "Infinity Two in One", "self centering nozzle"]

@@ -1,6 +1,7 @@
 ---
 title: "Master Airbrush Review"
-description: "I realized there are some unknown manufacturers offer something that looks like the high-end airbrushes, eg, Iwata CM-C Plus. People won't have the budget.."
+seoTitle: "Master Airbrush Review: Are the Cheap Kits Good?"
+description: "An honest look at Master Airbrush kits: build quality, nozzle tolerances, what breaks first, and when the cheap route ends up costing more than buying once."
 pubDate: 2012-03-27
 updatedDate: 2026-05-13
 category: "airbrush-reviews"

@@ -1,6 +1,7 @@
 ---
 title: "DIY Small Air Compressor With Active Cooling"
-description: "Well we all know that compressor without tank wouldn't take much space but what if we want to have tank anyway. Air tank in combination with regulator is.."
+seoTitle: "DIY Mini Air Compressor With a Tank and Cooling"
+description: "Building a small airbrush compressor with an air tank and active cooling, why the tank matters for steady pressure, and what it costs to put together."
 pubDate: 2012-02-20
 category: "guides"
 tags: ["airbrush", "airbrush compressor", "diy air compressor", "diy compressor", "homemade compressor", "small air compressor", "small compressor"]

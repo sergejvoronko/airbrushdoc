@@ -1,6 +1,7 @@
 ---
 title: "How to Choose the Best Airbrush Gun?"
-description: "Why do we have to choose the best airbrush gun? I think that many of my visitors were dealing with this question and if you have landed on this page then you"
+seoTitle: "Airbrush Gun Buying Guide: How to Choose Yours"
+description: "Single vs dual action, gravity vs siphon feed, and needle sizes explained, so you can pick an airbrush gun that suits the work you actually do."
 pubDate: 2011-03-02
 category: "beginners"
 tags: ["airbrush guns", "best airbrush gun", "double action airbrush", "gravity feed", "homemade airbrush compressor", "how to choose an airbrush gun", "how to choose the right airbrush", "Hybrid feed airbrush", "Iwata", "Paasche", "single action airbrush", "siphone feed", "types of airbrush guns"]

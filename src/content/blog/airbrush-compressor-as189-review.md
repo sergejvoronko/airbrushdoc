@@ -1,6 +1,7 @@
 ---
 title: "Airbrush Compressor Review (AS189)"
-description: "Todays adept for airbrush compressor review is AS-189 from Chinese factory. No, I didn't buy it in China, I have a local seller here that sells this fella under"
+seoTitle: "Fengda AS-189 Compressor Review: Is It Enough?"
+description: "Hands-on with the AS-189 airbrush compressor: real output, noise, duty cycle, the tank and moisture trap, and the work it can and cannot handle."
 pubDate: 2012-05-02
 updatedDate: 2026-05-13
 category: "airbrush-reviews"

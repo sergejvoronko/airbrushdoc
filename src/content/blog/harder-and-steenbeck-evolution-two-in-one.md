@@ -1,6 +1,7 @@
 ---
 title: "Harder and Steenbeck Evolution Two In One"
-description: "I didn't want to spend a fortune on something I wasn't sure that it is worth those money. Harder and Steenbeck Evolution review. Paying just for a brand name wa"
+seoTitle: "H&S Evolution 2-in-1 Review: Two Nozzles, One Body"
+description: "Hands-on with the Evolution Two in One: what the second nozzle set actually adds, how it cleans, and whether it beats the Infinity for the money."
 pubDate: 2011-05-27
 category: "airbrush-reviews"
 tags: ["AB-117", "airbrush", "airbrush review", "airbrush reviews", "Evolution Two in One", "Finespray Quick Release", "german airbrush", "harder and steenbeck", "quality airbrush"]

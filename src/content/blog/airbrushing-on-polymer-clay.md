@@ -1,6 +1,7 @@
 ---
 title: "Airbrushing On Polymer Clay"
-description: "Polymer clay, an unusual topic for airbrush blog? Well, not that unusual for many artists doing sculpting. Painting on clay is not as simple"
+seoTitle: "Airbrushing Polymer Clay: Primer, Paint, Sealing"
+description: "How to prime, paint and seal polymer clay with an airbrush so the finish does not lift or stay tacky, including which paints bond to cured clay."
 pubDate: 2012-11-16
 category: "guides"
 tags: ["Alsa paint", "auto air", "createx", "painting polymer clay", "polymer clay"]

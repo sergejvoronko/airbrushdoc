@@ -1,6 +1,7 @@
 ---
 title: "How to Set Up An Air Pressure Switch"
-description: "Just a few days ago I got comment on Silent airbrush compressor article with a question about air pressure switch. The question was really reasonable because .."
+seoTitle: "Air Compressor Pressure Switch: Wiring and Setup"
+description: "How to wire and adjust an air compressor pressure switch, with the cut-in and cut-out screws explained and the wiring of a typical two-wire setup."
 pubDate: 2011-09-02
 category: "guides"
 tags: ["air pressure switch", "how to set air pressure switch", "pressure switch", "pressure switch setting", "pressure switch wiring"]

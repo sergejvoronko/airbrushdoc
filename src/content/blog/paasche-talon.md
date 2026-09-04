@@ -1,6 +1,7 @@
 ---
 title: "Paasche Talon Airbrush Review"
-description: "Todays review candidate is a dual action, gravity feed, internal mix airbrush called Paasche Talon from Paasche Airbrush Company."
+seoTitle: "Paasche Talon Review: Dual Action on a Budget"
+description: "Hands-on with the Paasche Talon: three needle sizes, trigger feel, cleaning, and how it holds up next to an Iwata Eclipse for a good deal less money."
 pubDate: 2012-06-19
 category: "airbrush-reviews"
 tags: ["airbrush review", "airbrush reviews", "paasche talon", "talon review"]

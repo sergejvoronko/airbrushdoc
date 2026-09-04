@@ -1,6 +1,6 @@
 ---
 title: "Best Airbrush Kit for Beginners 2026: Complete Starter Packages Compared"
-seoTitle: "Best Airbrush Kit for Beginners 2026: Compared | AirbrushDOC"
+seoTitle: "Best Airbrush Kit for Beginners 2026: Compared"
 description: "Complete airbrush kits compared, from $50 budget sets to $300 brand-name packages. What's actually worth buying and what to avoid. Honest 2026 guide."
 pubDate: 2025-06-03
 category: "airbrush-reviews"

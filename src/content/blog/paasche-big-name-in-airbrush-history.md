@@ -1,6 +1,7 @@
 ---
 title: "PAASCHE Airbrush - Big Name in Airbrush History"
-description: "The armorer Jens Andreas Paasche who emigrated from Norway in 1900 starts his own airbrush company. To become successful Jens worked 20 hours a day almost 24 .."
+seoTitle: "Paasche Airbrush: The Company Behind the Name"
+description: "The story of Paasche Airbrush, from Jens Paasche's arrival from Norway in 1900 to the models the company still makes for airbrush artists today."
 pubDate: 2011-10-21
 category: "history"
 tags: ["airbrush D-D", "airbrush history", "first airbrush air eraser", "first single action airbrush", "jens andreas paasche", "jens paasche", "paasche AB", "paasche air brush catalog", "paasche airbrush", "paasche airbrush company", "paasche bulletin", "Paasche model H", "Paasche model N", "paasche patent", "single action airbrush DD"]

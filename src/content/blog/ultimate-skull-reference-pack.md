@@ -1,6 +1,7 @@
 ---
 title: "Ultimate Skull Reference Images Pack"
-description: "I think now that this pack is not actually just for reference. You can use it as your private skull inspiration gallery."
+seoTitle: "Free Skull Reference Photo Pack for Airbrush Art"
+description: "A free download pack of skull reference photos from several angles, plus notes on using them for airbrush portraits, murals and stencil work."
 pubDate: 2011-03-18
 category: "download"
 tags: ["airbrush skull", "airbrush skull reference", "airbrush skull references", "airbrush skulls", "reference for airbrush", "reference skull", "skull art", "skull drawings", "skull photo", "skull reference", "skull reference pack"]

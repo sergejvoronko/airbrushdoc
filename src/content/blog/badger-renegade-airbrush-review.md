@@ -1,6 +1,7 @@
 ---
 title: "Badger Renegade Airbrush Review"
-description: "I'm pleased that I got Badger Renegade line in my hands.Badger says that this line especially is for \"the proven elite artist\". So lets see if they are right."
+seoTitle: "Badger Renegade Review: Velocity vs Rage Compared"
+description: "Hands-on with the Badger Renegade line: needle sizes, trigger feel, spares cost, and whether the Velocity or the Rage suits the work you do."
 pubDate: 2011-10-05
 category: "airbrush-reviews"
 tags: ["airbrush", "airbrush for fine art", "airbrush reviews", "badger airbrush", "badger extreme set airbrush", "badger rage airbrush", "badger renegade review", "badger spirit airbrush", "badger velocity airbrush", "cheap fine art airbrush", "double action airbrush", "renegade airbrush", "types of airbrush guns"]

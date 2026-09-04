@@ -1,6 +1,7 @@
 ---
 title: "Airbrushing With Nitros"
-description: "What if you don't have an access to professional airbrush paint and the only source you can get the paint from is \"home hardware store\"?"
+seoTitle: "Airbrushing Nitro Paint: Solvents, Safety, Setup"
+description: "Using hardware-store nitrocellulose paint in an airbrush: which solvent to thin it with, the pressure it needs, and the ventilation you cannot skip."
 pubDate: 2011-08-02
 category: "guides"
 tags: ["646 reducer", "647 reducer", "649 reducer", "airbrush", "color wheel", "federal standard color", "nitro color", "nitro paint", "Nitrocellulose Based Lacquer Paint", "red nitro color", "shell silver nitro"]

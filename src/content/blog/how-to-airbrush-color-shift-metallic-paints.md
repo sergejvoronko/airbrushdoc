@@ -1,6 +1,6 @@
 ---
 title: "How to Airbrush Color Shift and Metallic Paints: Settings, Thinning Ratios & Top Product Picks"
-seoTitle: "How to Airbrush Color Shift & Metallic Paints | AirbrushDOC"
+seoTitle: "How to Airbrush Color Shift and Metallic Paint"
 description: "Master airbrushing color shift and metallic paints with the right PSI, thinning ratios, nozzle sizes, and layering techniques. Includes top product picks."
 pubDate: 2026-05-13
 readingTime: 10

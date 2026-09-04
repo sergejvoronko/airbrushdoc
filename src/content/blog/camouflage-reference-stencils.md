@@ -1,6 +1,7 @@
 ---
 title: "Camouflage Reference and Stencils"
-description: "Preview of camouflage references with option to download, also a preview of stencils with option to download and of coarse some recommendations"
+seoTitle: "Printable Camouflage Stencils and Reference Photos"
+description: "Free printable camouflage stencils and reference photos to download, with notes on pattern scale, spacing, and how to mask each layer cleanly."
 pubDate: 2012-04-03
 category: "gallery"
 tags: ["camouflage", "camouflage reference", "digi camo", "digital camo", "digital camouflage stencils", "reference pack to download"]

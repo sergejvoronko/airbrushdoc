@@ -1,6 +1,7 @@
 ---
 title: "5 Ways to Fix Bent Airbrush Needle"
-description: "Did you bent airbrush needle? Usually the nozzle cap should protect the needle and the nozzle tip but most of us love to work without the cap.."
+seoTitle: "How to Straighten a Bent Airbrush Needle: 5 Ways"
+description: "Five ways to straighten a bent airbrush needle, which of them actually work on a fine tip, and how to tell when the needle is past saving."
 pubDate: 2012-01-31
 category: "guides"
 tags: ["airbrush", "airbrush needle", "bent airbrush needle", "bent needle", "broken nozzle", "fix airbrush needle", "how to fix bent airbrush needle"]

@@ -1,6 +1,7 @@
 ---
 title: "Iwata Custom Micron Review (C+)"
-description: "I've made couple of reviews already and I couldn't wait to write this, the special one, about Iwata Custom Micron C Plus airbrush (CM C+)."
+seoTitle: "Iwata Custom Micron CM-C Plus Review: Worth It?"
+description: "Hands-on with the Custom Micron CM-C Plus: what the hand-matched nozzle buys you at fine detail, how it cleans, and who should not spend the money."
 pubDate: 2011-06-21
 category: "airbrush-reviews"
 tags: ["airbrush reviews", "Bent needles", "double action", "dry tip", "External Micro Air Control Valve", "gravity feed", "internal mix", "Iwata CM C+", "Iwata Custom Micron C Plus", "Pistol grip moisture filter", "Quick Disconnect", "Weak Nozzle"]

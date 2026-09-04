@@ -1,6 +1,7 @@
 ---
 title: "Who Invented Airbrush?"
-description: "This is my first blog post and I have no clue how to start but my first idea was to find something about the history of airbrush and post it here."
+seoTitle: "Who Invented the Airbrush? A Short History"
+description: "Who invented the airbrush and when, from Abner Peeler's 1879 paint distributor through the patents and workshops that shaped the modern tool."
 pubDate: 2010-12-04
 category: "history"
 tags: ["abner peeler", "airbrush invention", "andy penaluna", "Liberty Walkup", "who invented airbrush"]

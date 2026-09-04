@@ -1,5 +1,6 @@
 ---
 title: "Aztek Airbrush Review (7778)"
+seoTitle: "Aztek 7778 Airbrush Review: The Multi-Nozzle Set"
 description: "Hands-on review of the Aztek 7778 airbrush set, the multi-nozzle system, build quality, what is in the box, and whether it is worth the money."
 pubDate: 2011-05-23
 category: "airbrush-reviews"

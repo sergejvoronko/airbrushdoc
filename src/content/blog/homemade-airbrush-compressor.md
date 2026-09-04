@@ -1,6 +1,7 @@
 ---
 title: "DIY: Homemade Airbrush Compressor"
-description: "Tutorial - DIY compressor for airbrush at home. I was looking for a simple and at the same time cheap solution. As you probably already figured out ..."
+seoTitle: "DIY Airbrush Compressor From a Fridge Motor"
+description: "How to build a quiet airbrush compressor from a fridge compressor: the tank, pressure switch, moisture trap and wiring, plus the safety points."
 pubDate: 2011-02-05
 category: "beginners"
 tags: ["airbrush compressor", "diy airbrush compressor", "diy compressor", "fridge compressor", "homemade airbrush compressor", "homemade airbrush compressor fridge", "how to make airbrush compressor with fridge compressor", "silent airbrush comp"]

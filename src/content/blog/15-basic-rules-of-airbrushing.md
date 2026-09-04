@@ -1,6 +1,7 @@
 ---
 title: "15 Basic Airbrush Rules Every Beginner Should Know"
-description: "Time to get to know some basic airbrush rules you have to follow while working with airbrush. Many of them have different tendency and some are very important."
+seoTitle: "15 Airbrush Rules: How to Hold, Spray, Stay Safe"
+description: "How to hold the airbrush, set your distance and pressure, and the safety habits worth building early. Fifteen rules that prevent most beginner mistakes."
 pubDate: 2011-07-15
 category: "beginners"
 tags: ["airbrush", "airbrush advices", "airbrush golden rule", "airbrush rules", "airbrush safety", "airbrush tips", "airbrush wd-40", "butanol", "danger paints", "drop airbrush", "glycerine", "golden rule of airbrushing", "opaque finish", "paint drips", "poisonous pigments", "proper reducer", "spitting paint", "thick paint", "tip dry"]

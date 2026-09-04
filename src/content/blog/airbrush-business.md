@@ -1,6 +1,7 @@
 ---
 title: "How Much do Airbrush Artists Make?"
-description: "Every time when you airbrush something (as a friendly favor or part of your business) it goes into back-costs and you should include into your expenses bill."
+seoTitle: "How Much Do Airbrush Artists Make? Real Numbers"
+description: "What airbrush artists actually earn, how to price a job so it covers paint, air and time, and the hidden costs that quietly eat a hobby turned business."
 pubDate: 2012-01-23
 category: "discussion"
 tags: ["airbrush", "airbrush business", "airbrush company", "airbrush cost", "art businnes", "art marketing", "artworks", "how to run a small business"]
