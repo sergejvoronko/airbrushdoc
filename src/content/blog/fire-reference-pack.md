@@ -43,6 +43,6 @@ I bet many of you are wondering how to make fire with the airbrush. It's kind of
 You may notice that there is not many pictures of smoke - that's because I'll cover smoke in the next pack, so stick around. Any comments are welcome. If you want to request or contribute to this pack you can find the contact information in 'readme.txt' file.
 Size of this pack is 145MB.
 
-> **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.
+> **Get this pack free.** All the files live on my [freebies page](/freebies/), subscribe once and every pack unlocks, stencils and reference sets included.
 
 

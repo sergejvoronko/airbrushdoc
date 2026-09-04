@@ -16,7 +16,7 @@ But airbrushing can not be possible without the proper air source. The air has t
 
 What I decided to do here is to write all about compressors. Why? So you can learn something more than just listen to some advises.
 
-> **Just want specific models and prices?** Jump to my [**Best Airbrush Compressor 2026 buying guide**](/blog/best-air-compressor/) for honest reviews at every budget. This article is the deep-dive on *how* compressors work — read it and you'll be able to judge any model on the shelf yourself.
+> **Just want specific models and prices?** Jump to my [**Best Airbrush Compressor 2026 buying guide**](/blog/best-air-compressor/) for honest reviews at every budget. This article is the deep-dive on *how* compressors work, read it and you'll be able to judge any model on the shelf yourself.
 
 First of all I want to mention some properties that have effect when choosing the air compressor.
 

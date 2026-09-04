@@ -5,7 +5,7 @@ category: "problems"
 description: "Blowback, color back-flow"
 ---
 
-Back-bubbling is when air travels backward through the paint cup, causing paint to bubble or gurgle rather than spray. It's typically caused by a blocked or damaged nozzle that prevents paint from flowing forward, so pressurized air finds the path of least resistance — backward through the cup.
+Back-bubbling is when air travels backward through the paint cup, causing paint to bubble or gurgle rather than spray. It's typically caused by a blocked or damaged nozzle that prevents paint from flowing forward, so pressurized air finds the path of least resistance, backward through the cup.
 
 **Common causes:** Blocked nozzle (dried paint), bent needle tip, incorrectly seated nozzle, or crack in the nozzle.
 

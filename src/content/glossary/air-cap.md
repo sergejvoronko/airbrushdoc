@@ -9,7 +9,7 @@ The air cap is the outermost piece at the front of your airbrush, fitted over th
 
 Different air cap designs produce different spray characteristics. A standard air cap allows the spray pattern to spread naturally in a cone shape. Some manufacturers (notably Iwata with their "Crown Cap") offer specialized air caps that narrow the spray cone, giving you a slightly tighter pattern at a given distance.
 
-On most airbrushes, the air cap screws on by hand and can be removed for cleaning. Paint can accumulate on the inside of the air cap during use — periodic cleaning prevents this buildup from affecting spray quality.
+On most airbrushes, the air cap screws on by hand and can be removed for cleaning. Paint can accumulate on the inside of the air cap during use, periodic cleaning prevents this buildup from affecting spray quality.
 
 **Don't confuse with:** The *needle cap* (the protective cap that covers the needle tip when not in use). The air cap shapes airflow; the needle cap just protects the needle.
 

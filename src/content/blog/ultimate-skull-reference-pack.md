@@ -54,4 +54,4 @@ But hey, why to go elsewhere when you have most of it here in couple of clicks. 
 <div class="abd-gallery-item"><img src="/images/wp-uploads/A_dragon_and_his_skull_by_alecan.webp" loading="lazy" alt="Skull reference image for airbrush artists — image 21 of 21" /></div>
 </div>
 
-> **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.
+> **Get this pack free.** All the files live on my [freebies page](/freebies/), subscribe once and every pack unlocks, stencils and reference sets included.

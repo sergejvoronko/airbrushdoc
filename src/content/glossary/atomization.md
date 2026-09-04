@@ -2,12 +2,12 @@
 title: "Atomization"
 slug: "atomization"
 category: "measurement"
-description: "Atomization — airbrush terminology explained."
+description: "Atomization, airbrush terminology explained."
 ---
 
 **What it means in simple terms:** Breaking paint into tiny droplets
 
-Atomization is the process of breaking liquid paint into extremely fine droplets using compressed air. It's the core mechanism that makes airbrushes work — without proper atomization, you'd have splatters and blobs rather than smooth, controlled coverage.
+Atomization is the process of breaking liquid paint into extremely fine droplets using compressed air. It's the core mechanism that makes airbrushes work, without proper atomization, you'd have splatters and blobs rather than smooth, controlled coverage.
 
 Good atomization depends on three factors: air pressure (higher PSI = finer atomization), paint viscosity (thinner paint atomizes more easily), and needle/nozzle size (finer needle/nozzle = finer atomization at lower pressure).
 

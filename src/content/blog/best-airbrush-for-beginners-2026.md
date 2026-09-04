@@ -246,6 +246,4 @@ And when you inevitably hit problems (and you will, every beginner does), check 
 - How to Clean Your Airbrush Properly
 - Best Compressor for Airbrush
 
-Happy spraying. Welcome to the best hobby in the world.
-
-—
+Happy spraying. Welcome to the best hobby in the world., 

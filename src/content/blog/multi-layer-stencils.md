@@ -42,7 +42,7 @@ The details of these stencils are more complicated and the whole process is taki
 
 Every one of these layered stencils is free to subscribers.
 
-> **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.
+> **Get this pack free.** All the files live on my [freebies page](/freebies/), subscribe once and every pack unlocks, stencils and reference sets included.
 
 I also will appreciate if you share it in your social network (like it, tweet it, give a plus, pin it, digg or stumble it) or leave a comment.
 Cheers.

@@ -7,7 +7,7 @@ description: "Generates compressed air to power the airbrush"
 
 **What it does:** Generates compressed air to power the airbrush
 
-The compressor is the power source for your airbrush — it takes atmospheric air and compresses it to the pressure needed to atomize paint. For airbrush use, you need consistent pressure in the 10–40 PSI range, fine pressure adjustment, and a clean, oil-free air supply.
+The compressor is the power source for your airbrush. It takes atmospheric air and compresses it to the pressure needed to atomize paint. For airbrush use, you need consistent pressure in the 10–40 PSI range, fine pressure adjustment, and a clean, oil-free air supply.
 
 **Key specs to look for:**
 - **Tank:** A compressor with a tank delivers smoother, pulse-free air. Tankless compressors work but produce noticeable pulsing.

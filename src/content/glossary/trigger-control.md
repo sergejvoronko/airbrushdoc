@@ -7,7 +7,7 @@ description: "Mastering the dual-action trigger to control air and paint indepen
 
 **What it means:** Mastering the dual-action trigger to control air and paint independently
 
-Trigger control is the skill of operating a dual-action airbrush trigger — pressing down for air and pulling back for paint — smoothly and precisely, while simultaneously managing airbrush distance and movement speed.
+Trigger control is the skill of operating a dual-action airbrush trigger, pressing down for air and pulling back for paint, smoothly and precisely, while simultaneously managing airbrush distance and movement speed.
 
 It's arguably the most important skill in airbrushing, because all spray characteristics (line width, opacity, gradient smoothness) flow from how well you control the trigger.
 

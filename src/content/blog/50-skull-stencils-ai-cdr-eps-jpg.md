@@ -43,5 +43,5 @@ Some examples:
   <div class="abd-gallery-item"><img src="/images/wp-uploads/coolskull_050_aerografpro.ru_.webp" loading="lazy" alt="Skull stencil design from the download pack — image 14 of 14" /></div>
 </div>
 
-> **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.
+> **Get this pack free.** All the files live on my [freebies page](/freebies/), subscribe once and every pack unlocks, stencils and reference sets included.
 

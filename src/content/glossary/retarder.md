@@ -5,7 +5,7 @@ category: "paint"
 description: "Drying retarder, slow-dry medium"
 ---
 
-Retarder is an additive mixed into paint to slow its drying time. For airbrushing, this is primarily useful to combat tip dry — the tendency of fast-drying acrylic paint to dry on the needle tip mid-session.
+Retarder is an additive mixed into paint to slow its drying time. For airbrushing, this is primarily useful to combat tip dry, the tendency of fast-drying acrylic paint to dry on the needle tip mid-session.
 
 **When to use retarder:**
 - Working in hot, dry, or windy conditions where paint dries rapidly.

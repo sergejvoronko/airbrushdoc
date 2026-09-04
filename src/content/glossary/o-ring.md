@@ -7,7 +7,7 @@ description: "Seals connections to prevent air or paint leaks"
 
 **What it does:** Seals connections to prevent air or paint leaks
 
-O-rings are tiny rubber or silicone rings that create airtight seals at various connection points inside the airbrush — where the needle passes through the body, at the paint cup connection, at the air valve. They prevent air leaks and paint from seeping into places it shouldn't.
+O-rings are tiny rubber or silicone rings that create airtight seals at various connection points inside the airbrush, where the needle passes through the body, at the paint cup connection, at the air valve. They prevent air leaks and paint from seeping into places it shouldn't.
 
 Over time, O-rings can dry out, harden, crack, or become deformed, leading to air leaks, paint leaks, or trigger feel changes. Replacement O-rings are cheap (often available in assortment kits for under $5) and should be part of periodic maintenance.
 

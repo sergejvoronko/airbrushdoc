@@ -1,6 +1,6 @@
 ---
 title: "Re-Inspired - aerografpro.ru - Airbrush Car Gallery of Russia Exhibition Show"
-seoTitle: "Aerografpro.ru — Russian Airbrush Car Gallery | AirbrushDOC"
+seoTitle: "Aerografpro.ru, Russian Airbrush Car Gallery | AirbrushDOC"
 description: "Awesome airbrush gallery of art works on cars. Get inspired by another airbrush art from my eastern friends from Russia. A lot of pictures. Enjoy"
 pubDate: 2011-01-06
 category: "gallery"

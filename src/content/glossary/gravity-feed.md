@@ -10,10 +10,10 @@ description: "Paint cup sits on top; gravity pulls paint down to the nozzle"
 In a gravity-feed airbrush, the paint cup is located on top of the airbrush body. Paint flows downward by gravity into the nozzle area, where it mixes with compressed air and atomizes.
 
 **Advantages:**
-- Requires less air pressure to move paint — better for low-pressure fine detail work.
+- Requires less air pressure to move paint, better for low-pressure fine detail work.
 - Allows you to use very small amounts of paint (useful for expensive paints or small color batches).
 - Easier to see paint levels in the cup.
-- Most sensitive to color changes — easy to spot contamination.
+- Most sensitive to color changes, easy to spot contamination.
 
 **Disadvantages:**
 - Cup sits on top, which can feel awkward at certain working angles.

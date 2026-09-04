@@ -7,10 +7,10 @@ description: "One trigger controls only air; paint flow is set separately"
 
 **What it means:** One trigger controls only air; paint flow is set separately
 
-In a single-action airbrush, pressing the trigger down controls only airflow — fully on or fully off. Paint volume is adjusted separately, by turning a needle adjustment screw at the back of the airbrush to set how far the needle retracts from the nozzle.
+In a single-action airbrush, pressing the trigger down controls only airflow, fully on or fully off. Paint volume is adjusted separately, by turning a needle adjustment screw at the back of the airbrush to set how far the needle retracts from the nozzle.
 
 **Pros of single-action:**
-- Simpler to learn — one axis of control instead of two.
+- Simpler to learn, one axis of control instead of two.
 - Less coordination required.
 - Easier for repetitive coverage tasks.
 - Generally more affordable.

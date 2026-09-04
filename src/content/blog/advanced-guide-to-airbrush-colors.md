@@ -239,21 +239,21 @@ And here are some advices from Pro’s...
 
 <div class="advice-bubble">No. It’s not ok to use <strong>Createx</strong> for tattoo. Yeah it’s nontoxic, but it doesn’t allow the skin to breath, and it’s too thick. There are a number of temp tattoo paints available....totally tattoo, temptu..</div>
 
-<div class="advice-bubble"><strong>Badger Totally Tattoo</strong> — After purchasing and trying 5 different types of body paint (stores from Florida all the way to Australia), I found that these Badger Totally Tattoo paints are the best. I conducted many tests and these proved to last the longest. Too bad there aren’t bigger bottles.</div>
+<div class="advice-bubble"><strong>Badger Totally Tattoo</strong>, After purchasing and trying 5 different types of body paint (stores from Florida all the way to Australia), I found that these Badger Totally Tattoo paints are the best. I conducted many tests and these proved to last the longest. Too bad there aren’t bigger bottles.</div>
 
-<div class="advice-bubble"><strong>Badger Totally Tattoo</strong> — These paints do what they say they do (stay on the skin). If you use a brush and alcohol as a thinner it is similar to using very fast drying gauche. The pigments mostly come from aluminum oxides (food coloring) carried with alcohol, Castor oil and some other ingredients. These are considered "safe" but I doubt that they are very gentle on the skin. I haven’t had any reports of problems from the people I have painted on but I intend to only use these paints when more gentle cosmetics will not do the trick.</div>
+<div class="advice-bubble"><strong>Badger Totally Tattoo</strong>, These paints do what they say they do (stay on the skin). If you use a brush and alcohol as a thinner it is similar to using very fast drying gauche. The pigments mostly come from aluminum oxides (food coloring) carried with alcohol, Castor oil and some other ingredients. These are considered "safe" but I doubt that they are very gentle on the skin. I haven’t had any reports of problems from the people I have painted on but I intend to only use these paints when more gentle cosmetics will not do the trick.</div>
 
-<div class="advice-bubble"><strong>AUTO-AIR</strong> — I think I am switching to other paint! Auto-air is driving me nuts. Have to be so careful with it. What is everybody using for paint that isn’t water based? Custom shop or <strong>House of color</strong>? I need the inside scoop on what line has the best paint and colors.</div>
+<div class="advice-bubble"><strong>AUTO-AIR</strong>, I think I am switching to other paint! Auto-air is driving me nuts. Have to be so careful with it. What is everybody using for paint that isn’t water based? Custom shop or <strong>House of color</strong>? I need the inside scoop on what line has the best paint and colors.</div>
 
-<div class="advice-bubble"><strong>AUTO-AIR</strong> — Love the Auto Air Paints! Basecoating, graphics, Fine detail airbrushing are a breeze!</div>
+<div class="advice-bubble"><strong>AUTO-AIR</strong>, Love the Auto Air Paints! Basecoating, graphics, Fine detail airbrushing are a breeze!</div>
 
-<div class="advice-bubble"><strong>AUTO-AIR</strong> — this is the paint that I give the best percentage in quality and beautiful colors, I recommend this paint for all and that I was using a while earlier European paints, it’s also very good quality but this is the one that I like so, I recommend...</div>
+<div class="advice-bubble"><strong>AUTO-AIR</strong>. This is the paint that I give the best percentage in quality and beautiful colors, I recommend this paint for all and that I was using a while earlier European paints, it’s also very good quality but this is the one that I like so, I recommend...</div>
 
 <div class="advice-bubble">I’ve been using water based ever since I started (30 yrs. ago), started with <strong>Createx</strong>, now it’s all <strong>Auto Air</strong>!!! Really it is easy to work with, love to do stuff with a lot of layers, I really like the <strong>Wicked line</strong> too...</div>
 
 <div class="advice-bubble">Have been using <strong>Auto Air</strong> for 25 years. I airbrush and hand paint with it on all types of vehicles. Love the paint... Murals are all I do.</div>
 
-<div class="advice-bubble"><strong>Autobourne</strong> — Autoborne airbrushes better than auto air so I would start with that and have a play and see what results you get. I use it pretty much 1:1 with reducer, this gives a nice transparent which is opaque enough for detail, and can also build color quickly.</div>
+<div class="advice-bubble"><strong>Autobourne</strong>, Autoborne airbrushes better than auto air so I would start with that and have a play and see what results you get. I use it pretty much 1:1 with reducer, this gives a nice transparent which is opaque enough for detail, and can also build color quickly.</div>
 
 <div class="advice-bubble">I still use my <strong>Wicked Colors</strong> and will continue to use them but <strong>House of Kolor</strong> just simply outperforms them hands down...</div>
 
@@ -275,7 +275,7 @@ And here are some advices from Pro’s...
 
 Well there is many more brands that make airbrush colors, I just brought some most famous. BTW I could not find any description about **Autobourne** or** DuPont **(these are very expensive). And there is many local paints in Germany, Russia ... but they are not popular in US for example. So I leave it on world market. I personally use **Createx Classic Colors** and I'm happy with them. Of course for automotive I will recommend to try **House of Kolor **or **Auto-Air**. Some of them are not that expensive so you can give a try to everyone and see for yourself which best suits you. At last I placed the questionnaire on my [Facebook fan page](http://www.facebook.com/airbrushdoc), about preferred paints. I got only 24 responses so I do not recommend following only this result because it is not really objective.
 
-> **Facebook poll (24 votes) — "What paints do you use?"** Createx led, followed by Wicked Colors and Auto-Air — consistent with the full blog survey below.
+> **Facebook poll (24 votes), "What paints do you use?"** Createx led, followed by Wicked Colors and Auto-Air, consistent with the full blog survey below.
 
 I think that first of all you should choose color by purpose of use and then to choose the brand won't be that difficult.
 

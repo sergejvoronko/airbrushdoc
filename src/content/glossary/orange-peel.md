@@ -2,12 +2,12 @@
 title: "Orange Peel"
 slug: "orange-peel"
 category: "problems"
-description: "Orange Peel — airbrush terminology explained."
+description: "Orange Peel, airbrush terminology explained."
 ---
 
 **What it looks like:** A bumpy texture resembling the skin of an orange
 
-Orange peel is a surface texture defect where the paint dries with a bumpy, dimpled surface instead of a smooth finish. It looks exactly like the skin of an orange — hence the name.
+Orange peel is a surface texture defect where the paint dries with a bumpy, dimpled surface instead of a smooth finish. It looks exactly like the skin of an orange, hence the name.
 
 **Causes:**
 - Air pressure too low (paint isn't atomizing finely enough)

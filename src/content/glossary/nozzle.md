@@ -5,7 +5,7 @@ category: "equipment"
 description: "Tip, fluid tip"
 ---
 
-The nozzle is a tiny, precision-machined part at the front of the airbrush body through which paint exits. It's a tapered cone with a microscopic opening — 0.2mm to 0.5mm in diameter — that the needle seats into to seal. When the needle retracts, this tiny gap allows paint to flow out and be atomized by the surrounding air stream.
+The nozzle is a tiny, precision-machined part at the front of the airbrush body through which paint exits. It's a tapered cone with a microscopic opening, 0.2mm to 0.5mm in diameter, that the needle seats into to seal. When the needle retracts, this tiny gap allows paint to flow out and be atomized by the surrounding air stream.
 
 Nozzles are the most delicate and most critical component of your airbrush. They're typically made from brass or stainless steel and must be perfectly clean and undamaged to spray correctly.
 

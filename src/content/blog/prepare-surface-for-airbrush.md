@@ -65,11 +65,11 @@ This guide covers every common airbrush surface with specific, practical instruc
 
 Before diving into specific surfaces, almost every airbrush surface follows the same three-step logic:
 
-- **Clean** — Remove oils, dust, mold release agents, and contaminants. Paint can't stick to a greasy or dirty surface.
+- **Clean**: Remove oils, dust, mold release agents, and contaminants. Paint can't stick to a greasy or dirty surface.
 
-- **Scuff** — Create microscopic texture ("tooth") for paint to grip. This means sanding, abrading, or using a chemical etch depending on the material.
+- **Scuff**: Create microscopic texture ("tooth") for paint to grip. This means sanding, abrading, or using a chemical etch depending on the material.
 
-- **Prime** — Apply a primer that bridges the gap between the raw surface and your paint. Primer is formulated to stick to the surface AND to accept paint on top of it.
+- **Prime**: Apply a primer that bridges the gap between the raw surface and your paint. Primer is formulated to stick to the surface AND to accept paint on top of it.
 
 Not every surface needs all three steps. Fabric doesn't need scuffing or priming. Pre-primed canvas just needs a quick clean. But when in doubt, clean-scuff-prime will work on almost anything.
 
@@ -155,11 +155,11 @@ If you're airbrushing on an existing paint job, a car hood, motorcycle tank, or 
 
 **Three methods (all work equally well):**
 
-- **Dry sanding with P800 grit** — Fast and effective. Creates uniform micro-scratches. The surface will look matte/hazy afterward, that's what you want.
+- **Dry sanding with P800 grit**: Fast and effective. Creates uniform micro-scratches. The surface will look matte/hazy afterward, that's what you want.
 
-- **Wet sanding with P1000 grit** — Gentler, produces a finer scratch pattern. Use water as a lubricant. Better for delicate work where you don't want to cut through thin clear coat.
+- **Wet sanding with P1000 grit**: Gentler, produces a finer scratch pattern. Use water as a lubricant. Better for delicate work where you don't want to cut through thin clear coat.
 
-- **Scotch-Brite Ultra Fine with scuffing gel** — The easiest and most comfortable method. The abrasive pad conforms to curves, and the gel provides lubrication. Products like 3M Scuff-It work great for this.
+- **Scotch-Brite Ultra Fine with scuffing gel**: The easiest and most comfortable method. The abrasive pad conforms to curves, and the gel provides lubrication. Products like 3M Scuff-It work great for this.
 
 All three methods produce essentially the same result. Choose based on what's comfortable and available.
 
@@ -195,21 +195,21 @@ Plastic is the most common airbrush surface for hobbyists in 2026, thanks to the
 
 **Step 3: Prime.** Primer is essential on plastic. It provides a uniform color base and massively improves paint adhesion. The best airbrush primers for plastic models:
 
-- **[Badger Stynylrez](/go/badger-stynylrez-primer)** — The current community favorite. Sprays beautifully through an airbrush, self-levels, excellent adhesion. Available in black, white, grey, and green. Thin with a few drops of water if needed. ~20 PSI.
+- **[Badger Stynylrez](/go/badger-stynylrez-primer)**: The current community favorite. Sprays beautifully through an airbrush, self-levels, excellent adhesion. Available in black, white, grey, and green. Thin with a few drops of water if needed. ~20 PSI.
 
-- **[Vallejo Surface Primer](/go/vallejo-surface-primer)** — Extremely popular, widely available. Works via airbrush or brush-on. Thin slightly with water (3:1 to 4:1 primer to water). Available in many colors including unique options like German dark yellow and rust.
+- **[Vallejo Surface Primer](/go/vallejo-surface-primer)**: Extremely popular, widely available. Works via airbrush or brush-on. Thin slightly with water (3:1 to 4:1 primer to water). Available in many colors including unique options like German dark yellow and rust.
 
-- **Tamiya Fine Surface Primer** — Spray can primer (not for airbrush). Excellent quality, very fine grain, but produces fumes, use outdoors. The L (light grey) version is the most versatile.
+- **Tamiya Fine Surface Primer**: Spray can primer (not for airbrush). Excellent quality, very fine grain, but produces fumes, use outdoors. The L (light grey) version is the most versatile.
 
-- **[AK Interactive Primer](/go/ak-interactive-gen-primer)** — Good alternative to Vallejo, available in multiple colors. Airbrush-ready with minimal thinning.
+- **[AK Interactive Primer](/go/ak-interactive-gen-primer)**: Good alternative to Vallejo, available in multiple colors. Airbrush-ready with minimal thinning.
 
 **Primer color matters:**
 
-- **Grey** — The most versatile. Works under any paint color. Provides a neutral base that doesn't shift your final colors warm or cool.
+- **Grey**: The most versatile. Works under any paint color. Provides a neutral base that doesn't shift your final colors warm or cool.
 
-- **White** — Best under bright or light colors (yellow, orange, white, light blue). Makes colors appear more vivid.
+- **White**: Best under bright or light colors (yellow, orange, white, light blue). Makes colors appear more vivid.
 
-- **Black** — Best for dark color schemes or metallic finishes. Provides instant shadow in recesses. Colors painted over black will appear darker and more saturated.
+- **Black**: Best for dark color schemes or metallic finishes. Provides instant shadow in recesses. Colors painted over black will appear darker and more saturated.
 
 ### Vinyl / Soft Plastic (Toys, Figures)
 
@@ -311,7 +311,7 @@ Use a clear sanding sealer (cellulose sanding sealer works well). Apply with a b
 
 **Gesso** is your best friend. Artists have used Gesso as a painting base for centuries, and it works beautifully for airbrush work. Apply with a wide brush, foam roller, or screen printer's squeegee for the flattest possible application. Sand lightly with P400 between coats. Two coats of Gesso provides an excellent airbrush surface, smooth, slightly toothy, and uniformly white.
 
-**DO NOT use wax-based or oil-based sealers** — nothing will adhere to these surfaces afterward.
+**DO NOT use wax-based or oil-based sealers**, nothing will adhere to these surfaces afterward.
 
 ### Quick option:
 
@@ -373,7 +373,7 @@ Custom leather painting (especially sneaker customization) is a fast-growing nic
 
 Cosplay prop-making frequently uses airbrush for detailed paint work on foam armor, weapons, and accessories.
 
-**EVA foam is porous** — paint soaks right into it without a sealing layer. You need to seal first:
+**EVA foam is porous**, paint soaks right into it without a sealing layer. You need to seal first:
 
 - **Plasti Dip** (spray). The most common seal for EVA foam. 3–4 thin coats creates a smooth, flexible, paintable surface. Let each coat dry before the next.
 
@@ -401,13 +401,13 @@ Miniature preparation is its own discipline. Here's the streamlined workflow:
 
 **Best miniature primers for airbrush:**
 
-- **[Badger Stynylrez](/go/badger-stynylrez-primer)** — Sprays like a dream, self-levels, excellent adhesion. The most recommended airbrush primer in the miniatures community. Available in black, white, grey.
+- **[Badger Stynylrez](/go/badger-stynylrez-primer)**: Sprays like a dream, self-levels, excellent adhesion. The most recommended airbrush primer in the miniatures community. Available in black, white, grey.
 
-- **[Vallejo Surface Primer](/go/vallejo-surface-primer)** — Excellent quality, many color options. Thin with a small amount of water. Can also be brush-applied.
+- **[Vallejo Surface Primer](/go/vallejo-surface-primer)**: Excellent quality, many color options. Thin with a small amount of water. Can also be brush-applied.
 
-- **[AK Interactive 3rd Gen Primer](/go/ak-interactive-gen-primer)** — Good alternative, airbrush-ready.
+- **[AK Interactive 3rd Gen Primer](/go/ak-interactive-gen-primer)**: Good alternative, airbrush-ready.
 
-- **[Citadel spray primers](/go/citadel-spray-primers)** — Rattle cans only (not for airbrush). Decent but expensive and weather-dependent.
+- **[Citadel spray primers](/go/citadel-spray-primers)**: Rattle cans only (not for airbrush). Decent but expensive and weather-dependent.
 
 **Airbrush settings for priming miniatures:** 0.3mm or larger nozzle, 20–25 PSI, 4–6 inches distance. Apply in thin passes, 2–3 light coats beats one heavy coat. Let each coat dry for a few minutes before the next.
 
@@ -437,6 +437,6 @@ Surface preparation isn't glamorous, and it's the step everyone wants to skip. B
 
 The specific steps depend on your material, but the mindset is universal: give the paint something clean and textured to grip, and it will reward you with durability and beauty.
 
-- [How to Choose the Right Airbrush Paint in 2026](/blog/advanced-guide-to-airbrush-colors/) — Paint recommendations by surface type
+- [How to Choose the Right Airbrush Paint in 2026](/blog/advanced-guide-to-airbrush-colors/): Paint recommendations by surface type
 
-- [Best Airbrush Compressor in 2026](/blog/best-air-compressor/) — Compressor guide
+- [Best Airbrush Compressor in 2026](/blog/best-air-compressor/): Compressor guide

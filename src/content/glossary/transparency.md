@@ -2,12 +2,12 @@
 title: "Transparency"
 slug: "transparency"
 category: "paint"
-description: "Transparency — airbrush terminology explained."
+description: "Transparency, airbrush terminology explained."
 ---
 
 **Opposite of:** Opacity
 
-Transparency (in paint) refers to how much a paint layer allows the color beneath it to show through. A highly transparent paint applied over another color doesn't hide it — instead, the two colors mix visually, often producing a richer, more complex result than either color alone.
+Transparency (in paint) refers to how much a paint layer allows the color beneath it to show through. A highly transparent paint applied over another color doesn't hide it, instead, the two colors mix visually, often producing a richer, more complex result than either color alone.
 
 **Why airbrush artists value transparency:** Thin, transparent layers are the building blocks of realistic gradient work, skin tone painting, and depth effects. Airbrushing naturally lends itself to transparent layering because the fine mist allows you to build color gradually.
 

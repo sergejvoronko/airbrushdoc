@@ -75,6 +75,6 @@ Of course I didn't learn to be artist in those 10 months. I have had some experi
       <a class="abd-author-link" href="http://www.youtube.com/user/PaunArt" target="_blank" rel="noopener">YouTube</a>
       <a class="abd-author-link" href="http://www.facebook.com/Paunart" target="_blank" rel="noopener">Facebook</a>
     </div>
-    <p class="abd-author-note">Even with not the best quality airbrush you can create great art. He deserves to be recognized — please share the love.</p>
+    <p class="abd-author-note">Even with not the best quality airbrush you can create great art. He deserves to be recognized, please share the love.</p>
   </div>
 </div>

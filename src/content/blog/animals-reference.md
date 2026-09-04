@@ -40,7 +40,7 @@ Here are some examples
 </div>
 
  
-> **Free for subscribers** — [get this pack on the freebies page](/freebies/).
+> **Free for subscribers**, [get this pack on the freebies page](/freebies/).
 
 ## WOLVES
 
@@ -62,7 +62,7 @@ Here are some examples
 </div>
 
 The Pack has 26MB.
-> **Free for subscribers** — [get this pack on the freebies page](/freebies/).
+> **Free for subscribers**, [get this pack on the freebies page](/freebies/).
 
 ## Animal Mix
 
@@ -84,6 +84,6 @@ Here are some examples
 </div>
 
 The Pack has 35MB.
-> **Free for subscribers** — [get this pack on the freebies page](/freebies/).
+> **Free for subscribers**, [get this pack on the freebies page](/freebies/).
 
 I wanted to collect more but I think there is enough of good models to start working on. If you have any ideas what I'm missing here please let me know in comments or send a private message through my [contact form](/contact/)

@@ -11,7 +11,7 @@ The Venturi effect is a principle of fluid dynamics: when a fluid (liquid or gas
 
 In a siphon-feed airbrush, compressed air flows at high velocity through a narrow passage near the nozzle. This creates a localized low-pressure zone. Since atmospheric pressure in the paint bottle is higher than this low-pressure zone, paint is pushed upward through the siphon tube into the airstream, where it atomizes.
 
-The same principle operates inside all airbrushes — it's part of how paint is drawn from the cup into the nozzle assembly, even in gravity-feed designs.
+The same principle operates inside all airbrushes. It's part of how paint is drawn from the cup into the nozzle assembly, even in gravity-feed designs.
 
 Understanding the Venturi effect helps diagnose siphon-feed problems: if paint isn't siphoning, the low-pressure zone may not be strong enough (too-low air pressure) or the siphon tube may be blocked or too short.
 

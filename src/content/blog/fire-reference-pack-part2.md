@@ -32,4 +32,4 @@ A second part of [fire reference](/blog/fire-reference-pack/), but this time it'
   <div class="abd-gallery-item"><img src="/images/wp-uploads/f_10.webp" loading="lazy" alt="Fire reference photograph for airbrush artists — image 12 of 12" /></div>
 </div>
 
-> **Get this pack free.** All the files live on my [freebies page](/freebies/) — subscribe once and every pack unlocks, stencils and reference sets included.
+> **Get this pack free.** All the files live on my [freebies page](/freebies/), subscribe once and every pack unlocks, stencils and reference sets included.

@@ -5,7 +5,7 @@ category: "technique"
 description: "Scale modulation, modulation painting"
 ---
 
-Color modulation is a painting technique — popular in scale modeling — where you deliberately paint an object with a range of lighter and darker tones of the base color rather than a single flat hue. The result mimics how light falls realistically on a three-dimensional surface.
+Color modulation is a painting technique, popular in scale modeling, where you deliberately paint an object with a range of lighter and darker tones of the base color rather than a single flat hue. The result mimics how light falls realistically on a three-dimensional surface.
 
 On a tank model, for example, a modulated finish might have bright highlights on top surfaces where sun would hit, mid-tones on the sides, and darker shadows in recesses. This creates depth and visual interest that a uniform coat of base color can't achieve.
 
