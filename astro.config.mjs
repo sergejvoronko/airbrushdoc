@@ -29,7 +29,15 @@ export default defineConfig({
   build: {
     inlineStylesheets: 'always',
   },
-  integrations: [sitemap({ filter: (page) => !page.includes('/book/read') && !page.endsWith('/download/') })],
+  integrations: [
+    sitemap({
+      // /book/read is gated; /download/ 301s to /freebies/; /thank-you/ carries a noindex tag
+      filter: (page) =>
+        !page.includes('/book/read') &&
+        !page.endsWith('/download/') &&
+        !page.endsWith('/thank-you/'),
+    }),
+  ],
   markdown: {
     rehypePlugins: [rehypeExternalLinks],
     shikiConfig: {
