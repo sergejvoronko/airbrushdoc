@@ -21,3 +21,5 @@ Tip dry is the single most common nuisance in acrylic airbrushing. It's not a de
 **Fix:** Wipe the tip gently with a damp cloth or cotton swab. If paint has hardened, wet the tip with cleaning solution and wipe. Never pick at the tip with a hard tool. You can bend the needle.
 
 **Related:** [Flow Improver](/airbrush-glossary/flow-improver/) · [Retarder](/airbrush-glossary/retarder/) · [Needle](/airbrush-glossary/needle/) · [Spattering](/airbrush-glossary/spattering/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

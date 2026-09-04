@@ -16,3 +16,5 @@ Runs (or drips/sags) are streaks of paint that have flowed downward on a vertica
 **Fixing a run:** On acrylic paint, if caught while still wet, you may be able to blend it out with a very light pass from a distance. Once dry, the run must either be sanded (on hard surfaces) or accepted. On models, a run can sometimes be carefully scraped with a blade and re-primed.
 
 **Related:** [Overspray](/airbrush-glossary/overspray/) · [PSI](/airbrush-glossary/psi/) · [Trigger Control](/airbrush-glossary/trigger-control/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

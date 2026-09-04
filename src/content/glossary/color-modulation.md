@@ -16,3 +16,5 @@ On a tank model, for example, a modulated finish might have bright highlights on
 4. Blend transitions with light, thin passes.
 
 **Related:** [Pre-Shading](/airbrush-glossary/pre-shading/) · [Zenithal Priming](/airbrush-glossary/zenithal-priming/) · [Gradient](/airbrush-glossary/gradient/) · [Trigger Control](/airbrush-glossary/trigger-control/)
+
+**Read next:** [Best Airbrush for Miniatures 2026: 7 Tested Picks](/blog/best-airbrush-for-miniatures/)

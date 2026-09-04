@@ -16,3 +16,5 @@ Transparency (in paint) refers to how much a paint layer allows the color beneat
 **Pigment transparency is fixed:** Some pigments are inherently transparent (phthalo blue, quinacridone red, dioxazine purple). Others are inherently opaque (titanium white, cadmium red). You can make an opaque paint more transparent by thinning, but you can't fundamentally change a pigment's inherent character.
 
 **Related:** [Opacity](/airbrush-glossary/opacity/) · [Pigment](/airbrush-glossary/pigment/) · [Gradient](/airbrush-glossary/gradient/) · [Reducer](/airbrush-glossary/reducer/)
+
+**Read next:** [Airbrush Paint Types Compared: Which to Buy](/blog/advanced-guide-to-airbrush-colors/)

@@ -16,3 +16,5 @@ Over time, O-rings can dry out, harden, crack, or become deformed, leading to ai
 Most airbrush manufacturers sell O-ring replacement kits for their specific models.
 
 **Related:** [PTFE Seal](/airbrush-glossary/ptfe-seal/) · [Deep Clean](/airbrush-glossary/deep-clean/) · [Needle](/airbrush-glossary/needle/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

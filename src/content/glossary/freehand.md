@@ -22,3 +22,5 @@ Freehand is the highest expression of airbrush skill and is what most artists as
 Most artists combine freehand with masking, freehand for organic shapes and gradients, masking for crisp geometric edges.
 
 **Related:** [Trigger Control](/airbrush-glossary/trigger-control/) · [Dagger Stroke](/airbrush-glossary/dagger-stroke/) · [Masking](/airbrush-glossary/masking/) · [Stenciling](/airbrush-glossary/stenciling/)
+
+**Read next:** [15 Basic Airbrush Rules Every Beginner Should Know](/blog/15-basic-rules-of-airbrushing/)

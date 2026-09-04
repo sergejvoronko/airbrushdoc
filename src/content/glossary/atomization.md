@@ -15,3 +15,5 @@ When atomization is poor, you'll see grainy texture, orange peel effect, or visi
 
 **Related:** [PSI](/airbrush-glossary/psi/) · [Viscosity](/airbrush-glossary/viscosity/) · [Nozzle](/airbrush-glossary/nozzle/) · [Orange Peel](/airbrush-glossary/orange-peel/)
 **Learn more:** [Airbrush Paint Thinning Guide](/blog/how-to-thin-acrylic-paint-for-airbrush/)
+
+**Read next:** [15 Basic Airbrush Rules Every Beginner Should Know](/blog/15-basic-rules-of-airbrushing/)

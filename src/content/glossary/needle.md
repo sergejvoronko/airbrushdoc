@@ -14,3 +14,5 @@ Needles are sized by their tip diameter, which corresponds to the nozzle size: 0
 **Handle with care:** Needle tips bend easily if the airbrush is dropped or the needle is mishandled during cleaning. Even slight bends cause spray problems. Always store the airbrush with the needle cap on.
 
 **Related:** [Nozzle](/airbrush-glossary/nozzle/) · [Dual-Action](/airbrush-glossary/dual-action/) · [Needle Cap](/airbrush-glossary/needle-cap/) · [Trigger Control](/airbrush-glossary/trigger-control/)
+
+**Read next:** [Airbrush Needle Sizes: Chart and What Each Does](/blog/airbrush-needle-sizes/)

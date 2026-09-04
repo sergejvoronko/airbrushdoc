@@ -10,3 +10,5 @@ PTFE seals are small rings or packing material made from PTFE (the same material
 When a PTFE seal wears out, you'll notice paint leaking back into the handle section of the airbrush, or the trigger feel changing (becoming stiffer or looser). Replacement PTFE seals are available from airbrush manufacturers and are part of a proper maintenance kit.
 
 **Related:** [O-Ring](/airbrush-glossary/o-ring/) · [Needle](/airbrush-glossary/needle/) · [Deep Clean](/airbrush-glossary/deep-clean/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

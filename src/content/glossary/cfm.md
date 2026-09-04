@@ -14,3 +14,5 @@ CFM becomes relevant if you're running multiple airbrushes simultaneously, or if
 **For most airbrush artists:** Don't over-focus on CFM specs. A compressor that delivers your target PSI (typically 15–30 PSI for airbrushing) consistently is what matters. Tank size affects spray smoothness far more than CFM.
 
 **Related:** [PSI](/airbrush-glossary/psi/) · [Compressor](/airbrush-glossary/compressor/) · [Regulator](/airbrush-glossary/regulator/) · [Tank](/airbrush-glossary/tank/)
+
+**Read next:** [Best Airbrush Compressor 2026: Complete Buying Guide](/blog/best-air-compressor/)

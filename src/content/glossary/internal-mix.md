@@ -14,3 +14,5 @@ Virtually all professional-grade airbrushes are internal mix. The improved atomi
 **Tradeoff:** Internal mix airbrushes are slightly more complex to clean (paint can dry inside the nozzle assembly) and more sensitive to paint viscosity, very thick paint can clog the nozzle. Proper thinning is important.
 
 **Related:** [External Mix](/airbrush-glossary/external-mix/) · [Nozzle](/airbrush-glossary/nozzle/) · [Atomization](/airbrush-glossary/atomization/) · [Viscosity](/airbrush-glossary/viscosity/)
+
+**Read next:** [How to Choose the Best Airbrush Gun?](/blog/choose-airbrush/)

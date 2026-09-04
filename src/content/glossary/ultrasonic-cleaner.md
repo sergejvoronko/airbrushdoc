@@ -18,3 +18,5 @@ For serious airbrush artists, an ultrasonic cleaner is a productivity upgrade: w
 Entry-level ultrasonic cleaners suitable for airbrush use cost $30–$60 and are widely available.
 
 **Related:** [Deep Clean](/airbrush-glossary/deep-clean/) · [Backflush](/airbrush-glossary/backflush/) · [Nozzle Wrench](/airbrush-glossary/nozzle-wrench/)
+
+**Read next:** [How to Clean an Airbrush: The Complete Guide (2026)](/blog/how-to-clean-airbrush/)

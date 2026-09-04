@@ -24,3 +24,5 @@ Orange peel is a surface texture defect where the paint dries with a bumpy, dimp
 On a finished surface, orange peel can sometimes be sanded smooth with very fine sandpaper (2000+ grit) and polished, but prevention is far easier.
 
 **Related:** [Atomization](/airbrush-glossary/atomization/) · [Viscosity](/airbrush-glossary/viscosity/) · [PSI](/airbrush-glossary/psi/) · [Retarder](/airbrush-glossary/retarder/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

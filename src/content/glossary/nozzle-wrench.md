@@ -16,3 +16,5 @@ Most airbrushes ship with their own nozzle wrench matched to that nozzle size. U
 **Never use:** Regular pliers, adjustable wrenches, or improvised tools. The forces are too hard to control and you will crack the nozzle or damage the seat.
 
 **Related:** [Nozzle](/airbrush-glossary/nozzle/) · [Deep Clean](/airbrush-glossary/deep-clean/)
+
+**Read next:** [How to Clean an Airbrush: The Complete Guide (2026)](/blog/how-to-clean-airbrush/)

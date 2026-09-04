@@ -21,5 +21,36 @@ const appSchema = buildWebAppSchema({
       <span>Find Your Perfect Airbrush</span>
     </nav>
     <Fragment set:html={toolContent} />
+  
+    <section class="tool-about">
+      <h2>What this quiz is for</h2>
+      <p>A short set of questions about what you want to paint, how much you want to spend, and
+    how much patience you have for cleaning. It ends with a shortlist rather than a single answer,
+    because the right first airbrush depends more on the work than on the badge on the body.</p>
+    <p>If you would rather skip the questions: a dual-action gravity-feed airbrush with a
+    0.3&nbsp;mm needle suits nearly every beginner, and the money saved on a cheaper body is
+    usually better spent on a compressor with a tank and a moisture trap.</p>
+      <p class="tool-about-next"><strong>Read next:</strong> <a href="/blog/best-airbrush-for-beginners-2026/">Best Airbrush for Beginners 2026: 5 honest picks</a></p>
+    </section>
   </main>
 </BaseLayout>
+
+<style>
+.tool-about {
+  max-width: 68ch;
+  margin: 48px auto 0;
+  padding: 28px 0 0;
+  border-top: 1px solid var(--abd-border, #2a2a2a);
+}
+.tool-about h2 {
+  font-family: var(--abd-font-display);
+  font-size: 1.15rem;
+  margin: 0 0 14px;
+}
+.tool-about p {
+  color: var(--abd-text-dim);
+  line-height: 1.75;
+  margin: 0 0 14px;
+}
+.tool-about-next { margin-top: 18px; }
+</style>

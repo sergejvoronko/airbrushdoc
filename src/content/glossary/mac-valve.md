@@ -16,3 +16,5 @@ A MAC valve is an inline valve fitted between the air hose and the airbrush that
 Mac valves are a small, inexpensive upgrade ($10–$20) that many experienced artists consider essential equipment.
 
 **Related:** [Quick Disconnect](/airbrush-glossary/quick-disconnect/) · [Moisture Trap](/airbrush-glossary/moisture-trap/) · [Regulator](/airbrush-glossary/regulator/)
+
+**Read next:** [How to Choose the Best Airbrush Gun?](/blog/choose-airbrush/)

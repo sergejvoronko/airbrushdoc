@@ -14,3 +14,5 @@ Spattering means individual paint droplets, larger than the fine mist of normal 
 **As a deliberate technique:** Spattering creates texture effects, rust, gravel, rock surfaces, skin pores, starfields, aged metal. To spatter intentionally: use slightly thicker paint than normal, reduce air pressure below optimal, and move close to the surface. You can also run a finger or tool across the needle to flick droplets.
 
 **Related:** [Atomization](/airbrush-glossary/atomization/) · [Tip Dry](/airbrush-glossary/tip-dry/) · [Viscosity](/airbrush-glossary/viscosity/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

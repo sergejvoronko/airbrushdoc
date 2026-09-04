@@ -24,3 +24,5 @@ Zenithal priming is a priming technique where you apply a dark base coat (typica
 ---
 
 *© AirbrushDOC.com, The Airbrush Doc: Cures for Your Canvas*
+
+**Read next:** [Best Airbrush for Miniatures 2026: 7 Tested Picks](/blog/best-airbrush-for-miniatures/)

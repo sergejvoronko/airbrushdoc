@@ -14,3 +14,5 @@ Side-feed designs are less common than gravity-feed but have specific advantages
 Popular side-feed models include some Paasche and older Badger designs. The trade-off is slightly more complex maintenance and the need to position the cup at the correct angle to ensure paint feeds properly.
 
 **Related:** [Gravity Feed](/airbrush-glossary/gravity-feed/) · [Siphon Feed](/airbrush-glossary/siphon-feed/) · [Color Cup](/airbrush-glossary/color-cup/)
+
+**Read next:** [Gravity Feed vs Siphon Feed Airbrush Explained](/blog/gravity-feed-vs-siphon-feed/)

@@ -16,3 +16,5 @@ Some airbrushes have a separate needle cap and air cap (two front covers); other
 **Don't confuse with:** The *air cap*, which shapes and directs airflow and is typically left on during painting. The needle cap is a protection-only piece that's removed for painting.
 
 **Related:** [Needle](/airbrush-glossary/needle/) · [Air Cap](/airbrush-glossary/air-cap/)
+
+**Read next:** [Airbrush Needle Sizes: Chart and What Each Does](/blog/airbrush-needle-sizes/)

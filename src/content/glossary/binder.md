@@ -14,3 +14,5 @@ The binder determines many of the paint's handling properties: how it flows, how
 Understanding binders matters for airbrushing because adding too much water can break down the binder ratio, reducing adhesion. This is why flow improver is preferable to plain water for thinning, it maintains the binder concentration while reducing viscosity.
 
 **Related:** [Pigment](/airbrush-glossary/pigment/) · [Viscosity](/airbrush-glossary/viscosity/) · [Flow Improver](/airbrush-glossary/flow-improver/) · [Reducer](/airbrush-glossary/reducer/)
+
+**Read next:** [Airbrush Paint Types Compared: Which to Buy](/blog/advanced-guide-to-airbrush-colors/)

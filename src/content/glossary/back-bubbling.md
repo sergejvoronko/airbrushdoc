@@ -13,3 +13,5 @@ Back-bubbling is when air travels backward through the paint cup, causing paint 
 
 **Related:** [Nozzle](/airbrush-glossary/nozzle/) · [Needle](/airbrush-glossary/needle/) · [Backflush](/airbrush-glossary/backflush/)
 **Learn more:** [Airbrush Troubleshooting Guide](/blog/airbrush-troubleshooting-guide/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

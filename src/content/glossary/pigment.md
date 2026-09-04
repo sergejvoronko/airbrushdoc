@@ -15,3 +15,5 @@ Pigment is the raw coloring material suspended in paint, tiny particles (natural
 - **Pigment settling:** Paints that have been sitting will have settled pigment. Always shake or stir thoroughly before use, and stir again mid-session for long painting periods.
 
 **Related:** [Binder](/airbrush-glossary/binder/) · [Opacity](/airbrush-glossary/opacity/) · [Viscosity](/airbrush-glossary/viscosity/)
+
+**Read next:** [Airbrush Paint Types Compared: Which to Buy](/blog/advanced-guide-to-airbrush-colors/)

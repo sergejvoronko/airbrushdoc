@@ -14,3 +14,5 @@ Frisket is a low-tack adhesive masking film (or liquid) used to protect areas of
 **Important:** Always test frisket on your surface first. Some friskets can lift paint or damage delicate paper if left on too long.
 
 **Related:** [Masking](/airbrush-glossary/masking/) · [Stenciling](/airbrush-glossary/stenciling/) · [Overspray](/airbrush-glossary/overspray/)
+
+**Read next:** [Airbrush Primer and Surface Prep: What to Use](/blog/prepare-surface-for-airbrush/)

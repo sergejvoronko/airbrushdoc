@@ -23,3 +23,5 @@ Spider webbing is a defect where paint forms fine filaments, like tiny spider we
 Spider webbing is almost always a viscosity/pressure mismatch. When in doubt, thin more.
 
 **Related:** [Viscosity](/airbrush-glossary/viscosity/) · [Atomization](/airbrush-glossary/atomization/) · [PSI](/airbrush-glossary/psi/) · [Orange Peel](/airbrush-glossary/orange-peel/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

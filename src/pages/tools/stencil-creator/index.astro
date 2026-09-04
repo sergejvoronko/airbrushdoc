@@ -56,10 +56,38 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
         <p class="sc-teaser-note">Included as a free bonus with The Airbrush Technique Bible.{BOOK_AVAILABLE ? " Delivered with your download." : " Subscribe on the book page to get notified at launch."}</p>
       </div>
     </section>
+
+    <section class="tool-about">
+      <h2>Making airbrush stencils by hand</h2>
+      <p>You do not need software to cut a usable stencil. Print the image at final size, trace it
+      onto low-tack frisket film or thin acetate, and cut with a fresh blade on a self-healing mat.
+      The two things that decide whether it works are bridges, the small uncut links that stop
+      islands falling out, and how well the film seals at the edge. A stencil that lifts even
+      slightly will let paint creep underneath and blur every edge on the piece.</p>
+      <p>Multi-layer stencils are the same idea repeated. Each layer covers one tonal band, sprayed
+      lightest to darkest, with registration marks so the layers line up. That is the part that gets
+      tedious by hand, and it is the part the Stencil Creator automates: it splits a photo into
+      layers by luminosity and exports one cut file per layer.</p>
+      <p class="tool-about-next"><strong>Free stencils and guides:</strong>
+        <a href="/blog/multi-layer-stencils/">Multi-layer stencils</a> ·
+        <a href="/blog/how-to-make-a-stencil-in-coreldraw/">Make a stencil in CorelDRAW</a> ·
+        <a href="/freebies/">Free stencil packs</a></p>
+    </section>
   </main>
 </BaseLayout>
 
 <style>
+.tool-about {
+  max-width: 68ch;
+  margin: 48px auto 0;
+  padding: 28px 0 0;
+  border-top: 1px solid var(--abd-border, #2a2a2a);
+  text-align: left;
+}
+.tool-about h2 { font-family: var(--abd-font-display); font-size: 1.15rem; margin: 0 0 14px; }
+.tool-about p { color: var(--abd-text-dim); line-height: 1.75; margin: 0 0 14px; }
+.tool-about-next { margin-top: 18px; }
+
 .sc-teaser {
   max-width: 620px;
   margin: 0 auto 80px;

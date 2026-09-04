@@ -16,3 +16,5 @@ The same principle operates inside all airbrushes. It's part of how paint is dra
 Understanding the Venturi effect helps diagnose siphon-feed problems: if paint isn't siphoning, the low-pressure zone may not be strong enough (too-low air pressure) or the siphon tube may be blocked or too short.
 
 **Related:** [Siphon Feed](/airbrush-glossary/siphon-feed/) · [Atomization](/airbrush-glossary/atomization/) · [PSI](/airbrush-glossary/psi/)
+
+**Read next:** [How to Choose the Best Airbrush Gun?](/blog/choose-airbrush/)

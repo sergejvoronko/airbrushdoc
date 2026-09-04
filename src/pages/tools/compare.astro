@@ -21,5 +21,37 @@ const appSchema = buildWebAppSchema({
       <span>Compare Airbrushes</span>
     </nav>
     <Fragment set:html={toolContent} />
+  
+    <section class="tool-about">
+      <h2>How to use the airbrush comparison tool</h2>
+      <p>Pick two or three airbrushes and the table lines up the specifications that actually
+    change how they spray: needle and nozzle size, feed type, trigger action, and what the spares
+    cost when something wears out.</p>
+    <p>Needle size is the specification most people over-think. A 0.3&nbsp;mm needle covers the
+    large majority of work, from miniatures to T-shirts, and only genuinely fine detail or heavy
+    primer justifies moving away from it. Feed type matters more day to day: gravity feed suits
+    small quantities and low pressure, siphon feed suits volume and quick colour changes.</p>
+      <p class="tool-about-next"><strong>Read next:</strong> <a href="/blog/best-airbrush/">Best Airbrush 2026: tested picks for every budget</a></p>
+    </section>
   </main>
 </BaseLayout>
+
+<style>
+.tool-about {
+  max-width: 68ch;
+  margin: 48px auto 0;
+  padding: 28px 0 0;
+  border-top: 1px solid var(--abd-border, #2a2a2a);
+}
+.tool-about h2 {
+  font-family: var(--abd-font-display);
+  font-size: 1.15rem;
+  margin: 0 0 14px;
+}
+.tool-about p {
+  color: var(--abd-text-dim);
+  line-height: 1.75;
+  margin: 0 0 14px;
+}
+.tool-about-next { margin-top: 18px; }
+</style>

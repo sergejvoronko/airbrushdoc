@@ -19,3 +19,5 @@ A gradient is a smooth, continuous transition from one color (or tone) to anothe
 4. Make multiple light passes, don't try to achieve the gradient in one heavy pass.
 
 **Related:** [Trigger Control](/airbrush-glossary/trigger-control/) · [Opacity](/airbrush-glossary/opacity/) · [Color Modulation](/airbrush-glossary/color-modulation/)
+
+**Read next:** [15 Basic Airbrush Rules Every Beginner Should Know](/blog/15-basic-rules-of-airbrushing/)

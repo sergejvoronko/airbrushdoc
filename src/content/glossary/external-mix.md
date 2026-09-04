@@ -16,3 +16,5 @@ External mix airbrushes are simpler in design, easier to clean, and less prone t
 **Vs. internal mix:** In internal mix, air and paint combine inside the airbrush body before exiting, producing a much finer, more consistent atomization.
 
 **Related:** [Internal Mix](/airbrush-glossary/internal-mix/) · [Atomization](/airbrush-glossary/atomization/) · [Single-Action](/airbrush-glossary/single-action/)
+
+**Read next:** [How to Choose the Best Airbrush Gun?](/blog/choose-airbrush/)

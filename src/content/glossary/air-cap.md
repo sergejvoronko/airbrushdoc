@@ -16,3 +16,5 @@ On most airbrushes, the air cap screws on by hand and can be removed for cleanin
 
 **Related:** [Nozzle](/airbrush-glossary/nozzle/) · [Needle Cap](/airbrush-glossary/needle-cap/) · [Needle](/airbrush-glossary/needle/)
 **Learn more:** [How to Clean an Airbrush](/blog/how-to-clean-airbrush/)
+
+**Read next:** [How to Clean an Airbrush: The Complete Guide (2026)](/blog/how-to-clean-airbrush/)

@@ -18,3 +18,5 @@ Nozzles are the most delicate and most critical component of your airbrush. They
 **Handle carefully:** Use a nozzle wrench, never pliers. Over-tightening can crack the nozzle seat.
 
 **Related:** [Needle](/airbrush-glossary/needle/) · [Air Cap](/airbrush-glossary/air-cap/) · [Nozzle Wrench](/airbrush-glossary/nozzle-wrench/) · [Atomization](/airbrush-glossary/atomization/)
+
+**Read next:** [Airbrush Needle Sizes: Chart and What Each Does](/blog/airbrush-needle-sizes/)

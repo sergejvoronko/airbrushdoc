@@ -19,3 +19,5 @@ Masking is the process of covering parts of your surface to protect them from ov
 **Hard edge vs. soft edge masking:** Tape pressed firmly gives a hard, crisp edge. Tape lifted slightly off the surface (or a torn-paper mask) gives a softer, feathered edge.
 
 **Related:** [Frisket](/airbrush-glossary/frisket/) · [Stenciling](/airbrush-glossary/stenciling/) · [Overspray](/airbrush-glossary/overspray/)
+
+**Read next:** [Airbrush Primer and Surface Prep: What to Use](/blog/prepare-surface-for-airbrush/)

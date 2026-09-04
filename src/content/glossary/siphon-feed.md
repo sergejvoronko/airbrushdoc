@@ -21,3 +21,5 @@ A siphon-feed (or suction-feed) airbrush draws paint up from a bottle attached b
 Popular for mural work, body art, and large-scale coverage where volume matters more than precision.
 
 **Related:** [Gravity Feed](/airbrush-glossary/gravity-feed/) · [Side Feed](/airbrush-glossary/side-feed/) · [Venturi Effect](/airbrush-glossary/venturi-effect/)
+
+**Read next:** [Gravity Feed vs Siphon Feed Airbrush Explained](/blog/gravity-feed-vs-siphon-feed/)

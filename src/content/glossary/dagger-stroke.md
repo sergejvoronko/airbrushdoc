@@ -18,3 +18,5 @@ Dagger strokes are used for hair, fur, grass, flames, sharp highlights, and any 
 
 
 **Related:** [Trigger Control](/airbrush-glossary/trigger-control/) · [Freehand](/airbrush-glossary/freehand/) · [Gradient](/airbrush-glossary/gradient/)
+
+**Read next:** [15 Basic Airbrush Rules Every Beginner Should Know](/blog/15-basic-rules-of-airbrushing/)

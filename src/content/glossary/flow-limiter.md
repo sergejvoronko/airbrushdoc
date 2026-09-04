@@ -14,3 +14,5 @@ Not all airbrushes have a flow limiter. It's more common on mid-range and profes
 **How to set it:** Load paint, set your desired maximum flow by pulling the trigger back to your preferred position, then tighten the limiter screw against the trigger mechanism at that point.
 
 **Related:** [Dual-Action](/airbrush-glossary/dual-action/) · [Trigger Control](/airbrush-glossary/trigger-control/) · [Needle](/airbrush-glossary/needle/)
+
+**Read next:** [Airbrush Needle Sizes: Chart and What Each Does](/blog/airbrush-needle-sizes/)

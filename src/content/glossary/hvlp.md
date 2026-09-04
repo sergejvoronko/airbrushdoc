@@ -12,3 +12,5 @@ HVLP is a spray technology that uses a high volume of air at low pressure (typic
 **When HVLP matters to airbrush artists:** If you're doing automotive work, large murals, or furniture finishing alongside your airbrush detail work, an HVLP system handles the large coverage efficiently while your airbrush handles the detail.
 
 **Related:** [PSI](/airbrush-glossary/psi/) · [Atomization](/airbrush-glossary/atomization/) · [Compressor](/airbrush-glossary/compressor/)
+
+**Read next:** [How to Choose the Best Airbrush Gun?](/blog/choose-airbrush/)

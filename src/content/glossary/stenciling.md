@@ -18,3 +18,5 @@ Stenciling is the practice of placing a pre-cut template (the stencil) against t
 **Technique:** Hold or tape stencil firmly against the surface. Airbrush at a perpendicular angle with light passes. Remove stencil carefully to avoid smudging. Multiple stencils can be layered for complex, multi-color designs.
 
 **Related:** [Masking](/airbrush-glossary/masking/) · [Frisket](/airbrush-glossary/frisket/) · [Overspray](/airbrush-glossary/overspray/) · [Freehand](/airbrush-glossary/freehand/)
+
+**Read next:** [Mix Stencils](/blog/multi-layer-stencils/)

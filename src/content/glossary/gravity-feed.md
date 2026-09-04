@@ -23,3 +23,5 @@ Gravity-feed is the dominant design for professional and hobbyist use. Most reco
 
 **Related:** [Siphon Feed](/airbrush-glossary/siphon-feed/) · [Side Feed](/airbrush-glossary/side-feed/) · [Color Cup](/airbrush-glossary/color-cup/)
 **Learn more:** [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/)
+
+**Read next:** [Gravity Feed vs Siphon Feed Airbrush Explained](/blog/gravity-feed-vs-siphon-feed/)

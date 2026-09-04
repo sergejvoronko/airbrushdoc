@@ -14,3 +14,5 @@ Some airbrushes have a fixed, non-removable cup integrated into the body. Others
 **Cleaning tip:** Never let paint dry in the cup. Between uses, pour out excess paint, add a few drops of cleaner, and spray it through. For color changes, backflush before adding the next color.
 
 **Related:** [Gravity Feed](/airbrush-glossary/gravity-feed/) · [Siphon Feed](/airbrush-glossary/siphon-feed/) · [Backflush](/airbrush-glossary/backflush/)
+
+**Read next:** [How to Choose the Best Airbrush Gun?](/blog/choose-airbrush/)

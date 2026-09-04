@@ -16,3 +16,5 @@ Most quality airbrush compressors include a basic moisture trap. In humid climat
 **Maintenance:** Drain the moisture trap regularly, when painting in humid conditions, you may need to drain it mid-session.
 
 **Related:** [Compressor](/airbrush-glossary/compressor/) · [Regulator](/airbrush-glossary/regulator/) · [MAC Valve](/airbrush-glossary/mac-valve/)
+
+**Read next:** [Best Airbrush Compressor 2026: Complete Buying Guide](/blog/best-air-compressor/)

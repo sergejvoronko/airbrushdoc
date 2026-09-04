@@ -20,3 +20,5 @@ It's arguably the most important skill in airbrushing, because all spray charact
 Practice trigger exercises daily: straight lines, curved lines, dots, dagger strokes.
 
 **Related:** [Dual-Action](/airbrush-glossary/dual-action/) · [Dagger Stroke](/airbrush-glossary/dagger-stroke/) · [Gradient](/airbrush-glossary/gradient/) · [Flow Limiter](/airbrush-glossary/flow-limiter/)
+
+**Read next:** [15 Basic Airbrush Rules Every Beginner Should Know](/blog/15-basic-rules-of-airbrushing/)

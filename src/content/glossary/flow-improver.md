@@ -20,3 +20,5 @@ Flow improver is an acrylic additive that reduces surface tension and improves p
 **Don't overdo it:** Too much flow improver can cause paint to run on the surface and reduce adhesion. Start with 1–2 drops and adjust.
 
 **Related:** [Tip Dry](/airbrush-glossary/tip-dry/) · [Reducer](/airbrush-glossary/reducer/) · [Retarder](/airbrush-glossary/retarder/) · [Viscosity](/airbrush-glossary/viscosity/)
+
+**Read next:** [How to Thin Acrylic Paint for Airbrush: Ratios](/blog/how-to-thin-acrylic-paint-for-airbrush/)

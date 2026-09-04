@@ -15,3 +15,5 @@ Retarder is an additive mixed into paint to slow its drying time. For airbrushin
 **Don't overuse:** Too much retarder can cause paint to remain tacky for hours, attract dust, and affect adhesion. A few drops per cup is usually sufficient. Flow improver is often a better first line of defense against tip dry; retarder is the stronger tool when flow improver isn't enough.
 
 **Related:** [Tip Dry](/airbrush-glossary/tip-dry/) · [Flow Improver](/airbrush-glossary/flow-improver/) · [Reducer](/airbrush-glossary/reducer/)
+
+**Read next:** [How to Thin Acrylic Paint for Airbrush: Ratios](/blog/how-to-thin-acrylic-paint-for-airbrush/)

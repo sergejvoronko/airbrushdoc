@@ -14,3 +14,5 @@ For artists who work with multiple airbrushes, quick disconnects are a workflow 
 Quick disconnects typically use standard 1/8" BSP thread to attach to airbrushes, with a proprietary push-lock mechanism. Most brands are cross-compatible, but check thread standards if mixing brands.
 
 **Related:** [MAC Valve](/airbrush-glossary/mac-valve/) · [Compressor](/airbrush-glossary/compressor/)
+
+**Read next:** [Essential Airbrush Accessories & Tools (2026) | AirbrushDOC](/blog/airbrush-accessories/)

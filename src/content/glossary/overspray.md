@@ -19,3 +19,5 @@ Overspray is paint that goes beyond your intended target area, either carried by
 **In scale modeling and miniature painting:** Overspray is sometimes used deliberately, thin, misted overspray in one color over another area can unify tones or create atmospheric effects.
 
 **Related:** [Masking](/airbrush-glossary/masking/) · [Frisket](/airbrush-glossary/frisket/) · [PSI](/airbrush-glossary/psi/) · [Atomization](/airbrush-glossary/atomization/)
+
+**Read next:** [Airbrush Not Spraying Paint? Fixes by Symptom](/blog/airbrush-troubleshooting-guide/)

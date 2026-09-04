@@ -36,6 +36,19 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
       </p>
       <div class="blg-header-line" style="margin-top: 16px;"></div>
     </div>
+  
+    <section class="tool-about">
+      <h2>How to use the paint mixing calculator</h2>
+      <p>Airbrush paint is thinned by ratio, not by eye, and the ratio changes with the paint
+    type and the pressure you spray at. Enter the volume of paint you want in the cup and the
+    tool works out how much reducer to add, so you can mix a repeatable batch instead of guessing
+    each time.</p>
+    <p>Two things worth knowing before you mix. Acrylics thinned past roughly 1:2 start to lose
+    coverage and will need more passes, which is often what causes runs rather than the thinning
+    itself. And reducer is not the same as water: dedicated reducer keeps the binder intact, while
+    water dilutes it and can leave the film weak.</p>
+      <p class="tool-about-next"><strong>Read next:</strong> <a href="/blog/how-to-thin-acrylic-paint-for-airbrush/">Exact thinning ratios by brand</a></p>
+    </section>
   </main>
 
   <div class="airmix-frame-wrap">
@@ -49,6 +62,24 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
 </BaseLayout>
 
 <style>
+.tool-about {
+  max-width: 68ch;
+  margin: 48px auto 0;
+  padding: 28px 0 0;
+  border-top: 1px solid var(--abd-border, #2a2a2a);
+}
+.tool-about h2 {
+  font-family: var(--abd-font-display);
+  font-size: 1.15rem;
+  margin: 0 0 14px;
+}
+.tool-about p {
+  color: var(--abd-text-dim);
+  line-height: 1.75;
+  margin: 0 0 14px;
+}
+.tool-about-next { margin-top: 18px; }
+
 .airmix-frame-wrap {
   width: 100%;
   height: calc(100vh - 260px);

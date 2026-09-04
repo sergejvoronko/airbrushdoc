@@ -16,3 +16,5 @@ This technique is popular in scale modeling, miniature painting, and automotive 
 4. Refine shadows and highlights as needed.
 
 **Related:** [Color Modulation](/airbrush-glossary/color-modulation/) · [Zenithal Priming](/airbrush-glossary/zenithal-priming/) · [Gradient](/airbrush-glossary/gradient/) · [Opacity](/airbrush-glossary/opacity/)
+
+**Read next:** [Best Airbrush for Plastic Models & Scale Kits (2026)](/blog/best-airbrush-for-plastic-models/)

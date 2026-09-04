@@ -22,3 +22,5 @@ Viscosity is a measure of a liquid's resistance to flow. High viscosity = thick,
 Check viscosity mid-session and add a drop of reducer if the paint has thickened.
 
 **Related:** [Reducer](/airbrush-glossary/reducer/) · [Flow Improver](/airbrush-glossary/flow-improver/) · [Atomization](/airbrush-glossary/atomization/) · [Spider Webbing](/airbrush-glossary/spider-webbing/) · [Orange Peel](/airbrush-glossary/orange-peel/)
+
+**Read next:** [How to Thin Acrylic Paint for Airbrush: Ratios](/blog/how-to-thin-acrylic-paint-for-airbrush/)
