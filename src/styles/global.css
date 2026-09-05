@@ -329,6 +329,25 @@ img { max-width: 100%; height: auto; display: block; }
   display: inline-block;
 }
 .abd-footer-col ul a:hover { color: var(--abd-orange); }
+
+/* Follow column: a row of icons rather than a stacked text list. The link is the
+   tap target, not the glyph, so it stays comfortably above 44px on touch. */
+.abd-footer-social { flex-direction: row !important; gap: 6px !important; flex-wrap: wrap; }
+.abd-footer-social a {
+  display: grid; place-items: center;
+  width: 40px; height: 40px;
+  border: 1px solid var(--abd-border, #262626);
+  border-radius: 8px;
+  color: var(--abd-text-dim);
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+.abd-footer-social a:hover,
+.abd-footer-social a:focus-visible {
+  color: var(--abd-orange);
+  border-color: var(--abd-orange);
+  background: var(--abd-orange-soft, rgba(244,103,26,0.08));
+}
+.abd-footer-social svg { display: block; }
 .abd-footer-bottom {
   max-width: var(--abd-max-w); margin: 0 auto;
   padding: 20px 24px;
@@ -344,6 +363,7 @@ img { max-width: 100%; height: auto; display: block; }
      but an awkward tap target. Pad them out on touch layouts only. */
   .abd-footer-col ul { gap: 2px; }
   .abd-footer-col ul a { padding: 10px 0; }
+  .abd-footer-social a { padding: 0; }
 }
 
 /* ================================================================
