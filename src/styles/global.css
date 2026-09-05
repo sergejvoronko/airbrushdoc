@@ -309,7 +309,7 @@ img { max-width: 100%; height: auto; display: block; }
 .abd-footer-inner {
   max-width: var(--abd-max-w);
   margin: 0 auto; padding: 48px 32px 32px;
-  display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px;
+  display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 40px;
 }
 .abd-footer-brand {}
 .abd-footer-badge {
@@ -339,7 +339,7 @@ img { max-width: 100%; height: auto; display: block; }
 .abd-footer-bottom a { color: var(--abd-text-muted); text-decoration: none !important; }
 .abd-footer-bottom a:hover { color: var(--abd-orange); }
 @media (max-width: 640px) {
-  .abd-footer-inner { grid-template-columns: 1fr; gap: 28px; }
+  .abd-footer-inner { grid-template-columns: 1fr 1fr; gap: 28px; }
   /* Footer links are ~18px tall on a pointer device, which is fine for a mouse
      but an awkward tap target. Pad them out on touch layouts only. */
   .abd-footer-col ul { gap: 2px; }
