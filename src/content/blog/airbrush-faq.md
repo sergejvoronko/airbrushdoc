@@ -83,7 +83,7 @@ The classic answer is "skim milk consistency." More precisely: thin enough to dr
 
 **What's the best thinner for airbrush paint?**
 
-Distilled water works for all water-based acrylics. Dedicated thinners (Createx 4012, Vallejo Airbrush Thinner) contain flow improvers that produce better results. For Tamiya paints, use only Tamiya X-20A thinner. Adding 1–2 drops of flow improver to any mixture reduces tip dry.
+Distilled water works for all water-based acrylics. Dedicated thinners (Createx 4012, Vallejo Airbrush Thinner) contain flow improvers that produce better results. For Tamiya paints, use only [Tamiya X-20A thinner](/go/tamiya-thinner). Adding 1–2 drops of [flow improver](/go/vallejo-flow) to any mixture reduces tip dry.
 
 **Do I need to wear a respirator?**
 
@@ -169,7 +169,7 @@ Usually a bent needle tip. Even a tiny bend, invisible to the naked eye, deflect
 
 **My airbrush works fine, then suddenly sputters mid-session. Why?**
 
-Most likely tip dry, paint is drying on the needle tip and disrupting the spray. Add flow improver to your paint mixture, and periodically wipe the needle tip with a damp cloth during long sessions. Other causes: paint settling in the cup (stir), air moisture (add a moisture trap), or debris entering the cup.
+Most likely tip dry, paint is drying on the needle tip and disrupting the spray. Add [flow improver](/go/vallejo-flow) to your paint mixture, and periodically wipe the needle tip with a damp cloth during long sessions. Other causes: paint settling in the cup (stir), air moisture (add a moisture trap), or debris entering the cup ([strain your paint](/go/paint-strainers) if it has been sitting for months).
 
 **Why does my paint look grainy on the surface?**
 

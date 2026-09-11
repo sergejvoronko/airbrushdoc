@@ -54,7 +54,7 @@ Before diving into details, here's a fast reference. Find your symptom, then jum
 
 **Is your needle too far forward?** On dual-action airbrushes, if the needle chucking nut at the rear is loose, the needle may not retract when you pull the trigger back. Open the back handle, check that the chucking nut grips the needle, and that pulling the trigger actually moves the needle rearward. This is the #1 cause I see with new airbrush owners who've just reassembled their brush after cleaning.
 
-**Is the nozzle clogged?** Even a tiny speck of dried paint inside the nozzle will block everything. Remove the needle, then unscrew the nozzle (carefully, these are fragile, especially on Iwata and Harder & Steenbeck models). Hold the nozzle up to the light. You should see a clean, round opening. If it's blocked, soak it in airbrush cleaner for 15–30 minutes and gently clean with a nozzle cleaning brush or interdental brush. Do NOT use metal tools inside the nozzle, you'll score the interior and create permanent spray problems.
+**Is the nozzle clogged?** Even a tiny speck of dried paint inside the nozzle will block everything. Remove the needle, then unscrew the nozzle (carefully, these are fragile, especially on Iwata and Harder & Steenbeck models). Hold the nozzle up to the light. You should see a clean, round opening. If it's blocked, soak it in airbrush cleaner for 15–30 minutes and gently clean with a [nozzle cleaning brush](/go/micro-brushes) or interdental brush. Do NOT use metal tools inside the nozzle, you'll score the interior and create permanent spray problems.
 
 **Is the paint too thick?** If your paint hasn't been thinned properly, it literally can't flow through the narrow channel between the needle and nozzle. Test with water or airbrush cleaner first. If water sprays fine but paint doesn't, your paint is too thick. Thin it down to skim milk consistency.
 
@@ -76,12 +76,12 @@ This is probably the most common airbrush complaint, and it has several possible
 
 **Tip dry.** This is when paint dries on the very tip of the needle where it exits the nozzle. A tiny plug of dried paint accumulates, and then a burst of air blows it off, splattering a blob onto your work. This is extremely common with water-based acrylics. Fixes:
 
-- Add a drop of flow improver or retarder to your paint to slow drying
+- Add a drop of [flow improver](/go/vallejo-flow) or [retarder](/go/createx-retarder) to your paint to slow drying
 - Keep a small brush or cotton swab dampened with thinner nearby and wipe the needle tip every few minutes
 - If your airbrush has a cutaway crown cap (like the Harder & Steenbeck Infinity, Ultra, or CRplus models), you can wipe the needle tip without disassembly by reaching through the slots
 - Between spray passes, give a quick burst of air only (trigger down, not back) to blow residue off the tip
 
-**Moisture in air line.** Your compressor pulls in room air, which contains moisture. Over time, especially in humid environments, water collects in the line and shoots tiny droplets into your paint stream. Fix: install a moisture trap/water separator between your compressor and airbrush (most compressors with tanks include one, empty it regularly). If yours doesn't have one, inline moisture traps are available for under $15 and screw into any standard fitting.
+**Moisture in air line.** Your compressor pulls in room air, which contains moisture. Over time, especially in humid environments, water collects in the line and shoots tiny droplets into your paint stream. Fix: install a moisture trap/water separator between your compressor and airbrush (most compressors with tanks include one, empty it regularly). If yours doesn't have one, [inline moisture traps](/go/iwata-moisture) are available for under $15 and screw into any standard fitting.
 
 
 **Damaged needle or nozzle.** A bent needle tip or cracked nozzle can cause irregular paint delivery. Inspect both under magnification. Even a barely visible bend will affect spray quality. See Problem #5 for needle repair options.
@@ -96,12 +96,12 @@ This is an air seal problem. Air is going backwards into the cup instead of forw
 
 **Loose nozzle.** The nozzle needs to be seated firmly. If it's even slightly loose, air escapes backward into the paint channel. Gently tighten the nozzle (finger-tight, then a small nudge with the wrench if your airbrush came with one). Do NOT overtighten, you'll crack the nozzle, which creates an even worse problem.
 
-**Cracked or split nozzle.** Nozzles are precision parts made from thin, delicate metal (or sometimes ceramic). They crack easily if dropped, overtightened, or if the needle is forced through without proper alignment. A cracked nozzle can't hold an air seal. Inspect under magnification. If cracked, the only fix is a replacement nozzle, they can't be repaired.
+**Cracked or split nozzle.** Nozzles are precision parts made from thin, delicate metal (or sometimes ceramic). They crack easily if dropped, overtightened, or if the needle is forced through without proper alignment. A cracked nozzle can't hold an air seal. Inspect under magnification. If cracked, the only fix is a replacement nozzle ([Iwata](/go/iwata-nozzle), [Harder & Steenbeck](/go/hs-nozzle)), they can't be repaired.
 
 
 **Dried paint blocking the nozzle exit.** If the front is blocked but air still flows into the body, it has nowhere to go but back up into the cup. Clean the nozzle thoroughly.
 
-**Missing or damaged nozzle seal.** Some airbrushes (especially Iwata and Badger) use a tiny O-ring or PTFE washer between the nozzle and the body to create an air seal. If this is missing, damaged, or not seated properly, air leaks backward. Check your airbrush's parts diagram and make sure the seal is present and in good condition.
+**Missing or damaged nozzle seal.** Some airbrushes (especially Iwata and Badger) use a tiny [O-ring or PTFE washer](/go/oring-kit) between the nozzle and the body to create an air seal. If this is missing, damaged, or not seated properly, air leaks backward. Check your airbrush's parts diagram and make sure the seal is present and in good condition.
 
 ---
 
@@ -132,7 +132,7 @@ How needles get bent: dropping the airbrush, pushing the needle into a dried plu
 **Fixes:**
 
 - **Straighten the needle.** Lay the needle on a hard, flat surface (glass or ceramic tile works well). Roll the tip gently with your finger to feel for the bend. Using a fine-grit sharpening stone (1000+ grit), carefully work the bent section back straight by rolling the needle on the stone. This takes patience but can salvage a needle. Magnification helps enormously.
-- **Replace the needle.** If the bend is severe or you can't get it perfectly straight, a new needle is the reliable fix. Needles for most popular airbrush brands cost $8–20 and are the #1 spare part you should keep on hand.
+- **Replace the needle.** If the bend is severe or you can't get it perfectly straight, a new needle is the reliable fix. Needles for most popular airbrush brands ([Iwata](/go/iwata-needles), [Harder & Steenbeck](/go/hs-needles), [Badger](/go/badger-needles)) cost $8–20 and are the #1 spare part you should keep on hand.
 
 
 **Debris on the air cap.** Less commonly, a piece of dried paint on the inside of the air cap (the outer ring at the front of the airbrush) can deflect the air stream. Remove the air cap and clean it thoroughly.
@@ -213,7 +213,7 @@ Orange peel happens when paint droplets land on the surface but don't flow toget
 **Compressor without a tank.** Small diaphragm compressors without air tanks deliver air in pulses that match the pump cycle. This is inherent to tankless compressors and can't be fully eliminated. If this bothers you, upgrade to a compressor with a tank, the tank acts as a reservoir that smooths out the pulses into consistent pressure.
 
 
-**Air leaks at connections.** If a hose fitting, quick-disconnect, or the connection at the airbrush is slightly loose, air escapes intermittently, causing pressure fluctuations. Check all connections. Wrap male threaded fittings with Teflon (PTFE) tape for a better seal. Listen for hissing sounds, they indicate leaks.
+**Air leaks at connections.** If a hose fitting, quick-disconnect, or the connection at the airbrush is slightly loose, air escapes intermittently, causing pressure fluctuations. Check all connections. Wrap male threaded fittings with [Teflon (PTFE) tape](/go/ptfe-tape) for a better seal. Listen for hissing sounds, they indicate leaks.
 
 **Partially blocked nozzle.** A partial blockage can cause the nozzle to alternately block and clear as paint builds up and then blows through. Clean thoroughly.
 

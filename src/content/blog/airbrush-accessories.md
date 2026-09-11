@@ -55,7 +55,7 @@ These are the items you need on day one. Without them, you either can't use your
 
 ### Air Hose
 
-The hose connects your airbrush to your compressor. If your compressor came with a hose, you're probably fine for now. If you're buying separately, look for a **braided nylon hose** (more flexible and durable than rubber) in 6-foot length.
+The hose connects your airbrush to your compressor. If your compressor came with a hose, you're probably fine for now. If you're buying separately, look for a **[braided nylon hose](/go/airbrush-hose)** (more flexible and durable than rubber) in 6-foot length.
 
 **The fitting trap:** Airbrush hoses have different thread sizes on each end, typically 1/8" BSP on the airbrush side and 1/4" BSP on the compressor side. Before buying, check what threads your airbrush and compressor use. If they don't match (very common), you'll need adapter fittings. A small set of BSP adapters ($5–8) saves a lot of frustration.
 
@@ -64,7 +64,7 @@ The hose connects your airbrush to your compressor. If your compressor came with
 
 Compressors generate moisture as they compress air. That moisture travels through the hose and into your airbrush, where it mixes with paint and causes splattering, fisheyes, and ruined work.
 
-A moisture trap catches this water before it reaches your airbrush. Many compressors have a built-in moisture trap, but adding a **second inline moisture trap** close to the airbrush provides extra insurance, especially in humid environments.
+A moisture trap catches this water before it reaches your airbrush. Many compressors have a built-in moisture trap, but adding a **[second inline moisture trap](/go/iwata-moisture)** close to the airbrush provides extra insurance, especially in humid environments.
 
 **Tip:** The closer the moisture trap is to the airbrush, the more effective it is. Mount one at the compressor AND one at the end of the hose near the airbrush for the best protection.
 
@@ -91,7 +91,7 @@ See my complete cleaning guide for detailed recommendations by paint type.
 
 A cleaning pot is a closed container with a hole for your airbrush nozzle. You spray cleaning solution and waste paint into it instead of into the air. This keeps your workspace clean and reduces airborne particles. Most also have an airbrush holder built in.
 
-The **3-in-1 cleaning pots** (clean, hold, and filter) are the most popular option and cost around $10–20. They're not glamorous, but you'll use one every single session.
+The **[3-in-1 cleaning pots](/go/cleaning-pot)** (clean, hold, and filter) are the most popular option and cost around $10–20. They're not glamorous, but you'll use one every single session.
 
 
 ### Paper Towels or Lint-Free Cloths
@@ -110,7 +110,7 @@ You can technically airbrush without these, but they make the experience signifi
 
 A quick-disconnect coupling lets you snap the airbrush on and off the hose without threading anything. Push on, pull off, takes one second. This is invaluable if you own multiple airbrushes, need to switch between a detail brush and a priming brush, or want to remove the airbrush for deep cleaning without unscrewing fittings every time.
 
-**Get a set:** One female connector on the hose (stays permanently attached) and one male adapter for each airbrush you own. Badger and Iwata both make reliable QD sets, or buy generic brass ones for less.
+**Get a set:** One female connector on the hose (stays permanently attached) and one male adapter for each airbrush you own. Badger and Iwata both make reliable [QD sets](/go/quick-disconnect), or buy generic brass ones for less.
 
 
 ### Airbrush Holder / Stand
@@ -129,7 +129,7 @@ While cotton swabs and paper towels handle basic cleaning, a proper cleaning bru
 
 ### Needle Lubricant
 
-A tiny amount of needle lubricant applied to the needle before reinserting creates a smooth, consistent trigger feel and prevents paint from creeping backward along the needle through the packing seal. This is especially important for airbrushes with rubber seals (most budget models).
+A tiny amount of [needle lubricant](/go/needle-juice) applied to the needle before reinserting creates a smooth, consistent trigger feel and prevents paint from creeping backward along the needle through the packing seal. This is especially important for airbrushes with rubber seals (most budget models).
 
 Badger Regdab is the most popular option. Iwata Super Lube works too. A single bottle lasts years because you use microscopic amounts each time.
 
@@ -150,7 +150,7 @@ You'll use more masking tape than you think. Buy at least two widths: a narrow o
 
 Most paints need thinning before airbrushing. Rather than guessing ratios directly in the airbrush cup (and risking a clogged airbrush from under-thinned paint), mix your paint in a small cup first, then pour the thinned mixture into the airbrush.
 
-Disposable plastic mixing cups ($5 for a stack of 100) work perfectly. Plastic pipettes or eye droppers ($3–5 for a pack) make measuring drops of thinner precise and repeatable.
+Disposable [plastic mixing cups](/go/mixing-cups) ($5 for a stack of 100) work perfectly. Plastic pipettes or eye droppers ($3–5 for a pack) make measuring drops of thinner precise and repeatable.
 
 
 ---
@@ -172,7 +172,7 @@ A spray booth is an enclosed workspace with a fan that extracts paint overspray 
 
 While your compressor likely has a pressure gauge and regulator, an **inline regulator** mounted close to the airbrush gives you more precise control. This is especially useful for work that requires very low pressure (10–15 PSI), where the compressor's main regulator may not be sensitive enough.
 
-An inline regulator with a mini gauge ($15–30) also lets you adjust pressure without walking over to the compressor every time, a small convenience that becomes significant during long sessions.
+An [inline regulator with a mini gauge](/go/regulator-gauge) ($15–30) also lets you adjust pressure without walking over to the compressor every time, a small convenience that becomes significant during long sessions.
 
 
 ### Spare Needles and Nozzles
@@ -235,7 +235,7 @@ Airbrush hoses, compressors, and airbrushes use different thread standards depen
 - **1/4" BSP**. Common on larger compressors and industrial equipment
 - **M5 (metric)**. Used on some European airbrushes (notably some Harder & Steenbeck models)
 
-If your airbrush has 1/8" BSP threads and your compressor has 1/4" BSP, you need an adapter. If your hose has the wrong size on either end, you need adapters there too.
+If your airbrush has 1/8" BSP threads and your compressor has 1/4" BSP, you need an [adapter](/go/hose-adapters). If your hose has the wrong size on either end, you need adapters there too.
 
 **The simplest solution:** Buy a small adapter set ($5–10) that includes 1/8" to 1/4" BSP adapters in both male and female configurations. This covers 95% of compatibility issues.
 

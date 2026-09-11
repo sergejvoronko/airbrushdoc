@@ -160,7 +160,7 @@ Airbrush needles are the most fragile component in your airbrush. The tip is pre
 - Paint flows when it shouldn't (needle not sealing in nozzle)
 - Visible bend when rolling on a flat surface
 
-**Minor bends** can sometimes be straightened by rolling the tip on a fine ceramic sharpening stone (8000+ grit). **Significant bends** mean replacement, needles are relatively cheap ($8–15) and trying to salvage a badly bent needle wastes time and produces inferior results.
+**Minor bends** can sometimes be straightened by rolling the tip on a fine [ceramic sharpening stone](/go/sharpening-stone) (8000+ grit). **Significant bends** mean replacement, needles are relatively cheap ($8–15 for [Iwata](/go/iwata-needles), [Harder & Steenbeck](/go/hs-needles), or [Badger](/go/badger-needles)) and trying to salvage a badly bent needle wastes time and produces inferior results.
 
 **Keep a spare.** Having one spare needle for your airbrush means a bent tip is a 30-second fix instead of a session-ending problem.
 

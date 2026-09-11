@@ -87,7 +87,7 @@ To be able to prevent all of that try to keep the painted object in your spray b
 
 ![Fish-eye craters spread across a freshly sprayed panel](/images/wp-uploads/FishEye.webp)Another unwanted effect that looks like fish eye and it is actually a crater right on the first coat of paint and you can actually see through that crater the filler or the old coat. The reasons for this are obvious, bad degrease of surface (so it still has some oil stains, even your fingerprint left after degrease is enough to create this defect).
 
-If you didn't use anti silicone or you don't have filter (moisture trap) on your compressor to catch all the oil or water from compressor. Usually if the eyes are small you can cover them up with next coat, especially if you use Candys.
+If you didn't use anti silicone or you don't have filter ([moisture trap](/go/regulator-trap)) on your compressor to catch all the oil or water from compressor. Usually if the eyes are small you can cover them up with next coat, especially if you use Candys.
 
 To get rid of big eyes you will have to repaint the whole thing.
 
