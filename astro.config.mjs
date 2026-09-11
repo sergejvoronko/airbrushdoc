@@ -9,12 +9,16 @@ const SITE_HOST = 'airbrushdoc.com';
 function rehypeExternalLinks() {
   const isExternal = (href) => /^https?:\/\//i.test(href) && !href.includes(SITE_HOST);
   const isAffiliate = (href) => /amazon\.|amzn\.to|assoc-amazon/i.test(href);
+  // /go/<slug> is an internal path but 302s straight to a merchant, so it is an
+  // affiliate link and Google expects rel="sponsored" on it. The external test
+  // above never matched these, which left 124 links across 29 articles unmarked.
+  const isGoLink = (href) => /^\/go\//.test(href);
   const walk = (node) => {
     if (node.type === 'element' && node.tagName === 'a') {
       const href = node.properties?.href;
-      if (typeof href === 'string' && isExternal(href)) {
+      if (typeof href === 'string' && (isExternal(href) || isGoLink(href))) {
         const rel = new Set(['noopener', 'nofollow']);
-        if (isAffiliate(href)) rel.add('sponsored');
+        if (isAffiliate(href) || isGoLink(href)) rel.add('sponsored');
         node.properties.rel = [...rel].join(' ');
         node.properties.target = '_blank';
       }
