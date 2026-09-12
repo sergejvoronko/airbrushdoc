@@ -114,6 +114,6 @@ The whole project took 3 days to accomplish and here is the result.
 ![Airbrushed Tiger](/images/wp-uploads/Airbrush-Tiger-Car-Hood-38.webp)
 
 ![cliaksa.ru](/images/wp-uploads/cliaksa.ru_.webp)
-Антонов Сергей Александрович - [http://www.cliaksa.ru/](http://www.cliaksa.ru/)
+Антонов Сергей Александрович - ~~http://www.cliaksa.ru/~~
 
 *Isn't that just AWESOME? I think that this tutorial "**Airbrush a Tiger**" can motivate anyone to create something similar because when you read it and it sounds so easy, be careful, don't overestimate your possibilities or your skills. I've already became a big fan of this guy, what about you? If you like his art too then don't forget to share, like a tell your friends to check it out!*

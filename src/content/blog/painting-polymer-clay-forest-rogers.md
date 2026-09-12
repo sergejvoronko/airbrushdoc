@@ -44,7 +44,7 @@ I've made my living doing prototypes and originals in polymer for many years and
 
 ### Using Golden Acrylic GAC 200 Medium
 
-One way to help acrylic paints adhere to cured polyclay is **[Golden Acrylic GAC 200 Medium](http://www.blueroosterartsupplies.com/GAC-200-Acrylic-Polymer-Medium-p/gd3920.htm)**. It's formulated to increase adherence to non-porous surfaces, and does an excellent job. I mix it into the acrylic colors as a medium. 
+One way to help acrylic paints adhere to cured polyclay is **Golden Acrylic GAC 200 Medium**. It's formulated to increase adherence to non-porous surfaces, and does an excellent job. I mix it into the acrylic colors as a medium. 
 
 Only draw back is that it does tend to fill fine detail slightly, given it forms a strong coating. It also results in a glossy surface, and will need a coat of matte varnish (I use **liquid acrylic varnishes**) or layers of acrylic color mixed with a matte medium if you want to dull the surface.
 

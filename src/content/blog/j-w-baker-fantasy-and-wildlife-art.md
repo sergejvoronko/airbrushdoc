@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/JWBaker.webp"
 ---
 ## About J.W. Baker and Wolf Song Studio
 
-Some time ago I got in touch with one very specific and great artist. His name is **J W Baker**. He represents one half of the artistic duo **[Wolf Song Studio](http://wolfsongstudio.com/)**. The other half is his wife [Sandi Baker](http://sandibaker.wolfsongstudio.com/).
+Some time ago I got in touch with one very specific and great artist. His name is **J W Baker**. He represents one half of the artistic duo **[Wolf Song Studio](http://wolfsongstudio.com/)**. The other half is his wife Sandi Baker.
 
 J.W. has been painting all his life and believes that the purpose of art is communication.
 *"I have been actively **communicating** throughout my life through my art. For me, art in whatever medium has always been my most effective means of communicating the inspirations and observations I believe worthy of commentary".*

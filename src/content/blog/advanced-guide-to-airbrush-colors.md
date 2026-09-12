@@ -12,11 +12,11 @@ heroImage: "/images/wp-uploads/airbrush-paints.webp"
 
 Let's assume that you have all the equipment that is required for [airbrushing](/). You've got [airbrush gun](/blog/choose-airbrush/) and [compressor](/blog/air-compressor/). You also know what you are going to paint and what surface are you going to paint. The only thing missing is proper paint. When you're starting out you can experiment but I think if you knew something about all the paints available on the market you could save some time and frustration as well.  This article is a compilation and consists of three parts. You don't have to read all of it, that's why I included these links:
 
- 	- **[Types](#painttypes)**
+- **[Types](#painttypes)**
 
- 	- **[Brands](#paintbrands)**
+- **[Brands](#paintbrands)**
 
- 	- **[Pro Advices](#proadvices)**
+- **[Pro Advices](#proadvices)**
 
 In the first part I'm going to take a look at the types of paints, the differences and their use. In second part I'm going to have a look at brands and the third part is going to be a collection of advices as I did in my previous articles.
 
@@ -94,21 +94,21 @@ Very popular brand that makes ***Opaque*** and ***Transparent*** lines espessial
 
 Properties:
 
- 	- Viscosity - ready to use (no dilution required)
+- Viscosity - ready to use (no dilution required)
 
- 	- Permanency - use of lightfast, durable pigments
+- Permanency - use of lightfast, durable pigments
 
- 	- Minimal clogging - results in less time cleaning the airbrush
+- Minimal clogging - results in less time cleaning the airbrush
 
- 	- Compatibility with other GOLDEN Acrylic products (Fluids, Heavy Body, Matte, High Loads)
+- Compatibility with other GOLDEN Acrylic products (Fluids, Heavy Body, Matte, High Loads)
 
 **Transparent** - made from a safe and archival 100% water-based acrylic emulsion which has the same permanency and performance properties. * Transparency - the entire line of *Transparents* is very good balanced to ensure that all colors are equally transparent.
 
- 	- Viscosity - ready to use (no dilution required)
+- Viscosity - ready to use (no dilution required)
 
- 	- Permanency and minimal clogging same as *Opaques*.
+- Permanency and minimal clogging same as *Opaques*.
 
- 	- Compatibility with other GOLDEN Acrylic products (Opaque Airbrush Colors, Fluids, Heavy Body, Matte, High Loads).
+- Compatibility with other GOLDEN Acrylic products (Opaque Airbrush Colors, Fluids, Heavy Body, Matte, High Loads).
 
 They easily spray through the smallest nozzles available for airbrushes. They can be recoated immediately. Cleanup is easy and requires only water and a mild soap.
 
@@ -156,15 +156,15 @@ All Wicked Colors are highly pigmented, transparent colors, which cover semi-opa
 
 Createx colors can be used for wood, fabric, glass, plaster, canvass, aluminium, leather, ceramic, poster boards, bricks, plastic ... So as you can see any surface is good to go. Requires heat air drying which results in **Self-cross linking **(combination of polymers or oligomers with a high acid content to upgrade the resistance properties):
 
- 	- Hardness and scratch resistance
+- Hardness and scratch resistance
 
- 	- Anti-blocking (for stacking recently coated substrates)
+- Anti-blocking (for stacking recently coated substrates)
 
- 	- Resistance against household chemicals and grease
+- Resistance against household chemicals and grease
 
- 	- Outdoor durability and UV resistance
+- Outdoor durability and UV resistance
 
- 	- Flexibility and toughness
+- Flexibility and toughness
 
 These properties tell us that Createx are made with 'exterior grade' pigments. This kind of color is usually called Automotive Color. They don't require dilution and work out of the bottle. For nozzle 0.5mm you need compressor 40-50 PSI and for smaller sizes of nozzle you'll be fine with lower PSI.
 
@@ -221,15 +221,15 @@ This all I have found, but I think it's enough.
 E’TAC offers very well-behaved paints, although they are pricier than many other brands. They also offer a variety of stuff you can mix with the paints to modify their qualities (reducers, flow enhancers, hardeners, etc.) which is nice.
 This brand offers 4 lines of colors to choose from:
 
- 	- **Private Stock** (simply use as is, straight from the bottle).
+- **Private Stock** (simply use as is, straight from the bottle).
 
- 	- **Edwards FX Series** (re-soluble solution for special effects, erase-back and re-wetting properties such as that used in photo-realistic rendering).
+- **Edwards FX Series** (re-soluble solution for special effects, erase-back and re-wetting properties such as that used in photo-realistic rendering).
 
- 	- **E’Daptables** (This line is actually very interesting as I got from description it allows you to mix between Edwards FX Series and Private Stock line).
+- **E’Daptables** (This line is actually very interesting as I got from description it allows you to mix between Edwards FX Series and Private Stock line).
 
- 	- **TNT** (Those who are using TNT tells that it's one of the best textile paint yet to be found on the market with exotic range of color options to choose from. So if textiles and tags is your art, this could be your answer).
+- **TNT** (Those who are using TNT tells that it's one of the best textile paint yet to be found on the market with exotic range of color options to choose from. So if textiles and tags is your art, this could be your answer).
 
- 	- You can find** E’tac** paints at[USA Airbrush](http://www.usairbrush.com/) , although for more info, I would visit their old website at [ETAC Airbrush](http://www.etac-airbrush.com/).
+- You can find **E’tac** paints at ~~USA Airbrush~~ (now closed), although for more info, I would visit [ETAC Airbrush](http://etac-airbrush.com/).
 
 <a id="proadvices"></a>
 

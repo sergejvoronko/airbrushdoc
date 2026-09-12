@@ -81,6 +81,6 @@ The original factory was constructed in Chicago in 1922.  It was later expanded
 
 *Paasche Emplyees*
 
-Sources: [airbrush museum](http://www.airbrushmuseum.com/), [airbrushwiki](http://airbrushwiki.ru), [Andy Penaluna](http://thecommunicationspace.com/profile/AndyPenaluna)
+Sources: [airbrush museum](http://www.airbrushmuseum.com/), ~~airbrushwiki~~, [Andy Penaluna](http://thecommunicationspace.com/profile/AndyPenaluna)
 
 If you know some interesting facts about Paasche I would appreciate if you leave at least a short comment.

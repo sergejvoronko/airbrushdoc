@@ -21,7 +21,7 @@ Name: **The Story of Love**
 Author: **Запромётов Александр** (alexandr76)
 Object: **Electric Kettle "BOSCH"**
 Tools: **Airbrush - Iwata HP-CH HiLine. Air-Gun - Abac, knife**
-Materials: **Plastic adhesion promoter** (primer) "**FITTER**", Paint - Nitro-Enamel Teks NC 132, Auto-enamel "**Mobihel**", **2k coat** "[**Mobihel-helios**](http://www.mobihel-helios.com/eng)", [matting agent for clear coat "**Mobihel**"](http://www.mobihel-helios.com/eng/products/top-coatings-two-component-coatings/31), thinner #650 for auto-enamel, thinner "**Sadolin**", surface wipes "**Troton**" and "**Radex**".
+Materials: **Plastic adhesion promoter** (primer) "**FITTER**", Paint - Nitro-Enamel Teks NC 132, Auto-enamel "**Mobihel**", **2k coat** "**Mobihel-helios**", matting agent for clear coat "**Mobihel**", thinner #650 for auto-enamel, thinner "**Sadolin**", surface wipes "**Troton**" and "**Radex**".
 **Time spent** on painting (excluding preparation and coating): **20 hours**.
 
 ## Kettle Preparation and Design Concept

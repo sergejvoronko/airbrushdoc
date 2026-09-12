@@ -18,21 +18,21 @@ In this tutorial I'm going to explain what needs to be done to get nice big scor
 
 Here is what I needed to make it happen:
 
-	- A car bonnet of course, where it's going to be painted
+- A car bonnet of course, where it's going to be painted
 
-	- Car paint **Duxone** from **DuPont**
+- Car paint **Duxone** from **DuPont**
 
-	- Thinner N646 -very popular in Russia but difficult to get abroad (Duxone has it's own [thinners DX32, DX34, DX36](http://www.axaltacs.com/corporate/en_US/duxone.html))
+- Thinner N646 -very popular in Russia but difficult to get abroad (Duxone has it's own [thinners DX32, DX34, DX36](http://www.axaltacs.com/corporate/en_US/duxone.html))
 
-	- Clear coat **Brulex 2K-HS**
+- Clear coat **Brulex 2K-HS**
 
-	- Degreaser **Body anti-silicone ANTISIL 770**
+- Degreaser **Body anti-silicone ANTISIL 770**
 
-	- Sticky tissue **CAR FIT** (for collecting dust particles)
+- Sticky tissue **CAR FIT** (for collecting dust particles)
 
-	- **Scotch-Brite** (brown one)
+- **Scotch-Brite** (brown one)
 
-	- Airbrush **TNT BD-181** (I'm using it a long time without any problems)
+- Airbrush **TNT BD-181** (I'm using it a long time without any problems)
 
 ## Surface Preparation for the Scorpio Airbrush Design
 
@@ -144,6 +144,6 @@ Here is my finished scorpion.
 ![Finished scorpion bonnet artwork photographed from a lower angle](/images/wp-uploads/airbrush-tutorial-scorpio-031.webp)
 
 ![Artist leaning over a car panel while airbrushing](/images/wp-uploads/cliaksa.ru_.webp)
-Антонов Сергей Александрович - [http://www.cliaksa.ru/](http://www.cliaksa.ru/)
+Антонов Сергей Александрович - ~~http://www.cliaksa.ru/~~
 
 *Nice, huh? I think that this will push every **Ford Scorpio** owners to create something similar. My thoughts were a bit different - "what a pity that I sold my Scorpio just a month ago?". ;) BTW don't forget to share, like a tell your friends.*

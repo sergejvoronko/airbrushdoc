@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/polishing-the-needle1.webp"
 
 Hi everyone! I've been working on some improvements for my needles lately. Well - not really improvements but let's say **maintenance**. The thing is, even if you belong to group of people that never done such a thing as **polishing the needles**, behold! Trust me - one day you will have to do it anyway.
 
-Nonsense you say? Well then head over to this article from [Zsolt Miklós KOVÁCS-VAJNA](http://www.ing.unibs.it/~zkovacs/color/needles_E.htm) and read on to find out why you should do it.
+Nonsense you say? Well then head over to this article from Zsolt Miklós KOVÁCS-VAJNA and read on to find out why you should do it.
 
 The guy there is actually explaining the whole process where he is using special materials which is a bit of a problem to get for us, simple mortals. So I did it my way and I've made a very short and easy to follow video. I know that there are many people that just don't like to read (I'm even sure that I should make more videos and maybe start narrating them but my accent is horrible, so maybe some time in the future ;)).
 

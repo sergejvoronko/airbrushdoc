@@ -111,10 +111,10 @@ I know people that were trying airbrushing just because they thought that it is 
 
 ## Influences and Recommendations
 
-I love works of [Max Grom](http://www.aeromax.ru/), [First Center](http://www.spbaero.ru/) and also [Struchalin](http://www.art4car.ru/) has some powerful works. And also [Ilnur Mansurov](http://ilnur.ru), he was my inspiration.
+I love works of [Max Grom](http://www.aeromax.ru/), [First Center](http://www.spbaero.ru/) and also Struchalin has some powerful works. And also [Ilnur Mansurov](http://ilnur.ru), he was my inspiration.
 
 As a starting artists in airbrushing I would recommend a lot of practice and setting some goals for yourself. Also know why airbrush is acting weird some time and know how to deal with it. From my own experience I think using quality tools and materials is very important because not everyone can survive this test of getting into airbrushing.
 
 ### Where to find Shockwave?
 
-![Photograph of the airbrush artist Shockwave holding a folding fan](/images/wp-uploads/shockwave2.webp)Here is [the link](http://shockwave.com.ua) to her personal portfolio. If you like her art I think she would deserve to get some likes or tweets so please share it with all your friends. Or if you have anything to say I'll be happy to see any comments. Cheers
+![Photograph of the airbrush artist Shockwave holding a folding fan](/images/wp-uploads/shockwave2.webp)Here is the link to her personal portfolio. If you like her art I think she would deserve to get some likes or tweets so please share it with all your friends. Or if you have anything to say I'll be happy to see any comments. Cheers

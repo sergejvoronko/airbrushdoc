@@ -20,7 +20,7 @@ This one doesn't have that much to do with airbrushing but a lot about art. A bi
 
 ![Banner for the Virtuowl.com self body healing and wellness blog](/images/wp-uploads/temporary-tatoo.webp)
 
-Really short and clear article from [blog-health-talk](http://blog-health-talk.virtuowl.com/health-and-your-body/tattoo-art/tattoo-airbushing/). This article contains some tips and advises for a party with **tatoo** or** temporary tatoo** solutions (as author says - try first before you go for a real one ...)
+Really short and clear article from ~~blog-health-talk~~. This article contains some tips and advises for a party with **tatoo** or** temporary tatoo** solutions (as author says - try first before you go for a real one ...)
 ## DIY MINI SILENT COMPRESSOR
 
 ![Home-built silent compressor using a fridge unit, twin gauges and a regulator](/images/wp-uploads/compressor.webp)

@@ -98,7 +98,7 @@ Do not let looks or some of the plastic parts fool you, as this is not cheaply m
 
 I am satisfied with the fine lines that this airbrush delivers. In this area it performs as good as [**Iwata CM-C**](/blog/iwata-custom-micron-c-plus/), (but for much different cost).
 
-And what the Artists say? You can find something like [testimonials](http://www.renegadeairbrush.com/Renegade_Accolades.html) from established artists on [renegadeairbrush.com](http://www.renegadeairbrush.com) .
+And what the Artists say? You can find something like testimonials from established artists on ~~renegadeairbrush.com~~ .
 
 Just to point something out, one of the artists (*Monnie Criss*) had ordered **Badger airbrush** but he got it delivered with bent needle. So he shared his experience with their customer service:
 

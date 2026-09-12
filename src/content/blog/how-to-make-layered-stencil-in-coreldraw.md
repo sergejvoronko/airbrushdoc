@@ -18,8 +18,8 @@ I have not found any Multi layered stencils for **CorelDRAW** but I found tutori
 
 Here's what I've found:
 
-[How to Create a Multilayer Stencil in Photoshop](http://www.ehow.com/video_4753717_create-multilayer-stencil-photoshop.html) -- powered by eHow
-Simple isn't? And one more tutorial with some more details in [here](http://www.spraypaintstencils.com/stenciltutorials/multi-layer-stencil-tutorial.htm)
+~~How to Create a Multilayer Stencil in Photoshop~~ -- powered by eHow
+Simple isn't? And one more tutorial with some more details in here
 
 ### So, How to Make Stencil With More Layers in CorelDRAW?
 
