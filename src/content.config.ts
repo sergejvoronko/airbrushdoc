@@ -50,7 +50,8 @@ const glossary = defineCollection({
     title: z.string(),
     slug: z.string(),
     category: z.string().default('general'),
-    description: z.string().optional(),
+    description: z.string().optional(),   // synonym list, shown on the index
+    seoDescription: z.string().optional(), // overrides the derived <meta> text
     heroImage: z.string().optional(),
   }),
 });

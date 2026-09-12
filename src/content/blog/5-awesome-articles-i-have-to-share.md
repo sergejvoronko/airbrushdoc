@@ -1,6 +1,6 @@
 ---
 title: "5 Must-Read Airbrush Articles Every Artist Should Bookmark"
-description: "When I was surfing the Net or clicked a link on facebook I have found some cool stuff to read and I share it here.."
+description: "Five airbrush articles worth your time, collected from around the web: technique breakdowns, artist profiles and equipment pieces I thought were worth passing on."
 pubDate: 2011-03-29
 category: "guides"
 tags: ["airbrush progress", "airbrush tattoo", "awesome articles", "diy compressor", "Fra Bartolomeo", "homemade airbrush compressor", "Jason Jones", "Mike Lavalle", "mini compressor", "silent compressor", "skull contest", "skull progress", "temporary tattoo"]

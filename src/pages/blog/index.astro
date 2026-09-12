@@ -24,7 +24,7 @@ sorted.forEach(p => { catCounts[p.data.category] = (catCounts[p.data.category] |
 const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Blog' }]);
 
 ---
-<BaseLayout title="Blog | AirbrushDOC" description="All airbrush articles — techniques, equipment reviews, beginner guides, and more.">
+<BaseLayout title="Blog | AirbrushDOC" description="Every airbrush article on AirbrushDOC: 115 guides covering technique, equipment reviews, troubleshooting, paint and maintenance, newest first.">
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <main class="abd-container">
     <div class="blg-page-header">
