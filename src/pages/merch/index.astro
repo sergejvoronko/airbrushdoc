@@ -1,0 +1,284 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterBox from '../../components/NewsletterBox.astro';
+import { MERCH_AVAILABLE, MERCH_STORE_URL } from '../../config';
+
+// Designs are printed light-on-black, so every card sits on a dark plate —
+// which is also how the artwork reads on the garment itself.
+const designs = [
+  {
+    slug: '01-true-fire-skull', name: 'True Fire Skull', tag: 'Signature',
+    blurb: 'The one every airbrush artist paints first and never stops painting. Real true-fire technique, white-hot cores bleeding to feathered orange tips.',
+    products: ['Tee', 'Hoodie'], featured: true,
+  },
+  {
+    slug: '07-respirator-skull', name: 'Respirator', tag: 'Signature',
+    blurb: 'Skull in a twin-cartridge spray respirator with the fire glow behind it. For anyone who has spent a summer masked up in a hot booth.',
+    products: ['Tee', 'Hoodie'], featured: true,
+  },
+  {
+    slug: '10-screaming-skull', name: 'Screaming Skull', tag: 'Loud',
+    blurb: 'Jaw wrenched open mid-scream in a burst of flung paint, drips running off the mandible. The loudest thing on the rack.',
+    products: ['Tee', 'Hoodie'],
+  },
+  {
+    slug: '09-ghost-flame-skull', name: 'Ghost Flame', tag: 'Subtle',
+    blurb: 'Ghost flames and fine pinstriping over a skull that only shows where the light catches it. For when you do not want to shout.',
+    products: ['Tee', 'Hoodie'],
+  },
+  {
+    slug: '03-skull-crossed-airbrushes', name: 'Crossed Airbrushes', tag: 'Emblem',
+    blurb: 'Skull and crossbones, except the bones are two gravity-feed airbrushes trailing mist. The closest thing this trade has to a flag.',
+    products: ['Tee', 'Cap', 'Mug'],
+  },
+  {
+    slug: '08-airbrush-er-badge', name: 'Airbrush ER', tag: 'Emblem',
+    blurb: 'A workshop badge for the emergency room. Because most of owning an airbrush is diagnosing one.',
+    products: ['Tee', 'Cap', 'Mug'],
+  },
+  {
+    slug: '05-airbrush-anatomy', name: 'Anatomy Plate', tag: 'Technical',
+    blurb: 'The patient on the table, labelled like a medical chart: nozzle, needle, trigger, cup. Everything that goes wrong, in order.',
+    products: ['Tee'],
+  },
+  {
+    slug: '06-exploded-airbrush', name: 'Exploded View', tag: 'Technical',
+    blurb: 'One airbrush taken fully apart and floating on its axis. If you have ever lost a nozzle on a workshop floor, this is your shirt.',
+    products: ['Tee'],
+  },
+  {
+    slug: '02-brand-lockup', name: 'AirbrushDOC', tag: 'Brand',
+    blurb: 'The mark and the promise, set in overspray. Cures for your canvas.',
+    products: ['Tee', 'Hoodie', 'Mug'],
+  },
+  {
+    slug: '04-true-fire-wrap-wall', name: 'True Fire Wrap', tag: 'Mug',
+    blurb: 'A wall of true fire running the whole way round the mug. Coffee optional, flames mandatory.',
+    products: ['Mug'],
+  },
+];
+
+const featured = designs.filter(d => d.featured);
+const rest = designs.filter(d => !d.featured);
+---
+
+<BaseLayout
+  title="Merch — AirbrushDOC"
+  description="Airbrush art on shirts, hoodies and mugs. True fire, skulls and workshop emblems, drawn in the same style as the work on the site."
+>
+  <main class="abd-container">
+    <div class="blg-page-header">
+      <nav class="blg-breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="blg-breadcrumbs-sep">›</span>
+        <span>Merch</span>
+      </nav>
+      <div class="blg-title-row">
+        <h1 class="blg-page-title">Wear the <span class="blg-page-title-accent">Work</span></h1>
+        <span class="blg-post-count">{designs.length} designs</span>
+      </div>
+      <div class="blg-header-line"></div>
+      <p class="mrc-intro">
+        Every design here is painted in the same style as the work on this site — true fire, freehand
+        gradients, hard masked edges. No stock clip art, no generic biker skulls pulled off a marketplace.
+        Printed light on dark so the artwork reads the way it was painted.
+      </p>
+    </div>
+
+    {!MERCH_AVAILABLE && (
+      <div class="mrc-notice">
+        <span class="mrc-notice-badge">Coming soon</span>
+        <p>
+          The designs are finished and print-ready. The store opens shortly — put your email in below
+          and you will hear the moment it does.
+        </p>
+      </div>
+    )}
+
+    <div class="mrc-featured">
+      {featured.map(d => (
+        <article class="mrc-card mrc-card-lg">
+          <div class="mrc-art">
+            <img src={`/images/merch/${d.slug}.webp`} alt={`${d.name} airbrush design`} loading="eager" width="900" height="900" />
+          </div>
+          <div class="mrc-body">
+            <span class="mrc-tag">{d.tag}</span>
+            <h2 class="mrc-name">{d.name}</h2>
+            <p class="mrc-blurb">{d.blurb}</p>
+            <div class="mrc-products">{d.products.map(p => <span class="mrc-chip">{p}</span>)}</div>
+            {MERCH_AVAILABLE
+              ? <a class="mrc-btn" href={MERCH_STORE_URL}>Buy this design</a>
+              : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
+          </div>
+        </article>
+      ))}
+    </div>
+
+    <div class="mrc-grid">
+      {rest.map(d => (
+        <article class="mrc-card">
+          <div class="mrc-art">
+            <img src={`/images/merch/${d.slug}.webp`} alt={`${d.name} airbrush design`} loading="lazy" width="900" height="900" />
+          </div>
+          <div class="mrc-body">
+            <span class="mrc-tag">{d.tag}</span>
+            <h3 class="mrc-name">{d.name}</h3>
+            <p class="mrc-blurb">{d.blurb}</p>
+            <div class="mrc-products">{d.products.map(p => <span class="mrc-chip">{p}</span>)}</div>
+            {MERCH_AVAILABLE
+              ? <a class="mrc-btn" href={MERCH_STORE_URL}>Buy this design</a>
+              : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
+          </div>
+        </article>
+      ))}
+    </div>
+
+    <section class="mrc-print">
+      <h2 class="mrc-print-title">About the printing</h2>
+      <ul class="mrc-print-list">
+        <li><strong>Dark garments only.</strong> These are painted light-on-black. On a black shirt the shadows in the artwork are the shirt itself, which is exactly how airbrush work is meant to sit.</li>
+        <li><strong>Printed at 300 DPI.</strong> Files are prepared at full print size with transparent backgrounds, so there is no box around the design.</li>
+        <li><strong>Printed and shipped on demand</strong> by a print partner, so sizes and shipping depend on your region.</li>
+      </ul>
+    </section>
+
+    {!MERCH_AVAILABLE && (
+      <section class="mrc-notify">
+        <h2 class="mrc-notify-title">Tell me when the store opens</h2>
+        <p class="mrc-notify-sub">Same list as the freebies — reference packs and stencils included. No payment, just your email.</p>
+        <NewsletterBox />
+      </section>
+    )}
+  </main>
+</BaseLayout>
+
+<style>
+  .mrc-intro {
+    color: var(--abd-text-body);
+    max-width: 68ch;
+    line-height: 1.75;
+    margin-top: 14px;
+  }
+
+  .mrc-notice {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    background: var(--abd-surface);
+    border: 1px solid rgba(244, 103, 26, 0.28);
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin: 28px 0 36px;
+  }
+  .mrc-notice p { color: var(--abd-text-body); margin: 0; line-height: 1.65; }
+  .mrc-notice-badge {
+    flex: none;
+    background: var(--abd-orange-cta);
+    color: #fff;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 5px 11px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+
+  .mrc-featured {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 26px;
+    margin-bottom: 26px;
+  }
+  .mrc-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    gap: 24px;
+  }
+
+  .mrc-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--abd-surface);
+    border: 1px solid rgba(255, 255, 255, 0.07);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: border-color 0.18s ease, transform 0.18s ease;
+  }
+  .mrc-card:hover { border-color: rgba(244, 103, 26, 0.45); transform: translateY(-2px); }
+
+  .mrc-art {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    padding: 26px;
+    min-height: 210px;
+  }
+  .mrc-card-lg .mrc-art { min-height: 300px; }
+  .mrc-art img { max-width: 100%; height: auto; max-height: 260px; width: auto; }
+  .mrc-card-lg .mrc-art img { max-height: 340px; }
+
+  .mrc-body { padding: 20px 22px 24px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+
+  .mrc-tag {
+    align-self: flex-start;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--abd-orange);
+    font-weight: 700;
+  }
+  .mrc-name { font-family: var(--abd-font-display); color: var(--abd-text); font-size: 1.22rem; margin: 0; }
+  .mrc-card-lg .mrc-name { font-size: 1.5rem; }
+  .mrc-blurb { color: var(--abd-text-body); font-size: 0.9rem; line-height: 1.65; margin: 0; }
+
+  .mrc-products { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 2px; }
+  .mrc-chip {
+    font-size: 0.72rem;
+    color: var(--abd-text-dim);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 999px;
+    padding: 3px 10px;
+  }
+
+  .mrc-btn {
+    margin-top: auto;
+    align-self: flex-start;
+    background: var(--abd-orange-cta);
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.88rem;
+    padding: 10px 18px;
+    border-radius: 7px;
+  }
+  .mrc-btn:hover { background: var(--abd-orange); }
+  .mrc-btn-off {
+    background: transparent;
+    color: var(--abd-text-muted);
+    border: 1px dashed rgba(255, 255, 255, 0.16);
+    cursor: default;
+  }
+  .mrc-btn-off:hover { background: transparent; }
+
+  .mrc-print { margin: 52px 0 0; padding-top: 30px; border-top: 1px solid rgba(255, 255, 255, 0.08); }
+  .mrc-print-title { font-family: var(--abd-font-display); color: var(--abd-text); font-size: 1.3rem; margin: 0 0 16px; }
+  .mrc-print-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; max-width: 74ch; }
+  .mrc-print-list li { color: var(--abd-text-body); line-height: 1.7; padding-left: 18px; position: relative; }
+  .mrc-print-list li::before {
+    content: ''; position: absolute; left: 0; top: 0.62em;
+    width: 6px; height: 6px; border-radius: 50%; background: var(--abd-orange);
+  }
+  .mrc-print-list strong { color: var(--abd-text); }
+
+  .mrc-notify { margin-top: 52px; padding-top: 30px; border-top: 1px solid rgba(255, 255, 255, 0.08); }
+  .mrc-notify-title { font-family: var(--abd-font-display); color: var(--abd-text); font-size: 1.3rem; margin: 0 0 8px; }
+  .mrc-notify-sub { color: var(--abd-text-body); margin: 0 0 18px; }
+
+  @media (max-width: 640px) {
+    .mrc-notice { flex-direction: column; gap: 10px; }
+    .mrc-art { min-height: 180px; padding: 20px; }
+    .mrc-card-lg .mrc-art { min-height: 220px; }
+  }
+</style>

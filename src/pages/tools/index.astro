@@ -29,6 +29,14 @@ const tools = [
     desc: 'Not sure about a model? Put it side by side with the alternatives and see the specs before you spend.',
     time: '5 min',
   },
+  {
+    slug: 'stencil-creator',
+    icon: '✂️',
+    frame: 'The Operating Room',
+    name: 'Stencil Creator',
+    desc: 'Turn any photo into a print-ready, multi-layer cut stencil, then export PNG, PDF or cut-ready SVG, one file per layer.',
+    time: '10 min',
+  },
 ];
 
 const subscriberTools = [
@@ -59,7 +67,7 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
       </nav>
       <div class="blg-title-row">
         <h1 class="blg-page-title">The <span class="blg-page-title-accent">Clinic</span></h1>
-        <span class="blg-post-count">{tools.length + subscriberTools.length + 1} tools</span>
+        <span class="blg-post-count">{tools.length + subscriberTools.length} tools</span>
       </div>
       <div class="blg-header-line"></div>
       <p class="tools-clinic-intro">The site is called AirbrushDOC for a reason. Whatever's ailing your work — wrong airbrush, wrong paint, or a gun that won't behave — there's a tool here to diagnose it. Walk-ins welcome, no appointment needed.</p>
@@ -117,26 +125,6 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
       </div>
     </div>
 
-    <div class="tools-bonus-section">
-      <div class="tools-bonus-card">
-        <div class="tools-bonus-icon" style="color: var(--abd-orange); display: flex;">
-          <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <rect x="7" y="2.5" width="14" height="14" rx="1.5" opacity="0.35"/>
-            <rect x="4.5" y="5" width="14" height="14" rx="1.5" opacity="0.6"/>
-            <rect x="2" y="7.5" width="14" height="14" rx="1.5"/>
-            <path d="m9 11.2 1.06 2.14 2.36.34-1.71 1.67.4 2.35L9 16.59l-2.11 1.11.4-2.35-1.71-1.67 2.36-.34z"/>
-          </svg>
-        </div>
-        <div class="tools-bonus-body">
-          <div class="tools-bonus-label">Book Bonus · The Operating Room</div>
-          <h2 class="tools-bonus-title">Stencil Creator</h2>
-          <p class="tools-bonus-desc">Where the cutting happens. Turn any photo into a print-ready, multi-layer cut stencil — draw freehand or use shapes and text, then export as PNG, PDF, or cut-ready SVG. Included <strong>free</strong> with The Airbrush Technique Bible.</p>
-          {BOOK_AVAILABLE
-            ? <a href="/book/" class="abd-btn-primary">Get the Book — {BOOK_PRICE} →</a>
-            : <a href="/book/" class="abd-btn-primary">Coming soon — learn more →</a>}
-        </div>
-      </div>
-    </div>
 
   </main>
 </BaseLayout>
@@ -257,49 +245,5 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
   font-size: 0.72rem;
   color: var(--abd-text-muted);
   margin-top: 8px;
-}
-.tools-bonus-section {
-  margin-bottom: 80px;
-}
-.tools-bonus-card {
-  display: flex;
-  align-items: flex-start;
-  gap: 24px;
-  padding: 32px;
-  background: var(--abd-surface);
-  border: 1px solid var(--abd-orange);
-  border-radius: var(--abd-radius);
-}
-.tools-bonus-icon {
-  font-size: 2.6rem;
-  flex-shrink: 0;
-}
-.tools-bonus-body {
-  flex: 1;
-}
-.tools-bonus-label {
-  font-size: 0.72rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--abd-orange);
-  margin-bottom: 8px;
-}
-.tools-bonus-title {
-  font-family: var(--abd-font-display);
-  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
-  font-weight: 700;
-  color: var(--abd-text);
-  margin-bottom: 10px;
-}
-.tools-bonus-desc {
-  font-size: 0.92rem;
-  color: var(--abd-text-dim);
-  line-height: 1.65;
-  max-width: 560px;
-  margin-bottom: 20px;
-}
-@media (max-width: 600px) {
-  .tools-bonus-card { flex-direction: column; gap: 16px; }
 }
 </style>

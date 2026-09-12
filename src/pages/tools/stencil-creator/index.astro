@@ -6,16 +6,16 @@ import { buildBreadcrumbSchema } from '../../../lib/schema';
 
 const appSchema = buildWebAppSchema({
   name: "Stencil Creator",
-  description: "Turn any photo into a print-ready multi-layer cut stencil and export as PNG, PDF or cut-ready SVG.",
+  description: "Turn any photo into a print-ready multi-layer cut stencil and export as PNG, PDF or cut-ready SVG. Runs in the browser, no signup.",
   path: "/tools/stencil-creator/",
-  free: false,
+  free: true,
 });
 const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Tools', path: '/tools/' }, { name: 'Stencil Creator' }]);
 
 ---
 <BaseLayout
   title="Stencil Creator — Photo to Cut-Ready Stencil | AirbrushDOC"
-  description="Turn any photo into a print-ready, multi-layer cut stencil. The Stencil Creator tool is included free with The Airbrush Technique Bible."
+  description="Free browser tool that turns any photo into a print-ready, multi-layer cut stencil. Export PNG, PDF or cut-ready SVG, one file per layer. No signup, nothing to install."
 >
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(appSchema)} />
@@ -31,32 +31,25 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
       <div class="blg-title-row">
         <h1 class="blg-page-title">Stencil <span class="blg-page-title-accent">Creator</span></h1>
       </div>
+      <p class="sc-lede">
+        Turn a photo into a print-ready, multi-layer cut stencil. Import an image, set your layers
+        and thresholds, then export as PNG, print-ready PDF, or cut-ready SVG, one file per layer.
+        It runs entirely in your browser, free, with no signup and nothing to install.
+      </p>
       <div class="blg-header-line" style="margin-top: 16px;"></div>
     </div>
+  </main>
 
-    <section class="sc-teaser">
-      <div class="sc-teaser-icon">✂️</div>
-      <div class="sc-teaser-label">Book Bonus</div>
-      <h2 class="sc-teaser-title">Turn any photo into a cut-ready stencil</h2>
-      <p class="sc-teaser-desc">
-        The Stencil Creator turns a photo into a print-ready, multi-layer cut stencil — import an image,
-        set your layers and thresholds, then export as PNG, PDF, or cut-ready SVG (one file per layer).
-        It runs entirely offline in your browser, no install needed.
-      </p>
-      <ul class="sc-teaser-feats">
-        <li>Photo import → automatic multi-layer separation</li>
-        <li>Adjustable luminosity thresholds per layer</li>
-        <li>Export PNG, print-ready PDF, or cut SVG</li>
-        <li>Works offline — yours forever</li>
-      </ul>
-      <div class="sc-teaser-cta">
-        {BOOK_AVAILABLE
-          ? <a href="/book/" class="abd-btn-primary">🎁 Get it free with the Book — {BOOK_PRICE} →</a>
-          : <a href="/book/" class="abd-btn-primary">🎁 Free with the Book — coming soon →</a>}
-        <p class="sc-teaser-note">Included as a free bonus with The Airbrush Technique Bible.{BOOK_AVAILABLE ? " Delivered with your download." : " Subscribe on the book page to get notified at launch."}</p>
-      </div>
-    </section>
+  <div class="sc-frame-wrap">
+    <iframe
+      src="/tools/stencil-creator.html"
+      title="Stencil Creator — photo to multi-layer cut stencil"
+      class="sc-frame"
+      allowfullscreen
+    ></iframe>
+  </div>
 
+  <main class="abd-container">
     <section class="tool-about">
       <h2>Making airbrush stencils by hand</h2>
       <p>You do not need software to cut a usable stencil. Print the image at final size, trace it
@@ -68,15 +61,58 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
       lightest to darkest, with registration marks so the layers line up. That is the part that gets
       tedious by hand, and it is the part the Stencil Creator automates: it splits a photo into
       layers by luminosity and exports one cut file per layer.</p>
+      <p>The SVG export is cut-ready, so it goes straight to a vinyl cutter or craft cutting machine
+      as well as to a blade and a mat.</p>
       <p class="tool-about-next"><strong>Free stencils and guides:</strong>
         <a href="/blog/multi-layer-stencils/">Multi-layer stencils</a> ·
         <a href="/blog/how-to-make-a-stencil-in-coreldraw/">Make a stencil in CorelDRAW</a> ·
         <a href="/freebies/">Free stencil packs</a></p>
     </section>
+
+    <section class="sc-book">
+      <div class="sc-book-text">
+        <h2 class="sc-book-title">Cutting the stencil is the easy half</h2>
+        <p>What decides the result is everything after: how you seal the edge, the order you spray
+        the layers in, and the pressure and thinning that stop paint creeping underneath.
+        <em>The Airbrush Technique Bible</em> is the manual for that part, and it ships with an
+        offline copy of this tool so it keeps working with no internet.</p>
+        {BOOK_AVAILABLE
+          ? <a href="/book/" class="abd-btn-primary">Get the book — {BOOK_PRICE} →</a>
+          : <a href="/book/" class="abd-btn-primary">Read the free preview →</a>}
+        {!BOOK_AVAILABLE && <p class="sc-book-note">In final editing. Subscribe on the book page and you will get the launch email.</p>}
+      </div>
+    </section>
   </main>
 </BaseLayout>
 
 <style>
+.sc-lede {
+  max-width: 68ch;
+  margin: 14px 0 0;
+  color: var(--abd-text-dim);
+  line-height: 1.7;
+  font-size: 0.98rem;
+}
+
+.sc-frame-wrap {
+  width: 100%;
+  height: calc(100vh - 260px);
+  min-height: 620px;
+  border-top: 1px solid var(--abd-border);
+}
+.sc-frame {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+@media (max-width: 768px) {
+  .sc-frame-wrap {
+    height: calc(100vh - 200px);
+    min-height: 540px;
+  }
+}
+
 .tool-about {
   max-width: 68ch;
   margin: 48px auto 0;
@@ -88,53 +124,26 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
 .tool-about p { color: var(--abd-text-dim); line-height: 1.75; margin: 0 0 14px; }
 .tool-about-next { margin-top: 18px; }
 
-.sc-teaser {
-  max-width: 620px;
-  margin: 0 auto 80px;
-  text-align: center;
-  padding: 32px 24px 0;
+.sc-book {
+  max-width: 68ch;
+  margin: 40px auto 72px;
+  padding: 26px 24px;
+  border: 1px solid var(--abd-border, #2a2a2a);
+  border-radius: 6px;
 }
-.sc-teaser-icon { font-size: 3rem; }
-.sc-teaser-label {
-  font-size: 0.72rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--abd-orange);
-  margin: 12px 0 10px;
-}
-.sc-teaser-title {
+.sc-book-title {
   font-family: var(--abd-font-display);
-  font-size: clamp(1.4rem, 3vw, 2rem);
-  font-weight: 800;
-  color: var(--abd-text);
-  margin-bottom: 16px;
+  font-size: 1.15rem;
+  margin: 0 0 12px;
 }
-.sc-teaser-desc {
-  font-size: 0.98rem;
+.sc-book p {
   color: var(--abd-text-dim);
-  line-height: 1.7;
-  margin-bottom: 24px;
+  line-height: 1.75;
+  margin: 0 0 18px;
 }
-.sc-teaser-feats {
-  list-style: none;
-  padding: 0;
-  margin: 0 auto 32px;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  text-align: left;
-}
-.sc-teaser-feats li {
-  font-size: 0.9rem;
-  color: var(--abd-text-dim);
-  display: flex;
-  gap: 10px;
-}
-.sc-teaser-feats li::before { content: '✓'; color: var(--abd-green); font-weight: 700; }
-.sc-teaser-note {
+.sc-book-note {
   font-size: 0.78rem;
   color: var(--abd-text-muted);
-  margin-top: 14px;
+  margin: 14px 0 0;
 }
 </style>

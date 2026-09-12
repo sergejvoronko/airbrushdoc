@@ -91,7 +91,6 @@ const crumbSchema = buildBreadcrumbSchema([
                   <span class="book-price">{BOOK_PRICE}</span>
                   <span class="book-price-note">one-time · digital download</span>
                 </div>
-                <div class="book-bonus-pill">🎁 Includes the <strong>Stencil Creator</strong> tool free</div>
                 <a href="#buy" class="book-buy-btn">Get the Book →</a>
                 <div class="book-guarantee">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
@@ -104,7 +103,6 @@ const crumbSchema = buildBreadcrumbSchema([
                   <span class="book-price">Coming soon</span>
                   <span class="book-price-note">in final editing</span>
                 </div>
-                <div class="book-bonus-pill">🎁 Will include the <strong>Stencil Creator</strong> tool free</div>
                 <a href="#buy" class="book-buy-btn">Get notified at launch →</a>
                 <div class="book-guarantee">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
@@ -220,12 +218,14 @@ const crumbSchema = buildBreadcrumbSchema([
             <div class="book-sc-visual-name">Stencil Creator</div>
           </div>
           <div class="book-sc-text">
-            <div class="book-sc-eyebrow">Bonus Tool — The Operating Room</div>
-            <h2 class="book-sc-title">The Stencil Creator, included free</h2>
+            <div class="book-sc-eyebrow">The Operating Room</div>
+            <h2 class="book-sc-title">The Stencil Creator, offline edition</h2>
             <p class="book-sc-desc">
               Turn any photo into a print-ready, multi-layer cut stencil. Import a picture, split it into up to
               three shading layers, or draw freehand with shapes and text — then export as PNG, PDF, or cut-ready
-              SVG for your plotter. Works completely offline in your browser, no installation.
+              SVG for your plotter. <a href="/tools/stencil-creator/">Use it free on the site</a>; the book ships
+              a standalone copy that keeps working with no internet, alongside the chapters on cutting, sealing
+              and spraying the layers.
             </p>
             <ul class="book-sc-list">
               <li>Photo → multi-layer stencil separation</li>
@@ -250,7 +250,7 @@ const crumbSchema = buildBreadcrumbSchema([
               <li>✓ Downloadable PDF version</li>
               <li>✓ Troubleshooting Encyclopedia (Chapter 15)</li>
               <li>✓ Business guide — pricing &amp; finding clients</li>
-              <li>✓ <strong>Bonus:</strong> Stencil Creator tool — turn any photo into a cut-ready stencil</li>
+              <li>✓ Stencil Creator, offline edition — the browser tool as a standalone file</li>
               <li>✓ Lifetime access, all future updates</li>
             </ul>
             <div class="book-buy-guarantee-row">
@@ -428,12 +428,6 @@ const crumbSchema = buildBreadcrumbSchema([
   margin-bottom: 14px;
 }
 .book-buy-btn:hover { background: var(--abd-orange-hover); transform: translateY(-1px); }
-.book-bonus-pill {
-  display: flex; align-items: center; gap: 6px;
-  font-size: 0.8rem; color: var(--abd-text-dim);
-  background: var(--abd-orange-soft); border: 1px solid var(--abd-orange-b20);
-  border-radius: var(--abd-radius-s); padding: 8px 12px; margin-bottom: 14px;
-}
 .book-guarantee {
   display: flex; align-items: center; gap: 8px;
   font-size: 0.76rem; color: var(--abd-text-muted);
