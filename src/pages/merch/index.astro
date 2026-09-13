@@ -95,7 +95,7 @@ const rest = withLive.filter(d => !d.live);
             <p class="mrc-blurb">{d.blurb}</p>
             <div class="mrc-products">{d.products.map(p => <span class="mrc-chip">{p}</span>)}</div>
             {d.live
-              ? <a class="mrc-btn" href={d.live.url} target="_blank" rel="noopener">Buy on Etsy, ${d.live.price.toFixed(2)}</a>
+              ? <a class="mrc-btn" href={d.live.url} target="_blank" rel="noopener">Buy on Etsy</a>
               : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
           </div>
         </article>
@@ -114,7 +114,7 @@ const rest = withLive.filter(d => !d.live);
             <p class="mrc-blurb">{d.blurb}</p>
             <div class="mrc-products">{d.products.map(p => <span class="mrc-chip">{p}</span>)}</div>
             {d.live
-              ? <a class="mrc-btn" href={d.live.url} target="_blank" rel="noopener">Buy on Etsy, ${d.live.price.toFixed(2)}</a>
+              ? <a class="mrc-btn" href={d.live.url} target="_blank" rel="noopener">Buy on Etsy</a>
               : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
           </div>
         </article>
@@ -127,6 +127,7 @@ const rest = withLive.filter(d => !d.live);
         <li><strong>Dark garments only.</strong> These are painted light-on-black. On a black shirt the shadows in the artwork are the shirt itself, which is exactly how airbrush work is meant to sit.</li>
         <li><strong>Printed at 300 DPI.</strong> Files are prepared at full print size with transparent backgrounds, so there is no box around the design.</li>
         <li><strong>Printed and shipped on demand</strong> by a print partner, so sizes and shipping depend on your region.</li>
+        <li><strong>Prices are shown by Etsy in your own currency.</strong> Inside the EU and UK that figure includes VAT, which is why it reads higher than the plain dollar price. Nothing is added at checkout.</li>
       </ul>
     </section>
 
