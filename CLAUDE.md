@@ -28,3 +28,15 @@ Do not reinstate either.
 
 ## Pending pre-launch (see memory `project_airbrushdoc_tasks.md`)
 17 tasks incl. image fixes, subscription gating, freebies page, editorial note cleanup, category rename, affiliate table; also tools polish, Remark42 comments, n8n automation, then DNS cutover.
+
+## Merch pipeline (Printify -> Etsy)
+- Etsy shop `AirbrushDOC`, Printify shop id **28918369**; token in `airbrushdoc-assets/.env` and n8n env
+- n8n: `Merch Generator` (webhook `airbrushdoc-merch-generate`) -> Telegram approve -> `Merch Create` -> Telegram publish button
+- Concept queue: `stacks/n8n/drafts/airbrushdoc/merch-concept.json`; `merch-draft.json` is the pending gate
+- Image rules live in `stacks/n8n/tools/merchprep.js`, not in prompts:
+  - Gemini never emits alpha; generate on flat black, key from the brightest channel
+  - trim transparent padding before upload or Printify shrinks the print
+  - `scale` must be computed from art vs print-area aspect, never left at 1 (width-fit crops the overflow)
+  - dark garments only; a white variant makes light-on-transparent art vanish
+  - Etsy tags: 13 max, 20 chars each, silently dropped otherwise
+- `node scripts/sync-merch.mjs` writes `src/data/merch.json` from products that are actually live on Etsy
