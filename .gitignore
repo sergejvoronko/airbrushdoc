@@ -39,10 +39,3 @@ deliverables/
 
 # graphify knowledge-graph output (local only)
 graphify-out/
-
-# Merch is unfinished and deliberately not shipped. src/pages/merch/index.astro
-# imports MERCH_AVAILABLE/MERCH_STORE_URL, which exist only in an uncommitted
-# src/config.ts, so committing the page alone breaks every Cloudflare build.
-# Remove this rule and commit config.ts in the same change when merch ships.
-src/pages/merch/
-public/images/merch/
