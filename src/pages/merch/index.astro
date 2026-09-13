@@ -131,13 +131,17 @@ const rest = withLive.filter(d => !d.live);
       </ul>
     </section>
 
-    {liveCount < designs.length && (
-      <section class="mrc-notify">
-        <h2 class="mrc-notify-title">Tell me when the store opens</h2>
-        <p class="mrc-notify-sub">Same list as the freebies — reference packs and stencils included. No payment, just your email.</p>
-        <NewsletterBox />
-      </section>
-    )}
+    <section class="mrc-notify">
+      <h2 class="mrc-notify-title">
+        {liveCount === 0 ? 'Tell me when the store opens' : 'Tell me when new designs land'}
+      </h2>
+      <p class="mrc-notify-sub">
+        {liveCount === 0
+          ? 'Same list as the freebies — reference packs and stencils included. No payment, just your email.'
+          : `${designs.length - liveCount} more designs are print-ready and not in the store yet. Same list as the freebies — reference packs and stencils included.`}
+      </p>
+      <NewsletterBox />
+    </section>
   </main>
 </BaseLayout>
 
