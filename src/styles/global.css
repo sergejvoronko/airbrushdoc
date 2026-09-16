@@ -455,10 +455,13 @@ img { max-width: 100%; height: auto; display: block; }
 /* ================================================================
    BLOG SEARCH
 ================================================================ */
-.blg-search-wrap { padding: 16px 0 0; }
+.blg-title-meta {
+  display: flex; flex-direction: column; align-items: flex-end;
+  gap: 8px; flex-shrink: 0;
+}
 .blg-search-box {
   position: relative; display: flex; align-items: center;
-  max-width: 420px;
+  width: 280px; max-width: 100%;
 }
 .blg-search-icon {
   position: absolute; left: 12px; width: 15px; height: 15px;
@@ -466,7 +469,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .blg-search-input {
   width: 100%; padding: 9px 12px 9px 36px;
-  background: var(--abd-surface); border: 1px solid var(--abd-border);
+  background: var(--abd-surface); border: 1px solid var(--abd-border-light);
   border-radius: var(--abd-radius-s); color: var(--abd-text);
   font-family: var(--abd-font-body); font-size: 0.86rem;
   transition: border-color 0.2s, box-shadow 0.2s;
@@ -475,7 +478,12 @@ img { max-width: 100%; height: auto; display: block; }
 .blg-search-input::placeholder { color: var(--abd-text-muted); }
 .blg-search-input:focus { border-color: var(--abd-orange); box-shadow: 0 0 0 2px var(--abd-orange-b15); }
 .blg-search-result-count {
-  margin-left: 10px; font-size: 0.78rem; color: var(--abd-text-muted); white-space: nowrap;
+  font-size: 0.78rem; color: var(--abd-text-muted); white-space: nowrap;
+}
+@media (max-width: 640px) {
+  .blg-title-meta { width: 100%; align-items: stretch; }
+  .blg-post-count { padding-bottom: 0; }
+  .blg-search-box { width: 100%; }
 }
 .blg-card-wrap { display: flex; }
 .blg-no-results { text-align: center; padding: 60px 0; color: var(--abd-text-muted); font-size: 0.95rem; }

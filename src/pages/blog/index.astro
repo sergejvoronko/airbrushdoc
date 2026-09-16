@@ -35,7 +35,23 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
       </nav>
       <div class="blg-title-row">
         <h1 class="blg-page-title">The <span class="blg-page-title-accent">AirbrushDOC</span> Blog</h1>
-        <span class="blg-post-count">{sorted.length} article{sorted.length !== 1 ? 's' : ''}</span>
+        <div class="blg-title-meta">
+          <span class="blg-post-count">{sorted.length} article{sorted.length !== 1 ? 's' : ''}</span>
+          <div class="blg-search-box">
+            <svg class="blg-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+            </svg>
+            <input
+              id="blgSearch"
+              class="blg-search-input"
+              type="search"
+              placeholder="Search articles…"
+              aria-label="Search articles"
+              autocomplete="off"
+            />
+          </div>
+          <span id="blgSearchCount" class="blg-search-result-count" style="display:none"></span>
+        </div>
       </div>
       <div class="blg-header-line"></div>
     </div>
@@ -51,23 +67,6 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
             <span class="blg-filter-count">{catCounts[cat]}</span>
           </a>
         ))}
-      </div>
-    </div>
-
-    <div class="blg-search-wrap">
-      <div class="blg-search-box">
-        <svg class="blg-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-        </svg>
-        <input
-          id="blgSearch"
-          class="blg-search-input"
-          type="search"
-          placeholder="Search articles…"
-          aria-label="Search articles"
-          autocomplete="off"
-        />
-        <span id="blgSearchCount" class="blg-search-result-count" style="display:none"></span>
       </div>
     </div>
 
