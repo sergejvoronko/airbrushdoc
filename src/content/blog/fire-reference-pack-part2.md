@@ -1,6 +1,7 @@
 ---
-title: "Fire Reference Images Pack - part 2"
-description: "A second part of fire reference, but this time in better, superior high quality. The purpose of this pack (exactly as in any of my previous reference packs)"
+title: "Fire Reference Images Pack Part 2: High-Resolution Flames"
+seoTitle: "Fire Reference Photos Pack 2: 45 High-Res Images"
+description: "45 high-resolution fire photographs, 1600×1064 up to 8550×2735, sharper than the first pack and sized for close reference work. Free to subscribers."
 pubDate: 2011-08-15
 category: "download"
 tags: ["airbrush", "airbrush reference", "fire pictures", "fire reference", "reference image"]

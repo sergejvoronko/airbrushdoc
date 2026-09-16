@@ -1,6 +1,7 @@
 ---
 title: "Airbrush Fire Reference Pictures Pack to Download"
-description: "Many people use fire reference pictures to make their work easier and to make final painting look more realistic. This is fire reference number one"
+seoTitle: "Fire Reference Pictures for Airbrush: 250+ Photos"
+description: "Over 250 fire reference photos for airbrush artists: flames, blazes, candles, wildfire and burning vehicles, at mixed resolutions. Free to subscribers."
 pubDate: 2014-08-21
 category: "download"
 tags: ["airbrush fire", "airbrush fire reference", "fire reference pack", "reference for airbrush"]
@@ -10,7 +11,6 @@ heroImage: "/images/wp-uploads/fire-reference-pack.webp"
 ---
 
 Many people use [reference pictures](/freebies/) to make their work easier and to make final painting look more realistic.
-This pack was downloaded from one famous torrent tracker and I hope author of this pack doesn't mind that I will share it here. 
 
 ### Description of Fire Reference Pictures Pack
 
@@ -40,7 +40,7 @@ Let's make some fire! I don't mean burning down stuff, I mean painting as real a
 
 I bet many of you are wondering how to make fire with the airbrush. It's kind of tricky to get it right. I remember my first attempt. It looked like some kind of weird jelly. However, the purpose of this pack is not to teach you how to do it step by step, rather check if you're doing it the right way. However if you're interested there is lots of tutorials out there covering the fire airbrushing techniques.
 
-You may notice that there is not many pictures of smoke - that's because I'll cover smoke in the next pack, so stick around. Any comments are welcome. If you want to request or contribute to this pack you can find the contact information in 'readme.txt' file.
+You may notice that there is not many pictures of smoke - that's because I cover smoke in [fire reference pack part 2](/blog/fire-reference-pack-part2/), which is a smaller set at much higher resolution. Any comments are welcome. If you want to request or contribute to this pack you can find the contact information in 'readme.txt' file.
 Size of this pack is 145MB.
 
 > **Get this pack free.** All the files live on my [freebies page](/freebies/), subscribe once and every pack unlocks, stencils and reference sets included.
