@@ -1,7 +1,7 @@
 ---
 title: "Best Airbrush for Plastic Models & Scale Kits in 2026: Gunpla, Military & Aircraft Compared"
-seoTitle: "Best Airbrush for Plastic Models & Scale Kits (2026)"
-description: "Find the best airbrush for plastic models in 2026. Gunpla, military, and aircraft kits compared by needle size, PSI, and Tamiya & Vallejo compatibility."
+seoTitle: "Best Airbrush for Plastic Models 2026: 8 Tested Picks"
+description: "Eight airbrushes tested on Gunpla, armour and 1/48 aircraft, from the budget Neo CN to the Infinity, with needle sizes, PSI and what to skip."
 pubDate: 2026-04-30
 readingTime: 10
 heroImage: "/images/best-airbrush-for-plastic-models.webp"
