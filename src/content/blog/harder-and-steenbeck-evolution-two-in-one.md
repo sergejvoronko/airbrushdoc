@@ -10,6 +10,8 @@ draft: false
 heroImage: "/images/wp-uploads/Harder-and-Steenback-Evolution.webp"
 ---
 
+> **This review is from 2011.** Harder & Steenbeck reworked the Evolution in 2024 and the nozzle sizes changed. The hands-on impressions below still stand, but [see what is different](#the-evolution-in-2026) before you buy.
+
 Maybe you all remember that I have mentioned this **airbrush** before. I did not do a review, I just showed some tips on **[how to tweak evolution airbrush](/blog/tuning-airbrush-evolution/)**. I admit it is not that perfect and needs some more adjusting. But when I posted a review on **[Aztek 7778](/blog/aztek-7778-airbrush/)** I decided to continue with more reviews. I'll start with one I have at home - [**Evolution Two in One**](/go/hs-evolution-two-in-one) from **Harder  and Steenbeck**.
 
 When I started to search for a perfect airbrush I had some requirements. One of them was the price and I bet that perfect one would cost a nice bunch of cash. So the word "perfect"  here is limited by it cost. I didn't want to spend fortune on something I wasn't sure is worth this money. And paying just for a brand name was not an option too.
@@ -61,6 +63,22 @@ Here are some lines with measuring-tape (in mm) - you can see how precise this t
 ![Looping freehand spray lines measured against a steel rule](/images/wp-uploads/Harder-and-Steenback-Evolution-18.webp)
 
 I hope that this is enough just to see that this is very good airbrush.
+
+## The Evolution in 2026
+
+The airbrush above is the Evolution as it shipped in 2011. The current model is the **Evolution 2024 CRplus**, and that is what arrives if you order one today.
+
+| | Reviewed here (2011) | Evolution 2024 CRplus |
+|---|---|---|
+| Fine nozzle | 0.2 mm | 0.28 mm |
+| Second nozzle | 0.4 mm | 0.45 mm |
+| Paint cups | 2 ml + 5 ml | 2 ml + 5 ml, unchanged |
+
+The 0.28 mm sprays finer in practice than the old 0.2 mm despite the larger number, and both new headsets are built to be more robust and to clog less. The trigger has been redesigned around the connection between finger and needle.
+
+The useful part if you already own one: the 2024 nozzles are **backwards compatible**. A 0.28 mm headset fits an older Evolution body, so you can have the new head without replacing the airbrush.
+
+For where the Evolution sits against everything else, see the [best airbrush](/blog/best-airbrush/) guide, or the [Infinity review](/blog/harder-and-steenbeck-infinity-review/) for the step up.
 
 ## Conclusion
 

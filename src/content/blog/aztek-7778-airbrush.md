@@ -10,6 +10,8 @@ draft: false
 heroImage: "/images/wp-uploads/aztek_4809.webp"
 ---
 
+> **The Aztek line was discontinued in 2019.** Testors stopped making the airbrushes and kept only the paints, so the 7778 is no longer in production and is found second-hand or as old shop stock. This review is kept as a record of the tool; if you are shopping now, see [what to buy instead](#what-to-buy-instead-of-an-aztek).
+
 Every starting airbrush artist or scale-modeller will get to a point in his life when he has to decide which airbrush to buy. I've planed to create this category for a long time but I could never find the right moment to start it off.
 
 Here we go! I started it and my first patient is **Aztek 7778 airbrush**. I think that many skilled airbrushists will skip this post as they probably have their experience with this brand or even with this particular airbrush gun.
@@ -119,6 +121,18 @@ To my surprise **Aztek** has more sets similar to this one in their offer (total
 ### Aztek 7778 is the most expensive but most completed set.
 
 **Aztek 4809** - has several nozzle tips limited to 6 (tan, grey, turquoise, white, black and red or orange - not sure). Reservoirs are the same but instead of 12ml one there is another special 2.5ml one. There is no pocket for airbrush storage. Not sure about hose, as when you check the images on internet it is not in the box, but e-shop has it listed in specifications.  Also there is no lid for can with compressed air but instead of tool key there is connector for compressor.![Open Aztek case with the airbrush, coloured nozzle tips and glass jars](/images/wp-uploads/aztek_4809.webp)**Aztek 4709** - is the same as 4809 but airbrush body is plastic (so it is probably the cheapest one)![Aztek case with a second airbrush body and the full accessory set](/images/wp-uploads/aztec_4709.webp)
+
+## What to Buy Instead of an Aztek
+
+With the line out of production since 2019, spare nozzles and reservoirs are the real problem: the Aztek design put the nozzle and needle in one sealed module, so a damaged tip meant a new module rather than a new needle, and those modules are now scarce.
+
+If you wanted an Aztek for the reasons this review liked it, the closest equivalents in current production are:
+
+- **Swappable tips without tools** — the [Harder & Steenbeck Evolution](/blog/harder-and-steenbeck-evolution-two-in-one/), whose self-centering headsets change in seconds and are still made.
+- **One airbrush covering fine detail to broad coverage** — the [best airbrush](/blog/best-airbrush/) comparison sorts the current field by budget.
+- **A first airbrush that will not be orphaned** — [best airbrush for beginners](/blog/best-airbrush-for-beginners-2026/).
+
+Buying a used Aztek is still reasonable if it comes with the nozzles you need, and only then. Judge the bundle, not the body.
 
 ## Design and Usefulness
 

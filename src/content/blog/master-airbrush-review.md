@@ -99,3 +99,8 @@ With this airbrush you can fix some scratches, paint some models, [cell phones](
 If you have tried something similar or have any other airbrushes that make bad name for airbrush art, please tell us in comments below and don't forget to tell your friends to be aware of such brands.
 
 I'm not saying that all Chinese airbrushes are bad and I'll be glad to check any other Chinese airbrush guns hoping they will score much better.
+
+> **Still sold, under other names.** The BD-200 reviewed here is a generic Chinese body that gets rebadged by whoever is importing it — the same airbrush turns up as the **Fengda BD-200**, among others. So the tolerances described above are not unique to one brand's label. Master Airbrush's current comparable budget model is the G22.
+
+👉 **[Check the Master Airbrush G22 price on Amazon →](/go/master-airbrush-g22)**
+
