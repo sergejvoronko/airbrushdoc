@@ -25,25 +25,25 @@ Let's go step by step to see what's there on the bill.
 
 ### What Do You Include On Final Bill?
 
- 	- Washing the car (not just once)
+- Washing the car (not just once)
 
- 	- Taking some of its parts apart
+- Taking some of its parts apart
 
- 	- [Car preparation](/blog/prepare-surface-for-airbrush/) (this is just like "I did it to save money", I don't think your client will be satisfied with this kind of solution)
+- [Car preparation](/blog/prepare-surface-for-airbrush/) (this is just like "I did it to save money", I don't think your client will be satisfied with this kind of solution)
 
- 	- Masking
+- Masking
 
- 	- A lot of steps needed directly for the art
+- A lot of steps needed directly for the art
 
- 	- Coating
+- Coating
 
- 	- Polishing
+- Polishing
 
- 	- Assembling
+- Assembling
 
- 	- Washing again
+- Washing again
 
- 	- I bet I missed something :)
+- I bet I missed something :)
 
 Every of these steps have its own severity that requires not only time but the money as well.
 

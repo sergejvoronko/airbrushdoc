@@ -20,21 +20,21 @@ This day has come. Today's candidate for airbrush compressor review is AS-189 fr
 
 ### What Does the Manufacturer Say About AS-189?
 
- 	- Oil free, piston type
+- Oil free, piston type
 
- 	- Double air pressure switch
+- Double air pressure switch
 
- 	- Air pressure gauge and air filter
+- Air pressure gauge and air filter
 
- 	- Adjustable pressure
+- Adjustable pressure
 
- 	- Thermal protection inside
+- Thermal protection inside
 
- 	- Low noise
+- Low noise
 
- 	- Weight 5.2Kg
+- Weight 5.2Kg
 
- 	- Dimensions: 330x150x330mm
+- Dimensions: 330x150x330mm
 
 Here is the box:
 

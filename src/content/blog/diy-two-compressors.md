@@ -18,33 +18,33 @@ There's actually **two compressors** hidden under caddy which author got for fre
 
 Besides that he also needed:
 
- 	- one-way valve
+- one-way valve
 
- 	- oil receiver
+- oil receiver
 
- 	- line filter regulator with manometer
+- line filter regulator with manometer
 
- 	- manometer for tank
+- manometer for tank
 
- 	- bunch of different connectors...
+- bunch of different connectors...
 
- 	- some hoses
+- some hoses
 
- 	- pneumatic pressure switch [on - 3bar (43.5psi), off - 4bar (58psi)]
+- pneumatic pressure switch [on - 3bar (43.5psi), off - 4bar (58psi)]
 
- 	- relay
+- relay
 
- 	- a lot of screws ...
+- a lot of screws ...
 
- 	- power cable
+- power cable
 
- 	- emergency valve
+- emergency valve
 
- 	- two fuel filters
+- two fuel filters
 
- 	- start capacitor
+- start capacitor
 
- 	- start relay for compressor
+- start relay for compressor
 
 It's a pity I cannot show all the parts separately as author didn't want to share it with everybody when he was building it. So all he can share now is completed machine with / without cover, problems that he had during this project and some details about his expenses.
 

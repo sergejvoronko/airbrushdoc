@@ -26,11 +26,11 @@ So I do it by this question: ***Have you ever seen a real fire or skull painting
 
 So here comes my questions to my readers (I hope there are some Pro's as well):
 
- 	- **What is the easiest way to explain what airbrush is to any person?**
+- **What is the easiest way to explain what airbrush is to any person?**
 
- 	- **Why do you think that real fire and skull motives became that popular this days?**
+- **Why do you think that real fire and skull motives became that popular this days?**
 
- 	- **What is your opinion on this motives?**
+- **What is your opinion on this motives?**
 
 I can go on and on ...
 

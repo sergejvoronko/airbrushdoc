@@ -38,8 +38,8 @@ Construction is very easy and clear from the picture above. The only thing to co
 
 At the end I included some numbers from my test:
 
- 	- The breaker starts at 33 - 36 psi
+- The breaker starts at 33 - 36 psi
 
- 	- In Idle cycle (not working with airbrush), the pressure stabilized around 56psi
+- In Idle cycle (not working with airbrush), the pressure stabilized around 56psi
 
- 	- When working with airbrush the pressure stabilized at 28 - 30psi
+- When working with airbrush the pressure stabilized at 28 - 30psi

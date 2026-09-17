@@ -53,11 +53,11 @@ I've also come up with a few tricks of my own, I use them for my sculptures and 
 
 ### Creating Realistic Veins
 
- 	- I paint a lot of mannequins so I try to add more realistic features to them. **A good way to make realistic veins is hot glue**. Just run a bead of hot glue very quickly and thinly to create a vein, you can branch it off using the same technique to make a more detailed vein. Once the glue has dried paint it blue and let dry, after that you can cover it with any flesh tone and the blueness will show through creating a realistic looking vein. You can use the same technique for scars too!
+- I paint a lot of mannequins so I try to add more realistic features to them. **A good way to make realistic veins is hot glue**. Just run a bead of hot glue very quickly and thinly to create a vein, you can branch it off using the same technique to make a more detailed vein. Once the glue has dried paint it blue and let dry, after that you can cover it with any flesh tone and the blueness will show through creating a realistic looking vein. You can use the same technique for scars too!
 
 ### Creating Weld Bead Effects
 
- 	- To create a weld bead use hot glue again. This time run a bead going slower and thicker. Once the glue has dried, spray it with silver. You can then spray the glue with over reduced black or brown to give it a bit of texture, then use over reduced blue and spray parts of the bead to look like the bluing that metals get when welding.
+- To create a weld bead use hot glue again. This time run a bead going slower and thicker. Once the glue has dried, spray it with silver. You can then spray the glue with over reduced black or brown to give it a bit of texture, then use over reduced blue and spray parts of the bead to look like the bluing that metals get when welding.
 
 ## Connect with Steven Lane
 

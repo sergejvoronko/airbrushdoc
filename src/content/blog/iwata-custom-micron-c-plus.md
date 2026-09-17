@@ -26,13 +26,13 @@ Nice metal box and nice finish color which gives you the felling of top quality.
 
 ![Iwata Custom Micron airbrush seated in its fitted case](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-4.webp)
 
- 	- The airbrush gun itself
+- The airbrush gun itself
 
- 	- Pistol grip moisture filter (for clean and dry air-flow)
+- Pistol grip moisture filter (for clean and dry air-flow)
 
- 	- Nozzle key
+- Nozzle key
 
- 	- The lube for storing purposes.
+- The lube for storing purposes.
 
 ## Closer Look at Custom Micron
 
@@ -42,7 +42,7 @@ Nice metal box and nice finish color which gives you the felling of top quality.
 
 If I look at everything that comes with this airbrush, I can see a big difference when comparing to airbrushes I have reviewed before ([airbrush reviews](/airbrush-reviews/)). Actually the set is very poor. So, what makes this airbrush so special and so expensive?
 
- 	- **Quick Fix with a dial**
+- **Quick Fix with a dial**
 
 ![Custom Micron tail with the knurled needle-stop adjuster](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-6.webp)Yes, it has a speed dial similar to one I mentioned in [Infinity review](/blog/harder-and-steenbeck-infinity-review/). The function is similar to set the limit for trigger maximum level. As in Infinity it adjusts the needle movement and paint flow but it doesn't have two functions (screwing only).
 
@@ -50,29 +50,29 @@ If I look at everything that comes with this airbrush, I can see a big differenc
 
 It has open quick fix but some professionals prefer to work without it. Some even take the front part off. Why? First it gives you better visibility and second, the airbrush feels much lighter. So, all that fancy speed dial becomes useless in hands of a Pro. When I asked for advice "*Have* you ever needed to use speed dial to limit the paint flow?" I received an answer "*No, I have a good feeling in my fingers, why would I need to limit the paint flow and waste my time playing with a dial. It is for beginners only*".
 
- 	- **MAC - External Micro Air Control Valve **
+- **MAC - External Micro Air Control Valve **
 
 It's a huge plus of this gun. Especially, if you want to do a really fine art with incredible details, then you may find very useful to limit the air pressure
 
- 	- **Quick Disconnect**
+- **Quick Disconnect**
 
 Also useful feature when you use more airbrushes at the same time or perhaps if you use more compressors and keep switching between them. This advantage is mostly optional for other brands, but here it comes by default and with** pistol grip moisture filter **(no more worries about filtering the air from compressor)**. **
 
- 	- **The Cup 9ml**
+- **The Cup 9ml**
 
 Is permanent (means no leaks at all). The size is good for any user doing fine art and the lid is a plus too. ***![Close-up of the polished Custom Micron paint cup interior](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-10.webp)***
 
 ## Minuses (cons) of Custom Micron
 
- 	- If the nozzle is destroyed then the whole head system has to be replaced to keep original performance.
+- If the nozzle is destroyed then the whole head system has to be replaced to keep original performance.
 
 It can result in some unexpected costs but it gives you really the original performance. So, by replacing only the head, system is practically completely refurbished and airbrush gun set to "factory settings". Almost, but the trigger. Yes, only cleaning and applying lube the air piston will make it feel like new. The airbrush comes with a lube so you can use that one. The lube should be used every time you going to store the gun for longer time, or if you do some maintenance work on airbrush or fix some problems like sticky trigger...
 
- 	- **Weak Nozzle**
+- **Weak Nozzle**
 
 Iwata deals with the weak nozzle better than most airbrushes  as the head system can be removed to clean out the inside of the nozzle without removing the nozzle (which isn't that bad quality) and as I wrote earlier many Pros work without the head system anyway.
 
- 	- Bent needles
+- Bent needles
 
 This is the most common problem but it's only user fault. In some cases needles can be repaired, but in most cases you will have to order the replacement nozzle or needle set with nozzle. If you're careful you may avoid buying replacements - but you never know and replacement isn't that cheap (My Bro bent the needle 3 times and now he's got 3 spare needles and 2 spare nozzle for any unexpected situation. I didn't even ask him how much does it cost as every time I talk about it he becomes sad :(.
 
@@ -84,11 +84,11 @@ Here is the airbrush taken apart.
 
 Standard cleaning process is not difficult. The construction of the cup and quick step to take the system apart makes the cleaning really easy. But you have to be careful as you can run into cleaning problems even during the work.
 
- 	- **Dry tip**
+- **Dry tip**
 
 This happens a lot, especially if you do fine work, your needle sticks out more and the paint will dry out on the tip of needle. There is a solution to use slow reducer, otherwise you will have to clean it during the work.
 
- 	- **Clogs**
+- **Clogs**
 
 This happens only if you paint with some longer breaks which gives the paint time to dry. It happens really often, especially because of small nozzle and low air pressure.
 

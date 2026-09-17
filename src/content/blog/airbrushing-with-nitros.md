@@ -58,11 +58,11 @@ I would recommend to get **Federal Standard Color Chart** (I'm not sure if you c
 
 The marking in this standard is made of two letters FS (federal standard) and 5 digits (FS XXXXX) where every digit is assigned to particular color.
 
- 	- First digit means brightness (1 - bright, 2 - semi-opaque, 3 - opaque)
+- First digit means brightness (1 - bright, 2 - semi-opaque, 3 - opaque)
 
- 	- Second is for color tone (0-brown, 1-red, 2-orange, 3-yellow, 4-green, 5-blue, 6-grey, 7-doesn't go under any of the above (black, white, transparent, silver ...), 8-special paint (half-transparent, metallic, fluorescent))
+- Second is for color tone (0-brown, 1-red, 2-orange, 3-yellow, 4-green, 5-blue, 6-grey, 7-doesn't go under any of the above (black, white, transparent, silver ...), 8-special paint (half-transparent, metallic, fluorescent))
 
- 	- Next Three digits are for intensity. As lowest is the number as more intensive is the color. In many cases it is not true and mostly you just get the color out of this number but not intensity. Sometimes they even give this color funny names like "color of duck eggs" or "dark-grey feather of seagull" :)
+- Next Three digits are for intensity. As lowest is the number as more intensive is the color. In many cases it is not true and mostly you just get the color out of this number but not intensity. Sometimes they even give this color funny names like "color of duck eggs" or "dark-grey feather of seagull" :)
 
 Example: FS35237 -Opaque, grey, half-intensity; FS34092 - Opaque, green, intensive, dark-green-lightblue. Here is the picture as better example:
 

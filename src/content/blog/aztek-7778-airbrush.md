@@ -22,15 +22,15 @@ To be honest, and pro's will agree, if you decide to choose an airbrush, please 
 
 Let's have a look at what the manufacturer says about his product:
 
-	- When cleaning you don't have to take it apart
+- When cleaning you don't have to take it apart
 
-	- Light and well-balanced
+- Light and well-balanced
 
-	- Can be used with gravity or siphon feed
+- Can be used with gravity or siphon feed
 
-	- Single or Double Action regimes
+- Single or Double Action regimes
 
-	- Wide selection of nozzle tips and paint reservoirs
+- Wide selection of nozzle tips and paint reservoirs
 
 So let's see if it's true.
 
@@ -42,49 +42,49 @@ For the asked money ***Aztek*** gives you a nice collection of tools. First thin
 
 ![Open Aztek 7778 case with airbrush, nozzle tips, cups and accessories](/images/wp-uploads/aztek_7778.webp)In the box you can find:
 
-	- airbrush itself
+- airbrush itself
 
-	- silk pocket for airbrush (not that important but still gives you nice feeling)
+- silk pocket for airbrush (not that important but still gives you nice feeling)
 
 ![Aztek airbrush in its black protective pouch](/images/wp-uploads/aztek_pocket.webp)
 
-	- air-hose and all the connectors you need to connect it to your compressor
+- air-hose and all the connectors you need to connect it to your compressor
 
 ![Air hose connector being attached to the compressor outlet](/images/wp-uploads/aztek_hose_reductor.webp)
 
-	- and a special cap to connect the airbrush to a can with compressed air.
+- and a special cap to connect the airbrush to a can with compressed air.
 
 ![Aztek paint reservoir cap and mounting collar seen from above](/images/wp-uploads/aztek_cap.webp)
 
 ## Large set of Nozzle tips
 
-	- **9304C**, for fine lines: 0,3 mm (tan) – not suitable for acrylic paint
+- **9304C**, for fine lines: 0,3 mm (tan) – not suitable for acrylic paint
 
-	- **9305C**, for general purpose: 0,4 mm (grey) – not suitable for acrylic paint
+- **9305C**, for general purpose: 0,4 mm (grey) – not suitable for acrylic paint
 
-	- **9306C**, large pressure tip: 0,5 mm (turquoise)
+- **9306C**, large pressure tip: 0,5 mm (turquoise)
 
-	- **9307C**, for use with uneven surface: 0,5 мм (pink)
+- **9307C**, for use with uneven surface: 0,5 мм (pink)
 
-	- **9340C**, acrylic paint general purpose: 0,4 mm (black)
+- **9340C**, acrylic paint general purpose: 0,4 mm (black)
 
-	- **9341C**, acrylic paint general purpose: 0,5 mm (white)
+- **9341C**, acrylic paint general purpose: 0,5 mm (white)
 
-	- **9342C**, special tip for small and medium areas: 0,53 mm (red)
+- **9342C**, special tip for small and medium areas: 0,53 mm (red)
 
-	- **9343C**, for large areas: 0,7 mm (orange)
+- **9343C**, for large areas: 0,7 mm (orange)
 
-	- **9344C**, for very large areas: 1,02mm (yellow)
+- **9344C**, for very large areas: 1,02mm (yellow)
 
 ## Set of Interchangeable reservoirs
 
 These are described as gravity and siphon here but I would say that it is gravity - side and siphon-side feed.
 
-	- **gravity feed**: 3ml, 7.5ml and 10ml
+- **gravity feed**: 3ml, 7.5ml and 10ml
 
-	- **siphon feed**: 28ml and 33ml
+- **siphon feed**: 28ml and 33ml
 
-	- **special reservoir** 2.5ml that can be taken apart into two pieces (very comfortable to use if you change nozzle tips very often as when you take the tip off paint won't leak)
+- **special reservoir** 2.5ml that can be taken apart into two pieces (very comfortable to use if you change nozzle tips very often as when you take the tip off paint won't leak)
 
 ![Set of interchangeable Aztek paint reservoirs and cups](/images/wp-uploads/aztek_reseirvoir_2.webp)And one more 12ml with a bit similar but kind of different construction. The only one without lid.
 
@@ -92,11 +92,11 @@ These are described as gravity and siphon here but I would say that it is gravit
 
 This key can be used for three different purposes:
 
-	- Pushing out the blinder from the hole where you mount the reservoir
+- Pushing out the blinder from the hole where you mount the reservoir
 
-	- Taking off and on nozzle tip
+- Taking off and on nozzle tip
 
-	- For cleaning the airbrush canal
+- For cleaning the airbrush canal
 
 **![Red Aztek tool key labelled for removing the blinder and nozzle tip](/images/wp-uploads/aztek_key1.webp)**
 

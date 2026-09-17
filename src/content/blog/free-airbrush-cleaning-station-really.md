@@ -55,13 +55,13 @@ As I was looking on the web for something similar I have found some, so I just p
 
 Ah! I forgot to make a list of items that I had used, so everybody can calculate the cost of this station:
 
- 	- empty jar with hermetic lid
+- empty jar with hermetic lid
 
- 	- 2 cigarettes (I have wasted 3 :()
+- 2 cigarettes (I have wasted 3 :()
 
- 	- a piece of hose or cable insulation of right diameter
+- a piece of hose or cable insulation of right diameter
 
- 	- super glue
+- super glue
 
 and of course some tools like drill and knife.
 

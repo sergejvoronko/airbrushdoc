@@ -91,35 +91,35 @@ The other things to have in mind when choosing the airbrush gun is nozzle and ne
 
 Very difficult to tell. First of all you have to choose the type from all the examples I have mentioned above.
 
- 	- Is it going to be single or double-action airbrush
+- Is it going to be single or double-action airbrush
 
- 	- what kind of feed do you prefer
+- what kind of feed do you prefer
 
- 	- look around for the type of mixing that you want
+- look around for the type of mixing that you want
 
 Now is the right time to present a few advises from professionals, that I've been collecting for last few weeks from my Facebook fan page, twitter and other sources:
 
- 	- My first airbrush was a cheap plastic Aztec that come in model kits. I didn't know a lot about brushes back then and never could get it to work well until I purchased an Iwata HP-CS, than I understood what makes the angels sing. A new world opened up. I was finally able to paint my masterpieces with precision control & much less fuss with the brush.
+- My first airbrush was a cheap plastic Aztec that come in model kits. I didn't know a lot about brushes back then and never could get it to work well until I purchased an Iwata HP-CS, than I understood what makes the angels sing. A new world opened up. I was finally able to paint my masterpieces with precision control & much less fuss with the brush.
 
- 	- The right tools & equipment are essential. My advice to anyone looking to start would be to make the investment in the beginning. It will spare you the time & frustration in the long run.
+- The right tools & equipment are essential. My advice to anyone looking to start would be to make the investment in the beginning. It will spare you the time & frustration in the long run.
 
- 	- Paasche SA was a good start, I was just mucking around with it one day for fun and discovered I really enjoyed it. Now I have a Harder & Steinbeck Infinity and can't stop airbrushing.
+- Paasche SA was a good start, I was just mucking around with it one day for fun and discovered I really enjoyed it. Now I have a Harder & Steinbeck Infinity and can't stop airbrushing.
 
- 	- The right tools make all the difference. There was a huge difference between the SA Paasche and the Iwata HP-CS, I practically had to retrain myself all over again learning to control the DA after starting with a SA.
+- The right tools make all the difference. There was a huge difference between the SA Paasche and the Iwata HP-CS, I practically had to retrain myself all over again learning to control the DA after starting with a SA.
 
- 	- DO NOT BUY A SINGLE ACTION AIRBRUSH unless you just want to paint models. They have their uses but make it very difficult to achieve some strokes and techniques for artistic painting.
+- DO NOT BUY A SINGLE ACTION AIRBRUSH unless you just want to paint models. They have their uses but make it very difficult to achieve some strokes and techniques for artistic painting.
 
- 	- Never waste money on cheap airbrushes, but you don't need to spend big money either for something like the Iwata CM C+ .
+- Never waste money on cheap airbrushes, but you don't need to spend big money either for something like the Iwata CM C+ .
 
- 	- I don't like external mix after my Paasche, and siphon feeds waste a lot of paint when you clean or change colour, so if you are a newbie and only doing small artworks, then it's not a good idea. Gravity feed is definitely the one to go for someone new
+- I don't like external mix after my Paasche, and siphon feeds waste a lot of paint when you clean or change colour, so if you are a newbie and only doing small artworks, then it's not a good idea. Gravity feed is definitely the one to go for someone new
 
- 	- My first was a very expensive Badger. All I did was fight the whole time I tried. They are fussy and I ended up getting a Master g44 ( smooth :))
+- My first was a very expensive Badger. All I did was fight the whole time I tried. They are fussy and I ended up getting a Master g44 ( smooth :))
 
- 	- I had the opportunity to use the new Harder & Steenbeck “Infinity Two-in-One” airbrush - in all honesty I have to say I wasn’t prepared for it to be as good as it is! This brush deserves to be viewed as a totally unique experience. For an Artist on a budget who needed to be able to work across a full range of venues from Automotive or Fine Art, to Textile/Wearable Art, this airbrush would be a best buy. I am VERY impressed by this airbrush.
+- I had the opportunity to use the new Harder & Steenbeck “Infinity Two-in-One” airbrush - in all honesty I have to say I wasn’t prepared for it to be as good as it is! This brush deserves to be viewed as a totally unique experience. For an Artist on a budget who needed to be able to work across a full range of venues from Automotive or Fine Art, to Textile/Wearable Art, this airbrush would be a best buy. I am VERY impressed by this airbrush.
 
- 	- I've been airbrushing for 18 years and I have never seen an assembly that large pull consistently fine lines like that. After experimenting for a time I began my painting. I used the Infinity and absolutely loved working with it. The features are a dream! It performed beautifully and did absolutely everything that I needed it to do with an effortless consistency. I am extremely impressed with this airbrush, and would definitely recommend it to anyone. I also think that this brush would be ideal for beginning airbrushists because it is so easy to use and leaves lots of room to grow as the user progresses.
+- I've been airbrushing for 18 years and I have never seen an assembly that large pull consistently fine lines like that. After experimenting for a time I began my painting. I used the Infinity and absolutely loved working with it. The features are a dream! It performed beautifully and did absolutely everything that I needed it to do with an effortless consistency. I am extremely impressed with this airbrush, and would definitely recommend it to anyone. I also think that this brush would be ideal for beginning airbrushists because it is so easy to use and leaves lots of room to grow as the user progresses.
 
- 	- Start out with what you can afford but realize that you get what you pay for. Don't be cheap, purchase the recommended paints and thinners. "Practice. Practice. Practice" is the key to perfection
+- Start out with what you can afford but realize that you get what you pay for. Don't be cheap, purchase the recommended paints and thinners. "Practice. Practice. Practice" is the key to perfection
 
 I'm not promoting any brands here. These are professional advices and if you don't believe them do some background research and find some more reviews.
 

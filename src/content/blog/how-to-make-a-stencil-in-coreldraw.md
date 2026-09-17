@@ -24,15 +24,15 @@ There is an option by Adobe called Illustrator that works with vectors and even 
 This particular tutorial is for creating of one layer stencil of a photograph**
 **
 
- 	- Get rid of all the parts we don't need
+- Get rid of all the parts we don't need
 
- 	- Desaturate
+- Desaturate
 
- 	- With toll "Brightness/Contrast" we achieve maximum contrast
+- With toll "Brightness/Contrast" we achieve maximum contrast
 
- 	- Fix all the details with paintbrush/eraser
+- Fix all the details with paintbrush/eraser
 
- 	- Repeat last two steps untill we get the result we want
+- Repeat last two steps untill we get the result we want
 
 This is the easy way to make a stencil. I will show you more advanced way. Well, if we want to make the stencil of a photo you need to use a bitmap editor first to prepare it for a vector editor. Which one you're going to use, doesn't matter as CorelPhotoPaint, Photoshop or maybe Gimp have similar tools (they just may be under different menu or called slightly different name). Even though I have said we need CorelDraw because it is a vector editor, most of the steps are done in bitmap editor.
 

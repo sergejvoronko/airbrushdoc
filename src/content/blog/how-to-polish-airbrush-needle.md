@@ -31,17 +31,17 @@ At one moment in video I've made a note that besides rotation you will have to p
 
 Logical? No? Doesn't matter, it is not that crucial but I'm doing it anyway. Enough of that scientific blabbing. So, what is the process of polishing I'm going to use?
 
- 	- Step 1 - Sand-paper **P800** (the roughest in this case). Sanding has to be done wet way.
+- Step 1 - Sand-paper **P800** (the roughest in this case). Sanding has to be done wet way.
 
- 	- Step 2 - Sand-paper **P1000** also with drop of water.
+- Step 2 - Sand-paper **P1000** also with drop of water.
 
- 	- Step 3 - Sand-paper **P1500** wet as well.
+- Step 3 - Sand-paper **P1500** wet as well.
 
- 	- Step 4 - Sand-paper **P2000**. Don't forget water.
+- Step 4 - Sand-paper **P2000**. Don't forget water.
 
- 	- Step 5 - Here I've used [**Fine Abrasive Paste form 3M**](/go/3m-fine-abrasive-paste) on the backside of sand-paper (but you can use really anything (leather might be even better))
+- Step 5 - Here I've used [**Fine Abrasive Paste form 3M**](/go/3m-fine-abrasive-paste) on the backside of sand-paper (but you can use really anything (leather might be even better))
 
- 	- Step 6 - Last but not least **Ultra fine finishing abrasive paste** that I usually use for final touches when polishing a car.
+- Step 6 - Last but not least **Ultra fine finishing abrasive paste** that I usually use for final touches when polishing a car.
 
 As I've mentioned before there could be more steps as you can use more sand-papers (for example try to use P1200, P1800 in-between or even 2500 and 3000) this could improve the whole polishing process and give you the result which would be close to perfection.
 

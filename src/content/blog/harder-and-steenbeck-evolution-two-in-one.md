@@ -20,15 +20,15 @@ I preferred an [airbrush](/) with **gravity feed**. Another reason to consider w
 
 ## Why did I choose Harder and Steenbeck?
 
- 	- First of all as I mentioned before the quality of materials. This airbrush is made of steel. It means that it's going to be resistant to any chemicals
+- First of all as I mentioned before the quality of materials. This airbrush is made of steel. It means that it's going to be resistant to any chemicals
 
- 	- Second was material of seals (teflon). It is resistant to any reducers (It has some rubber seals to make it more hermetic, but this can be fixed as per my earlier post here [how to fix evolution airbrush](/blog/tuning-airbrush-evolution/))
+- Second was material of seals (teflon). It is resistant to any reducers (It has some rubber seals to make it more hermetic, but this can be fixed as per my earlier post here [how to fix evolution airbrush](/blog/tuning-airbrush-evolution/))
 
- 	- Self centering socket-type nozzle. It means  that its saddle is made the way so you don't have to take it out every time you clean it (less risk that you'll break it). On the other side to make it this way costs more on manufacturer's side and then results in higher price.
+- Self centering socket-type nozzle. It means  that its saddle is made the way so you don't have to take it out every time you clean it (less risk that you'll break it). On the other side to make it this way costs more on manufacturer's side and then results in higher price.
 
- 	- The set that you buy from Harder and Steenbeck has, apart from default complete airbrush with 0.2 nozzle tip with a needle and cup 2ml, another nozzle with a needle for 0.4mm and cup 5ml.  Altogether you get almost two airbrushes in one (One with smaller tip for fine art and large tip for coating or painting large areas).
+- The set that you buy from Harder and Steenbeck has, apart from default complete airbrush with 0.2 nozzle tip with a needle and cup 2ml, another nozzle with a needle for 0.4mm and cup 5ml.  Altogether you get almost two airbrushes in one (One with smaller tip for fine art and large tip for coating or painting large areas).
 
- 	- The price is still lower than any of its competition. For example [**Iwata **](/blog/iwata-custom-micron-c-plus/)is more expensive but does not offer as many accessories as Harder and Steenbeck. Even the price for spare parts is much lower and it is more available in Europe that Japanese Iwata.
+- The price is still lower than any of its competition. For example [**Iwata **](/blog/iwata-custom-micron-c-plus/)is more expensive but does not offer as many accessories as Harder and Steenbeck. Even the price for spare parts is much lower and it is more available in Europe that Japanese Iwata.
 
 I have to admit, I prefered German firmness instead of Japanese quality. To my luck I found online shop in UK and ordered not only airbrush but "**Finespray Quick Release Body & Tail Kit AB-117**" and **Quick Fix** too.
 

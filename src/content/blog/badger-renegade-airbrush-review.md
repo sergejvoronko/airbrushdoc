@@ -26,21 +26,21 @@ Please note that the airbrushes photographed in this review are **Special Editi
 
 So, what's inside of Extreme Set?
 
- 	- Velocity airbrush
+- Velocity airbrush
 
- 	- Spirit airbrush
+- Spirit airbrush
 
- 	- Rage airbrush
+- Rage airbrush
 
- 	- 2 attachable jars
+- 2 attachable jars
 
- 	- 2 side-feed color cups
+- 2 side-feed color cups
 
- 	- 2 caps
+- 2 caps
 
- 	- 2 additional regulators
+- 2 additional regulators
 
- 	- Iwata hose adapter
+- Iwata hose adapter
 
 ## Badger Velocity
 

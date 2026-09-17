@@ -15,15 +15,15 @@ I've been surfing the net the other day trying to find some airbrush compressors
 If you build it yourself it will help you to save some money. The whole "**know-how**" comes from a Russian website so I will become translator for a while.  The main issue for all the **airbrush artists** is the right air pressure at the input of the [**airbrush gun**](/blog/choose-airbrush/). One of my issues at the start was money so I was looking for a simple and at the same time cheap solution. As you probably already figured out airbrush won't work without compressor. I knew that there is one kind of compressor that most of us can get for free or for a very little money. All I needed was just to find the way how to use it. What kind of compressor am I talking about? :) ...I'll tell you later.
  For now you can follow these steps:
 
-	- Search
+- Search
 
-	- Surgery
+- Surgery
 
-	- Preparation
+- Preparation
 
-	- Utilization
+- Utilization
 
-	- Maintenance
+- Maintenance
 
 ## Search
 
@@ -72,25 +72,25 @@ I hope that you didn’t get into any trouble and everything is working. Now we 
 
 Visit your closest car parts shop and buy this:
 
-	- 1L of motor **oil 10w40** or other semi-synthetic motor oil. If you can get a **500ml** package it is going to be enough.
+- 1L of motor **oil 10w40** or other semi-synthetic motor oil. If you can get a **500ml** package it is going to be enough.
 
-	- Oil and fuel resistant durable armed rubber hose about 1m long and 4mm of inside diameter. It won’t hurt to take a small piece of copper pipe to try it on in the shop just to be sure.
+- Oil and fuel resistant durable armed rubber hose about 1m long and 4mm of inside diameter. It won’t hurt to take a small piece of copper pipe to try it on in the shop just to be sure.
 
-	- 6 metal hose clamps for the rubber hose with diameter just a little bit bigger than the hose.﻿
+- 6 metal hose clamps for the rubber hose with diameter just a little bit bigger than the hose.﻿
 
-	- PVC hose for windshield screen washer. It’s half transparent hose (some are even armed but we don’t need those). Choose your own length as your comfort will depend on it. I would recommend at least 2m.
+- PVC hose for windshield screen washer. It’s half transparent hose (some are even armed but we don’t need those). Choose your own length as your comfort will depend on it. I would recommend at least 2m.
 
-	- Two filters for fuel filtering – one for petrol (gasoline) and one for diesel fuel. Visually they are different as petrol has a paper harmonica inside while the diesel one has a synthetic net.
+- Two filters for fuel filtering – one for petrol (gasoline) and one for diesel fuel. Visually they are different as petrol has a paper harmonica inside while the diesel one has a synthetic net.
 
-	- **Thick silicon** (oil and fuel resistant) sealant. Thin, black silicon sealant is not very good for the job.
+- **Thick silicon** (oil and fuel resistant) sealant. Thin, black silicon sealant is not very good for the job.
 
 Than go to electrical shop and buy:
 
-	- Power cable with double isolation and at least 1.5m long.
+- Power cable with double isolation and at least 1.5m long.
 
-	- On/Off switch closed type
+- On/Off switch closed type
 
-	- Lag screws size 3.5×16 or 3×16
+- Lag screws size 3.5×16 or 3×16
 
 That’s all you will need at the moment:
 
@@ -121,9 +121,9 @@ Let's continue. On the next image you can see how it is going to be set.![Schema
 
 If you connect everything according to this drawing you're going to get fully working airbrush compressor. To make it more practical you have to fix everything on some kind of stand or table that will minimize the possibility of breaking it. I have used a piece of timber board. The size of the board depends on the size of the receiver you are going to use. Receiver is a big white bottle you have seen on the photos. Why do we need it?
 
-	- It smoothen the pulsation of air coming from compressor so at the output you will get a smooth fluent flow of air without pulsation.
+- It smoothen the pulsation of air coming from compressor so at the output you will get a smooth fluent flow of air without pulsation.
 
-	- It also catches the drops of oil and exhaust from compressor.
+- It also catches the drops of oil and exhaust from compressor.
 
 For this type of compressor we will need receiver with capacity of 1 – 2l. Practically you can use any hermetically firmed reservoir. I would not recommend using plastic or glass bottles as under the pressure they can blow off and cause injury. I’ve seen some people using an old empty fire extinguisher as the receiver but it requires more skills and tools to accomplish something like that. In our case we use old water reservoir from a car. It is made of polyethylene that is more firm that the plastic bottle and it’s hard to destroy even with sharp knife. Even if it blows off it does not make a massive explosion as for example glass does.
 
@@ -169,11 +169,11 @@ This process is not complicated but to do so you will have to take off some part
 
 The steps you have to follow:
 
-	- Changing the oil
+- Changing the oil
 
-	- Changing the filters
+- Changing the filters
 
-	- Cleaning of the receiver
+- Cleaning of the receiver
 
 [**Oil**](/blog/oil-compressor/), even the best one, is losing its properties and goes dirty with the time. So regardless of worked hours I recommend to change oil once a year.
 

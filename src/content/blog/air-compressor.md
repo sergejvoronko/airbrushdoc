@@ -34,9 +34,9 @@ BUT BE CAREFUL!!! THERE IS MORE THINGS TO CONSIDER !!!
 
 This is simple, thinner paint needs less pressure.
 
- 	- **Thin paints** (***low viscosity***) will work with ***10-20 PSI ***(Golden Airbrush Colors, Comart, House of Kolor, DR PH martins)
+- **Thin paints** (***low viscosity***) will work with ***10-20 PSI ***(Golden Airbrush Colors, Comart, House of Kolor, DR PH martins)
 
- 	- **Thick paints** (***hight viscosity***) needs about ***40 - 60 PSI ***(Createx, textile airbrush colors, Auto Air)
+- **Thick paints** (***hight viscosity***) needs about ***40 - 60 PSI ***(Createx, textile airbrush colors, Auto Air)
 
 I will talk about paints in more detail later in another post.
 
@@ -88,17 +88,17 @@ Check carefully! A compressor that has great flow capacity for your airbrush, mi
 
 Some of the compressor types you will run into on the market:
 
- 	- Reciprocating Piston
+- Reciprocating Piston
 
- 	- Rotary Vane
+- Rotary Vane
 
- 	- Rotary Screw
+- Rotary Screw
 
- 	- Portable
+- Portable
 
- 	- AirBrush
+- AirBrush
 
- 	- HomeMade
+- HomeMade
 
 **Reciprocating Piston Compressors**
 
@@ -185,18 +185,18 @@ Actually during my research I have found that some companies that produce airbru
 I think that you may get the feeling that I'm promoting one brand. Well I was trying not to, but that is my own experience and I think they deserve it. By the way I'm not getting any money from them for mentioning their name.
 Here are some advises from professionals:
 
- 	- Well You can buy Oil-less compressor and be happy with that. But don't be surprised that one day it will burn out (of course it depends on how you going to maintain it).
+- Well You can buy Oil-less compressor and be happy with that. But don't be surprised that one day it will burn out (of course it depends on how you going to maintain it).
 
- 	- I think that it is good if you oversize your compressor (buy a bigger one). And use a pressure regulator to set the output pressure by your needs. It will give you more freedom, no matter if you work with thin nor thick colours or you use different gun.
+- I think that it is good if you oversize your compressor (buy a bigger one). And use a pressure regulator to set the output pressure by your needs. It will give you more freedom, no matter if you work with thin nor thick colours or you use different gun.
 
- 	- Instead of buying an oil-less compressor, simply ensure that the air that exits the oil-lubed compressor is adequately filtered to remove free water and oil.
+- Instead of buying an oil-less compressor, simply ensure that the air that exits the oil-lubed compressor is adequately filtered to remove free water and oil.
 
- 	- I think that pressure regulator and filter is must have for any compressor.
+- I think that pressure regulator and filter is must have for any compressor.
 
- 	- Yes noise is important factor. Usually oil-lubed compressors are more quite than oil-less.
+- Yes noise is important factor. Usually oil-lubed compressors are more quite than oil-less.
 
- 	- I've seen a lot of video reviews on youtube and a lot of those portable compressors are not that bad but only for small nozzle sizes. At 0.4 mm they have no chance. So I would recommend a compressor with tank.
+- I've seen a lot of video reviews on youtube and a lot of those portable compressors are not that bad but only for small nozzle sizes. At 0.4 mm they have no chance. So I would recommend a compressor with tank.
 
- 	- I prefer homemade compressor. Fridge compressor has really low-level of noise comparing to any industrial piston compressor and tank is a big advantage here. Of course there one minus for tank - you have to wait a few minutes before you start painting as compressor has to fill the tank up first. But this is nothing when you see what it will give after that.
+- I prefer homemade compressor. Fridge compressor has really low-level of noise comparing to any industrial piston compressor and tank is a big advantage here. Of course there one minus for tank - you have to wait a few minutes before you start painting as compressor has to fill the tank up first. But this is nothing when you see what it will give after that.
 
 I hope that this article will help you somehow. My advice is, when you finally find the compressor you want to buy, find some reviews on it (could be even youtube video review). Try to join the conversation and ask other people what they think about that particular compressor and only then, when you have enough info, buy it. Good luck with your **airbrush compressor** hunt!
