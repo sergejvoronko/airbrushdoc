@@ -1,6 +1,6 @@
 ---
-title: "How to Choose the Best Airbrush Gun?"
-seoTitle: "Airbrush Gun Buying Guide: How to Choose Yours"
+title: "How to Choose an Airbrush Gun: Action, Feed and Mix Explained"
+seoTitle: "Airbrush Gun Guide: How to Choose the Right One"
 description: "Single vs dual action, gravity vs siphon feed, and needle sizes explained, so you can pick an airbrush gun that suits the work you actually do."
 pubDate: 2011-03-02
 category: "beginners"
@@ -14,7 +14,7 @@ Why do we have to choose the best *airbrush gun*? I think that many of my visito
 
 Let's say you are totally new to airbrushing, a newbie that loves art and loves to paint, knows how to use a pencil or a brush and one day someone has told you to try airbrush or maybe you have seen it somewhere and considered to give it a try. I'm sure that you have seen some videos about "***how to airbrush***" on the Internet already and finally you've decided - "**Yes** - I want to do **Airbrush**!".
 
-> Many times you may have noticed that people call *airbrush gun* just *airbrush. *Well, to give everything the right name I'm not going to call airbrush gun just simple **airbrush** because [airbrush](/) in my opinion is a type of art but not a tool, at least in this article I'm going to call it gun.
+> Many people call an *airbrush gun* simply an *airbrush*, and you will also see it written as *air brush* in two words, or called an *airbrush pistol* or an *airbrush spray gun*. They all mean the same tool. To keep the names straight I am not going to call it just **airbrush**, because [airbrush](/) in my opinion is a type of art rather than a tool. In this article it is a gun.
 
 What you have to know that not always it is so easy to start because you will have to invest some money in it. I just want to warn you now that beside airbrush gun you will need other tools ([air compressor](/blog/air-compressor/), [special paints](/blog/advanced-guide-to-airbrush-colors/) ...). In this post precisely, I'm going to talk about airbrush guns only.
 
@@ -28,9 +28,11 @@ There is many parameters that you can separate airbrush guns by. It can be value
 
 I decided to include that description here too so everyone will have all the information at one place.
 
-## Description
+Once you know which type you want, the [best airbrush](/blog/best-airbrush/) guide ranks specific models by budget, from $50 starters to professional gear.
 
-### ACTION
+## Airbrush Gun Types Explained
+
+### Action: Single vs Double
 
 By the action we recognize two types: single and double action airbrush gun.
 
@@ -44,7 +46,7 @@ Here one trigger controls both - the airflow and the paint flow. Pushing the tri
 
 > These airbrushes are good for detailed jobs and are very popular among scale modelers (but not all of them use double-action airbrushes as for their purpose single-action could be good enough).
 
-### FEED
+### Feed: Gravity, Siphon and Side Cup
 
 This describes the way we feed our airbrush gun with paint.
 
@@ -71,7 +73,7 @@ As name says it is a hybrid of the two types above. Some guns have a rotation sw
 
 Some airbrush guns with bottom feed can have a cup on the top that is used simultaneously with the bottle if you need to raise a paint volume (*assist feeding*).
 
-### MIX
+### Mix: Internal vs External
 
 Another two types which can categorize your airbrush depending on how it mixes the paint with air are *Internal* and *External* mix airbrush guns.
 
@@ -83,9 +85,9 @@ This is probably all the types of airbrush guns that exists at the present day.
 
 The other things to have in mind when choosing the airbrush gun is nozzle and needle. Most of the guns can have this changeable. It depends on demands of your work. This is not always the case, even if the first thing that comes to your mind is that changing your nozzle and needle to smaller size will give you finer details and lines. Most of the professionals are going to admit that it doesn't have to be true. The last width of lines depends on the position of the needle to the nozzle and of course the closer you get the nozzle to the surface of your painting the finer the line is going to be. And this depends on the air pressure and user abilities as well.
 
-## Advices
+## Choosing Yours
 
-### So Which One is the Best?
+### Which Airbrush Gun Should You Buy?
 
 Very difficult to tell. First of all you have to choose the type from all the examples I have mentioned above.
 

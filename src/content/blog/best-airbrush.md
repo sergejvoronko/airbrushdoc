@@ -110,6 +110,7 @@ What will you airbrush? Your answer determines the right tool:
 - [Cake decorating](/blog/best-airbrush-for-cake-decorating/) — food-safe equipment only, no exceptions
 - [Your first airbrush](/blog/best-airbrush-for-beginners-2026/) — if you have never owned one
 - [Complete starter kits](/blog/best-airbrush-kit-2026/) — brush, compressor and hose bought together
+- [Airbrush guns explained](/blog/choose-airbrush/) — single vs dual action, feed types and mixing, if the terminology is new
 
 ### 3. Comfort and Balance
 
