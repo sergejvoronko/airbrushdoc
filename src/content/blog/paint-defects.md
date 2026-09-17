@@ -1,7 +1,7 @@
 ---
 title: "Paint Defects: What Causes Them and How to Fix Them"
 seoTitle: "Paint Defects: Sagging, Cissing, Orange Peel, Fixes"
-description: "Sagging, cissing, crazing, orange peel and fisheyes: what causes each paint defect, how to tell them apart, and how to fix it without stripping back."
+description: "Sagging, cissing, crazing, blushing, orange peel and fisheyes: what causes each paint defect, how to tell them apart, and how to fix it."
 pubDate: 2012-03-14
 category: "guides"
 tags: ["adhesion loss", "airbrush", "corrosion", "matting", "orange peel", "paint", "paint and dust", "paint defects", "paint fish eye", "paint stains", "runs", "slow drying", "solvent penetration", "yellowing"]
@@ -166,6 +166,18 @@ Can be fixed only by sanding and polishing.
 To avoid this you have to treat metal parts the proper way. Remove anything that can cause corrosion before applying refinish system. If any of chips or scratches occurs remove them before it starts to rust.
 
 To remove corrosion the paint has to be removed to bare metal. Also use etch-primer. Only then refinish.
+
+## 17. Blushing
+
+A milky, cloudy haze that appears in the film while it dries, worst on dark colours where it looks like somebody breathed on the paint. It is not sitting on the surface, it is moisture trapped inside the coat.
+
+The mechanism is worth knowing because it explains the cure. Solvent evaporating fast chills the wet film below the dew point of the air around it, moisture condenses into the coat, and the trapped water scatters light instead of letting it through. So the usual culprits are high humidity, a thinner too fast for the day, a cold panel, and wet air from a compressor with no [moisture trap](/go/regulator-trap).
+
+Prevention is mostly about slowing things down. Work between roughly 40 and 60% relative humidity if you can, switch to a slower thinner or add a retarder at around 5-10% when the air is heavy, bring the panel up to room temperature before you spray, and drain the trap before you start rather than after.
+
+If it has already happened you do not usually have to strip anything. Fog on a light coat carrying retarder: the fresh solvent re-opens the film and lets the trapped moisture out, and the haze clears as it dries. Only in bad cases do you need to flat the area back and respray.
+
+Do not confuse it with [matting](#10-matting) above. Blushing is a milky cast you can see into; matting is the gloss going flat while the colour stays clean. They share humidity as a cause, which is why sorting out your air supply tends to cure both.
 
 ## Conclusion
 
