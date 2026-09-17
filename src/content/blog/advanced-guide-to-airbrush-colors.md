@@ -12,11 +12,11 @@ heroImage: "/images/wp-uploads/airbrush-paints.webp"
 
 Let's assume that you have all the equipment that is required for [airbrushing](/). You've got [airbrush gun](/blog/choose-airbrush/) and [compressor](/blog/air-compressor/). You also know what you are going to paint and what surface are you going to paint. The only thing missing is proper paint. When you're starting out you can experiment but I think if you knew something about all the paints available on the market you could save some time and frustration as well.  This article is a compilation and consists of three parts. You don't have to read all of it, that's why I included these links:
 
-- **[Types](#painttypes)**
+- **[Paint types](#painttypes)**
 
-- **[Brands](#paintbrands)**
+- **[Paint brands](#paintbrands)**
 
-- **[Pro Advices](#proadvices)**
+- **[Choosing and using](#proadvices)**
 
 In the first part I'm going to take a look at the types of paints, the differences and their use. In second part I'm going to have a look at brands and the third part is going to be a collection of advices as I did in my previous articles.
 
@@ -26,7 +26,7 @@ If you know everything about types of colors just jump to paragraph numbered [**
 
 <a id="painttypes"></a>
 
-## 1. TYPES
+## Airbrush Paint Types
 
 Let's take a look at color types and how we can categorize them.
 
@@ -81,11 +81,11 @@ Benefit is that applied urethane dries quickly, so it cuts down on time that you
 
 <a id="paintbrands"></a>
 
-## 2. BRANDS
+## Airbrush Paint Brands
 
 I will mention, in my opinion, only the most popular brands on the market. If I missed some, please let me know.
 
-### GOLDEN ARTIST COLORS
+### Golden Artist Colors
 
 ![Golden Artist Colors brand logo](/images/wp-uploads/golden.webp)
 Very popular brand that makes ***Opaque*** and ***Transparent*** lines espessially for airbrushing.
@@ -112,14 +112,14 @@ Properties:
 
 They easily spray through the smallest nozzles available for airbrushes. They can be recoated immediately. Cleanup is easy and requires only water and a mild soap.
 
-### IWATA MEDEA
+### Iwata Medea
 
 ![Iwata-Medea brand logo](/images/wp-uploads/iwata-medea_logo.webp)
 **Comart Colors** by Medea website is considered to be one of the finest and most versatile professional airbrush colors in the world (***can't confirm that as I've never used it, if someone does please leave a comment***). Because of a common hydro-carbon base binder, **Com-Art** transparent and opaque colors can be used together without bleeding between colors. It's non-toxic, ready to use color specifically made for airbrushing. Also heavily pigmented and light fast, allowing for accurate 4 color separations. It provides smooth spraying, and dries instantly.
 
 **Textile colors** **Medea Textile Colors** by **Jürek**. For spraying on a variety of surfaces, including leather, wood, canvas, textiles, silk and found objects. Now even sprays well on hard surfaces such as license plate tags, metals, plastics and more! After work Medea recommends to use **Medea topcoat** (water-based polyurethane) for a final durable finish. The “**Lube**” provides an exclusive wetting agent and a flow enhancer that allow four hours of hassle-free spraying. Additionally, the flow enhancer breaks down the surface tension and results in better fabric absorption (when applied to textiles) for greater wash-ability and wear.
 
-### AQUAFLOW
+### Aquaflow
 
 ![AquaFlow airbrush paint brand logo](/images/wp-uploads/aquaflow-logo.webp)Aqua Flow colors contain premium acrylic binders that provide durability and stability. They claim that they select materials that are environmentally sound and are as safe as possible, making your work Earth friendly. It is a flexible acrylic color used for textiles, illustration, auto tags, wall murals, and many other types of art media.
 
@@ -133,7 +133,7 @@ This brand manufactures **IllumaAir, Lacquerol and BodyAir** airbrush colors.
 
 **BodyAir** is designed for temporary body tattoos, skin coloring, and extended life waterproof make. They also manufacture ink jet coatings for paper and plastics. These products are available in clear, opaque white and mat and finish. One of their names for ink jet coating is Bubblegum 10.
 
-### CREATEX COLORS
+### Createx Colors
 
 ![Createx Colors brand logo](/images/wp-uploads/CXlogo.webp)
 This brand is probably the number one colors brand for airbrushes (my own subjective look). For airbrush they make a few lines like, Opaque, Transparent, Fluoroscent, Pearlized and Iridiscent.
@@ -175,15 +175,15 @@ These properties tell us that Createx are made with 'exterior grade' pigments. T
 
 **Pigment Candy Full Color Paint** are ready to spray out of the bottle without the need for mixing a catalyst or reducer. Colors may be thinned with Auto Air Reducer to achieve a lower viscosity when spraying with an airbrush. Auto Air Colors do not have a limited shelf life during use and their storage life exceeds 2 years. They may be top-coated with a urethane clear at any time after they’ve cured no matter how long the time past between painting and clearing. Auto-Air Colors are compatible with all urethane clears. They are lightfast and durable and contain less than 0.1% V.O.C. These Colors have been tested according to industry-wide accepted standards for fade resistance and durability.
 
-### BADGER
+### Badger
 
 ![Badger Air-Brush Co. brand logo](/images/wp-uploads/badgerlogo1.webp)
 
-### TOTALLY TATTOO from BADGER
+### Totally Tattoo from Badger
 
 Body art and temporary tattoos are a wild and interesting art form with growing popularity. Badger's Totally Tattoo paints are water resistant, safe to use, and non-toxic. They are alcohol-based for extended durability. Totally Tattoo Body Paints can be applied with an airbrush or with mini applicators. Can last 24 to 72 hours. It will not wash off in a pool and easily removed with isopropyl (rubbing) alcohol. One 1 oz. bottle covers approximately the whole of one person's back depending upon how thick the paint is applied. **Not recommended for face painting.**
 
-### BADGER SPECTRA-TEX
+### Badger Spectra-Tex
 
 Spectra-Tex Airbrush Colors™ are highly pigmented and ready to use. Spectra-Tex Colors can be used on a variety of surfaces including: fabric, wood, canvas, paper, clay etc with permanent results. All Spectra-Tex Airbrush Colors™ are water-based, non-toxic and meet **ASTM D-4236** standards. Spectra-Tex Colors offers 72 unique colors in a number of finishes including Transparent, Opaque High Hiding, Neon Fluorescent, and Metallic.
 
@@ -193,7 +193,7 @@ Spectra-Tex Airbrush Colors™ are highly pigmented and ready to use. Spectra-Te
 > 
 >  	- Water-based- Low odor. Does not contain harmful solvents.
 
-### HOUSE OF KOLOR
+### House of Kolor
 
 ![House of Kolor brand logo](/images/wp-uploads/house-of-kolor-logo.webp)
 
@@ -205,7 +205,7 @@ These colors may be applied to the existing finish, bare steel, aluminum, fiberg
 
 **House of Kolor** also makes very good transparent Candy colors...
 
-### TEMPTU
+### Temptu
 
 **Artool 'Body of Art'** 0.5 oz. airbrush Body-Of-Art alcohol based colors are safe to use and are made with FDA approved ingredients. Colors are blend-able and water proof. Easily applied and easily removed. Choose from a selection of 15 different colors. Used for temporary tattoos and makeups.
 
@@ -215,7 +215,7 @@ This is a range of **extremely fluid** acrylic that uses super-fine pigments in 
 
 This all I have found, but I think it's enough.
 
-### E’TAC
+### E'Tac
 
 E’TAC offers very well-behaved paints, although they are pricier than many other brands. They also offer a variety of stuff you can mix with the paints to modify their qualities (reducers, flow enhancers, hardeners, etc.) which is nice.
 This brand offers 4 lines of colors to choose from:
@@ -232,7 +232,7 @@ This brand offers 4 lines of colors to choose from:
 
 <a id="proadvices"></a>
 
-## 3. Pro Advices
+## Choosing and Using Airbrush Paint
 
 And here are some advices from Pro’s...
 
