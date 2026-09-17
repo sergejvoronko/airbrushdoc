@@ -95,3 +95,7 @@ Next I would like to know about your local police department "**how do they trea
 And at the end I had to mention this. There are some artists that I respect a lot and they actually made their living doing mostly these motives. **[Mike Lavallee](https://killerpaint.wordpress.com/)** (to me he is a father of **real fire,** but recently showed the world that he can do much more), **[Airbrush Fitto](https://www.airbrushfitto.com/)** (unusual way of painting **skulls** and full **skeletons**, and if I'm not wrong, he does everything **freehand**).
 
 And my last question "**What do you think about these two artist?"**
+
+## How This Is Done
+
+If this is the look you are after, both halves of it are on the site already: the [fire reference pack](/blog/fire-reference-pack/) and the [skull reference pack](/blog/ultimate-skull-reference-pack/) are free to subscribers, and [multi-layer stencils](/blog/multi-layer-stencils/) covers cutting the masks.

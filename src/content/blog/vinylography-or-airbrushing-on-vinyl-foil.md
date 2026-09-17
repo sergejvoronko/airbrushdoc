@@ -75,3 +75,7 @@ I forgot to mention the details of paint I've used. I tried **Createx Classic** 
 This is all for today. Any additional tips are welcome. If you like it please share, like and tweet. I'll try to bring more soon.
 
 Cheers.
+
+## How This Is Done
+
+Vinyl is its own problem: the paint has to stay flexible with the film and survive being peeled off later, so the [airbrush colours guide](/blog/advanced-guide-to-airbrush-colors/) is worth reading before you buy paint for it. For the masking itself, see [multi-layer stencils](/blog/multi-layer-stencils/).

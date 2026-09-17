@@ -78,3 +78,7 @@ Of course I didn't learn to be artist in those 10 months. I have had some experi
     <p class="abd-author-note">Even with not the best quality airbrush you can create great art. He deserves to be recognized, please share the love.</p>
   </div>
 </div>
+
+## How This Is Done
+
+Seeing Alexandar's work and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

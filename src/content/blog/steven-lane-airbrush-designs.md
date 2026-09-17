@@ -90,3 +90,7 @@ Here are some more examples of work I've done, hope you like them!
 ![Airbrushed artwork of red and orange flames over a dark ground](/images/wp-uploads/unusual-airbrush.webp)
 
 *I think some of Stevens works are unusual in airbrush world, that's why they deserve to be seen and brought to broader public. If you like this artist please share his story with all your friends.*
+
+## How This Is Done
+
+Seeing Steven's designs and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

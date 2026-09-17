@@ -86,3 +86,7 @@ That's it.
 ![Frank-Gavere-Airbrush-Art-11](/images/wp-uploads/Frank-Gavere-Airbrush-Art-11.webp)
 
 *If you like Franks art then spare a moment to click like or tweet. I will appreciate it. Cheers.*
+
+## How This Is Done
+
+Seeing Frank's work and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

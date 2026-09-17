@@ -46,3 +46,7 @@ Time for [airbrush gallery](/gallery/) again. I don't know if there is any **ice
 </div>
 
 If you like what you see, please share or at least post some comment.
+
+## How This Is Done
+
+A helmet is a hard, glossy, curved surface, which is the awkward part: paint will not key to it until it is properly flatted and cleaned, and every edge is a place for overspray to gather. If you want to try one, start with [preparing the surface](/blog/prepare-surface-for-airbrush/), then pick a brush from the [best airbrush](/blog/best-airbrush/) guide.

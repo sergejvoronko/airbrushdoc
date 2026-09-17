@@ -118,3 +118,7 @@ As a starting artists in airbrushing I would recommend a lot of practice and set
 ### Where to find Shockwave?
 
 ![Photograph of the airbrush artist Shockwave holding a folding fan](/images/wp-uploads/shockwave2.webp)Here is the link to her personal portfolio. If you like her art I think she would deserve to get some likes or tweets so please share it with all your friends. Or if you have anything to say I'll be happy to see any comments. Cheers
+
+## How This Is Done
+
+If any of this makes you want to pick up an airbrush, [how to choose an airbrush gun](/blog/choose-airbrush/) is the place to start, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget.

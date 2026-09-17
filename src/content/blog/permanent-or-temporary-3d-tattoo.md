@@ -84,3 +84,7 @@ I don't have any **tattoo** and I'm not planing to have one. Better is just to m
 I would like to know what do you think? Is it worth to have one image on your body for good?
 
 Source of pictures: [slodive.com](https://slodive.com), ~~uphaa.com~~, [technologytosoftware.com](https://technologytosoftware.com)
+
+## How This Is Done
+
+Body art needs paint made for skin rather than for panels, which is a category of its own — the [airbrush colours guide](/blog/advanced-guide-to-airbrush-colors/) covers the brands that make it. For the airbrush itself, fine detail work wants a small needle: see [best airbrush](/blog/best-airbrush/).

@@ -96,3 +96,7 @@ And here are some of Colms sketches and his other works:
 This is all of airbrushing from Colm for this blog post, but you can always check any other of his works on his **[portfolio page](https://www.colmoconnor.com/)**, so feel free to have a look and if you like what you see, or know someone that might, get in contact with him!
 
 [![Banner for colmoconnor.com graphic design, art and illustration](/images/wp-uploads/Colm-Oconnor-Art-2.webp)](https://www.colmoconnor.com/)
+
+## How This Is Done
+
+Seeing Colm's work and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

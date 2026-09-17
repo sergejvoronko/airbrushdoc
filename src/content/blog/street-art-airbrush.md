@@ -112,3 +112,7 @@ The Garden Airbrush has been used for some 3 years for whole figures and finer d
     <p class="abd-author-note">If you like Per's idea and his art please share it with your friends.</p>
   </div>
 </div>
+
+## How This Is Done
+
+Per's improvised kit is a reminder that the tool matters less than the hand holding it. If you want to start somewhere more conventional, [how to choose an airbrush gun](/blog/choose-airbrush/) explains the types, and [best airbrush for beginners](/blog/best-airbrush-for-beginners-2026/) narrows it to a first purchase.

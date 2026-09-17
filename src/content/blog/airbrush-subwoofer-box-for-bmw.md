@@ -45,3 +45,7 @@ Universal synthetic primer **HB body** (grey) thinned with acetone. The base coa
 My bro is not entirely happy with the result (not in quality of the finish but in artistic value). He thinks there it still something missing - this time in that art - so he didn't put any clear coat on it. If you have any idea what it might be we'd be grateful for your comments - otherwise spread the love and share or like.
 
 Cheers.
+
+## How This Is Done
+
+Most of the work on a box like this is not the spraying, it is what happens before it: [surface preparation](/blog/prepare-surface-for-airbrush/) on MDF and filler, then the right paint for a panel that lives in a car, which the [airbrush colours guide](/blog/advanced-guide-to-airbrush-colors/) covers. If the finish misbehaves, [paint defects](/blog/paint-defects/) lists what each symptom means.

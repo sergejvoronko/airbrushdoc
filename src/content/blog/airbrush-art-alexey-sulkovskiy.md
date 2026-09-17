@@ -63,3 +63,7 @@ Phone: +380637097277,
 / *[www.dubstyling.com.ua](#) - not active at the moment*/
 
 And what about you? Do you like Alexey's art? Then share, like or comment.
+
+## How This Is Done
+
+Seeing Alexey's work and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

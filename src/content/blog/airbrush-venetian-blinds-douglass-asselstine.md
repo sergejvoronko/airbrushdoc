@@ -58,3 +58,7 @@ Douglass Asselstine Web
 If you want to see more airbrush art by Douglass I recommend you to visit his website above. Douglass promised to send more details later. I will keep this article updated as soon as I get some more info.
 
 This fact just proves I'm doing a good job by writing all this stuff and that there are people that find it usefull...don't you?
+
+## How This Is Done
+
+Seeing Douglass's blinds and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

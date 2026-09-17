@@ -102,3 +102,7 @@ ALL Images © Copyright J. W. Baker / 1991 - 2011 | WOLF SONG STUDIO 2005 - 2011
 I have included just some of J.W.'s works in this gallery. If you want to see more and also read the story that every of this masterpieces tells, visit his website by clicking the banner above or use this link - [J W Baker Gallery](https://www.jwbart.com/).
 
 Otherwise don't forget to like it, tweet it, give a plus, comment and share it everywhere you can because this man deserve to be popular.
+
+## How This Is Done
+
+Seeing J.W.'s paintings and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

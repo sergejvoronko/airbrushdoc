@@ -73,3 +73,7 @@ As usual it's [gallery](/gallery/) time and as usual the gallery is unusual :). 
 </div>
 
 Source: [www.unrealtech.ru](https://www.unrealtech.ru)
+
+## How This Is Done
+
+Whatever you think of the subject, the technique is the same as any glossy plastic: it will not hold paint until the surface is keyed and degreased. [Preparing the surface](/blog/prepare-surface-for-airbrush/) covers it, and the [best airbrush](/blog/best-airbrush/) guide covers what to spray it with.

@@ -31,3 +31,7 @@ Anyway, for all my returning visitors, you may have noticed that I have change t
 This one is [gallery](/gallery/) post and it works as a slideshow. So to view the images you just click on arrows on the side of image.
 
 Let me also know if you like this kind of posting.
+
+## How This Is Done
+
+Seeing Azat's work and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

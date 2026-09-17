@@ -78,3 +78,7 @@ Here is the link  to one of the stencils. In order to get access to the rest you
 BTW, if you are newbie at this and don't exactly know how to use the stencil to paint camouflage I found this [site](https://www.mcarterbrown.com/forums/diy-tech/5266-how-choose-paint-your-marker.html) very useful and informative. Also there is a lot of videos on YouTube walking you through all the process.
 
 I want to thank Marc for giving me the idea for writing this article. If you find this useful as I do please share or like or at least leave a comment.
+
+## How This Is Done
+
+Camouflage is stencil work above all else, so [multi-layer stencils](/blog/multi-layer-stencils/) is the companion piece to this pack, and there are more sets on the [free stencils](/blog/free-stencils/) page.

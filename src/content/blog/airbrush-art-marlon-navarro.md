@@ -61,3 +61,7 @@ I hope you like it. Thanks for checking this out.
     <p class="abd-author-note">Do you like Marlon's art? I like it and I'm going to share it everywhere I can. Cheers.</p>
   </div>
 </div>
+
+## How This Is Done
+
+Seeing Marlon's work and wondering where to start? [How to choose an airbrush gun](/blog/choose-airbrush/) explains what the types actually do, and the [best airbrush](/blog/best-airbrush/) guide sorts the current field by budget. More work in the [gallery](/gallery/).

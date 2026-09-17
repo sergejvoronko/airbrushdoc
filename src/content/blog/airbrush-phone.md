@@ -190,3 +190,7 @@ I'm lost for words ... Enjoy!
 </div>
 
 Source:[aerografpro](https://aerografpro.narod.ru/)
+
+## How This Is Done
+
+Phones and other small objects are detail work, which means a fine needle and thin, well-mixed paint: [how to thin acrylic paint](/blog/how-to-thin-acrylic-paint-for-airbrush/) and [best airbrush](/blog/best-airbrush/) are the two to read first.
