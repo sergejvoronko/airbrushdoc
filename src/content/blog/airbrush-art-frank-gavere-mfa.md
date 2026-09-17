@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/Frank-Gavere-Airbrush-Art.webp"
 ---
 ## About Frank Gavere, Contemporary Airbrush Artist
 
-*Today I'm presenting to you an **airbrush artist **with not that usual airbrush** painting techniques**. Forget about skulls and fire for a moment, forget about getting realistic and dive into Contemporary Art. This is** Frank Gavere**, his** airbrush art** and also his story.*
+Today I'm presenting to you an **airbrush artist** with not that usual airbrush **painting techniques**. Forget about skulls and fire for a moment, forget about getting realistic and dive into Contemporary Art. This is **Frank Gavere**, his **airbrush art** and also his story.
 
 I was born in Minnesota. My father was a die toolmaker, inventor, designer, and process engineer. 
 

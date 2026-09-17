@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/Per-Corell.webp"
 ---
 ## Water Quality and Airbrush Performance
 
-*Last time when I posted article about good airbrush websites I've mentioned one website with article titled as "[Another way of tuning airbrushes](https://communicats.blogspot.sk/2012/09/an-other-way-of-tuning-airbrushes.html)". This article was talking about the **quality of water used for mixing colors**, its effect on your artwork and provided some solutions.*
+Last time when I posted article about good airbrush websites I've mentioned one website with article titled as "[Another way of tuning airbrushes](https://communicats.blogspot.sk/2012/09/an-other-way-of-tuning-airbrushes.html)". This article was talking about the **quality of water used for mixing colors**, its effect on your artwork and provided some solutions.
 
 > While scientists and tinkerers think of ways to tune airbrushes to improve their performance, I've tried different approach, since the airbrush is only one of the components used during airbrushing. The others are water, air and paint. Paint will always be the result of the manufacturer's choice; all artists can do is change the mix ratio by adding more / less water to paint. There's also not a lot that artist can do about the quality of air. But there is something that can be done about the quality of water used for spraying.
 
@@ -27,9 +27,9 @@ heroImage: "/images/wp-uploads/Per-Corell.webp"
 
 ### Solutions for Clean Water
 
-*The author of this article has actually provided his solution for the problem he experienced by using **as clean water as possible**. For this purpose he uses a** [reverse osmosis](https://en.wikipedia.org/wiki/Reverse_osmosis) system**. If you got water problem as well you can follow this advices.*
+The author of this article has actually provided his solution for the problem he experienced by using **as clean water as possible**. For this purpose he uses a **[reverse osmosis](https://en.wikipedia.org/wiki/Reverse_osmosis) system**. If you got water problem as well you can follow this advices.
 
-*Also there were some tests with **magnetizing water** and the conclusion does not need any further comments:*
+Also there were some tests with **magnetizing water** and the conclusion does not need any further comments:
 
 > I used the processed water in the **Iwata Custom Micron SB** and the results were stunning...  Straight out of the box the gun already sprayed smoother than any other airbrush I owned, but with the water treatment, its handling became beyond incredible.
 

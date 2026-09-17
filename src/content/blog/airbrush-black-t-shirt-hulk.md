@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/Hulk-airbrush-final1.webp"
 ---
 ## How to Airbrush on Black T-Shirt: A Complete Guide
 
-*Do you have any experience or do you know how to **airbrush on black t-shirt**? Well, to create a real masterpiece on the black surface that it will look like it is coming out of that black is a real challenge. After reading the following tutorial I found out it is not an easy task, especially since I don't have any experience with** painting on t-shirts** at all. If you've also never done anything like t-shirt or you've never painted a black t-shirt I think you may find this step by step guide very useful.*
+Do you have any experience or do you know how to **airbrush on black t-shirt**? Well, to create a real masterpiece on the black surface that it will look like it is coming out of that black is a real challenge. After reading the following tutorial I found out it is not an easy task, especially since I don't have any experience with **painting on t-shirts** at all. If you've also never done anything like t-shirt or you've never painted a black t-shirt I think you may find this step by step guide very useful.
 
 The client brought a **black t-shirt** and asked me to make eyes on his back, eyes that will tell something like - "*I'm watching you!*".
 

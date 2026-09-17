@@ -60,7 +60,7 @@ Be very careful when using these colors as they are a bit dangerous. Don't forge
 
 Are used as a base coat color and they are dye-based. They will have a tact-like feel even after they have cured. They are sensitive and cannot be manipulated as easily as the other colors. If you're going to leave your paint-job alone for some longer time before clear coating, you need to apply a clear coat to protect the colors from picking up dust and dirt.
 
-*!!! The Candy Colors will not look good until the clear coat is applied. The clear gloss will bring **the Candy Colors **to life.*
+**!!! The Candy Colors will not look good until the clear coat is applied. The clear gloss will bring the Candy Colors to life.**
 
 These colors are more difficult to spray as they are very thin. You'll often need 8 or more coats to achieve the desired color. Allow the first coat about 15 minutes to flash before putting on the next coat.
 
@@ -102,7 +102,7 @@ Properties:
 
 - Compatibility with other GOLDEN Acrylic products (Fluids, Heavy Body, Matte, High Loads)
 
-**Transparent** - made from a safe and archival 100% water-based acrylic emulsion which has the same permanency and performance properties. *Transparency - the entire line of* Transparents* is very good balanced to ensure that all colors are equally transparent.
+**Transparent** - made from a safe and archival 100% water-based acrylic emulsion which has the same permanency and performance properties. **Transparency** - the entire line of **Transparents** is very good balanced to ensure that all colors are equally transparent.
 
 - Viscosity - ready to use (no dilution required)
 
@@ -117,7 +117,7 @@ They easily spray through the smallest nozzles available for airbrushes. They ca
 ![Iwata-Medea brand logo](/images/wp-uploads/iwata-medea_logo.webp)
 **Comart Colors** by Medea website is considered to be one of the finest and most versatile professional airbrush colors in the world (***can't confirm that as I've never used it, if someone does please leave a comment***). Because of a common hydro-carbon base binder, **Com-Art** transparent and opaque colors can be used together without bleeding between colors. It's non-toxic, ready to use color specifically made for airbrushing. Also heavily pigmented and light fast, allowing for accurate 4 color separations. It provides smooth spraying, and dries instantly.
 
-**Textile colors** ***Medea Textile Colors** by **Jürek***. For spraying on a variety of surfaces, including leather, wood, canvas, textiles, silk and found objects. Now even sprays well on hard surfaces such as license plate tags, metals, plastics and more! After work Medea recommends to use **Medea topcoat** (water-based polyurethane) for a final durable finish. The “**Lube**” provides an exclusive wetting agent and a flow enhancer that allow four hours of hassle-free spraying. Additionally, the flow enhancer breaks down the surface tension and results in better fabric absorption (when applied to textiles) for greater wash-ability and wear.
+**Textile colors** **Medea Textile Colors** by **Jürek**. For spraying on a variety of surfaces, including leather, wood, canvas, textiles, silk and found objects. Now even sprays well on hard surfaces such as license plate tags, metals, plastics and more! After work Medea recommends to use **Medea topcoat** (water-based polyurethane) for a final durable finish. The “**Lube**” provides an exclusive wetting agent and a flow enhancer that allow four hours of hassle-free spraying. Additionally, the flow enhancer breaks down the surface tension and results in better fabric absorption (when applied to textiles) for greater wash-ability and wear.
 
 ### AQUAFLOW
 
@@ -211,7 +211,7 @@ These colors may be applied to the existing finish, bare steel, aluminum, fiberg
 
 ### LIQUITEX Professional Acrylic Ink
 
-This is a range of ***extremely fluid*** acrylic that uses super-fine pigments in a state-of-the-art acrylic emulsion. They** *dry quickly***, are*** permanent*,* water resistant ***and*** non-clogging***, which makes them ideal for a variety of techniques from watercolor effects to stamping.
+This is a range of **extremely fluid** acrylic that uses super-fine pigments in a state-of-the-art acrylic emulsion. They **dry quickly**, are **permanent**, **water resistant** and **non-clogging**, which makes them ideal for a variety of techniques from watercolor effects to stamping.
 
 This all I have found, but I think it's enough.
 
