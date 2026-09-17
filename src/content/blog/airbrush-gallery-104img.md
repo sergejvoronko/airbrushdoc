@@ -1,5 +1,6 @@
 ---
 title: "Airbrush Exhibition Gallery '104 images of pure inspiration'"
+seoTitle: "Airbrush Exhibition Gallery: 104 Images"
 description: "Airbrush Exhibition - no words required. Another airbrushed cars gallery. I had some problems with my computer so I had to deal with that. I hope you will enjoy"
 pubDate: 2011-03-25
 category: "gallery"
