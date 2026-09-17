@@ -249,3 +249,23 @@
 # itself, which put the whole category hub into an infinite redirect loop.
 # Real posts are covered by the specific rules above; stray WP artifacts 404,
 # which is the correct outcome.
+
+# Sourced gallery dumps removed 2026-09-17 - send the indexed URLs to the gallery hub
+/blog/airbrush-gallery/                             /gallery/                 301
+/gallery/airbrush-gallery/                          /gallery/                 301
+/blog/airbrush-gallery-2/                           /gallery/                 301
+/gallery/airbrush-gallery-2/                        /gallery/                 301
+/blog/airbrush-gallery-3/                           /gallery/                 301
+/gallery/airbrush-gallery-3/                        /gallery/                 301
+/blog/airbrush-gallery-104img/                      /gallery/                 301
+/gallery/airbrush-gallery-104img/                   /gallery/                 301
+/blog/airbrush-gallery-aerograf-2008-again/         /gallery/                 301
+/gallery/airbrush-gallery-aerograf-2008-again/      /gallery/                 301
+/blog/inspired-aerograf-2008/                       /gallery/                 301
+/gallery/inspired-aerograf-2008/                    /gallery/                 301
+/blog/inspired-again-aerografpro-ru/                /gallery/                 301
+/gallery/inspired-again-aerografpro-ru/             /gallery/                 301
+/blog/airbrush-phone/                               /gallery/                 301
+/gallery/airbrush-phone/                            /gallery/                 301
+/blog/airbrushed-toilet-seats/                      /gallery/                 301
+/gallery/airbrushed-toilet-seats/                   /gallery/                 301

@@ -94,7 +94,7 @@ As you can see that the quality of needle and nozzle is very poor, **they are of
 
 I've tried more airbrushes from this manufacturer. I even tried to buy and change some parts like needle and nozzle (all available sizes from 0.18mm to 0.5mm) just to get rid of the offset, unfortunately no results.
 
-With this airbrush you can fix some scratches, paint some models, [cell phones](/blog/airbrush-phone/) or do any really small job. It is not that bad to work with stencils but I would say unthinkable to do freehand. I think that manufacturer will help not just us, customer but himself too if they include in description the fact "**NOT SUITABLE FOR FREEHAND**". My overall feeling is that any beginner starting with master airbrush will lose the interest in airbrushing as art for  some time surely or in worst case scenario for good.
+With this airbrush you can fix some scratches, paint some models, cell phones or do any really small job. It is not that bad to work with stencils but I would say unthinkable to do freehand. I think that manufacturer will help not just us, customer but himself too if they include in description the fact "**NOT SUITABLE FOR FREEHAND**". My overall feeling is that any beginner starting with master airbrush will lose the interest in airbrushing as art for  some time surely or in worst case scenario for good.
 
 If you have tried something similar or have any other airbrushes that make bad name for airbrush art, please tell us in comments below and don't forget to tell your friends to be aware of such brands.
 
