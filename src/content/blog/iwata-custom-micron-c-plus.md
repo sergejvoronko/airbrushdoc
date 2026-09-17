@@ -102,4 +102,4 @@ At the end I got an idea "I would say that they could make a pro version of the 
 
 Until then Iwata Custom Micron C + is primarily only for professionals and will be taboo for many of us for a long time.
 
-support airbrushdoc by shopping at Chicago Airbrush Supply
+👉 **[Check the Iwata Custom Micron CM-C Plus price on Amazon →](/go/iwata-custom-micron-cm-c)**

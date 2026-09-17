@@ -156,6 +156,4 @@ As I mentioned before, the size of the set is asking for more, but I overestimat
 
 After looking for other people reactions I found that very common problem is that wire inside the gun will ripe up after about 6 months of use. And as I said manufacturer isn't selling spare parts for the gun. To avoid this do not make rapid moves with the pedal. Overall feeling is that most of your money you will pay for a nice packed stuff that can be used but with some limits.
 
-support airbrushdoc by shopping at Chicago Airbrush Supply
-
 If you have any experience with this tool please leave your comment, what do you think about it and what are your recommendations.
