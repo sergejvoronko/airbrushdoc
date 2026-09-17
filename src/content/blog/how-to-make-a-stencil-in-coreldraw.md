@@ -21,8 +21,7 @@ There is an option by Adobe called Illustrator that works with vectors and even 
 
 ## The process
 
-This particular tutorial is for creating of one layer stencil of a photograph**
-**
+This particular tutorial is for creating of one layer stencil of a photograph
 
 - Get rid of all the parts we don't need
 

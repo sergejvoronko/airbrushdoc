@@ -18,11 +18,11 @@ Do you remember the first time when someone told you about **AIRBRUSH**, what as
 
 ### What Is Airbrush Painting?
 
-Well, I don't know how about you but I've been surprised, that some people don't have the smallest idea what it could be.  My first aid is that "*it is a kind of painting art made with special ****air tool*"**. But some people still can't get what exactly it could be, so I found that the easiest way to explain is to bring some examples.
+Well, I don't know how about you but I've been surprised, that some people don't have the smallest idea what it could be.  My first aid is that "it is a kind of painting art made with special **air tool**". But some people still can't get what exactly it could be, so I found that the easiest way to explain is to bring some examples.
 
 ### Fire and Skulls: The Most Popular Airbrush Motives
 
-So I do it by this question: ***Have you ever seen a real fire or skull paintings on cars and bikes*?** This is the moment when they actually get what kind of art airbrush is." *Aha, yes, I've seen those *:)" . But this is the moment when you have to explain that **airbrush **is not only about motorists and about** fire and skulls**.
+So I do it by this question: **Have you ever seen a real fire or skull paintings on cars and bikes?** This is the moment when they actually get what kind of art airbrush is." **Aha, yes, I've seen those**:)" . But this is the moment when you have to explain that **airbrush** is not only about motorists and about **fire and skulls**.
 
 So here comes my questions to my readers (I hope there are some Pro's as well):
 

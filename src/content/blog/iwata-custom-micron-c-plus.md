@@ -14,7 +14,7 @@ I've made couple of reviews already and I couldn't wait to write this one (the s
 
 So, what's so special about this airbrush and why will every professional tell you that **Iwata CM C+** is awesome airbrush and they all just love it?  
 
-When I started airbrushing I had no trust in names like this one ***- ******Iwata.** I've never heard of it* and now I don't know even why. When finally I decided to check it out I was shocked, as the price for this airbrush was enormously high. Then I started to look around (mostly on the Net) and I found out that Iwata really belongs to the top-end of airbrush.
+When I started airbrushing I had no trust in names like this one — **Iwata**. I've never heard of it and now I don't know even why. When finally I decided to check it out I was shocked, as the price for this airbrush was enormously high. Then I started to look around (mostly on the Net) and I found out that Iwata really belongs to the top-end of airbrush.
 
 First of all let's see what we have in the box and what feeling does it make when you see it for first time.
 
