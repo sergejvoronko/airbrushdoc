@@ -64,10 +64,10 @@ I've also come up with a few tricks of my own, I use them for my sculptures and 
 If you would like to view some of my work or visit my website here are the links:
 
 Website:
-~~www.stevenlanedesign.com~~
+~~stevenlanedesign.com~~
 
 facebook
-[http://www.facebook.com/StevenLaneDesign](http://www.facebook.com/StevenLaneDesign)
+[https://www.facebook.com/StevenLaneDesign](https://www.facebook.com/StevenLaneDesign)
 
 I try not to limit myself to any style, I love to try anything different and I love to paint on anything. I'm looking forward to seeing what comes next!
 

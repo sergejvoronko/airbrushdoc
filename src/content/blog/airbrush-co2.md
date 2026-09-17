@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/Per-Corell.webp"
 ---
 ## Water Quality and Airbrush Performance
 
-*Last time when I posted article about good airbrush websites I've mentioned one website with article titled as "[Another way of tuning airbrushes](http://communicats.blogspot.sk/2012/09/an-other-way-of-tuning-airbrushes.html)". This article was talking about the **quality of water used for mixing colors**, its effect on your artwork and provided some solutions.*
+*Last time when I posted article about good airbrush websites I've mentioned one website with article titled as "[Another way of tuning airbrushes](https://communicats.blogspot.sk/2012/09/an-other-way-of-tuning-airbrushes.html)". This article was talking about the **quality of water used for mixing colors**, its effect on your artwork and provided some solutions.*
 
 > While scientists and tinkerers think of ways to tune airbrushes to improve their performance, I've tried different approach, since the airbrush is only one of the components used during airbrushing. The others are water, air and paint. Paint will always be the result of the manufacturer's choice; all artists can do is change the mix ratio by adding more / less water to paint. There's also not a lot that artist can do about the quality of air. But there is something that can be done about the quality of water used for spraying.
 
@@ -27,7 +27,7 @@ heroImage: "/images/wp-uploads/Per-Corell.webp"
 
 ### Solutions for Clean Water
 
-*The author of this article has actually provided his solution for the problem he experienced by using **as clean water as possible**. For this purpose he uses a** [reverse osmosis](http://en.wikipedia.org/wiki/Reverse_osmosis) system**. If you got water problem as well you can follow this advices.*
+*The author of this article has actually provided his solution for the problem he experienced by using **as clean water as possible**. For this purpose he uses a** [reverse osmosis](https://en.wikipedia.org/wiki/Reverse_osmosis) system**. If you got water problem as well you can follow this advices.*
 
 *Also there were some tests with **magnetizing water** and the conclusion does not need any further comments:*
 
@@ -55,7 +55,7 @@ I wonder if **Airbrush Tattoo** would profit from the use of CO2, I mean who kno
 
 I don't know if this is at all relevant but I've noticed the smell coming from my compressor that carries a tank; I planned to clean it with antiseptics. ;)
 
-*I'm very happy that Per is very interested in many things and that he is always prepared to tell about his own view on the problem. Thanks to [Per Corell](http://www.facebook.com/per.corell) for pointing that out and thanks to [CommuniCats](http://communicats.blogspot.nl) for a great topic.*
+*I'm very happy that Per is very interested in many things and that he is always prepared to tell about his own view on the problem. Thanks to [Per Corell](https://www.facebook.com/per.corell) for pointing that out and thanks to [CommuniCats](https://communicats.blogspot.nl) for a great topic.*
 
 ## CO2 vs. Nitrogen as Pressurized Gas
 
@@ -65,7 +65,7 @@ I don't know if this is at all relevant but I've noticed the smell coming from m
 > 
 > Oxygen welding regulator purchased for $10 at a local surplus house. Another $3 for a fitting to convert from oxygen to nitrogen, and $24 for an airbrush pressure gauge. Done. A "Q" bottle holds approximately 120 cubic feet of gas, and should last for six months or more with average use.
 > 
-> [Models Buzz](http://www.modelsbuzz.com/using-co2-with-airbrush-128305.html)
+> [Models Buzz](https://www.modelsbuzz.com/using-co2-with-airbrush-128305.html)
 
 *What do you think about all these solutions or about the whole problem? For me it is fairly new direction in airbrushing and I have never thought about this.*
 

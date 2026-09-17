@@ -17,7 +17,7 @@ The guy there is actually explaining the whole process where he is using special
 
 https://youtu.be/dJhiixH1Kq4
 
-*I want to give credit to [Milla Jovovich](http://www.millaj.com/)for a nice song **Bring it on** that has been used in this video.*
+*I want to give credit to [Milla Jovovich](https://www.millaj.com/)for a nice song **Bring it on** that has been used in this video.*
 
 ## So how to polish airbrush needle?
 

@@ -211,6 +211,6 @@ Also when talking to customer, reserve some more time for yourself in case of ne
 
 If you haven't notice, just to point it out, I didn't use black color at all, here I use and recommend for you too - blue, green and violet.
 
-![Photograph of the tutorial's author, Kuyanov Anton](/images/wp-uploads/anton-e1361732897254.webp) Author of tutorial - Kuyanov Anton (Куянов Антон) - [www.art-ka.ru](http://www.art-ka.ru/)
+![Photograph of the tutorial's author, Kuyanov Anton](/images/wp-uploads/anton-e1361732897254.webp) Author of tutorial - Kuyanov Anton (Куянов Антон) - [www.art-ka.ru](https://www.art-ka.ru/)
 
 *Sergej here. Do you like this tutorial? I love it! I've found some great tips. If you like it or know about someone who may like it too, please spread the love and share!*

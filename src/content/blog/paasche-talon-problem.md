@@ -34,7 +34,7 @@ Here is the whole message from Bryan:
 > 
 > When it arrived home I opened the **Neo** box first and was really impressed with the brush itself. Nice finish, good balance and smooth trigger known from the **Iwata** product.
 > 
-> Put some water in it and sprayed to see if everything was OK and no bubbles in the cup. All went fine and I was even so pleased that I tried it with some ink to see how it sprays. Fine lines were constant and trigger control very smooth. I had the [Walmec airbrush](http://www.walmec.it/en/) before which was not so smooth in control.
+> Put some water in it and sprayed to see if everything was OK and no bubbles in the cup. All went fine and I was even so pleased that I tried it with some ink to see how it sprays. Fine lines were constant and trigger control very smooth. I had the [Walmec airbrush](https://www.walmec.it/en/) before which was not so smooth in control.
 > 
 > OK, I packed everything after a nice flush cleaning as it was only ink and with some cleaner, everything was shinning as new.
 > 

@@ -22,7 +22,7 @@ On the next picture is Andy alias "**Doctor Airbrush**" with original painting m
 
 ![Banner for The Airbrush Museum and Bianco Room](/images/wp-uploads/AirbrushMuseum.webp)
 
-Another site [Airbrushmuseum.com](http://www.airbrushmuseum.com/) provides look from different angle on the invention of airbrush and in my opinion it possesses more material (e.g. scans of certificates and books) about history. You can even ask the author to send you scans of **all airbrush certificates**. Well that's the best sites I've found on web. Below are my own notes and links which I hope are easy to read.
+Another site [Airbrushmuseum.com](https://www.airbrushmuseum.com/) provides look from different angle on the invention of airbrush and in my opinion it possesses more material (e.g. scans of certificates and books) about history. You can even ask the author to send you scans of **all airbrush certificates**. Well that's the best sites I've found on web. Below are my own notes and links which I hope are easy to read.
 
 ## The year of invention (1876 or 1879?)
 
@@ -45,19 +45,19 @@ And went on to sell the patent to the [**Walkup Brothers**](/blog/airbrush-evolu
 
 ### F.E Stanley’s 1876
 
-[Airbrushmuseum.com](http://www.airbrushmuseum.com/) presents that first airbrush was invented by F.E Stanley’s in 1876 - he called it "Atomizer".
+[Airbrushmuseum.com](https://www.airbrushmuseum.com/) presents that first airbrush was invented by F.E Stanley’s in 1876 - he called it "Atomizer".
 
 **F. (Francis/Frank) E. Stanley** of Kingfield, Maine, an award winning artist created an "**atomizer**" so he could spray "**water colors, india-ink or crayon** and also for all kinds of shading in which color can can be used in a liquid state".
 
 This patent was filed on June 20th, 1876 and granted on September 19, 1876.
 
-Needless to say **Penaluna** mentions that depending on the definition of paint distribution, **Airbrush was patented in 1876** (Patent Number 182,389) by [**Francis Edgar Stanley**](http://en.wikipedia.org/wiki/Francis_Edgar_Stanley) of [Newton, Massachusetts](http://en.wikipedia.org/wiki/Newton,_Massachusetts).
+Needless to say **Penaluna** mentions that depending on the definition of paint distribution, **Airbrush was patented in 1876** (Patent Number 182,389) by [**Francis Edgar Stanley**](https://en.wikipedia.org/wiki/Francis_Edgar_Stanley) of [Newton, Massachusetts](https://en.wikipedia.org/wiki/Newton,_Massachusetts).
 
-![Portrait of the poet Longfellow made with F. E. Stanley's atomizer](/images/wp-uploads/airbrush_fe_stanley_longfellow_244px.webp)![Sepia studio portrait of a seated bearded man](/images/wp-uploads/stanley.webp)![Line drawing of an early atomizer mounted on a stand](/images/wp-uploads/airbrush_fe_stanley_1876_01_355px.webp)Stanley and his twin brother later invented process for continuous coating of photographic plates (**Stanley Dry Plate Company**) but are perhaps best known for their [Stanley Steamer](http://en.wikipedia.org/wiki/Stanley_Steamer). Unfortunately no artistic images that used this "paint distributor / atomizer" do exist or are as yet known.
+![Portrait of the poet Longfellow made with F. E. Stanley's atomizer](/images/wp-uploads/airbrush_fe_stanley_longfellow_244px.webp)![Sepia studio portrait of a seated bearded man](/images/wp-uploads/stanley.webp)![Line drawing of an early atomizer mounted on a stand](/images/wp-uploads/airbrush_fe_stanley_1876_01_355px.webp)Stanley and his twin brother later invented process for continuous coating of photographic plates (**Stanley Dry Plate Company**) but are perhaps best known for their [Stanley Steamer](https://en.wikipedia.org/wiki/Stanley_Steamer). Unfortunately no artistic images that used this "paint distributor / atomizer" do exist or are as yet known.
 
 The **airbrush** that was first given the name **Air Brush**, was developed by **Abner Peeler**
 
-and used a **hand-operated [compressor](/blog/homemade-airbrush-compressor/)**, and the inventor patented it "for the painting of [watercolors](http://en.wikipedia.org/wiki/Watercolor) and other artistic purposes". It was rather crude, being based on a number of spare parts in a jeweller’s workshop such as old screwdrivers and welding torches.
+and used a **hand-operated [compressor](/blog/homemade-airbrush-compressor/)**, and the inventor patented it "for the painting of [watercolors](https://en.wikipedia.org/wiki/Watercolor) and other artistic purposes". It was rather crude, being based on a number of spare parts in a jeweller’s workshop such as old screwdrivers and welding torches.
 
 [![Abner Peeler paint distributor patent drawing from 1883](/images/wp-uploads/pat01_peeler00256852-1s.webp)](/images/wp-uploads/pat01_peeler00256852-1s.webp)
 
@@ -66,4 +66,4 @@ So now you see that it wasn't that easy to use the airbrush at that period :)
 
 At first I thought that I would be able to cover everything in one blog post but that seems to be not very realistic so I've decided to create a separate category to accommodate more articles in the future.
 
-Source:[andypenaluna.com](http://thecommunicationspace.com/profile/AndyPenaluna), [airbrushmuseum.com](http://www.airbrushmuseum.com/), [wikipedia.org](http://wikipedia.org)
+Source:~~andypenaluna.com~~, [airbrushmuseum.com](https://www.airbrushmuseum.com/), [wikipedia.org](https://wikipedia.org)

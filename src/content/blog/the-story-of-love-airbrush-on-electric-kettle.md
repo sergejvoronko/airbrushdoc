@@ -11,9 +11,9 @@ heroImage: "/images/wp-uploads/airbrush-story-of-love-42.webp"
 ---
 ## About the Artist and Project
 
-*[UNREALTECH.RU](http://www.unrealtech.ru) is a** great airbrush website** for everyone who can read cyrillic and knows something about airbrush. Last time I've had nice chat with author and founder of that site and he gave me the permission to use his website as my source of information. As most of my visitors come from USA and other countries that understand english, I think that one more source of any useful info can have only positive impact. You may have seen some of their stuff in the post [airbrushing toilet seats](/blog/airbrushed-toilet-seats/). Here is another tutorial from them, so, enjoy it!*
+*[UNREALTECH.RU](https://www.unrealtech.ru) is a** great airbrush website** for everyone who can read cyrillic and knows something about airbrush. Last time I've had nice chat with author and founder of that site and he gave me the permission to use his website as my source of information. As most of my visitors come from USA and other countries that understand english, I think that one more source of any useful info can have only positive impact. You may have seen some of their stuff in the post [airbrushing toilet seats](/blog/airbrushed-toilet-seats/). Here is another tutorial from them, so, enjoy it!*
 
-The story started out of love to **airbrushing** and then really slowly it has grown to a love to animals, in my case. I think you have to love something you paint. When guys from [unrealtech.ru](http://www.unrealtech.ru) started this competition I decided to take part in it. The theme of the contest was "**Airbrush on The Kettle**".
+The story started out of love to **airbrushing** and then really slowly it has grown to a love to animals, in my case. I think you have to love something you paint. When guys from [unrealtech.ru](https://www.unrealtech.ru) started this competition I decided to take part in it. The theme of the contest was "**Airbrush on The Kettle**".
 
 ### Project Details
 
@@ -107,12 +107,12 @@ Before I started all that I've made some sketches for this side as well. Here is
 
 ### Freehand Painting Technique
 
-I didn't get to finish this one and before I started painting I just made another schematic sketch and started to paint without even a stencil, just improvising free-hand. Used black, dark-brown, [**ochre**](http://en.wikipedia.org/wiki/Ochre), mix of **ochre and grey-blue**, and mix of **ochre with white**. A bit of yellow and red.
+I didn't get to finish this one and before I started painting I just made another schematic sketch and started to paint without even a stencil, just improvising free-hand. Used black, dark-brown, [**ochre**](https://en.wikipedia.org/wiki/Ochre), mix of **ochre and grey-blue**, and mix of **ochre with white**. A bit of yellow and red.
 ![Pen sketch of the bat and cave composition](/images/wp-uploads/airbrush-story-of-love-36.webp)![Three stages of the bat design blocked in on the kettle](/images/wp-uploads/airbrush-story-of-love-37.webp)![Two views of the bat figure gaining shading and texture](/images/wp-uploads/airbrush-story-of-love-38.webp)![Two further views of the bat artwork with the cave background](/images/wp-uploads/airbrush-story-of-love-39.webp)![Four detail views of the completed bat artwork](/images/wp-uploads/airbrush-story-of-love-40.webp)
 
 ### Finishing and Clear Coat Application
 
-Next I made a [halo](http://en.wikipedia.org/wiki/Halo_%28religious_iconography%29) with knife, added more light with airbrush and got rid off over-spray and some other defects.
+Next I made a [halo](https://en.wikipedia.org/wiki/Halo_%28religious_iconography%29) with knife, added more light with airbrush and got rid off over-spray and some other defects.
 ![Two views of small glowing details added around the cave opening](/images/wp-uploads/airbrush-story-of-love-41.webp)![Two views of the finished reverse side with highlights](/images/wp-uploads/airbrush-story-of-love-42.webp)
 The clear coat did let me down. It was too cheap to be good and as I've used this coat before I knew that it is not the best idea to use it but this time I wanted to try something else, so I've added 10% of matting agent instead of 20% recommended, because of some gloss that has still been present.
 ![Mobihel clear coat tins and hardener on the bench](/images/wp-uploads/airbrush-story-of-love-43.webp)

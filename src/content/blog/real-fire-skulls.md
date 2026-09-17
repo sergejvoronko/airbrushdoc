@@ -82,7 +82,7 @@ Here is just a gallery of different types of airbrushed skulls and real fire pai
   <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_scull_41.webp" loading="lazy" alt="Real flames and skull airbrush artwork — image 39 of 39" /></div>
 </div>
 
-Source of images: [Flikr.com](http://flikr.com), (All images in this gallery are with **Creative Commons-license**).
+Source of images: [Flikr.com](https://flikr.com), (All images in this gallery are with **Creative Commons-license**).
 
 ## Considerations About Custom Airbrushed Vehicle Art
 
@@ -92,6 +92,6 @@ Next I would like to know about your local police department "**how do they trea
 
 ## Notable Airbrush Artists
 
-And at the end I had to mention this. There are some artists that I respect a lot and they actually made their living doing mostly these motives. **[Mike Lavallee](http://killerpaint.wordpress.com/)** (to me he is a father of **real fire,** but recently showed the world that he can do much more), **[Airbrush Fitto](http://www.airbrushfitto.com/)** (unusual way of painting **skulls** and full **skeletons**, and if I'm not wrong, he does everything **freehand**).
+And at the end I had to mention this. There are some artists that I respect a lot and they actually made their living doing mostly these motives. **[Mike Lavallee](https://killerpaint.wordpress.com/)** (to me he is a father of **real fire,** but recently showed the world that he can do much more), **[Airbrush Fitto](https://www.airbrushfitto.com/)** (unusual way of painting **skulls** and full **skeletons**, and if I'm not wrong, he does everything **freehand**).
 
 And my last question "**What do you think about these two artist?"**

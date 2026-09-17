@@ -22,9 +22,9 @@ Thanks for the excellent entry about [painting on polymer clay](/blog/airbrushin
 
 ### Detailed Character Sculptures
 
-Here is a couple of my pieces, both in **[Kato Polyclay](http://en.wikipedia.org/wiki/Kato_polyclay)** (much, much stronger than **[Super Sculpey](http://www.dickblick.com/products/super-sculpey/)**, which is great for some uses but not so much for thin delicate works that need repeated curing).
+Here is a couple of my pieces, both in **[Kato Polyclay](https://en.wikipedia.org/wiki/Kato_polyclay)** (much, much stronger than **[Super Sculpey](https://www.dickblick.com/products/super-sculpey/)**, which is great for some uses but not so much for thin delicate works that need repeated curing).
 
-Both are tinted with **[Genesis](http://www.genesisartistcolors.com/) Heat Set Paints**:
+Both are tinted with **~~Genesis~~ Heat Set Paints**:
 
 ![Goblin Spider](/images/wp-uploads/goblin-spider-2-sml-wb.webp)
 
@@ -63,6 +63,6 @@ P.S. I also make the prototypes for the [Carnegie Museum of Natural History](htt
 Thanks so much for the suggestions on Wicked Colors! I'm off to try them!
 Love **[Megan's Kirin](/blog/airbrushing-on-polymer-clay/)**!
 
-Forest Rogers - [http://www.forestrogers.com](http://www.forestrogers.com)
+Forest Rogers - [https://www.forestrogers.com](https://www.forestrogers.com)
 
 *Visit Forest's website and you will find much more of her art works. All of them are just awesome. Anyway don't forget to share this with your friends or just leave a comment.*

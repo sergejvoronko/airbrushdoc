@@ -28,7 +28,7 @@ Yes, California has restrictive laws on emissions of volatile organic compounds,
 
 > You cannot get it shipped from other countries legally without a lot of troubles. Better find at least one place that makes nitro cellulose in your area. The body shops will be no help, look for cabinet-maker suppliers. **Deft clear lacquer is nitro** so if you find a can of it in your hardware store read the label and see who actually made it. There is a website for guitar finishers called ~~**reranch.com**~~ that sells it in spray bomb form US only.
 
-Well, if you manage to get some nitro lacquer, Congratulations! BTW, here is one good manufacturer page that does this stuff and have thinner for it - [LANCO](http://www.lancopaints.com) (available in US too). **Nitrocellulose lacquer** requires some rules to follow and I'm going to write about it here. But first of all...
+Well, if you manage to get some nitro lacquer, Congratulations! BTW, here is one good manufacturer page that does this stuff and have thinner for it - [LANCO](https://www.lancopaints.com) (available in US too). **Nitrocellulose lacquer** requires some rules to follow and I'm going to write about it here. But first of all...
 
 ### What Exactly is Nitrocellulose Paint?
 

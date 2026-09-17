@@ -67,4 +67,4 @@ That's was it. And here is the finished device.
 
 Another nice build of air compressor for all airbrush artists or DIY enthusiasts. If you like it don't forget to comment or tweet it, like it and give it a plus. In one word - "SHARE".
 
-Author: **igrek_30**, Surce: [Scale Models](http://scalemodels.ru)
+Author: **igrek_30**, Surce: [Scale Models](https://scalemodels.ru)

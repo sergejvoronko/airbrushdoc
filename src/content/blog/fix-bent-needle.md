@@ -62,7 +62,7 @@ Afterwards proceed with wet sanding. It's the same process as the one described 
 
 ![Sanded needle checked against a white sheet for a clean taper](/images/wp-uploads/Bent-Airbrush-Needle-9.webp)
 
-Only after you are sure you've done a good job you should do a fine polish of the needle. Here you have to use a drill with polishing bit and some compound. Jeweler's rouge is a very good and fine abrasive compound. Usually called "**the green**", Chromium Oxide is the most used abrasive compound. I recommend checking out company [Dremel](http://www.dremel.com) for any polishing tools. Polish the needle starting from the center and moving to the tip. Again, don't forget to rotate your needle the whole time holding it at the very same angle as before.
+Only after you are sure you've done a good job you should do a fine polish of the needle. Here you have to use a drill with polishing bit and some compound. Jeweler's rouge is a very good and fine abrasive compound. Usually called "**the green**", Chromium Oxide is the most used abrasive compound. I recommend checking out company [Dremel](https://www.dremel.com) for any polishing tools. Polish the needle starting from the center and moving to the tip. Again, don't forget to rotate your needle the whole time holding it at the very same angle as before.
 
 ![Close-up of a repaired airbrush needle with a restored point](/images/wp-uploads/Bent-Airbrush-Needle-10.webp)
 
@@ -86,7 +86,7 @@ Get two small and same size pieces of a window glass. Then all you have to do is
 
 ### How to Fix Bent Needle? Method #5: Pencil Only
 
-Here you use only a pencil and here is the link to [video](http://www.youtube.com/v/HZhjmABPXjc&autoplay=1&allowfullscreen). I think it in this case it's better to watch then read.
+Here you use only a pencil and here is the link to [video](https://www.youtube.com/v/HZhjmABPXjc&autoplay=1&allowfullscreen). I think it in this case it's better to watch then read.
 
 One nice addition I ran into during my "*search for the perfect method*" is an old hard drive used for polishing :).
 
@@ -98,4 +98,4 @@ This is it. I didn't try all of these tricks as I didn't have that much damaged 
 
 If you like this article then share it but if you don't agree to some of this methods leave a comment below.
 
-Source:[wipedia](http://en.wikipedia.org), [smallenginepower](http://smallenginepower.blogspot.com/), [unrealtech.ru](http://www.unrealtech.ru)
+Source:[wipedia](https://en.wikipedia.org), [smallenginepower](https://smallenginepower.blogspot.com/), [unrealtech.ru](https://www.unrealtech.ru)

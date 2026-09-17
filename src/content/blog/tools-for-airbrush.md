@@ -33,7 +33,7 @@ Iwata has in their product menu one, kind of mobile airbrush work station "**Iwa
 
 ## Spray Booth for Scale Modeling and Detailed Work
 
-The other concern is when you are a scale modeler, then you probably need a **spray booth**. Be careful, the term "spray both" is not exactly defined, so scale modelers, you should look for compact or hobby spray booth. I'm going to give you kind of direction here, if you are curious, check out this [page](http://www.chicagoairbrushsupply.com/spraybooths.html) to see what I mean. The price range here is from $130 to over one thousand bucks. This is also popular topic in **DIY**, maybe someday I'll post a tutorial.
+The other concern is when you are a scale modeler, then you probably need a **spray booth**. Be careful, the term "spray both" is not exactly defined, so scale modelers, you should look for compact or hobby spray booth. I'm going to give you kind of direction here, if you are curious, check out this ~~page~~ to see what I mean. The price range here is from $130 to over one thousand bucks. This is also popular topic in **DIY**, maybe someday I'll post a tutorial.
 
 ![Blue prefabricated spray booth with extraction and ramp](/images/wp-uploads/spray-booth.webp)
 
@@ -47,7 +47,7 @@ If you want to paint large object such as cars and bikes you will find these spr
 
 ### Frisket Film Options
 
-**[Frisket film](http://www.chicagoairbrushsupply.com/arfr.html)** - self-adhering masking film with a removable adhesive that leaves no residue. Excellent for use on smooth surfaces such as illustration board, photographs and most of airbrush techniques. Also used for stenciling and retouching. The film comes in several versions: easy-peel, "**low tack**" for smooth surfaces and airbrushing, "**extra tack**" for rough boards and other surfaces requiring extra adhesion and "**all-purpose**" (cheaper low-tack alternative).
+**~~Frisket film~~** - self-adhering masking film with a removable adhesive that leaves no residue. Excellent for use on smooth surfaces such as illustration board, photographs and most of airbrush techniques. Also used for stenciling and retouching. The film comes in several versions: easy-peel, "**low tack**" for smooth surfaces and airbrushing, "**extra tack**" for rough boards and other surfaces requiring extra adhesion and "**all-purpose**" (cheaper low-tack alternative).
 
 Frisket is sold in packs, by the sheet or on rolls in clear and matte versions.
 
@@ -55,7 +55,7 @@ Frisket is sold in packs, by the sheet or on rolls in clear and matte versions.
 
 ### Liquid Frisket for Detailed Work
 
-**[Liquid frisket](http://www.chicagoairbrushsupply.com/whmalifr2oz.html)** is a liquid masking film that can be applied to your artwork to mask some areas from being painted exactly as masking tape.
+**~~Liquid frisket~~** is a liquid masking film that can be applied to your artwork to mask some areas from being painted exactly as masking tape.
 
 ![Incredible White Mask liquid frisket bottles with an application pen](/images/wp-uploads/liquid-frisket.webp)
 
@@ -63,19 +63,19 @@ The use of liquid frisket comes in handy when your art piece includes many tiny 
 
 ### Stencils for Airbrush Art
 
-**Stencils**  - Everybody knows what stencils are. A lot of airbrush artist can't imagine to work without them but they are not that crucial. Yes, they make our lives easier but I know about artists that don't use them at all and paint unbelievable art (for example - [Airbrush Fitto](http://www.airbrushfitto.com/)). If you are the one that can't exist without stencils then I recommend to visit Airsick Stencils store - their stencils are one of the best.
+**Stencils**  - Everybody knows what stencils are. A lot of airbrush artist can't imagine to work without them but they are not that crucial. Yes, they make our lives easier but I know about artists that don't use them at all and paint unbelievable art (for example - [Airbrush Fitto](https://www.airbrushfitto.com/)). If you are the one that can't exist without stencils then I recommend to visit Airsick Stencils store - their stencils are one of the best.
 
 ## Cutting and Precision Tools
 
 ### X-ACTO Knife for Frisket Cutting
 
-**[X-ACTO knife](http://www.chicagoairbrushsupply.com/knives.html) a.k.a. Exacto knife a.k.a. Frisket knife a.k.a. Stencil knife...** We can go on and on. No matter how you call this knife, it always be the tool you may need. It has changeable blades and the primary purpose is to cut frisket film or any other masking material to create a stencil.
+**~~X-ACTO knife~~ a.k.a. Exacto knife a.k.a. Frisket knife a.k.a. Stencil knife...** We can go on and on. No matter how you call this knife, it always be the tool you may need. It has changeable blades and the primary purpose is to cut frisket film or any other masking material to create a stencil.
 
 ![X-ACTO craft knife with a spare blade](/images/wp-uploads/X-Acto-knife.webp)
 
 ### Cutting Mats for Safe Stencil Creation
 
-**[Cutting Mats](http://www.chicagoairbrushsupply.com/alcuma.html)** - this is actually the mat on which you'd perform stencil cutting. Very durable and available in many different colors and sizes.
+**~~Cutting Mats~~** - this is actually the mat on which you'd perform stencil cutting. Very durable and available in many different colors and sizes.
 
 ![Stack of self-healing gridded cutting mats](/images/wp-uploads/Cutting_Mats.webp)
 
@@ -83,7 +83,7 @@ The use of liquid frisket comes in handy when your art piece includes many tiny 
 
 ### Electric Eraser for Highlights and Corrections
 
-**[Electric eraser](http://www.chicagoairbrushsupply.com/steler.html)** - is used to remove paint, add highlights, blend out hard lines and make textures... The good thing is that it's able to make changes in tight areas which cannot be reached with regular eraser.
+**~~Electric eraser~~** - is used to remove paint, add highlights, blend out hard lines and make textures... The good thing is that it's able to make changes in tight areas which cannot be reached with regular eraser.
 
 ![Blue Staedtler electric eraser for lifting highlights](/images/wp-uploads/Electric-eraser.webp)
 
@@ -95,7 +95,7 @@ You can see that it's a really simple tool that works like a small hand drill. I
 
 ![Desktop art projector for enlarging designs onto a surface](/images/wp-uploads/projector.webp)
 
-I didn't have any intention to look for this kind of equipment for airbrushing as I've bought **HD ready projector** to watch movies long time ago and now I can use it even for airbrushing, projecting the design directly from computer. HD projectors are expensive, even SD are still expensive but you don't need those if you are not planning to entertain yourself. In some web stores you can get a [projector](http://www.chicagoairbrushsupply.com/projectors.html) from only $30.
+I didn't have any intention to look for this kind of equipment for airbrushing as I've bought **HD ready projector** to watch movies long time ago and now I can use it even for airbrushing, projecting the design directly from computer. HD projectors are expensive, even SD are still expensive but you don't need those if you are not planning to entertain yourself. In some web stores you can get a ~~projector~~ from only $30.
 
 This is all for today. I'm waiting for your advices in comments below.
 Please share the knowledge!

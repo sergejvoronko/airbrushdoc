@@ -25,7 +25,7 @@ Factory that makes those compressors fills them up with mineral oil and freon (*
 
 That is ok as far as it is used in closed environment (no air) so there is no external factors that might impact it's characteristic. But I'm going to use it for my purpose - airbrush, where the situation is significantly different. The environment is not closed anymore - it is opened, full of oxygen, dust, humidity ... etc.
 
-Update from [wikipedia](http://en.wikipedia.org/wiki/Freon)
+Update from [wikipedia](https://en.wikipedia.org/wiki/Freon)
 
 CFCs and HCFCs are colourless, volatile, toxic liquids and gases with a faintly sweet ethereal odour. Overexposure at concentrations of 11% or more may cause dizziness, loss of concentration, central nervous system depression and/or cardiac arrhythmia. Vapors displace air and can cause asphyxiation in confined spaces. Although non-flammable, their combustion products include hydrofluoric acid, and related compounds.
 
@@ -33,6 +33,6 @@ Mineral oil in these conditions is loosing its properties really fast. That caus
 
 ## Motor Oil: The Better Choice
 
-Motor oil compared to mineral oil is solving these issues as it has bunch of additional ingredients that will compensate or even remove all factors that affect the quality and life of the oil. Motor oil is made to be used in more aggressive environment as in airbrush compressor so it can last much longer. Good motor oil has more classifications, for example I use semi-synthetic [**10W40**](http://en.wikipedia.org/wiki/Motor_oil) as I have some left after I changed oil in my car. You can use mineral or semi-synthetic oil with different indexes but **I wouldn't recommend to use synthetic oil** (it is more expensive and it is thin -> short life)
+Motor oil compared to mineral oil is solving these issues as it has bunch of additional ingredients that will compensate or even remove all factors that affect the quality and life of the oil. Motor oil is made to be used in more aggressive environment as in airbrush compressor so it can last much longer. Good motor oil has more classifications, for example I use semi-synthetic [**10W40**](https://en.wikipedia.org/wiki/Motor_oil) as I have some left after I changed oil in my car. You can use mineral or semi-synthetic oil with different indexes but **I wouldn't recommend to use synthetic oil** (it is more expensive and it is thin -> short life)
 
 I think that's enough of facts. Now I would like to see your opinion.

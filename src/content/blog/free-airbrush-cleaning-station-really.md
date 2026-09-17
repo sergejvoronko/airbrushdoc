@@ -67,5 +67,5 @@ and of course some tools like drill and knife.
 
 The End.
 
-Source: [http://scalemodels.ru](http://scalemodels.ru)
+Source: [https://scalemodels.ru](https://scalemodels.ru)
 Written by **Сан_Саныч**

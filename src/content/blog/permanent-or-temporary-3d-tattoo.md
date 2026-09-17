@@ -83,4 +83,4 @@ I don't have any **tattoo** and I'm not planing to have one. Better is just to m
 
 I would like to know what do you think? Is it worth to have one image on your body for good?
 
-Source of pictures: [slodive.com](http://slodive.com), ~~uphaa.com~~, [technologytosoftware.com](http://technologytosoftware.com)
+Source of pictures: [slodive.com](https://slodive.com), ~~uphaa.com~~, [technologytosoftware.com](https://technologytosoftware.com)

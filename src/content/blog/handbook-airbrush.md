@@ -50,4 +50,4 @@ heroImage: "/images/wp-uploads/first-airbrush-book.webp"
   <div class="abd-gallery-item"><img src="/images/wp-uploads/bookcom1.webp" loading="lazy" alt="Page from an early airbrush book or brochure — image 36 of 36" /></div>
 </div>
 
-Source:[andypenaluna.com/](http://thecommunicationspace.com/profile/AndyPenaluna), [airbrushmuseum.com](http://www.airbrushmuseum.com/), [wikipedia.org](http://wikipedia.org)
+Source:~~andypenaluna.com/~~, [airbrushmuseum.com](https://www.airbrushmuseum.com/), [wikipedia.org](https://wikipedia.org)

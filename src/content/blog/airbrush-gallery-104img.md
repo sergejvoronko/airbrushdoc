@@ -121,4 +121,4 @@ I want to apologize for the quality (it's not the best) :(
   <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_gallery_50.webp" loading="lazy" alt="Airbrushed work from the exhibition gallery — image 104 of 104" /></div>
 </div>
 
-Source : [ilnur.ru](http://ilnur.ru)
+Source : [ilnur.ru](https://ilnur.ru)

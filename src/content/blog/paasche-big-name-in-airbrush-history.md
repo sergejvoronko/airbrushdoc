@@ -69,7 +69,7 @@ In 50s and 60s all the airbrushes were able to change the position of needle by 
 
 ![Two vintage Paasche airbrushes with black siphon caps](/images/wp-uploads/Airbrush_Paasche_model-H_DD2.webp)
 
-I could go into details, but I'm not going to. Maybe later I'll write something more. I just wanted you to know how it started and especially to mention the name **Jens Andreas Paasche**. If you want to know more, I would recommend to check [airbrush museum](http://www.airbrushmuseum.com/) website and especially [airbrush patents](http://www.airbrushmuseum.com/airbrush_patents_collected_numerical.html) page where you can see all the patents. Generally, **Paasche Airbrush Company** has made huge improvements to the airbrush concept and its development.
+I could go into details, but I'm not going to. Maybe later I'll write something more. I just wanted you to know how it started and especially to mention the name **Jens Andreas Paasche**. If you want to know more, I would recommend to check [airbrush museum](https://www.airbrushmuseum.com/) website and especially [airbrush patents](https://www.airbrushmuseum.com/airbrush_patents_collected_numerical.html) page where you can see all the patents. Generally, **Paasche Airbrush Company** has made huge improvements to the airbrush concept and its development.
 
 Not so long ago, in 2004, **Paasche Airbrush Company** has celebrated 100 years anniversary (impressive) and it still holds their positions on airbrush market.
 
@@ -81,6 +81,6 @@ The original factory was constructed in Chicago in 1922.  It was later expanded
 
 *Paasche Emplyees*
 
-Sources: [airbrush museum](http://www.airbrushmuseum.com/), ~~airbrushwiki~~, [Andy Penaluna](http://thecommunicationspace.com/profile/AndyPenaluna)
+Sources: [airbrush museum](https://www.airbrushmuseum.com/), ~~airbrushwiki~~, ~~Andy Penaluna~~
 
 If you know some interesting facts about Paasche I would appreciate if you leave at least a short comment.

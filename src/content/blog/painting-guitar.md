@@ -22,7 +22,7 @@ https://youtu.be/3hT6JP2j9b0
 
 ### Original Soundtrack
 
-Just a note. My brother besides his passion to painting and airbrushing had few other hobbies long time ago. He's been mixing music and composing something in programs like **[fasttracker2](http://en.wikipedia.org/wiki/FastTracker_2)** and **[modplugtracker](http://www.modplug.com/)**. For this video he decided to try it again. I would like to see any comments about the music in this video.
+Just a note. My brother besides his passion to painting and airbrushing had few other hobbies long time ago. He's been mixing music and composing something in programs like **[fasttracker2](https://en.wikipedia.org/wiki/FastTracker_2)** and **[modplugtracker](https://www.modplug.com/)**. For this video he decided to try it again. I would like to see any comments about the music in this video.
 
 ## Lessons Learned: Paint Defects and Surface Preparation
 
@@ -30,7 +30,7 @@ Why have I mentioned the trouble in first paragraph? The thing is that all you s
 
 ## Airsick Stencils and Custom Design
 
-A long time has passed since I first introduced [airsick stencils](http://www.airsickhowto.com/) on my site but I never had any chance to review them or show some painting using them. So here it is. Of course my bro did use just some of them but they have helped a lot. Here they are!
+A long time has passed since I first introduced [airsick stencils](https://www.airsickhowto.com/) on my site but I never had any chance to review them or show some painting using them. So here it is. Of course my bro did use just some of them but they have helped a lot. Here they are!
 
 ![Airsick stencil sheets and barbed-wire designs on a blue mat](/images/wp-uploads/airsickstencils-1.webp)
 

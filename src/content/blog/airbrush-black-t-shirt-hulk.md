@@ -92,7 +92,7 @@ I hope you like this tutorial and I want to say thanks to everyone reading and f
     <div class="abd-author-name">Dmitry</div>
     <p class="abd-author-bio">Airbrush artist specializing in custom t-shirt painting. This Hulk tutorial demonstrates his step-by-step technique for dark fabric.</p>
     <div class="abd-author-links">
-      <a class="abd-author-link" href="http://www.facebook.com/dmitry.grateful" target="_blank" rel="noopener">Facebook</a>
+      <a class="abd-author-link" href="https://www.facebook.com/dmitry.grateful" target="_blank" rel="noopener">Facebook</a>
     </div>
     <p class="abd-author-note">Enjoyed this tutorial? Share it with a fellow airbrush artist.</p>
   </div>

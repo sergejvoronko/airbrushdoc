@@ -65,7 +65,7 @@ For some of siphon feed airbrush guns you can buy a cup that can be mounted to t
 
 ![Airbrush artist working at a rack of coloured paint bottles](/images/wp-uploads/spectrum_paint_bottles.webp)![Vintage advertisement photo of a man presenting an airbrush kit and rack](/images/wp-uploads/Spectrum2000.webp)
 
-Maybe you'd want to check a really interesting tool for siphon feed airbrushes called "[SPECTRUM 2000](http://www.madisonartshop.com/spectrum-2000.html)" that allows you to have up to nine bottles of paint connected at the same time. I've never tried this, so this is just a note that siphon feed airbrush gun can have some advantage but I don't know if it's good.
+Maybe you'd want to check a really interesting tool for siphon feed airbrushes called "[SPECTRUM 2000](https://www.madisonartshop.com/spectrum-2000.html)" that allows you to have up to nine bottles of paint connected at the same time. I've never tried this, so this is just a note that siphon feed airbrush gun can have some advantage but I don't know if it's good.
 
 **Hybrid feed (HF)**
 
@@ -134,4 +134,4 @@ At this point I have no more words to say and I hope that this article will help
 Here are some more results that I collected from airbrushdoc audience:
 ![airbrush votes](/images/wp-uploads/airbrush-votes3.webp)
 
-Source: [Facebook fun page](http://facebook.com/airbrushdoc), [Wolf SongStudio](http://www.wolfsongstudio.com/)
+Source: [Facebook fun page](https://facebook.com/airbrushdoc), [Wolf SongStudio](https://www.wolfsongstudio.com/)

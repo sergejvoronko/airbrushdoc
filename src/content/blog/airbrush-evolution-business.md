@@ -33,4 +33,4 @@ By 1885 Airbrush production was in full swing and **Liberty Walkup** was able to
 
 ![patent 1883](/images/wp-uploads/pat02_walkup00285325-2l-1.webp)![patent 1884](/images/wp-uploads/pat03_walkup00298138l-1.webp)![patent 1885](/images/wp-uploads/pat04_walkup00310754l-1.webp)The complete working kit including a pump and air tank would cost the purchaser $40 although a 6% discount was available for C.O.D. orders. This price soon rose to $50 as sales rose via offices in New York, Philadelphia and Chicago.
 
-Source:[andypenaluna.com](http://thecommunicationspace.com/profile/AndyPenaluna), [airbrushmuseum.com](http://www.airbrushmuseum.com/)
+Source:~~andypenaluna.com~~, [airbrushmuseum.com](https://www.airbrushmuseum.com/)

@@ -14,7 +14,7 @@ heroImage: "/images/wp-uploads/airbrush-car-4.webp"
 
 ### Discovering Airbrush Art
 
-The first time I've found airbrush in one article from magazine about cars in 1999 or maybe in some airbrush magazines after year 2000. I saw pictures of work from [Ilnur Mansurov](http://ilnur.ru), at that time first of his works. I've been so affected that I decided I have to try. But I forgot about it at least until 2005 when I met a man who is friend with a car painter. At that time I had a chance to hold an airbrush gun for the first time in my life. This was the day I've decided on my future profession despite the fact that I was already studying computer graphic design and advertising. Today I've got the diploma already.
+The first time I've found airbrush in one article from magazine about cars in 1999 or maybe in some airbrush magazines after year 2000. I saw pictures of work from [Ilnur Mansurov](https://ilnur.ru), at that time first of his works. I've been so affected that I decided I have to try. But I forgot about it at least until 2005 when I met a man who is friend with a car painter. At that time I had a chance to hold an airbrush gun for the first time in my life. This was the day I've decided on my future profession despite the fact that I was already studying computer graphic design and advertising. Today I've got the diploma already.
 
 ![T-shirt airbrushed with a gold biomechanical design on black fabric](/images/wp-uploads/airbrush-shirts-35.webp)
 
@@ -111,7 +111,7 @@ I know people that were trying airbrushing just because they thought that it is 
 
 ## Influences and Recommendations
 
-I love works of [Max Grom](http://www.aeromax.ru/), [First Center](http://www.spbaero.ru/) and also Struchalin has some powerful works. And also [Ilnur Mansurov](http://ilnur.ru), he was my inspiration.
+I love works of [Max Grom](https://www.aeromax.ru/), [First Center](http://www.spbaero.ru/) and also Struchalin has some powerful works. And also [Ilnur Mansurov](https://ilnur.ru), he was my inspiration.
 
 As a starting artists in airbrushing I would recommend a lot of practice and setting some goals for yourself. Also know why airbrush is acting weird some time and know how to deal with it. From my own experience I think using quality tools and materials is very important because not everyone can survive this test of getting into airbrushing.
 

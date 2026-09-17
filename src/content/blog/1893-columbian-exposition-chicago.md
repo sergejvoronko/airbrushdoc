@@ -21,4 +21,4 @@ Each **World Fair** was expected to surpass previous efforts and as the Paris ex
 
 The event itself was monumental in the development of Chicago as a city, it was the “Columbian Exposition” or “**World Fair**”. An aim of the Fair was to upstage the previous “**Paris Internationale**” of 1889 and to show the world what America could do. Chicago hosted the event despite fierce competition from New York. For Airbrush historians the facts are quite straightforward. Thayer and Chandler stole centre stage leaving a much aggrieved Walkup threatening legal action over the use of the name "[**Airbrush**](/)". Their model was significantly different being more like a pen and acting more like an atomizer than the fan and needle design of Walkup.
 
-Source:[andypenaluna.com/](http://thecommunicationspace.com/profile/AndyPenaluna), [airbrushmuseum.com/](http://www.airbrushmuseum.com/), [wikipedia.org](http://wikipedia.org)
+Source:~~andypenaluna.com/~~, [airbrushmuseum.com/](https://www.airbrushmuseum.com/), [wikipedia.org](https://wikipedia.org)

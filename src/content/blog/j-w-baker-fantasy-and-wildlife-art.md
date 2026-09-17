@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/JWBaker.webp"
 ---
 ## About J.W. Baker and Wolf Song Studio
 
-Some time ago I got in touch with one very specific and great artist. His name is **J W Baker**. He represents one half of the artistic duo **[Wolf Song Studio](http://wolfsongstudio.com/)**. The other half is his wife Sandi Baker.
+Some time ago I got in touch with one very specific and great artist. His name is **J W Baker**. He represents one half of the artistic duo **[Wolf Song Studio](https://wolfsongstudio.com/)**. The other half is his wife Sandi Baker.
 
 J.W. has been painting all his life and believes that the purpose of art is communication.
 *"I have been actively **communicating** throughout my life through my art. For me, art in whatever medium has always been my most effective means of communicating the inspirations and observations I believe worthy of commentary".*
@@ -20,7 +20,7 @@ J.W. has been painting all his life and believes that the purpose of art is comm
 
 To create his works he uses both **Acrylics and Oils**.
 
-If you didn't know, Wolf Song Studio has done a review on Infinity Airbrush. I have written one for [Infinity](/blog/harder-and-steenbeck-infinity-review/) myself but I would recommend to check their review anyway as it's different than any airbrush reviews you can find on-line. It is called [Two Artist's review the "Infinity 2-in-1"](http://www.wolfsongstudio.com/) (at the moment the page with review is not available :().
+If you didn't know, Wolf Song Studio has done a review on Infinity Airbrush. I have written one for [Infinity](/blog/harder-and-steenbeck-infinity-review/) myself but I would recommend to check their review anyway as it's different than any airbrush reviews you can find on-line. It is called [Two Artist's review the "Infinity 2-in-1"](https://www.wolfsongstudio.com/) (at the moment the page with review is not available :().
 
 ## J.W. Baker's Artistic Philosophy
 
@@ -97,8 +97,8 @@ ALL Images © Copyright J. W. Baker / 1991 - 2011 | WOLF SONG STUDIO 2005 - 2011
 
 ## Visit J.W. Baker's Official Website
 
-[![Banner reading Artist J. W. Baker over a wildlife artwork](/images/wp-uploads/jwbaker-banner.webp)](http://www.jwbart.com/)
+[![Banner reading Artist J. W. Baker over a wildlife artwork](/images/wp-uploads/jwbaker-banner.webp)](https://www.jwbart.com/)
 
-I have included just some of J.W.'s works in this gallery. If you want to see more and also read the story that every of this masterpieces tells, visit his website by clicking the banner above or use this link - [J W Baker Gallery](http://www.jwbart.com/).
+I have included just some of J.W.'s works in this gallery. If you want to see more and also read the story that every of this masterpieces tells, visit his website by clicking the banner above or use this link - [J W Baker Gallery](https://www.jwbart.com/).
 
 Otherwise don't forget to like it, tweet it, give a plus, comment and share it everywhere you can because this man deserve to be popular.

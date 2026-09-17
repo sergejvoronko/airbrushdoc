@@ -106,9 +106,8 @@ The Garden Airbrush has been used for some 3 years for whole figures and finer d
     <div class="abd-author-name">Per Corell</div>
     <p class="abd-author-bio">Danish street art and airbrush artist. Known for large-scale murals and experimental tools like his DIY garden sprayer airbrush.</p>
     <div class="abd-author-links">
-      <a class="abd-author-link" href="http://www.facebook.com/per.corell" target="_blank" rel="noopener">Facebook</a>
-      <a class="abd-author-link" href="http://www.myartspace.dk/silverscreen/" target="_blank" rel="noopener">Paintings for Sale</a>
-      <a class="abd-author-link" href="http://www.youtube.com/user/percorell" target="_blank" rel="noopener">YouTube</a>
+      <a class="abd-author-link" href="https://www.facebook.com/per.corell" target="_blank" rel="noopener">Facebook</a>
+      <a class="abd-author-link" href="https://www.youtube.com/user/percorell" target="_blank" rel="noopener">YouTube</a>
     </div>
     <p class="abd-author-note">If you like Per's idea and his art please share it with your friends.</p>
   </div>

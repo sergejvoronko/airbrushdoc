@@ -25,7 +25,7 @@ Maybe it could cause a fear of water or maybe the opposite if someone has fear i
 But never mind, let me know what do you think in comments below.
 Off course I included some links so you can check other art works of this talented airbrush artist.
 
-Find out more here ~~http://vk.com/airbrush32~~
+Find out more here ~~vk.com/airbrush32~~
 
 Anyway, for all my returning visitors, you may have noticed that I have change the design and that I am trying a new type of posts.
 This one is [gallery](/gallery/) post and it works as a slideshow. So to view the images you just click on arrows on the side of image.

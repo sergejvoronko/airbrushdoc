@@ -23,7 +23,7 @@ Well, first of all I don't think that real artist painting his masterpiece need 
 
 Another thing to consider is your own stencils. In previous paragraph I meant stencils that you can buy on Internet or local shop. Now imagine that there could be thousands, literally thousands people who had bought the very same stencils you did. I don't think that stencils make a good name for airbrushing. Yes it makes it easier, but have same shapes on hundreds of vehicles makes it look like the car wasn't painted at all, it is just a sticker :(.
 
-Here I want to mention one name [Mike Lavallee](http://killerpaint.wordpress.com/). He uses stencils, and very often his own stencils but the final painting looks totally awesome and original, you can't even see the trace of stencil. If you've seen any of Mike's videos you know that always after stencil comes free hand (that belong to a real artist), that's what makes it look awesome.
+Here I want to mention one name [Mike Lavallee](https://killerpaint.wordpress.com/). He uses stencils, and very often his own stencils but the final painting looks totally awesome and original, you can't even see the trace of stencil. If you've seen any of Mike's videos you know that always after stencil comes free hand (that belong to a real artist), that's what makes it look awesome.
 
 ## Can Airbrushing be Described as Art?
 

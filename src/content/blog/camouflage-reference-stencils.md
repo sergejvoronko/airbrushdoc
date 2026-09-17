@@ -28,11 +28,11 @@ Or for example the artist **Abbott Handerson Thayer** formulated "**Thayer's Law
 
 A British zoologist **Hugh Bamford Cott** worked to convince the British army to use more **effective camouflage techniques**, including counter-shading. In 1940 he wrote a book "**Adaptive Coloration in Animals**" where he created a concept as "**maximum disruptive contrast**", where "*a streak of boldly contrasting color helps to make an animal or military vehicle less visible by breaking up its outline*".
 
-There are many types of camouflage. I thought that there are 4 or so types but if you go to this [wiki page](http://en.wikipedia.org/wiki/List_of_camouflage_patterns) you can find that it does depend for what part of the world you need this camouflage and there is a lot of them. You will also find some references there. It is a very good wiki page therefore I recommend it highly to everyone interested in camouflages.
+There are many types of camouflage. I thought that there are 4 or so types but if you go to this [wiki page](https://en.wikipedia.org/wiki/List_of_camouflage_patterns) you can find that it does depend for what part of the world you need this camouflage and there is a lot of them. You will also find some references there. It is a very good wiki page therefore I recommend it highly to everyone interested in camouflages.
 
-Have you heard the term "**Digital Camo**"? It is probably the youngest type of the camouflage. The company behind it is [HyperStealth Biotechnology Corp.](http://www.hyperstealth.com/homepage.html) This company was established in 1999 and they developed first "Passive Negative Ion Generator". This company took it further and began to develop new military camouflage based on mathematical fractals (feedback loops) taking camouflage into an area of science (unbelievable!).
+Have you heard the term "**Digital Camo**"? It is probably the youngest type of the camouflage. The company behind it is [HyperStealth Biotechnology Corp.](https://www.hyperstealth.com/homepage.html) This company was established in 1999 and they developed first "Passive Negative Ion Generator". This company took it further and began to develop new military camouflage based on mathematical fractals (feedback loops) taking camouflage into an area of science (unbelievable!).
 
-After I've read about generator I found out that there is [online DIY Stencil generator](http://tacticalcamo.com/MARPAT/digi.php) for camouflages. Well the thing is that you can generate any pattern you want and choose colors you want but then if you want the real stencil you'll have to buy it (I don't know anything about the quality of it).
+After I've read about generator I found out that there is [online DIY Stencil generator](https://tacticalcamo.com/MARPAT/digi.php) for camouflages. Well the thing is that you can generate any pattern you want and choose colors you want but then if you want the real stencil you'll have to buy it (I don't know anything about the quality of it).
 
 I think that it is worth to mention here that my friends from **airsick stencils** have camouflage stencils in their shop too and I can guarantee the quality of all of their stencils - **they are the best**. At the moment I am working on a review of their stencils and very soon I'll publish it so stay with me.
 
@@ -75,6 +75,6 @@ It took me much more time to prepare these stencils comparing to the pack above.
 
 Here is the link  to one of the stencils. In order to get access to the rest you have to be a subscriber (it is totally free) and you can have the stencil ready to print in your favorite program.
 
-BTW, if you are newbie at this and don't exactly know how to use the stencil to paint camouflage I found this [site](http://www.mcarterbrown.com/forums/diy-tech/5266-how-choose-paint-your-marker.html) very useful and informative. Also there is a lot of videos on YouTube walking you through all the process.
+BTW, if you are newbie at this and don't exactly know how to use the stencil to paint camouflage I found this [site](https://www.mcarterbrown.com/forums/diy-tech/5266-how-choose-paint-your-marker.html) very useful and informative. Also there is a lot of videos on YouTube walking you through all the process.
 
 I want to thank Marc for giving me the idea for writing this article. If you find this useful as I do please share or like or at least leave a comment.

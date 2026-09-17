@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/cropped-header-airbrushdoc1.webp"
 ---
 
-*He didn't ask to post his gallery here, it's been me who has been asking. I visit [the orange airbrush forum](http://airbrushforum.org/) from time to time and once I saw a nice portrait. I checked the rest of art from the same author and I have to say he is a one talented fella. I just asked him to share his art with us and here it is.*
+*He didn't ask to post his gallery here, it's been me who has been asking. I visit [the orange airbrush forum](https://airbrushforum.org/) from time to time and once I saw a nice portrait. I checked the rest of art from the same author and I have to say he is a one talented fella. I just asked him to share his art with us and here it is.*
 
 ## Graf Studio Airbrush Art
 
@@ -72,8 +72,8 @@ Of course I didn't learn to be artist in those 10 months. I have had some experi
     <div class="abd-author-name">Alexandar Paunkovic</div>
     <p class="abd-author-bio">Self-taught airbrush artist producing photorealistic portraits and automotive pieces with an entry-level Chinese airbrush (0.2mm nozzle).</p>
     <div class="abd-author-links">
-      <a class="abd-author-link" href="http://www.youtube.com/user/PaunArt" target="_blank" rel="noopener">YouTube</a>
-      <a class="abd-author-link" href="http://www.facebook.com/Paunart" target="_blank" rel="noopener">Facebook</a>
+      <a class="abd-author-link" href="https://www.youtube.com/user/PaunArt" target="_blank" rel="noopener">YouTube</a>
+      <a class="abd-author-link" href="https://www.facebook.com/Paunart" target="_blank" rel="noopener">Facebook</a>
     </div>
     <p class="abd-author-note">Even with not the best quality airbrush you can create great art. He deserves to be recognized, please share the love.</p>
   </div>

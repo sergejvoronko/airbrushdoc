@@ -57,5 +57,5 @@ That is actually it. Easy, practical, functional and very handy. You can just pu
 
 *This is Sergej again. Thanks FanTom for nice tutorial. I hope it will help many people to make their own **airbrush cleaning station.***
 
-Source: [scalemodels.ru](http://scalemodels.ru/articles/3570-chistjashhaja-stancijapodstavkajekonomija-mesta.html)
+Source: [scalemodels.ru](https://scalemodels.ru/articles/3570-chistjashhaja-stancijapodstavkajekonomija-mesta.html)
 Author:FanTom

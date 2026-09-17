@@ -44,7 +44,7 @@ Watch this, by adding even more, for example a video course or a book (i.e [how 
 
 ## The Psychology of Pricing Strategy
 
-A week ago I read a story about similar situation. One [website](http://conversionxl.com/pricing-experiments-you-might-not-know-but-can-learn-from/) quoted some pieces from [William Poundstone](http://home.williampoundstone.net/) book "[Priceless: The Myth of Fair Value (and how to take advantage of it)](http://priceless-the-book.blogspot.com/)"
+A week ago I read a story about similar situation. One [website](https://conversionxl.com/pricing-experiments-you-might-not-know-but-can-learn-from/) quoted some pieces from [William Poundstone](https://home.williampoundstone.net/) book "[Priceless: The Myth of Fair Value (and how to take advantage of it)](https://priceless-the-book.blogspot.com/)"
 
 > People were offered two kinds of beer: premium beer for $2.50 and bargain beer for $1.80. Around 80% chose the more expensive beer.
 > 

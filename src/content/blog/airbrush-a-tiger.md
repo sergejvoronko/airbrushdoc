@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/Airbrush-Tiger-Car-Hood.webp"
 ---
 
-*The tiger ([Panthera tigris](http://en.wikipedia.org/wiki/Panthera_tigris)) is the largest cat species, this means that this animal has some power. But that's just a fact that actually may be one of the reasons why people want them painted or maybe simply because it's the most beautiful beast out there?*
+*The tiger ([Panthera tigris](https://en.wikipedia.org/wiki/Panthera_tigris)) is the largest cat species, this means that this animal has some power. But that's just a fact that actually may be one of the reasons why people want them painted or maybe simply because it's the most beautiful beast out there?*
 
 *I think you know your reasons. And if you decide to **airbrush a tiger** this short step by step guide may help you with that. If you remember some time ago I've had a tutorial with [scorpion on the car hood](/blog/airbrush-tutorial-scorpio/). Its author will show you today how he did the tiger using very similar technique. Enjoy!*
 
@@ -114,6 +114,6 @@ The whole project took 3 days to accomplish and here is the result.
 ![Airbrushed Tiger](/images/wp-uploads/Airbrush-Tiger-Car-Hood-38.webp)
 
 ![cliaksa.ru](/images/wp-uploads/cliaksa.ru_.webp)
-Антонов Сергей Александрович - ~~http://www.cliaksa.ru/~~
+Антонов Сергей Александрович - ~~cliaksa.ru~~
 
 *Isn't that just AWESOME? I think that this tutorial "**Airbrush a Tiger**" can motivate anyone to create something similar because when you read it and it sounds so easy, be careful, don't overestimate your possibilities or your skills. I've already became a big fan of this guy, what about you? If you like his art too then don't forget to share, like a tell your friends to check it out!*

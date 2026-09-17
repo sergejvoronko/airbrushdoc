@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/Paasche-Talon-Review-crown-aircap-2.webp"
 ---
 ## Paasche Talon Airbrush Review
 
-Today's review candidate is a dual action, gravity feed, internal mix airbrush called Paasche **Talon** from **Paasche Airbrush Company**. First of all I want to say that without **[ChicagoAirbrushSupply.com](http://www.chicagoairbrushsupply.com/)** this review will not be possible. Thank you guys!
+Today's review candidate is a dual action, gravity feed, internal mix airbrush called Paasche **Talon** from **Paasche Airbrush Company**. First of all I want to say that without **~~ChicagoAirbrushSupply.com~~** this review will not be possible. Thank you guys!
 
 The **Paasche Airbrush Company** is one of the oldest companies in airbrush industry. I have written a bit about [history of Paasche Airbrush](/blog/paasche-big-name-in-airbrush-history/) Company some time ago. It was just a matter of time to review one of their airbrushes.
 

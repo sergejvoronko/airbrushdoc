@@ -15,7 +15,7 @@ Most votes I got were for **CorelDraw**. That's why I decided that it is time to
 
 ## Why CorelDraw?
 
-I was hoping more people will vote for Corel. Another option was **Photoshop**, but Photoshop is a bitmap editor and when it comes to cutting it on plotter that's the worst option you can have. To make an ideal stencil you need a [vector editor](http://en.wikipedia.org/wiki/Vector_graphics_editor).
+I was hoping more people will vote for Corel. Another option was **Photoshop**, but Photoshop is a bitmap editor and when it comes to cutting it on plotter that's the worst option you can have. To make an ideal stencil you need a [vector editor](https://en.wikipedia.org/wiki/Vector_graphics_editor).
 
 There is an option by Adobe called Illustrator that works with vectors and even Photoshop these days has some vector tools. But I'm not very familiar with this tools so let's not complicate life. CorelDraw was the people's choice and I'm going to show how it's done.
 
@@ -38,7 +38,7 @@ This is the easy way to make a stencil. I will show you more advanced way. Well,
 
 BTW, if on your computer, pictures in this tutorial look blurred, click on them :)
 
-I'm going to stay with Corel for the process (Corel has bitmap editor too). As image I'm going to use a photo of [**Milla Jovovich**](http://en.wikipedia.org/wiki/Milla_Jovovich) (she is not just a good actress but good singer and fine model ;)).
+I'm going to stay with Corel for the process (Corel has bitmap editor too). As image I'm going to use a photo of [**Milla Jovovich**](https://en.wikipedia.org/wiki/Milla_Jovovich) (she is not just a good actress but good singer and fine model ;)).
 
 ![Source photograph of a woman in a leather jacket used for the stencil](/images/wp-uploads/milla-jovovich.webp)
 

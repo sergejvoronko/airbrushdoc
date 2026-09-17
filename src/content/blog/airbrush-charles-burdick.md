@@ -24,7 +24,7 @@ It is clear that he studied the use of atomizers and was reputed to be friends w
 
 ## Charles Burdick, airbrushed art
 
-1. Picture in the middle is one of Burdick’s portraits of the poet Henry Wadsworth Longfellow made using his airbrush and air eraser. It is believed to be an entry to a Royal Academy of Art’s annual exhibition. **It was reputably rejected as they believed it to be a photograph.** ([**Francis Edgar Stanley**](http://en.wikipedia.org/wiki/Francis_Edgar_Stanley) has ***portrait of Longelow*** painted by atomizer which you can find [here](/blog/who-invented-airbrush/) in B&W).
+1. Picture in the middle is one of Burdick’s portraits of the poet Henry Wadsworth Longfellow made using his airbrush and air eraser. It is believed to be an entry to a Royal Academy of Art’s annual exhibition. **It was reputably rejected as they believed it to be a photograph.** ([**Francis Edgar Stanley**](https://en.wikipedia.org/wiki/Francis_Edgar_Stanley) has ***portrait of Longelow*** painted by atomizer which you can find [here](/blog/who-invented-airbrush/) in B&W).
 
 2. On the right are sketches signed by Burdick and show his considerable artistic ability as well as his skill in the use of his airbrush. He was to later mourn the fact that many airbrushers who only retouched photos have little artistic leanings and had mechanised the process.
 
@@ -40,4 +40,4 @@ It is clear that he studied the use of atomizers and was reputed to be friends w
 
 There was a flurry of activity around the years immediately prior to and following the turn of the century. Many new names attempted to add their improvements to the airbrush in a bid to take advantage of the wonderful new art tool. Most were never to be heard of again but for those directly involved in the established companies the future held many opportunities. Burdick had moved to London to continue his work and left those in the US to fight over the growing demand for portraiture, showcards and most importantly photo-retouching. The airbrushing community grew rapidly and numerous improvements were patented by individuals trying to keep ahead of the competition. Duplication of ideas was commonplace.
 
-Source:[Andy Penaluna](http://thecommunicationspace.com/profile/AndyPenaluna), [http://www.airbrushmuseum.com/](http://www.airbrushmuseum.com/), [http://wikipedia.org](http://wikipedia.org)
+Source:~~Andy Penaluna~~, [https://www.airbrushmuseum.com/](https://www.airbrushmuseum.com/), [https://wikipedia.org](https://wikipedia.org)

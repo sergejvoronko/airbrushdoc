@@ -22,7 +22,7 @@ Here is what I needed to make it happen:
 
 - Car paint **Duxone** from **DuPont**
 
-- Thinner N646 -very popular in Russia but difficult to get abroad (Duxone has it's own [thinners DX32, DX34, DX36](http://www.axaltacs.com/corporate/en_US/duxone.html))
+- Thinner N646 -very popular in Russia but difficult to get abroad (Duxone has it's own [thinners DX32, DX34, DX36](https://www.axaltacs.com/corporate/en_US/duxone.html))
 
 - Clear coat **Brulex 2K-HS**
 
@@ -144,6 +144,6 @@ Here is my finished scorpion.
 ![Finished scorpion bonnet artwork photographed from a lower angle](/images/wp-uploads/airbrush-tutorial-scorpio-031.webp)
 
 ![Artist leaning over a car panel while airbrushing](/images/wp-uploads/cliaksa.ru_.webp)
-Антонов Сергей Александрович - ~~http://www.cliaksa.ru/~~
+Антонов Сергей Александрович - ~~cliaksa.ru~~
 
 *Nice, huh? I think that this will push every **Ford Scorpio** owners to create something similar. My thoughts were a bit different - "what a pity that I sold my Scorpio just a month ago?". ;) BTW don't forget to share, like a tell your friends.*

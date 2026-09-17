@@ -10,7 +10,7 @@ draft: false
 heroImage: "/images/wp-uploads/Badger-Spirit-Airbrush.webp"
 ---
 
-I would place **Badger** Airbrush in **top ten best airbrush brands** of the world, well at least from what I've heard about this brand. But I have never tried or even seen one for real - until now. When I've got the opportunity I knew that another review in my "**[airbrush reviews](/airbrush-reviews/)**" category will follow very soon. And I'm pleased that I got something like **Badger Renegade** line of quality airbrushes in my hands. [Badger's website](http://www.badgerairbrush.com/) informs me that this line is especially for "***the proven elite artist***". So, let's see if they are right. As I looked on the web I found some info about them and some reviews as well and one of them was from modeler who claimed, that *"they are dead wrong and that these airbrushes are only for the modelers, no matter what skill level they at, but who wants a quality, double action airbrush and for reasonable price*".
+I would place **Badger** Airbrush in **top ten best airbrush brands** of the world, well at least from what I've heard about this brand. But I have never tried or even seen one for real - until now. When I've got the opportunity I knew that another review in my "**[airbrush reviews](/airbrush-reviews/)**" category will follow very soon. And I'm pleased that I got something like **Badger Renegade** line of quality airbrushes in my hands. [Badger's website](https://www.badgerairbrush.com/) informs me that this line is especially for "***the proven elite artist***". So, let's see if they are right. As I looked on the web I found some info about them and some reviews as well and one of them was from modeler who claimed, that *"they are dead wrong and that these airbrushes are only for the modelers, no matter what skill level they at, but who wants a quality, double action airbrush and for reasonable price*".
 
 Since I had painted with Iwata, I naturally considered their CM-C custom micron. I also considered the H & S airbrushes from Germany, but they all were quite expensive.
 
@@ -106,4 +106,4 @@ Just to point something out, one of the artists (*Monnie Criss*) had ordered **B
 
 Airbrush is much like a car. When you choose the one you like, you are unlikely to switch to another brand. If you are using a **single action** airbrush and consider to go to a **double action**, I would recommend Badger Renegade Velocity to be first for your consideration. To buy the Renegade line Extreme Set is probably a choice for someone more advanced.
 
-[Buy Badger Renegade Series from Chicago Supply](http://www.chicagoairbrushsupply.com/baairese.html)
+~~Buy Badger Renegade Series from Chicago Supply~~

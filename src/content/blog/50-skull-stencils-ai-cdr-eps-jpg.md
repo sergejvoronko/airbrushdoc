@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/50-scull-stencils1.webp"
 ---
 
-Here we go again. Another pack of [stencils](/freebies/) comes from a very good source [**aerografpro**](http://aerografpro.narod.ru/). All skull stencils are stored in separate folders and there is a palette of 4 formats to choose from.
+Here we go again. Another pack of [stencils](/freebies/) comes from a very good source [**aerografpro**](https://aerografpro.narod.ru/). All skull stencils are stored in separate folders and there is a palette of 4 formats to choose from.
 
 Vector graphics are ready for print:
 

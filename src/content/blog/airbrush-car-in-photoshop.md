@@ -17,7 +17,7 @@ This tutorial has come into my mind when I found few pictures on my computer tha
 
 https://youtu.be/66kf6W-tTiI
 
-If you don't see any video try this [link](http://www.youtube.com/embed/66kf6W-tTiI)
+If you don't see any video try this [link](https://www.youtube.com/embed/66kf6W-tTiI)
 
 In this particular case I've used my friend's car (as you can see nothing special - old Volkswagen). That's probably the reason why this project has never been realized as my friend didn't even have money to fix it nor paint it.
 
@@ -91,7 +91,7 @@ Here is the quick video I just added to YouTube
 
 https://youtu.be/pUKZIHlfnU0
 
-If video doesn't work try this [link](http://www.youtube.com/embed/pUKZIHlfnU0)
+If video doesn't work try this [link](https://www.youtube.com/embed/pUKZIHlfnU0)
 
 And here are some works that took a bit more time as it was a combination  of more pictures for a result motive "SOUND"
 

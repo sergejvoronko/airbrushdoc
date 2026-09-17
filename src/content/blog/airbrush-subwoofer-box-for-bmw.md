@@ -28,7 +28,7 @@ You may have seen some snapshots on my [Facebook fan page](https://www.facebook.
 
 https://youtu.be/4qC7NECTQlw
 
-I would like to give credit to author of the music track used in this video - [Dub FX](http://dubfx.net/) (Hip Hop - Part 3 (Featuring Plan C)).
+I would like to give credit to author of the music track used in this video - [Dub FX](https://dubfx.net/) (Hip Hop - Part 3 (Featuring Plan C)).
 
 ## Materials and Construction Details
 

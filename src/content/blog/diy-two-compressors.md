@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/dyi-two-compressor2.webp"
 ---
 ## Building DIY Compressors: A Two-Engine Project
 
-Today I'd like to share a story I've found on my greatest resource for **building compressors** [scalemodels.ru](http://scalemodels.ru). First of all it caught my eye. On visual side it looks like factory made model, but nope, it was home-made and as author states he "planned it to be a compact, low-budget project". But when he started he couldn't stop. And the result? - not very compact and not that low-budget at all, but how **beautiful** it is...
+Today I'd like to share a story I've found on my greatest resource for **building compressors** [scalemodels.ru](https://scalemodels.ru). First of all it caught my eye. On visual side it looks like factory made model, but nope, it was home-made and as author states he "planned it to be a compact, low-budget project". But when he started he couldn't stop. And the result? - not very compact and not that low-budget at all, but how **beautiful** it is...
 
 There's actually **two compressors** hidden under caddy which author got for free from work (they've had two broken water coolers with working compressors).
 
@@ -100,5 +100,5 @@ These compressors are very quiet and silence is really important factor in here.
 
 ![Closed aluminium compressor cabinet with ventilation slots](/images/wp-uploads/diy-two-compressors_8.webp)
 
-Source: [scalemodels.ru](http://scalemodels.ru/modules/myarticles/article_storyid_3486.html)
+Source: [scalemodels.ru](https://scalemodels.ru/modules/myarticles/article_storyid_3486.html)
 Author: Goldenram

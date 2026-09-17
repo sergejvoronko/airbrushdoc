@@ -91,7 +91,7 @@ In painting there is a term **Adhesion**, which is an ability of paint to stick
 
 I’ll show three different methods and compare them. As an example I use one engine hood which I have separated to three areas with masking tape.
 
-So, this hood has base coat on and a few layers of clear coat. To achieve maximal adhesion we have to get rid of “**the gloss**” and make surface **matt**. This can be done with [abrasive](http://en.wikipedia.org/wiki/Abrasive) **sandpaper** or **Scotch-Brites**. They are going to make micro scratches on the surface and the paint is going to hold thanks to that.
+So, this hood has base coat on and a few layers of clear coat. To achieve maximal adhesion we have to get rid of “**the gloss**” and make surface **matt**. This can be done with [abrasive](https://en.wikipedia.org/wiki/Abrasive) **sandpaper** or **Scotch-Brites**. They are going to make micro scratches on the surface and the paint is going to hold thanks to that.
 
 ![Prepare Car Surface 1 how to airbrush on metal](/images/wp-uploads/Prepare-Car-Surface-1.webp)
 

@@ -14,7 +14,7 @@ heroImage: "/images/wp-uploads/PolymerClay.webp"
 
 ### Polymer Clay
 
-[Polymer Clay](http://en.wikipedia.org/wiki/Polymer_clay) is usually available in many different colors but most of our projects require a use of many more colors and shades to give your sculpture a better or realistic look. **Where to buy polymer clay?** Good place to start is [sculpey.com](http://www.sculpey.com/)
+[Polymer Clay](https://en.wikipedia.org/wiki/Polymer_clay) is usually available in many different colors but most of our projects require a use of many more colors and shades to give your sculpture a better or realistic look. **Where to buy polymer clay?** Good place to start is [sculpey.com](https://www.sculpey.com/)
 
 Usually when someone asks me about certain use that I'm not familiar with I just say - test it. This is similar situation. If you have some special favorite paints not mentioned bellow - "**JUST TEST THEM**". Why? Polymer Clay is very interesting material. Some of paints trigger a chemical reaction. For example **enamel**, **clear coats**, **lacquers** or **classic oil paints** don't dry on clay and the surface is usually left sticky. **Water based acrylic or oil paints are**, on the other side, one of the **best choices for clay**. Some **acrylic paints** do not adhere to the clay as they should, then you have to prepare surface by using a primer and sand it for some time. You can use special **acrylic primer** or **Gesso**. Many of acrylic primers are available in spray cans (for example Krylon) but also for us airbrushists more known company Createx makes it too. Gesso is a special thick paint used as primer. It comes in white and black color. Because it is so thick it gives a great surface finish to paint on but on the other side it fills in all the small details (hair rendered on clay).
 
@@ -28,7 +28,7 @@ Also notice that acrylic paint become darker after they dry, so the result will 
 
 ## Oil Paint
 
-I've already said that baking mixed acrylic paint with polymer clay can cause very nasty defects. Oil paint however will not cause any trouble similar to that. Use of oil paint with polymer clay is practically similar to acrylic with one exception. Full drying time of oil paints can last half a year. Because of that they can't be covered with clear coat otherwise they will not dry at all. This makes it impossible to use oil paint for [Crackled Paint Technique](http://www.beadsandbeading.com/blog/make-your-own-crackle-paints-polymer-clay-tutorial-video/13758/). I've also found out that such property as slow drying is taken as a positive quality for some special techniques. Usually you can apply oil paint on already baked clay and they bake it again for few minutes just for paint hardening. Oil paint is good for technique called [Mokume-Gane](http://en.wikipedia.org/wiki/Mokume-gane).
+I've already said that baking mixed acrylic paint with polymer clay can cause very nasty defects. Oil paint however will not cause any trouble similar to that. Use of oil paint with polymer clay is practically similar to acrylic with one exception. Full drying time of oil paints can last half a year. Because of that they can't be covered with clear coat otherwise they will not dry at all. This makes it impossible to use oil paint for [Crackled Paint Technique](https://www.beadsandbeading.com/blog/make-your-own-crackle-paints-polymer-clay-tutorial-video/13758/). I've also found out that such property as slow drying is taken as a positive quality for some special techniques. Usually you can apply oil paint on already baked clay and they bake it again for few minutes just for paint hardening. Oil paint is good for technique called [Mokume-Gane](https://en.wikipedia.org/wiki/Mokume-gane).
 
 ## Other Types of Paints for Polymer Clay
 
@@ -36,15 +36,15 @@ I'm not going to get much into details as the most popular paint used for painti
 
 ### Ink
 
-There is many types of ink with different pigments, some are transparent, some just translucent and some have even candy like effects. Also their characteristics depend on the brand you are using and it has huge impact on result when applying on polymer clay. The most common uses are for creating textures on non-baked clay, shading of liquid polymer clay, shading of translucent clay and many different approaches to make [Mokume-Gane](http://en.wikipedia.org/wiki/Mokume-gane).
+There is many types of ink with different pigments, some are transparent, some just translucent and some have even candy like effects. Also their characteristics depend on the brand you are using and it has huge impact on result when applying on polymer clay. The most common uses are for creating textures on non-baked clay, shading of liquid polymer clay, shading of translucent clay and many different approaches to make [Mokume-Gane](https://en.wikipedia.org/wiki/Mokume-gane).
 
 ### Pastels
 
-Very popular for painting polymer clay models. Very important in this case is to get a good quality one. Also every piece has to be coated after painting with special sealer ([Krylon](http://amzn.to/IlWl32) or [Testor's](http://amzn.to/HTB04A)).
+Very popular for painting polymer clay models. Very important in this case is to get a good quality one. Also every piece has to be coated after painting with special sealer ([Krylon](https://amzn.to/IlWl32) or [Testor's](https://amzn.to/HTB04A)).
 
 ### Powders
 
-These are used for creating special effects and can be mixed with acrylic thinner, liquid polymer clay or applied directly on not yet baked clay. Powders with metallic effect are used for imitation of jewelry pieces. This also has to be coated with special sealer ([Krylon](http://amzn.to/IlWl32) or [Testor's](http://amzn.to/HTB04A)).
+These are used for creating special effects and can be mixed with acrylic thinner, liquid polymer clay or applied directly on not yet baked clay. Powders with metallic effect are used for imitation of jewelry pieces. This also has to be coated with special sealer ([Krylon](https://amzn.to/IlWl32) or [Testor's](https://amzn.to/HTB04A)).
 
 ## What to Use for Airbrush?
 
@@ -80,4 +80,4 @@ She is working on one project right now and has sent me two snaps.
 
 *This particular sculpture is a "**Kirin**" or "**QUILIN**" which is sort of an Asian unicorn, or their version of one. It's obviously a fantasy creature and so I've added my own idea's to what a Kirin might look like. The things on its neck are abalone shells which will act as the "scales" of the creature. It will have more of them along its back. After it's complete, it will have a Tibetan lamb hair mane and tail which is why it doesn't have hair yet.* Thank you Megan. I can't wait to see the progress and the final sculpture and also the results of your experiment. Dear reader, if you have anything to add please leave a comment or send me an [email](/contact/). Otherwise don't forget to spread the love and share.
 
-Useful sources: polymer clay web, [polymer clay central](http://www.polymerclaycentral.com/cyclopedia/categories.html), [polymer clay daily](http://polymerclaydaily.com/), [poly clay](http://polyclay.com/PolymerFAQ.htm)
+Useful sources: polymer clay web, [polymer clay central](https://www.polymerclaycentral.com/cyclopedia/categories.html), [polymer clay daily](https://polymerclaydaily.com/), ~~poly clay~~

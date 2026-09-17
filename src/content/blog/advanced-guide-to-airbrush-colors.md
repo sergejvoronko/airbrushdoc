@@ -229,7 +229,7 @@ This brand offers 4 lines of colors to choose from:
 
 - **TNT** (Those who are using TNT tells that it's one of the best textile paint yet to be found on the market with exotic range of color options to choose from. So if textiles and tags is your art, this could be your answer).
 
-- You can find **E’tac** paints at ~~USA Airbrush~~ (now closed), although for more info, I would visit [ETAC Airbrush](http://etac-airbrush.com/).
+- You can find **E’tac** paints at ~~USA Airbrush~~ (now closed), although for more info, I would visit [ETAC Airbrush](https://etac-airbrush.com/).
 
 <a id="proadvices"></a>
 
@@ -273,7 +273,7 @@ And here are some advices from Pro’s...
 
 ## Conclusion
 
-Well there is many more brands that make airbrush colors, I just brought some most famous. BTW I could not find any description about **Autobourne** or **DuPont** (these are very expensive). And there is many local paints in Germany, Russia ... but they are not popular in US for example. So I leave it on world market. I personally use **Createx Classic Colors** and I'm happy with them. Of course for automotive I will recommend to try **House of Kolor** or **Auto-Air**. Some of them are not that expensive so you can give a try to everyone and see for yourself which best suits you. At last I placed the questionnaire on my [Facebook fan page](http://www.facebook.com/airbrushdoc), about preferred paints. I got only 24 responses so I do not recommend following only this result because it is not really objective.
+Well there is many more brands that make airbrush colors, I just brought some most famous. BTW I could not find any description about **Autobourne** or **DuPont** (these are very expensive). And there is many local paints in Germany, Russia ... but they are not popular in US for example. So I leave it on world market. I personally use **Createx Classic Colors** and I'm happy with them. Of course for automotive I will recommend to try **House of Kolor** or **Auto-Air**. Some of them are not that expensive so you can give a try to everyone and see for yourself which best suits you. At last I placed the questionnaire on my [Facebook fan page](https://www.facebook.com/airbrushdoc), about preferred paints. I got only 24 responses so I do not recommend following only this result because it is not really objective.
 
 > **Facebook poll (24 votes), "What paints do you use?"** Createx led, followed by Wicked Colors and Auto-Air, consistent with the full blog survey below.
 
@@ -302,14 +302,14 @@ Here are results collected from votes on this blog (222 total voters):
 
 If you have any suggestion or notes about colors that you use please share it with me. Maybe I've missed some big brand or some specific color types so don't hesitate to leave a comment or send me an [e-mail](/contact/). As usual don't forget to share this article in your social network (of course if you like it).
 
-> Sources: [http://www.createxcolors.com/](http://www.createxcolors.com/)
-> [http://www.liquitex.com/](http://www.liquitex.com/)
-> [http://www.houseofkolor.com](http://www.houseofkolor.com/)
-> [http://www.temptu.com/](http://www.temptu.com/)
-> [http://www.badgerairbrush.com/](http://www.badgerairbrush.com/)
-> [http://www.aquaflow.com/](http://www.aquaflow.com/)
+> Sources: [https://www.createxcolors.com/](https://www.createxcolors.com/)
+> [https://www.liquitex.com/](https://www.liquitex.com/)
+> [https://www.houseofkolor.com](https://www.houseofkolor.com/)
+> [https://www.temptu.com/](https://www.temptu.com/)
+> [https://www.badgerairbrush.com/](https://www.badgerairbrush.com/)
+> [https://www.aquaflow.com/](https://www.aquaflow.com/)
 > [http://www.iwata-medea.com/](http://www.iwata-medea.com/)
-> [http://www.goldenpaints.com/](http://www.goldenpaints.com/)
-> [TheAirbrushForum.com](http://theairbrushforum.com)
-> [Airbrush.com](http://airbrush.com)
-> [Facebook Fan Page](http://www.facebook.com/airbrushdoc)
+> [https://www.goldenpaints.com/](https://www.goldenpaints.com/)
+> [TheAirbrushForum.com](https://theairbrushforum.com)
+> [Airbrush.com](https://airbrush.com)
+> [Facebook Fan Page](https://www.facebook.com/airbrushdoc)

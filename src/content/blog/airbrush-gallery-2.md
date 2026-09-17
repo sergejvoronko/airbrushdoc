@@ -94,4 +94,4 @@ Yes, this is [airbrush gallery](/gallery/) again. I think all of you may noticed
   <div class="abd-gallery-item"><img src="/images/wp-uploads/airbrush_gallery_car_24.webp" loading="lazy" alt="Airbrushed car from the Russian gallery — image 78 of 78" /></div>
 </div>
 
-Source: [http://4friends.ru](http://4friends.ru)
+Source: [https://4friends.ru](https://4friends.ru)
