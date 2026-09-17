@@ -10,6 +10,8 @@ draft: false
 heroImage: "/images/wp-uploads/Harder-Steenbeck-Infinity-8.webp"
 ---
 
+> **This review is from 2011.** Harder & Steenbeck redesigned the Infinity in 2024, and the nozzles, cups and air cap are all different now. The hands-on impressions below still stand, but check [what changed](#the-infinity-in-2026) before you buy.
+
 I'm going to talk about [**Infinity Two in One**](/go/hs-infinity-two-in-one) from **Harder and Steenbeck**. I have posted a review for [**Evolution airbrush**](/blog/harder-and-steenbeck-evolution-two-in-one/) from same manufacturer last week, and I was getting replies mostly about Infinity, so I decided to make separate review for this one too. The main purpose of this review is to compare these two airbrush guns.
 
 This airbrush isn't mine (I don't own it); I borrowed it just for review purpose only. So let's see what we've got in here... I'm not going to show unpacking process as I think box is not as important as it's quality and performance. Anyway, here is the box:
@@ -72,6 +74,23 @@ As for cleaning, you will not have a problem pulling the gun apart and clean it,
 The airbrush fits into hand very well. The trigger really reacts to every finger move very sensitively. Easy to take apart and put it back again helps to make cleaning process easy and quick. If you won't kill the needle with lacquer the rest is easy to clean and restore.
 
 The Infinity requires a 1/8” connector for the airbrush hose. so if you're using Iwata airbrush you should be fine. If you use Badger or Paasche, then an adaptor will be required.
+
+## The Infinity in 2026
+
+The airbrush above is the Infinity as it shipped in 2011. The current model is the **Infinity 2024 CRplus**, and that is what arrives if you order one today.
+
+| | Reviewed here (2011) | Infinity 2024 CRplus |
+|---|---|---|
+| Fine nozzle | 0.15 mm | 0.25 mm |
+| Second nozzle | 0.4 mm | 0.44 mm, on the 2in1 only |
+| Nozzle material | not recorded | titanium |
+| Paint cups | 2 ml + 5 ml | mini-cup + 2 ml, plus 4 ml on the 2in1 |
+
+Two configurations are sold. The **Solo** carries the 0.25 mm headset alone; the **2in1** adds the 0.44 mm. The air cap now has five airflow channels where the preceding generation had three, directing air closer to the paint for finer atomisation. The body has been reproportioned with a shorter front and longer rear, which brings your fingers nearer the surface, and the trigger is redesigned. The crown cap is wider for easier needle cleaning and still fits earlier Infinity bodies.
+
+What has not changed is most of what impressed me above: the self-centering socket nozzle, the Quick-Fix needle limiter with its numbered dial, and the parts compatibility running across the Evolution, Ultra and Grafo.
+
+For where the Infinity sits against everything else, see the [best airbrush](/blog/best-airbrush/) comparison.
 
 ## Conclusion
 

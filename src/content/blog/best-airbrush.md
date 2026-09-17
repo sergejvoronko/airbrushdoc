@@ -250,7 +250,7 @@ The Krome offers interchangeable needle and nozzle sets, one body can do ultra-f
 
 **Price: ~$180–$220**
 
-This is where H&S really shines. The Infinity line offers some of the finest detail capability on the market, rivalling guns twice its price.
+This is where H&S really shines. The Infinity line offers some of the finest detail capability on the market, rivalling guns twice its price. There is a [full Infinity review](/blog/harder-and-steenbeck-infinity-review/) here, including what the 2024 redesign changed.
 
 **Pros:**
 - 0.15 mm needle for microscopic details

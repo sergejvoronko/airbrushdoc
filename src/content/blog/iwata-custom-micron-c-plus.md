@@ -102,4 +102,23 @@ At the end I got an idea "I would say that they could make a pro version of the 
 
 Until then Iwata Custom Micron C + is primarily only for professionals and will be taboo for many of us for a long time.
 
+## The Custom Micron in 2026
+
+Unusually for a review this old, the specification above still describes what Iwata sells. The CM-C Plus is still 0.23 mm, still a 9 ml gravity cup with a snap-on lid, still the MAC valve and pistol-grip filter in a metal case.
+
+| Specification | Custom Micron CM-C Plus |
+|---|---|
+| Nozzle and needle | 0.23 mm, optional 0.18 mm tip |
+| Paint cup | 9 ml (1/3 oz), snap-on lid |
+| Feed | Gravity |
+| Action | Dual action, internal mix |
+| Air control | MAC valve at the head |
+| In the box | Airbrush, storage case, pistol-grip moisture filter, nozzle key, lube |
+
+The one real change is that Iwata now ships a **Version 2**. It brings a taller trigger with a reshaped grip, a one-piece needle-chucking guide with an auxiliary lever that makes reassembly less fiddly, and a crown cap dock on the back of the preset handle, so the crown cap has somewhere to live when you pull it off for the closest work.
+
+If 0.23 mm is coarser than you want, the **CM-B** is the same airbrush built around a 0.18 mm nozzle as standard rather than as an optional tip.
+
+For how the Micron compares with everything below it, see the [best airbrush](/blog/best-airbrush/) guide, or the [Infinity review](/blog/harder-and-steenbeck-infinity-review/) for the German alternative at roughly half the money.
+
 👉 **[Check the Iwata Custom Micron CM-C Plus price on Amazon →](/go/iwata-custom-micron-cm-c)**
