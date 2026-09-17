@@ -1,7 +1,7 @@
 ---
 title: "Paint Defects: What Causes Them and How to Fix Them"
 seoTitle: "Paint Defects: Sagging, Cissing, Orange Peel, Fixes"
-description: "Sagging, cissing, orange peel, fisheyes and blushing, what causes each paint defect, how to spot it early, and how to fix it without stripping back."
+description: "Sagging, cissing, crazing, orange peel and fisheyes: what causes each paint defect, how to tell them apart, and how to fix it without stripping back."
 pubDate: 2012-03-14
 category: "guides"
 tags: ["adhesion loss", "airbrush", "corrosion", "matting", "orange peel", "paint", "paint and dust", "paint defects", "paint fish eye", "paint stains", "runs", "slow drying", "solvent penetration", "yellowing"]
@@ -75,17 +75,17 @@ Here I will advise to watch for reaction of old (original) coat and new coat. If
 
 If the defect appears only after you have done all the work then if you used filler, refill. If it's a reaction with old coat then sand the top coat to the bottom one apply the sealer and then reapply the top coat again.
 
-## 5. Runs
+## 5. Runs and Sags
 
-![Heavy paint runs sagging down a vertical panel](/images/wp-uploads/runs.webp)I'm sure you were asking yourself - why didn't he mention this defect right at the start? My apologies for that. Yes, the runs are probably one of the most common defects while painting and I don't believe that there is a person that hasn't seen them. Everyone trying to paint gets into troubles with runs, even professionals will get them sometimes.
+![Heavy paint runs sagging down a vertical panel](/images/wp-uploads/runs.webp)Runs, **sags** and curtains are the same defect at different severities: a run is a narrow drip, sagging is a thicker film slipping down the panel, and when it slides across a long stretch it is called a curtain. I'm sure you were asking yourself - why didn't he mention this defect right at the start? My apologies for that. Yes, the runs are probably one of the most common defects while painting and I don't believe that there is a person that hasn't seen them. Everyone trying to paint gets into troubles with runs, even professionals will get them sometimes.
 
 There is so many things that can cause this. Too thick paint, to short time between coats, atomizing too close to the surface, large temperature difference of surface and paint itself, incorrect spraying gun, too much thinner, contaminated surface, too low air pressure...
 
 To be able to prevent all of that try to keep the painted object in your spray booth for some time so that temperature of object, room and paint will be even. Check your gun if it's not defective. Select proper thinner (and follow data sheet instructions). Inappropriate lighting can cause that you don't exactly see what you are doing, so to avoid any of the defect described above and not only for this one, install proper lightning in your painting room.
 
-## 6. Fish Eyes
+## 6. Fish Eyes (Cissing)
 
-![Fish-eye craters spread across a freshly sprayed panel](/images/wp-uploads/FishEye.webp)Another unwanted effect that looks like fish eye and it is actually a crater right on the first coat of paint and you can actually see through that crater the filler or the old coat. The reasons for this are obvious, bad degrease of surface (so it still has some oil stains, even your fingerprint left after degrease is enough to create this defect).
+![Fish-eye craters spread across a freshly sprayed panel](/images/wp-uploads/FishEye.webp)You will see this one called **cissing** in Britain and Europe, **fisheyes** in the US, and **cratering** or poor wetting in a datasheet - all the same defect, and silicone is almost always behind it. It looks like a fish eye and it is actually a crater right on the first coat of paint and you can actually see through that crater the filler or the old coat. The reasons for this are obvious, bad degrease of surface (so it still has some oil stains, even your fingerprint left after degrease is enough to create this defect).
 
 If you didn't use anti silicone or you don't have filter ([moisture trap](/go/regulator-trap)) on your compressor to catch all the oil or water from compressor. Usually if the eyes are small you can cover them up with next coat, especially if you use Candys.
 
@@ -99,9 +99,9 @@ Chipping is caused by any hard objects like stones for example hitting the paint
 
 I don't have much experience with it but there are recommendations. You may use **flexibilized primer surfacer** with your refinishing system. Also activated base-coat is good in prevention for chipping.
 
-## 8. Cracking
+## 8. Cracking and Crazing
 
-![Cracked, crazed paint surface resembling dried mud](/images/wp-uploads/paint-cracking.webp)Counting all the causes I mentioned before any of them can cause this defect. Bad mixed materials, short time between coats, wrong mixing ratio of thinner, extreme temperature difference, reactions between incompatible coats and so on.
+![Cracked, crazed paint surface resembling dried mud](/images/wp-uploads/paint-cracking.webp)**Crazing** is the early stage of this: a network of fine, irregular surface cracks that appears as the film loses elasticity, before it opens into full cracking. Counting all the causes I mentioned before any of them can cause this defect. Bad mixed materials, short time between coats, wrong mixing ratio of thinner, extreme temperature difference, reactions between incompatible coats and so on.
 
 As I mentioned before, try to follow instructions, allow enough time between coats, mix properly, adjust temperatures and use the right additives.
 
