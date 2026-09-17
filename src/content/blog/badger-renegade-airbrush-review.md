@@ -16,7 +16,7 @@ Since I had painted with Iwata, I naturally considered their CM-C custom micron.
 
 I've never even considered looking at the Badger products, but a friend of mine showed me a promotional flyer advertising their three new airbrushes, the Renegade line. I've also read few posts in airbrush forums.
 
-Renegade range comes in around $150 and has three models in this series where every model has its name - [**Velocity**](/go/badger-renegade-velocity), **Spirit**, **Rage**. All three airbrushes are **dual action** / **internal mix airbrushes**. All airbrushes are capable to become **single action airbrush** because they have **stop set trigger control** similar to previously reviewed **[Iwata Custom Micron C+](/blog/iwata-custom-micron-c-plus/)** or **[Harder and Steenbeck Infinity](/blog/harder-and-steenbeck-infinity-review/)** that can be tuned to set how far the trigger can go, so you can preset the amount of paint that comes into the airbrush. Every model of the Renegade line has different paint delivery system but not all of them have different sizes of the nozzle and needle.
+The Renegade range has grown since this review: alongside [**Velocity**](/go/badger-renegade-velocity), **Spirit** and **Rage** there is now the **Krome**, a two-in-one that ships with both a 0.21 mm and a 0.33 mm head. All of them are **dual action** / **internal mix airbrushes**. All airbrushes are capable to become **single action airbrush** because they have **stop set trigger control** similar to previously reviewed **[Iwata Custom Micron C+](/blog/iwata-custom-micron-c-plus/)** or **[Harder and Steenbeck Infinity](/blog/harder-and-steenbeck-infinity-review/)** that can be tuned to set how far the trigger can go, so you can preset the amount of paint that comes into the airbrush. Every model of the Renegade line has different paint delivery system but not all of them have different sizes of the nozzle and needle.
 
 Please note that the airbrushes photographed in this review are **Special Edition** Black finish (black electroplated brass).
 
@@ -107,3 +107,5 @@ Just to point something out, one of the artists (*Monnie Criss*) had ordered **B
 Airbrush is much like a car. When you choose the one you like, you are unlikely to switch to another brand. If you are using a **single action** airbrush and consider to go to a **double action**, I would recommend Badger Renegade Velocity to be first for your consideration. To buy the Renegade line Extreme Set is probably a choice for someone more advanced.
 
 ~~Buy Badger Renegade Series from Chicago Supply~~
+
+👉 **[Check current Badger Renegade prices on Amazon →](/go/badger-renegade-velocity)**

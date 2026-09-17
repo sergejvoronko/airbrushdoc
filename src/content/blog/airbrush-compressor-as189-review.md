@@ -108,4 +108,4 @@ As you can see on the video it takes 1min40sec to fully pressurize the tank and 
 
 ## Final Thoughts on the AS-189
 
-I paid for this guy €130 and I think it is totally worth it (and it suits the purpose for now). As I have no big believes in stuff from China I guess only time will show. It is not an IWATA but it does what I need from it and it does it very well. I think that if you are looking for a good air compressor and don't want to spend too much and perhaps if you manage to find AS189 even cheaper you should definitely go for it.
+I think this one is totally worth what it cost (and it suits the purpose for now). As I have no big believes in stuff from China I guess only time will show. It is not an IWATA but it does what I need from it and it does it very well. I think that if you are looking for a good air compressor and don't want to spend too much and perhaps if you manage to find AS189 even cheaper you should definitely go for it.

@@ -17,7 +17,7 @@ The **Paasche Airbrush Company** is one of the oldest companies in airbrush indu
 
 ## What's in the Box
 
-According to price tag I have to admit I was not expecting something huge. So let see what will we get for this price? Airbrush comes packed in a generic Paasche cardboard box. All the parts are protected with flat foam inserts. Good enough for shipping but not the best for storage (this is what makes this airbrush cheaper, last time I checked it was $72).
+According to price tag I have to admit I was not expecting something huge. So let see what will we get for this price? Airbrush comes packed in a generic Paasche cardboard box. All the parts are protected with flat foam inserts. Good enough for shipping but not the best for storage (this is what makes this airbrush cheaper).
 
 ![Paasche Talon retail box opened to show the airbrush and hose](/images/wp-uploads/Paasche-Talon-Review-box1.webp)
 
@@ -80,6 +80,22 @@ At the rear of the handle you can find the **pre-set adjustment knobs**. There a
 ![Gold anodised Talon handle and adjuster held in the hand](/images/wp-uploads/Paasche-Talon-Review-preset-apart.webp)
 
 Once you have the travel set, you can move the larger knob to line up the marks. Using just the smaller knob from this moment on will move both knobs together.
+
+### Every Head Size the Talon Takes
+
+The Talon ships with the **0.38 mm** head fitted — that is the standard, not the 0.25 mm — and the whole series shares one interchangeable head system, so any of these screws straight in:
+
+| Size | Paasche code | What it is for |
+|---|---|---|
+| 0.20 mm | #0 | The finest detail the Talon will do |
+| 0.25 mm | #1 | Fine lines and detail work |
+| 0.38 mm | #2 | Fitted as standard, general purpose |
+| 0.66 mm | #3 | Base coats and larger areas |
+| 1.0 mm | #4 | Heavy coverage and thick paint |
+
+Sets bundling the 0.25, 0.38 and 0.66 mm heads together are sold as a kit, which is the cheaper route if you want more than one. The same heads fit the Paasche Vision, so a set moves with you if you upgrade.
+
+👉 **[Check current Paasche Talon prices on Amazon →](/go/paasche-talon-starter-set)**
 
 ### Replacement Parts and Needles
 
