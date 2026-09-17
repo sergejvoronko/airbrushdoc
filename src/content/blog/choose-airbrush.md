@@ -20,7 +20,7 @@ What you have to know that not always it is so easy to start because you will ha
 
 So airbrush gun is a tool (an air gun) that artists use to paint. A professional painter would probably be able to paint an art peace with cheapest tool out there, so don't expect to become good at airbrush right away. Prepare to practice a lot to gain some skills and results will come for sure.
 
-*Even the best tool in hands of amateur will not make you an artist if you have no skills with that tool*. [Tweet This!](http://clicktotweet.com/o1v1w)
+*Even the best tool in hands of amateur will not make you an artist if you have no skills with that tool*. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fchoose-airbrush%2F&text=Even%20the%20best%20tool%20in%20hands%20of%20amateur%20will%20not%20make%20you%20an%20artist%20if%20you%20have%20no%20skills%20with%20that%20tool.)
 
 During my research I have found that there is a huge difference between cheap and expensive airbrush gun. Difference is mostly in the purpose (what is it going to be used for?) So choose carefully but first read this article, as it might help you to decide.
 

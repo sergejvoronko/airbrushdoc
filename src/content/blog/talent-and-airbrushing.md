@@ -29,7 +29,7 @@ Here I want to mention one name [Mike Lavallee](http://killerpaint.wordpress.com
 
 According to Wikipedia
 
-"*Generally, **art** is made with the intention of stimulating thoughts and emotions*". [Tweet This!](http://clicktotweet.com/J_z37)
+"*Generally, **art** is made with the intention of stimulating thoughts and emotions*". [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Ftalent-and-airbrushing%2F&text=Generally%2C%20art%20is%20made%20with%20the%20intention%20of%20stimulating%20thoughts%20and%20emotions%22.)
 
 So if you bring to your painting your thoughts and emotions then you creating an art. Otherwise blind copying of the stencil can not be taken as art, in my opinion.
 

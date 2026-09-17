@@ -26,7 +26,7 @@ It's strange for me to see that on the Hi-End side of airbrush niche there is pr
 
 Those Chinese knock offs which are selling for $20 are far from a quality product.
 
-"**It's hard to make a good profit selling that low**" [Tweet this](http://clicktotweet.com/3cW3_)
+"**It's hard to make a good profit selling that low**" [Tweet this](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fairbrush-profit-not-making-knock-offs%2F&text=It%27s%20hard%20to%20make%20a%20good%20profit%20selling%20that%20low)
 
 ## Strategic Pricing and Product Positioning
 

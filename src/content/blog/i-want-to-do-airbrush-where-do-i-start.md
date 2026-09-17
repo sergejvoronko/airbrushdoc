@@ -10,7 +10,7 @@ readingTime: 6
 draft: false
 ---
 
-"*First say to yourself what you want to be; and then do what you have to do*". Epictetus. [Tweet This!](http://clicktotweet.com/23P2M)
+"*First say to yourself what you want to be; and then do what you have to do*". Epictetus. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fi-want-to-do-airbrush-where-do-i-start%2F&text=First%20say%20to%20yourself%20what%20you%20want%20to%20be%3B%20and%20then%20do%20what%20you%20have%20to%20do%22.%20Epictetus.)
 
 Sometimes I find a blog or forum entry where people are talking about airbrush in many different ways. One will tell that it is a good thing to **spend your time on** and another will try to convince you that it's a perfect way to **make money**.
 
@@ -58,7 +58,7 @@ In financial matter, before you start making any money you have to invest. **Whe
 
 Look what we get here, another question, **where to start?** again. Can you tell me how good are your skills in **airbrushing**? If you know that you need to learn more, then start there, start learning. Some people can do it themselves, some need a teacher. If you need a teacher find one.
 
-"*Learn, Learn and once again Learn*" V.I. Lenin. [Tweet This!](http://clicktotweet.com/Yy_TX)
+"*Learn, Learn and once again Learn*" V.I. Lenin. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fi-want-to-do-airbrush-where-do-i-start%2F&text=Learn%2C%20Learn%20and%20once%20again%20Learn%22%20V.I.%20Lenin.)
 
 Remember that without a bit of effort you won't get anywhere. In case of making money **you have to invest** with no doubt. If you're going to try it anyway with no investments made, don't forget about other people that are willing to do so in order to progress further, as these people will be ahead of you (one or two steps) for sure.
 

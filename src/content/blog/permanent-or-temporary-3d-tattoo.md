@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/3D-tattoo-stamp1.webp"
 
 A small piercing or small **tattoo** are not going to surprise anyone these days. There are people who even make **tattoos** that looks like scars. I don't know who would like these things because even a simple tattoo taking about the third of your body gives a strange feeling when you see people looking at you.
 
-> How far can man go to underline his individuality and stand out of the crowd? [Tweet This!](http://clicktotweet.com/9kaah)
+> How far can man go to underline his individuality and stand out of the crowd? [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fpermanent-or-temporary-3d-tattoo%2F&text=How%20far%20can%20man%20go%20to%20underline%20his%20individuality%20and%20stand%20out%20of%20the%20crowd%3F)
 
 The 21st century gives us 3D in all the forms you can imagine. Especially it didn't go far from **tattoo art**. BTW, Tattoo is one of the oldest arts that made it to nova-days. First **body art** has been found by archaeologists on one of Egypt's mummy. Hence its age, e.g. 4000 years, the art piece was high quality one.
 

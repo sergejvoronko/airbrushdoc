@@ -36,7 +36,7 @@ I've used paints **Jacard** (white opaque). I've sprayed it over the stencil and
 
 After you're done with stencil you should remove the stencil look by freehand airbrushing (airbrush **Jas 1117** in my case). To make the whole affect as best as possible I'm using the rule which helps me when I work on dark surfaces all the time:
 
-The light will show the shadow; Shadow will show the light. ->[Tweet this](http://clicktotweet.com/6XKCY)
+The light will show the shadow; Shadow will show the light. ->[Tweet this](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fairbrush-black-t-shirt-hulk%2F&text=The%20light%20will%20show%20the%20shadow%3B%20Shadow%20will%20show%20the%20light.%20-)
 
 On this level it's very important for layer of white paint to create surface for further details and colors layout. What I do is to lay "the light" not giving a damn about the details right now. Those will be done at the end.
 

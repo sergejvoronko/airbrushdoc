@@ -32,7 +32,7 @@ Another site [Airbrushmuseum.com](http://www.airbrushmuseum.com/) provides look
 
 **Abner Peeler** was an inventive genius. He's been one of many unrecognized heroes of the period and came from a family who were jewelers by trade and inventors as a sideline. He has been designing mostly **sewing machines** and has developed an **early version of typewriter** (some 20 years before one was even patented!) and also some **airguns** that were considered unfair weapons as they would not be heard by the enemy when they were fired!
 
-Abner Peeler sold the original model of airbrush for $10. [Tweet This!](http://clicktotweet.com/lUj0X)
+Abner Peeler sold the original model of airbrush for $10. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fwho-invented-airbrush%2F&text=Abner%20Peeler%20sold%20the%20original%20model%20of%20airbrush%20for%20%2410.)
 
 And went on to sell the patent to the [**Walkup Brothers**](/blog/airbrush-evolution-business/) in 1882 for $700. Quite a sum of money for that time. **Peeler** was not the only one to develop his own ideas and he always sold them whenever possible. It is for this reason that the [**Walkups**](/blog/airbrush-evolution-business/) were able to build a company based on Peeler’s ideas.
 

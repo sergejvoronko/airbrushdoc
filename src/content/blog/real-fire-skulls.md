@@ -12,7 +12,7 @@ heroImage: "/images/wp-uploads/airbrush_scull_4.webp"
 
 Do you remember the first time when someone told you about **AIRBRUSH**, what associations did you get with that word? To be honest I found it on Internet before anybody mentioned it to me, so I wasn't confused as I got a lot of the pictures right away. But when one of my friends asked me:
 
-"*I heard that you are writing a blog, what is it about?*" I said "***Airbrush***", his reaction was - *Hmmm... What? Come again... Airbrush? What is it?* [Tweet This!](http://clicktotweet.com/tVLeY)
+"*I heard that you are writing a blog, what is it about?*" I said "***Airbrush***", his reaction was - *Hmmm... What? Come again... Airbrush? What is it?* [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Freal-fire-skulls%2F&text=I%20heard%20that%20you%20are%20writing%20a%20blog%2C%20what%20is%20it%20about%3F%22%20I%20said%20%22Airbrush%22%2C%20his%20reaction%20was%20-%20Hmmm...%20What%3F%20Come%20again...%20Airbrush%3F%20What%20is%20it%3F)
 
 ![True fire artwork airbrushed across a panel in yellow and orange](/images/wp-uploads/airbrush_scull_1.webp)
 

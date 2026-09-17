@@ -14,7 +14,7 @@ heroImage: "/images/wp-uploads/Jens-working-on-airbrushes-1910.webp"
 
 The gunsmith **Jens Andreas Paasche** emigrated from Norway in 1900. For a while he worked for **Thayer and Chandler** but then left them and in 1904 started his own airbrush company. Same way as ***Olaus S. Wold*** who has left "***Thayler and Chandler***" too and called his company **"*Wold Airbrush Company***", Paasche gave his company name **"Paasche Airbrush Company"**.
 
-> To become successful Jens worked 20 hours a day almost 24 years trying to make his airbrushes the best. [Tweet This!](http://clicktotweet.com/r8G_B)
+> To become successful Jens worked 20 hours a day almost 24 years trying to make his airbrushes the best. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fpaasche-big-name-in-airbrush-history%2F&text=To%20become%20successful%20Jens%20worked%2020%20hours%20a%20day%20almost%2024%20years%20trying%20to%20make%20his%20airbrushes%20the%20best.)
 
 ## 1905 - Paasche First Airbrush Patent
 

@@ -16,7 +16,7 @@ Some time ago I got in touch with one very specific and great artist. His name i
 J.W. has been painting all his life and believes that the purpose of art is communication.
 *"I have been actively **communicating** throughout my life through my art. For me, art in whatever medium has always been my most effective means of communicating the inspirations and observations I believe worthy of commentary".*
 
-> Art transcends the ambiguity of language - a single painting can speak volumes. [Tweet This!](http://clicktotweet.com/4Gew7)
+> Art transcends the ambiguity of language - a single painting can speak volumes. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fj-w-baker-fantasy-and-wildlife-art%2F&text=Art%20transcends%20the%20ambiguity%20of%20language%20-%20a%20single%20painting%20can%20speak%20volumes.)
 
 To create his works he uses both **Acrylics and Oils**.
 
@@ -26,7 +26,7 @@ If you didn't know, Wolf Song Studio has done a review on Infinity Airbrush. I h
 
 J.W. believes that being an Artist is not a job, nor a trade but rather a way of being (*it defines who you are*). I wouldn't like to quote J.W. all the time but still, here is another one:
 
-> True art is a journey to rediscover the simplicity of directness you already possess. [Tweet This!](http://clicktotweet.com/dPG4y)
+> True art is a journey to rediscover the simplicity of directness you already possess. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fj-w-baker-fantasy-and-wildlife-art%2F&text=True%20art%20is%20a%20journey%20to%20rediscover%20the%20simplicity%20of%20directness%20you%20already%20possess.)
 
 ![J. W. Baker at his easel working on a brightly coloured owl painting](/images/wp-uploads/painting_owl.webp)J.W.'s past artistic associations include works for Walt Disney World Orlando, Sacramento Zoo, Sierra Endangered Cat Haven, The CARE Foundation, Shambala Preserve, University of Florida and many others. He also has been featured in art related publications like Airbrush Action Magazine, Airbrush Art + Action (Art Scene International), Airbrush Technique Magazine, Nature's Paint Box, and most recently Airbrush Step by Step.
 
@@ -44,7 +44,7 @@ J.W. believes that being an Artist is not a job, nor a trade but rather a way of
 
 BTW, every aspect of the process of creating J.W.'s artworks starts with building the wooden panels that are the support for these artworks, and all the way to the frame on each finished piece. All this J.W. does himself.
 
-> Art is a story, and painting is my way of '**telling the story**'. [Tweet This!](http://clicktotweet.com/BU7k3)
+> Art is a story, and painting is my way of '**telling the story**'. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fj-w-baker-fantasy-and-wildlife-art%2F&text=Art%20is%20a%20story%2C%20and%20painting%20is%20my%20way%20of%20%27telling%20the%20story%27.)
 
 ## J.W. Baker Fantasy and Wildlife Art Gallery
 

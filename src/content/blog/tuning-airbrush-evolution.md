@@ -85,4 +85,4 @@ As You can see the result is a nice lid that prevents the paint to splash around
 
 I use only double-action airbrushes, that means that trigger has two functions. When You push it down you open the air valve and when you pull it to the rear the paint valve will open as much as far you pull the trigger. That means that artist can control the flow of air and pain independently.
 
-Remember The Golden Rule of Airbrush : Start with air, Finish with air. Never start with paint! [Tweet This!](http://clicktotweet.com/y6dpe)
+Remember The Golden Rule of Airbrush : Start with air, Finish with air. Never start with paint! [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Ftuning-airbrush-evolution%2F&text=Remember%20The%20Golden%20Rule%20of%20Airbrush%20%3A%20Start%20with%20air%2C%20Finish%20with%20air.%20Never%20start%20with%20paint%21)
