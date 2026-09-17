@@ -17,11 +17,11 @@ T-shirt airbrushing is having a major revival. Custom sneakers, streetwear, even
 
 I've airbrushed on fabric alongside fine art and automotive work for years, and the equipment needs are genuinely different. Here's what actually works for T-shirt art in 2026.
 
+Fabric is a specialist case. For everything else, the [best airbrush guide](/blog/best-airbrush/) ranks the same brushes across budgets.
 
 ---
 
 ## Quick Picks
-
 
 | Airbrush | Type | Needle | Price | Best For |
 |---|---|---|---|---|
@@ -85,7 +85,6 @@ The siphon-feed version of the legendary Iwata Eclipse. Same build quality, same
 
 **Why it's #1:** The Eclipse name isn't just marketing. This airbrush delivers consistent, reliable performance session after session. The spray quality at T-shirt working pressures (30–40 PSI) is excellent, and the machining quality means it tolerates the demands of daily production use.
 
-
 ### Paasche Talon TG-3F: BEST VALUE
 
 **Type:** Gravity feed (siphon adapter available) | **Needle:** 0.25mm, 0.38mm, 0.66mm (3 heads included) | **Price:** ~$80–120
@@ -96,7 +95,6 @@ The Talon ships with three spray heads, giving you fine detail (0.25mm), general
 
 **Note:** Paasche uses proprietary hose fittings. You'll need their hose or an adapter for standard 1/8" BSP hoses.
 
-
 ### Badger Patriot 105: MOST FORGIVING
 
 **Type:** Gravity feed | **Needle:** 0.5mm | **Price:** ~$70–90
@@ -105,13 +103,11 @@ The Patriot's 0.5mm needle handles textile paints with minimal thinning and zero
 
 **Limitation:** The 0.5mm needle is less capable of fine detail than 0.3–0.35mm options. For portraits and precision work, you'll want a finer airbrush eventually.
 
-
 ### Iwata Eclipse HP-CS: DETAIL T-SHIRT ART
 
 **Type:** Gravity feed | **Needle:** 0.35mm | **Price:** ~$130–170
 
 If your T-shirt art leans toward detailed portraits, realistic designs, or intricate lettering, the gravity-feed Eclipse gives you the control that siphon feed can't match. The 0.35mm needle produces fine lines when you need them and can still cover broader areas with proper technique.
-
 
 ### Paasche VL: BUDGET CLASSIC
 
@@ -120,7 +116,6 @@ If your T-shirt art leans toward detailed portraits, realistic designs, or intri
 The Paasche VL has been a T-shirt shop staple for decades. It's simple, reliable, and affordable. The siphon feed design works perfectly with pre-mixed bottle colors, and the available spray head options let you customize for your workflow.
 
 It's not as refined as the Iwata Eclipse, the trigger feel is stiffer and the atomization isn't as fine, but for the price, it's an excellent production tool.
-
 
 ---
 
@@ -137,7 +132,6 @@ Not all airbrush paints work on fabric. You need paints specifically formulated 
 **Jacquard Airbrush Color**. Originally formulated for textiles. Exceptional durability and wash resistance. Sprays well out of the bottle with minimal thinning. Soft hand feel on fabric. Available in transparent, opaque, metallic, and fluorescent.
 
 [**Createx Auto Air Colors**](/go/createx-auto-air-colors). Technically automotive paint, but many T-shirt artists swear by the Auto Air line for its high pigmentation and excellent adhesion. Requires heat setting for fabric permanence.
-
 
 ### Paint Tips for T-Shirts
 
@@ -179,11 +173,9 @@ Here's everything you need for a functional T-shirt airbrushing station:
 - **Second airbrush**. One siphon for fills, one gravity for detail
 - **Shirt platen or easel**. Holds shirts flat and at a comfortable working angle
 
-
 ---
 
 ## Frequently Asked Questions
-
 
 **What is the best airbrush for T-shirts?**
 
@@ -210,7 +202,6 @@ Typically 25–45 PSI, depending on the paint and technique. Broad fills and bac
 Yes, but you need to spray a white opaque base layer first. Airbrush paints are typically transparent or semi-opaque, so they appear muddy on dark fabric without a light base underneath. Spray Createx Opaque White, let it dry, then apply your design colors over the white for vibrant results.
 
 ---
-
 
 - [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). General recommendations
 - [Gravity Feed vs Siphon Feed](/blog/gravity-feed-vs-siphon-feed/). Feed type comparison

@@ -1,5 +1,5 @@
 ---
-title: "Best Airbrush for Miniature Painting in 2026: Warhammer, D&D, Gunpla & Scale Models"
+title: "Best Airbrush for Miniature Painting in 2026: Warhammer, D&D and Gunpla Figures"
 seoTitle: "Best Airbrush for Miniatures 2026: 7 Tested Picks"
 description: "Seven airbrushes tested on Warhammer, D&D and Gunpla miniatures, from budget starter to the Infinity CR Plus, with nozzle sizes and what to skip."
 pubDate: 2025-07-15
@@ -21,11 +21,11 @@ I've been in the airbrush world for over 15 years. Not all of it focused on mini
 
 Here's what you actually need, and the specific airbrushes I recommend at every budget level.
 
+Painting something other than figures? The [best airbrush guide](/blog/best-airbrush/) puts these same brushes side by side across every use case.
 
 ---
 
 ## Quick Recommendation Table
-
 
 | Airbrush | Needle | Best For | Price | My Take |
 |---|---|---|---|---|
@@ -90,7 +90,6 @@ It uses the same drop-in nozzle system as the more expensive H&S airbrushes, so 
 
 **Limitations:** The 0.2mm-only needle means you can't swap to a larger size for broad coverage (the Evolution and Infinity lines offer 2-in-1 needle sets). The cup is small (2ml), so you'll refill frequently during large priming sessions.
 
-
 ### Iwata Neo CN: BUDGET WORKHORSE
 
 **Needle:** 0.35mm | **Price:** ~$50–70 | **Feed:** Gravity
@@ -101,7 +100,6 @@ If budget is the primary concern, the Neo CN is the cheapest airbrush I'd actual
 
 **Who it's for:** Painters on a strict budget who want brand-name quality. Good starter if you're not sure you'll stick with airbrushing long-term.
 
-
 ### Badger Patriot 105: THE PRIMING MACHINE
 
 **Needle:** 0.5mm (smaller sizes available) | **Price:** ~$70–90 | **Feed:** Gravity
@@ -111,7 +109,6 @@ The Patriot 105 is a legendary workhorse. It's tough, reliable, sprays thicker p
 **For miniatures specifically:** The stock 0.5mm needle is too large for detail work. Period. You can buy a 0.3mm needle/nozzle set for the Patriot, which makes it more versatile, but out of the box it's a broad-coverage tool. Many miniature painters own a Patriot alongside a finer airbrush, the Patriot for priming and basecoating, something like an Evolution or Eclipse for detail.
 
 **Who it's for:** Speed painters, army painters, anyone who values durability and simplicity over precision. Excellent if you paint for tabletop standard rather than display competition.
-
 
 ---
 
@@ -131,7 +128,6 @@ It shares parts with the Infinity line, so when you eventually want to upgrade i
 
 **Who it's for:** Serious hobbyists who want one versatile airbrush that grows with their skills. The best value proposition in the miniature airbrush market.
 
-
 ### Iwata Eclipse HP-CS: THE COMMUNITY STANDARD
 
 **Needle:** 0.35mm | **Price:** ~$130–170 | **Feed:** Gravity
@@ -143,7 +139,6 @@ And for good reason: it's beautifully made, incredibly reliable, sprays consiste
 **Compared to the Evolution:** The Eclipse does one thing well (0.35mm all-purpose) versus the Evolution's two-size versatility. The Eclipse has a larger cup (7ml vs 5ml), which is nice for priming sessions. But the threaded nozzle makes cleaning slower, and you can't swap to a finer needle without buying a completely different Eclipse model.
 
 **Who it's for:** Painters who want proven reliability and don't want to think about needle swaps. Excellent for intermediate painters who plan to complement it later with a finer detail brush.
-
 
 ---
 
@@ -159,7 +154,6 @@ The Infinity CR Plus is the precision flagship. The "CR" stands for Chrome, the 
 
 **Who it's for:** Competition painters, display painters, and experienced miniature artists who want the finest possible control. If you're painting single models for Golden Demon or Crystal Brush competitions, this is the tool.
 
-
 ### H&S Infinity CRplus Cult of Paint Edition: DESIGNED FOR MINIATURE PAINTERS
 
 **Needles:** 0.15mm + 0.4mm | **Price:** ~$220–300 | **Feed:** Gravity
@@ -173,7 +167,6 @@ The trigger is slightly taller with a curved profile, giving you a wider range o
 The Cult of Paint edition launched via Kickstarter and has become the aspirational airbrush in the Warhammer community. Is it necessary? No, the standard Infinity CR Plus is functionally identical in capability. But the ergonomic refinements are noticeable during long painting sessions.
 
 **Who it's for:** Dedicated miniature painters who want the absolute best tool available for the specific demands of mini painting. It's a luxury, but a well-engineered one.
-
 
 ---
 
@@ -191,7 +184,6 @@ The cordless airbrush category has exploded since 2023. These compact, battery-p
 
 **Recommended units:** Look for models with rechargeable lithium batteries, adjustable PSI (not just on/off), and a 0.3mm gravity-feed airbrush. Brands change rapidly in this category, check current reviews before buying.
 
-
 ---
 
 ## Essential Accessories for Miniature Airbrushing
@@ -200,15 +192,11 @@ You'll need more than just the airbrush:
 
 **Compressor:** A quiet compressor with a tank is ideal. The NO-NAME Tooty or Sparmax TC-501N are popular in the miniatures community. See my full compressor guide for detailed recommendations.
 
-
 **Paints:** Not all airbrush paints work well for miniatures. [Vallejo Model Air](/go/vallejo-model-air), [Citadel Air](/go/citadel-air-paints), and [AK Interactive 3rd Gen](/go/ak-interactive-gen-primer) are pre-thinned and ready to spray. Standard hobby paints ([Vallejo Model Color](/go/vallejo-model-color), Citadel Base) need thinning, typically 1:1 with airbrush thinner or flow improver.
-
 
 **Cleaning supplies:** Airbrush cleaner, cleaning pot, interdental brushes, paper towels. You'll use these constantly.
 
-
 **Primer:** [Badger Stynylrez](/go/badger-stynylrez-primer), [Vallejo Surface Primer](/go/vallejo-surface-primer), or AK Interactive primer. Airbrush-applied primer gives much thinner, more even coats than spray cans, critical for preserving detail on small miniatures.
-
 
 **PSI for miniatures:**
 - **10–15 PSI:** Fine detail work, thin paints, close range
@@ -247,7 +235,6 @@ Simulating light emanating from a source on the model, glowing plasma guns, magi
 ---
 
 ## Frequently Asked Questions
-
 
 **What is the best airbrush for Warhammer miniatures?**
 
@@ -290,7 +277,6 @@ If you want the best and budget isn't the concern: **H&S Infinity CR Plus** or *
 If budget is tight: **Iwata Neo CN** ($50–70). A real quality airbrush at the lowest price point worth recommending.
 
 For priming and basecoating armies at speed: **Badger Patriot 105** ($70–90). Keep this alongside your detail brush. It's a beast.
-
 
 - [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). Broader guide covering all airbrush uses
 - [Best Airbrush Compressor 2026](/blog/best-air-compressor/). Compressor recommendations

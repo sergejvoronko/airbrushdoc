@@ -22,6 +22,8 @@ Spending three hours masking a 1/48 Spitfire only to have your airbrush spit, cl
 
 **Quick answer: For most scale modellers working across Gunpla, military vehicles, and aircraft, the [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs) with a 0.3mm needle hits the best balance of control, paint compatibility, and long-term reliability. If you want to step up, the [Harder & Steenbeck Infinity](/go/hs-infinity-two-in-one) is the brush I'd buy if I were starting over today. Budget-conscious? The [Iwata Neo CN](/go/iwata-neo-cn) will get you further than any cheap clone.**
 
+If scale kits are only part of what you spray, the [best airbrush guide](/blog/best-airbrush/) compares the whole range by budget rather than by subject.
+
 ---
 
 ## Why Scale Modelling Demands More from an Airbrush

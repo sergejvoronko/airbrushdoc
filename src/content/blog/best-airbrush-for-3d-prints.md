@@ -22,6 +22,8 @@ If you've spent hours printing a detailed miniature or display piece only to wat
 
 **The short answer: For most 3D printing hobbyists, the Iwata Eclipse HP-CS paired with Badger Stynylrez primer is the combination that actually works out of the box. Prime every single print regardless of material, keep your PSI between 15–25, and use purpose-made airbrush paints like Vallejo Model Air. Everything below explains exactly why and how.**
 
+Prints are one job among many for most people. The [best airbrush guide](/blog/best-airbrush/) covers the full lineup by price bracket.
+
 ---
 
 ## Why 3D Prints Are Different From Other Airbrush Surfaces

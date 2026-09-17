@@ -101,6 +101,16 @@ What will you airbrush? Your answer determines the right tool:
 | Automotive & murals | 0.5 mm+ |
 | Fine art & illustration | 0.3 mm (versatile) |
 
+**Buying for one specific job?** These go deeper than this page can:
+
+- [Miniatures and wargaming figures](/blog/best-airbrush-for-miniatures/) — Warhammer, D&D, 0.2–0.3 mm detail work
+- [Plastic models and scale kits](/blog/best-airbrush-for-plastic-models/) — Gunpla, armour, 1/48 aircraft
+- [3D prints](/blog/best-airbrush-for-3d-prints/) — resin and FDM, plus the primers that stop paint peeling
+- [T-shirts and textiles](/blog/best-airbrush-for-t-shirts/) — wider needles, textile-specific paints
+- [Cake decorating](/blog/best-airbrush-for-cake-decorating/) — food-safe equipment only, no exceptions
+- [Your first airbrush](/blog/best-airbrush-for-beginners-2026/) — if you have never owned one
+- [Complete starter kits](/blog/best-airbrush-kit-2026/) — brush, compressor and hose bought together
+
 ### 3. Comfort and Balance
 
 The most overlooked factor. **An uncomfortable airbrush is one you won't use.**

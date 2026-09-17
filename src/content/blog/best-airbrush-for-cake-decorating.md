@@ -17,6 +17,7 @@ An airbrush transforms cake decorating. Smooth gradient backgrounds, precise ste
 
 But cake airbrushing has one critical requirement that separates it from every other airbrush application: **everything that touches your food must be food-grade safe.** This changes what you should buy and how you should shop.
 
+Food work aside, the [best airbrush guide](/blog/best-airbrush/) compares every brush here against the non-edible alternatives.
 
 ---
 
@@ -29,7 +30,6 @@ This means either buying a dedicated airbrush specifically for food use, or ensu
 ---
 
 ## Quick Picks
-
 
 | Kit | Type | Action | Price | Best For |
 |---|---|---|---|---|
@@ -78,14 +78,12 @@ This kit is designed specifically for cake decorating and includes everything yo
 
 **Why it's #1 for beginners:** It removes every barrier. Open the box, plug in the compressor, add a food color to the cup, and start spraying. The included colors are FDA-approved and ready to use without dilution.
 
-
 ### Watson & Webb Essentials: BEST FOOD-SAFE GUARANTEE
 
 **Includes:** Single-action airbrush, compressor, 13 food colors, food-grade components throughout
 **Price:** ~$75–100
 
 Watson & Webb specializes in food-safe airbrush equipment. All components that contact edible media are specifically designed to food-grade standards. If food safety certification matters to you (especially for professional/commercial use), this is the most trustworthy option.
-
 
 ### Master Airbrush G22 Kit: BEST FOR DETAIL WORK
 
@@ -98,7 +96,6 @@ Watson & Webb specializes in food-safe airbrush equipment. All components that c
 
 **Dedicate it to food use only.** Never use this for non-edible paints if you plan to use it for cakes.
 
-
 ### Cordless Cake Airbrush: BEST FOR CONVENIENCE
 
 **Includes:** Battery-powered handheld airbrush/compressor unit, charging cable
@@ -108,14 +105,12 @@ For quick touch-ups, cookie decorating, small projects, and decorators who don't
 
 **Best for:** Cookie decorating, quick gradient work, decorators who want minimal setup/cleanup, and testing whether you enjoy airbrush decorating before investing more.
 
-
 ### Kopykake Airmaster: COMMERCIAL/BAKERY STANDARD
 
 **Includes:** Single-action airbrush, industrial-grade compressor
 **Price:** ~$100–130
 
 Kopykake has been the bakery industry standard for decades. Their equipment is built for daily commercial use, heavy-duty, reliable, and designed for food environments. If you're running a bakery or decorating daily, Kopykake equipment justifies its price with longevity and consistency.
-
 
 ---
 
@@ -132,7 +127,6 @@ Only use food colors specifically formulated for airbrush use. These are thin, l
 **Spectrum Flow / Watson & Webb Colors**. UK-based but widely available. Known for vibrant colors and food-grade certification.
 
 **Lustre dusts mixed with extract**. For metallic and shimmer effects, food-grade lustre dust mixed with clear alcohol extract (like lemon extract) or Deco Rose Spirit creates a sprayable metallic liquid. This technique produces stunning gold, silver, and metallic effects that liquid colors can't achieve.
-
 
 ### What NOT to Use
 
@@ -179,7 +173,6 @@ For stubborn buildup, use food-safe airbrush cleaner or a mixture of warm water 
 
 ## Frequently Asked Questions
 
-
 **What is the best airbrush for cake decorating beginners?**
 
 The U.S. Cake Supply Complete Kit is the best starter option, it includes a single-action airbrush, compressor, and 12 food-safe colors for under $80. Everything is compatible and ready to use out of the box. For beginners who want even simpler setup, a cordless cake airbrush ($30–50) is the lowest-barrier entry point.
@@ -201,7 +194,6 @@ Yes. Let buttercream crust slightly (about 15–20 minutes after icing) before a
 Starter kits with airbrush, compressor, and food colors range from $50–100. Cordless handheld units start at $30–50. Professional-grade setups (like Kopykake) run $100–150. Food colors are purchased separately or included in kits, typically $15–40 for a color set.
 
 ---
-
 
 - [Best Airbrush Kit for Beginners](/blog/best-airbrush-kit-2026/). General kit guide
 - [Gravity Feed vs Siphon Feed](/blog/gravity-feed-vs-siphon-feed/). Why gravity feed is standard for cakes

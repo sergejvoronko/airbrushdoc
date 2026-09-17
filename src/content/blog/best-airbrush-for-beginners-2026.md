@@ -21,6 +21,8 @@ I've been airbrushing for over 15 years. I've used cheap brushes, expensive brus
 
 But if you want to understand *why* and find the right match for your specific situation, keep reading.
 
+Already past your first brush? The [best airbrush guide](/blog/best-airbrush/) goes budget by budget, up to professional gear.
+
 ---
 
 ## What Makes a Good Beginner Airbrush? (And What Doesn't Matter Yet)
@@ -58,7 +60,6 @@ Now let's look at the actual airbrushes.
 **Made in:** Germany
 **Warranty:** 24 months
 
-
 This is the first airbrush I've seen that was genuinely *designed* for beginners rather than just *marketed* to them. Harder & Steenbeck took five years of engineering and built three innovations specifically aimed at new users:
 
 **Start Control trigger**. The trigger is engineered so you physically can't make the most common beginner mistake (pulling back for paint before pressing down for air). It forces the correct sequence: air first, then paint. This sounds small, but it prevents the sputtering and spitting that makes most beginners think they bought a broken airbrush.
@@ -84,7 +85,6 @@ The 0.45mm needle is slightly larger than the typical 0.35mm, which is actually 
 **Made in:** Japan
 **Warranty:** 5 years
 
-
 The Eclipse HP-CS is probably the most recommended airbrush on the internet, and for good reason, it's been the industry workhorse for over a decade. If the Ultra 2024 is the "smart" beginner choice, the Eclipse is the "safe" one.
 
 What makes the Eclipse special is its high-flow design. The E3 compression-fit nozzle (no threads to cross or break) atomizes paint so well that you barely need to thin most acrylics. For beginners who are still figuring out paint consistency, this is a lifesaver. Where cheaper airbrushes choke on slightly thick paint, the Eclipse just handles it.
@@ -108,7 +108,6 @@ The cutaway handle makes cleaning dead simple: loosen the back, push the needle 
 **Made in:** USA
 **Warranty:** Lifetime warranty on manufacturing defects
 
-
 The Patriot 105 is the blue-collar airbrush. No fancy innovations, no marketing buzzwords, just a solid, reliable tool made in the USA that does exactly what it's supposed to do.
 
 The 0.50mm needle is larger than what most guides recommend for beginners, and that's actually an advantage in some cases. It's virtually impossible to clog (thick primers, metallic paints, and heavy acrylics flow through it without complaint), and the wider spray pattern means you cover ground faster. If your main interest is scale models, miniature armies, or terrain painting, the Patriot's generous flow is a huge productivity boost.
@@ -129,7 +128,6 @@ Badger's "Easy Access" needle removal system makes cleaning genuinely fast, and 
 **Cup:** 7ml (0.24 oz) + 2.8ml (0.10 oz) gravity feed
 **Made in:** China (Iwata design and QC)
 **Warranty:** 1 year
-
 
 The NEO CN is Iwata's answer to the flood of cheap Chinese airbrushes: give beginners an actually functional tool at a budget price, backed by Iwata's quality control and parts availability.
 
@@ -152,7 +150,6 @@ The NEO comes with two cups (large for coverage, small for detail work), which i
 **Made in:** USA (Chicago. Paasche has been there since 1904)
 **Warranty:** Limited warranty
 
-
 If you want options right out of the box, the Talon kit gives you the most hardware per dollar of any reputable brand. Three spray head sizes let you go from fine detail (0.25mm) to broad coverage (0.66mm) plus a fan air cap for wide patterns, all with one airbrush body.
 
 The 0.38mm default needle is a great all-rounder, slightly larger than the standard 0.35mm, giving you a touch more forgiveness without sacrificing much detail. The build quality is solid (chrome-plated stainless steel with an anodized aluminum handle), and Paasche's 120+ year heritage means they're not going anywhere.
@@ -165,7 +162,6 @@ The 0.38mm default needle is a great all-rounder, slightly larger than the stand
 ---
 
 ## Quick Comparison Table
-
 
 | Airbrush | Price Range | Needle | Cup | Made In | Best For | My Rating |
 |---|---|---|---|---|---|---|
@@ -197,11 +193,9 @@ An airbrush alone is just a fancy pen without ink. Here's the minimum you need t
 
 **Air compressor**. Get one with a tank (even a small 3-liter one). Tankless compressors pulse, which causes uneven spray patterns. Budget option: any quiet compressor with regulator and moisture trap in the $80–120 range. I'll cover compressors in detail in a separate article.
 
-
 **Airbrush hose**. Usually 6–10 feet braided hose. Many value sets include one. Make sure the fittings match your compressor and airbrush (most use 1/8" BSP).
 
 **Paint**. For beginners, I recommend starting with [Createx Airbrush Colors](/go/createx-airbrush-colors) (water-based acrylic, easy cleanup, widely available) or [Vallejo Model Air](/go/vallejo-model-air) (pre-thinned, ready to spray for miniature/model work). Don't buy every color, start with a basic set of primary colors plus black and white.
-
 
 **Cleaning supplies**. Airbrush cleaner (Medea or Createx), cleaning brushes (the thin bristle ones that go through the body), and paper towels. Budget ~$15–20.
 
@@ -240,7 +234,6 @@ The airbrush market in 2026 is better than it's ever been for beginners. The Har
 The most important thing is to stop researching and start spraying. Pick one of the five airbrushes above, get yourself a compressor and some paint, and spend your first weekend doing control exercises, dots, lines, gradients, daggers. You'll learn more in that one weekend than in months of reading reviews.
 
 And when you inevitably hit problems (and you will, every beginner does), check out my troubleshooting guides:
-
 
 - Common Airbrush Problems & Fixes
 - How to Clean Your Airbrush Properly

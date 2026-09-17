@@ -19,6 +19,7 @@ I've been airbrushing for over 15 years, and in that time I've seen the kit land
 
 This guide cuts through the noise. I'll show you which kits are actually worth buying, explain the three different approaches to building your first setup, and help you avoid the most common mistakes beginners make when choosing their first kit.
 
+Buying the brush on its own instead of a boxed kit? The [best airbrush guide](/blog/best-airbrush/) compares them individually.
 
 ---
 
@@ -60,7 +61,6 @@ Before looking at specific products, understand that there are three approaches 
 
 ## Quick Comparison Table
 
-
 | Kit / Setup | What's Included | Price Range | Best For | My Rating |
 |---|---|---|---|---|
 | **Master Airbrush Cool Runner II** | 3 airbrushes + compressor + paints | $80–120 | Absolute beginners, testing the hobby | ★★★☆☆ |
@@ -88,7 +88,6 @@ This is the best-selling airbrush kit on Amazon, and there's a reason, it offers
 
 **Who it's for:** Complete beginners testing the waters. People who aren't sure if they'll stick with airbrushing and don't want to invest heavily upfront.
 
-
 ### Generic Cordless Airbrush Kits: FOR CASUAL USE AND PORTABILITY
 
 **Includes:** Battery-powered compressor + airbrush in one handheld unit, charging cable, sometimes spare cups and needles
@@ -99,7 +98,6 @@ The cordless airbrush category has exploded. These compact, battery-powered unit
 **For serious airbrushing, they have limits.** Battery life caps at 30–60 minutes, maximum PSI is typically 25–30 (limiting for thick paints), and the airbrush quality is basic. But for priming individual models, quick touch-ups, small craft projects, or painting at a gaming store where a full setup isn't practical, they're genuinely useful.
 
 **Recommendation:** Don't buy this as your only airbrush setup. But as a supplement to a proper setup, or as a zero-commitment way to try airbrushing before investing, they're worth the low price. Look for models with adjustable PSI (not just on/off), rechargeable lithium batteries, and a 0.3mm gravity-feed airbrush.
-
 
 ---
 
@@ -120,19 +118,16 @@ The Iwata Neo CN is a proper dual-action airbrush, smooth trigger, consistent sp
 
 **Who it's for:** Beginners who want a quality setup from day one and are willing to pay more upfront to avoid replacing cheap components later.
 
-
 ### Harder & Steenbeck Ultra 2024 Kit: BEST FOR MINIATURES AND DETAIL
 
 **Includes:** H&S Ultra 2024 airbrush (0.2mm), compressor, hose
 **Price:** ~$180–250 (varies by retailer and compressor pairing)
-
 
 The Ultra 2024 is the best first airbrush for miniature painters (covered in detail in my miniatures guide). Its five-stage flow limiter prevents the most common beginner mistakes, and the 0.2mm needle handles fine detail beautifully. The drop-in nozzle system makes cleaning between colors incredibly fast.
 
 Pairing it with a reliable compressor (Sparmax TC-501N or similar quiet compressor with tank) creates an exceptional starter setup for miniatures, scale models, Gunpla, and fine detail work.
 
 **Who it's for:** Miniature painters, model builders, anyone whose primary work involves small, detailed subjects.
-
 
 ### Paasche Talon Starter Set: BEST VERSATILITY
 
@@ -145,9 +140,7 @@ Paasche is an American company that's been making airbrushes since 1904. The Tal
 
 **Quirk:** Paasche uses a proprietary hose fitting that doesn't match the 1/8" BSP standard used by most other brands. The included hose solves this, but if you ever want to use a different hose or quick-disconnect, you'll need a Paasche adapter. Minor inconvenience, but worth knowing.
 
-
 **Who it's for:** Beginners who want one airbrush that covers everything from fine lines to large area coverage. Great for people who aren't yet sure which type of airbrush work they'll focus on.
-
 
 ---
 
@@ -161,13 +154,11 @@ Buy any generic compressor kit ($50–80) and add a [**Badger Patriot 105**](/go
 
 **Best for:** General hobby, crafts, T-shirts, larger subjects. Learning airbrush basics without fighting the tool.
 
-
 ### Budget Kit + Iwata Eclipse HP-CS (~$180–250 total)
 
 Same approach but with the [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) ($130–170), the single most popular airbrush in the world for good reason. The 0.35mm needle balances detail and coverage beautifully. The Eclipse is smooth, precise, and built to last decades.
 
 **Best for:** Beginners who want a single airbrush that excels at everything from models to illustration to automotive touch-ups. The one-tool solution.
-
 
 ---
 
@@ -199,7 +190,6 @@ Even "complete" kits rarely include everything you need for your first session:
 
 See my complete accessories guide for the full checklist with priorities.
 
-
 ---
 
 ## Choosing by Project Type
@@ -220,7 +210,6 @@ Different projects favor different kits:
 ---
 
 ## Frequently Asked Questions
-
 
 **What should I look for in an airbrush kit?**
 
@@ -263,7 +252,6 @@ If I were starting from zero today, here's exactly what I'd buy:
 **Focused on miniatures ($180–250):** H&S Ultra 2024 + a quiet compressor with tank. The flow limiter alone is worth the price for a beginner.
 
 Whichever path you choose, the most important thing is to start. A $80 budget kit will teach you more in one afternoon than a month of reading about which airbrush to buy. You can always upgrade later, and by then, you'll know exactly what you need.
-
 
 - [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). Detailed airbrush-only recommendations
 - [Best Airbrush Compressor 2026](/blog/best-air-compressor/). Compressor buying guide
