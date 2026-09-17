@@ -43,11 +43,11 @@ On YouTube you can watch some of my time lapse videos of airbrushing. Here are t
 
 ### Airbrushing 3D illusion on t-shirt
 
-https://youtu.be/kI_QxrgngDQ
+👉 **[Watch the 3D illusion T-shirt video →](https://www.youtube.com/watch?v=kI_QxrgngDQ)**
 
 ### Airbrush on hood
 
-https://youtu.be/aZ_DBx2kOkE
+👉 **[Watch the airbrushed hood video →](https://www.youtube.com/watch?v=aZ_DBx2kOkE)**
 
 I use a Chinese copy version of airbrush (nozzle: 0,2mm), I cannot afford original, because I don't have enough money to buy it.
 

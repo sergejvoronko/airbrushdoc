@@ -15,9 +15,7 @@ So today I decided to present a step by step tutorial of an easy way to make a p
 
 This tutorial has come into my mind when I found few pictures on my computer that my studio was doing some time ago and actually these projects haven't been realized at all. So why just leave it on the computer when I can do a useful tutorial for my readers. Also here is video I just made yesterday (some people prefer to watch video rather than read a lot of stuff)..
 
-https://youtu.be/66kf6W-tTiI
-
-If you don't see any video try this [link](https://www.youtube.com/embed/66kf6W-tTiI)
+👉 **[Watch the full Photoshop walkthrough on YouTube →](https://www.youtube.com/watch?v=66kf6W-tTiI)**
 
 In this particular case I've used my friend's car (as you can see nothing special - old Volkswagen). That's probably the reason why this project has never been realized as my friend didn't even have money to fix it nor paint it.
 
@@ -87,11 +85,7 @@ Now when you do the front look that is when I need a 3D Tools to lay my motive p
 
 ![Car front three-quarter view with a portrait motive on the bonnet](/images/wp-uploads/01front.webp)![Car front three-quarter view with a winged figure motive on the bonnet](/images/wp-uploads/02front.webp)![Car front three-quarter view with a second portrait motive on the bonnet](/images/wp-uploads/03front.webp)
 
-Here is the quick video I just added to YouTube
-
-https://youtu.be/pUKZIHlfnU0
-
-If video doesn't work try this [link](https://www.youtube.com/embed/pUKZIHlfnU0)
+👉 **[Watch the 3D Tools step on YouTube →](https://www.youtube.com/watch?v=pUKZIHlfnU0)**
 
 And here are some works that took a bit more time as it was a combination  of more pictures for a result motive "SOUND"
 

@@ -36,12 +36,6 @@ reviews:
     priceHigh: 220
     url: "/go/california-air-cat1p1060s"
     verdict: "Premium quiet performance."
-  - name: "Harder & Steenbeck Infinity Two in One"
-    brand: "Harder & Steenbeck"
-    rating: 4.8
-    priceLow: 240
-    priceHigh: 280
-    verdict: "Premium quality at premium price."
   - name: "Silentaire Sil-Air 50-24"
     brand: "Silentaire"
     rating: 5.0
@@ -294,32 +288,6 @@ If noise is your primary concern, neighbours, late nights, or just hatred of lou
 
 **Rating: 4.7/5**. Premium quiet performance.
 👉 **[Check price on Amazon →](/go/california-air-cat1p1060s)**
-
----
-
-### 3. Harder & Steenbeck Infinity Two in One: Premium European
-
-**Price: ~$240–$280**
-
-H&S's compressor matches their airbrush philosophy: overengineered German quality.
-
-**Specs:** Single-piston with tank · 2 L tank · 0–58 PSI · 1.2 CFM · 48 dB · Auto shut-off ✓
-
-**Pros:**
-- Excellent build quality
-- Very quiet operation
-- Large 2 L tank (great for long sessions)
-- Precise pressure control
-- Long piston life
-
-**Cons:**
-- Premium price
-- Heavy, not portable
-- Harder to find replacement parts in the US
-
-**Best for:** Professional artists, serious miniature painters, anyone who wants "buy it for life" quality.
-
-**Rating: 4.8/5**. Premium quality at premium price.
 
 ---
 

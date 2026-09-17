@@ -18,7 +18,7 @@ My brother received an order to paint one of those Jacksons guitars (Kelly model
 
 First of all every project needs some concept design. So design has been made as customer said "*I leave you a free hand, do whatever you think might look cool*". We also made a **video** which **is also available in HD**, so if you don't like to read much text then watch it first.
 
-https://youtu.be/3hT6JP2j9b0
+👉 **[Watch the guitar airbrush video →](https://www.youtube.com/watch?v=3hT6JP2j9b0)**
 
 ### Original Soundtrack
 

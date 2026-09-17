@@ -22,7 +22,7 @@ The one used in my example is **Oracal 970 / 970 RA** (with Rapid Air technology
 
 I've also shoot video and posted it on YouTube. Watch it and read, I hope you'll like it so far.
 
-https://youtu.be/F733G8P5fLI
+👉 **[Watch airbrushing on vinyl, part 1 →](https://www.youtube.com/watch?v=F733G8P5fLI)**
 
 ## Preparing Vinyl Foil for Airbrushing
 

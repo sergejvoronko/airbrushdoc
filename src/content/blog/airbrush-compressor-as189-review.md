@@ -96,13 +96,13 @@ I have also made a video just to show you how it works. I think that it is very 
 
 Filling up the tank:
 
-https://youtu.be/Oy0LIhRUs-c
+👉 **[Watch the AS189 compressor review →](https://www.youtube.com/watch?v=Oy0LIhRUs-c)**
 
 ### Emptying the Tank
 
 Emptying the tank:
 
-https://youtu.be/UvmH2XQ3Sbs
+👉 **[Watch the AS189 compressor review, part 2 →](https://www.youtube.com/watch?v=UvmH2XQ3Sbs)**
 
 As you can see on the video it takes 1min40sec to fully pressurize the tank and switch the engine off. It takes at least 50sec of time using nozzle tip size 0.2 to lower the pressure down and get the engine working again. That does not mean you cannot continue working when the engine jumps on, especially if you work with low pressures.
 

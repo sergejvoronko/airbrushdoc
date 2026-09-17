@@ -15,7 +15,7 @@ Nonsense you say? Well then head over to this article from Zsolt Miklós KOVÁCS
 
 The guy there is actually explaining the whole process where he is using special materials which is a bit of a problem to get for us, simple mortals. So I did it my way and I've made a very short and easy to follow video. I know that there are many people that just don't like to read (I'm even sure that I should make more videos and maybe start narrating them but my accent is horrible, so maybe some time in the future ;)).
 
-https://youtu.be/dJhiixH1Kq4
+👉 **[Watch the needle-polishing video →](https://www.youtube.com/watch?v=dJhiixH1Kq4)**
 
 *I want to give credit to [Milla Jovovich](https://www.millaj.com/)for a nice song **Bring it on** that has been used in this video.*
 

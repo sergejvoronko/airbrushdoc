@@ -26,7 +26,7 @@ Brother as a true airbrush artist decided to do also some painting. The car is a
 
 You may have seen some snapshots on my [Facebook fan page](https://www.facebook.com/airbrushdoc) already but I've promised to make a video so here it is.
 
-https://youtu.be/4qC7NECTQlw
+👉 **[Watch the BMW E39 sub-woofer box being airbrushed →](https://www.youtube.com/watch?v=4qC7NECTQlw)**
 
 I would like to give credit to author of the music track used in this video - [Dub FX](https://dubfx.net/) (Hip Hop - Part 3 (Featuring Plan C)).
 

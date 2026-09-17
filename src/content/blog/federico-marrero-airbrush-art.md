@@ -25,7 +25,7 @@ Alright, let's look at some of my videos. Why have I started with DEXTER quote?
 
 I made this video about Dexter because I am a big fan and I saw all the seasons of the series and I think it's really good.
 
-https://www.youtube.com/embed/Ga3ibs6-lZw
+👉 **[Watch the Dexter portrait on YouTube →](https://www.youtube.com/watch?v=Ga3ibs6-lZw)**
 
 The tools that I used here was [Harder&Steenbeck Infinity](/blog/harder-and-steenbeck-infinity-review/) airbrush, paper A3 Canson 370 g/m2.
 
@@ -41,15 +41,13 @@ In this video I do all by free hand on the black T-shirt. Here I used [Harder&St
 
 The pain used for this art piece was **CREATEX** black and white.
 
-https://www.youtube.com/embed/LKZwC4NN4iw
+👉 **[Watch the Link (Zelda) T-shirt on YouTube →](https://www.youtube.com/watch?v=LKZwC4NN4iw)**
 
 ## Airbrushed Mumm-Ra on a Laptop
 
 ![Mumm_ra_Federico_Marrero](/images/wp-uploads/Mumm_ra_Federico_Marrero.webp)
 
-In this video I airbrush on my laptop and use the [Infinity from Harder&Steenbeck](/blog/harder-and-steenbeck-infinity-review/) (0,15 needle set), water base paint and urethane coat.
-
-https://www.youtube.com/embed/vL11DpbI6_4
+For this piece I airbrushed my laptop lid using the [Infinity from Harder&Steenbeck](/blog/harder-and-steenbeck-infinity-review/) (0,15 needle set), water base paint and urethane coat.
 
 <div class="abd-author-credit">
   <img class="abd-author-avatar" src="/images/wp-uploads/federico-avatar.webp" alt="Federico Marrero" />
