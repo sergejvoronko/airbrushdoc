@@ -36,11 +36,11 @@ Well I think that you can get from the name that these are water based (it means
 
 ### Acrylic Colors
 
-Very common in airbrushing and many companies make these specially for airbrushing. They can be easily washed or thinned with water or special reducer from manufacturer. These colors are long lasting colors and to be permanent they require ***heat set ***(I will cover this in another article later). They are high viscosity (thick) colors.
+Very common in airbrushing and many companies make these specially for airbrushing. They can be easily washed or thinned with water or special reducer from manufacturer. These colors are long lasting colors and to be permanent they require ***heat set*** (I will cover this in another article later). They are high viscosity (thick) colors.
 
 ***IMPORTANT: Don't let these colors to dry in your airbrush gun, clean right after use!!!***
 
-Note: ** Textile Colors,** they are actually subcategory of **Acrylic Colors**.
+Note: **Textile Colors,** they are actually subcategory of **Acrylic Colors**.
 
 ### Oil Colors
 
@@ -102,7 +102,7 @@ Properties:
 
 - Compatibility with other GOLDEN Acrylic products (Fluids, Heavy Body, Matte, High Loads)
 
-**Transparent** - made from a safe and archival 100% water-based acrylic emulsion which has the same permanency and performance properties. * Transparency - the entire line of *Transparents* is very good balanced to ensure that all colors are equally transparent.
+**Transparent** - made from a safe and archival 100% water-based acrylic emulsion which has the same permanency and performance properties. *Transparency - the entire line of* Transparents* is very good balanced to ensure that all colors are equally transparent.
 
 - Viscosity - ready to use (no dilution required)
 
@@ -123,7 +123,7 @@ They easily spray through the smallest nozzles available for airbrushes. They ca
 
 ![AquaFlow airbrush paint brand logo](/images/wp-uploads/aquaflow-logo.webp)Aqua Flow colors contain premium acrylic binders that provide durability and stability. They claim that they select materials that are environmentally sound and are as safe as possible, making your work Earth friendly. It is a flexible acrylic color used for textiles, illustration, auto tags, wall murals, and many other types of art media.
 
-This brand manufactures** IllumaAir, Lacquerol and BodyAir** airbrush colors.
+This brand manufactures **IllumaAir, Lacquerol and BodyAir** airbrush colors.
 
 **IllumaAir Colors** are high gloss hard colors that have good exterior light-fastness. They can be used in permanent as well as temporary applications, they are removable using their special eraser gel. *You can use these colors on cars and months later remove them*, also they are great for signs and vinyl.
 
@@ -142,7 +142,7 @@ This brand is probably the number one colors brand for airbrushes (my own subjec
 
 **Transparent** - Bright, vibrant colors which do not have fillers for opacity. Transparent Colors most often work best over a bright surface or base color such as Opaque White. Transparent Colors should be used for fine-lined detail operated at lower PSI settings through smaller tip-sizes. For 0.2mm tip-sizes, reduce Transparent Colors with 5608 Illustration Base, Wicked W100 Reducer or Auto Air 4011 Flash Reducer. Transparent Colors are the most common graphic paint used by artists after the base color has been achieved. This line is probably most colorful (available in 35 color shades).
 
-**Fluoroscent **- Neon colors which emit a glow. Work best over a white base color such Opaque White. Fluorescent colors are NOT lightfast. The color’s fluorescence is due to the pigment being in a rapid state of decay. These colors are not intended for permanent finishes.
+**Fluoroscent** - Neon colors which emit a glow. Work best over a white base color such Opaque White. Fluorescent colors are NOT lightfast. The color’s fluorescence is due to the pigment being in a rapid state of decay. These colors are not intended for permanent finishes.
 
 **Pearlized** - Vivid pearl base colors with a shimmering effect especially when viewed in direct light. Work best over Opaque White or Opaque Black.
 
@@ -154,7 +154,7 @@ All Wicked Colors are highly pigmented, transparent colors, which cover semi-opa
 
 ![Createx Wicked Colors brand logo](/images/wp-uploads/Auto_Air_Graphic.webp)
 
-Createx colors can be used for wood, fabric, glass, plaster, canvass, aluminium, leather, ceramic, poster boards, bricks, plastic ... So as you can see any surface is good to go. Requires heat air drying which results in **Self-cross linking **(combination of polymers or oligomers with a high acid content to upgrade the resistance properties):
+Createx colors can be used for wood, fabric, glass, plaster, canvass, aluminium, leather, ceramic, poster boards, bricks, plastic ... So as you can see any surface is good to go. Requires heat air drying which results in **Self-cross linking** (combination of polymers or oligomers with a high acid content to upgrade the resistance properties):
 
 - Hardness and scratch resistance
 
@@ -186,7 +186,7 @@ Body art and temporary tattoos are a wild and interesting art form with growing 
 
 ### BADGER SPECTRA-TEX
 
-Spectra-Tex Airbrush Colors™ are highly pigmented and ready to use. Spectra-Tex Colors can be used on a variety of surfaces including: fabric, wood, canvas, paper, clay etc with permanent results. All Spectra-Tex Airbrush Colors™ are water-based, non-toxic and meet **ASTM D-4236 **standards. Spectra-Tex Colors offers 72 unique colors in a number of finishes including Transparent, Opaque High Hiding, Neon Fluorescent, and Metallic.
+Spectra-Tex Airbrush Colors™ are highly pigmented and ready to use. Spectra-Tex Colors can be used on a variety of surfaces including: fabric, wood, canvas, paper, clay etc with permanent results. All Spectra-Tex Airbrush Colors™ are water-based, non-toxic and meet **ASTM D-4236** standards. Spectra-Tex Colors offers 72 unique colors in a number of finishes including Transparent, Opaque High Hiding, Neon Fluorescent, and Metallic.
 
 > - Highly Concentrated - No need for additional pigments to be added
 > 
@@ -208,11 +208,11 @@ These colors may be applied to the existing finish, bare steel, aluminum, fiberg
 
 ### TEMPTU
 
-**Artool 'Body of Art' ** 0.5 oz. airbrush Body-Of-Art alcohol based colors are safe to use and are made with FDA approved ingredients. Colors are blend-able and water proof. Easily applied and easily removed. Choose from a selection of 15 different colors. Used for temporary tattoos and makeups.
+**Artool 'Body of Art'** 0.5 oz. airbrush Body-Of-Art alcohol based colors are safe to use and are made with FDA approved ingredients. Colors are blend-able and water proof. Easily applied and easily removed. Choose from a selection of 15 different colors. Used for temporary tattoos and makeups.
 
 ### LIQUITEX Professional Acrylic Ink
 
-This is a range of ***extremely fluid*** acrylic that uses super-fine pigments in a state-of-the-art acrylic emulsion. They** *dry quickly***, are ***permanent*, *water resistant*** and ***non-clogging***, which makes them ideal for a variety of techniques from watercolor effects to stamping.
+This is a range of ***extremely fluid*** acrylic that uses super-fine pigments in a state-of-the-art acrylic emulsion. They** *dry quickly***, are*** permanent*,* water resistant ***and*** non-clogging***, which makes them ideal for a variety of techniques from watercolor effects to stamping.
 
 This all I have found, but I think it's enough.
 
@@ -273,7 +273,7 @@ And here are some advices from Pro’s...
 
 ## Conclusion
 
-Well there is many more brands that make airbrush colors, I just brought some most famous. BTW I could not find any description about **Autobourne** or** DuPont **(these are very expensive). And there is many local paints in Germany, Russia ... but they are not popular in US for example. So I leave it on world market. I personally use **Createx Classic Colors** and I'm happy with them. Of course for automotive I will recommend to try **House of Kolor **or **Auto-Air**. Some of them are not that expensive so you can give a try to everyone and see for yourself which best suits you. At last I placed the questionnaire on my [Facebook fan page](http://www.facebook.com/airbrushdoc), about preferred paints. I got only 24 responses so I do not recommend following only this result because it is not really objective.
+Well there is many more brands that make airbrush colors, I just brought some most famous. BTW I could not find any description about **Autobourne** or **DuPont** (these are very expensive). And there is many local paints in Germany, Russia ... but they are not popular in US for example. So I leave it on world market. I personally use **Createx Classic Colors** and I'm happy with them. Of course for automotive I will recommend to try **House of Kolor** or **Auto-Air**. Some of them are not that expensive so you can give a try to everyone and see for yourself which best suits you. At last I placed the questionnaire on my [Facebook fan page](http://www.facebook.com/airbrushdoc), about preferred paints. I got only 24 responses so I do not recommend following only this result because it is not really objective.
 
 > **Facebook poll (24 votes), "What paints do you use?"** Createx led, followed by Wicked Colors and Auto-Air, consistent with the full blog survey below.
 

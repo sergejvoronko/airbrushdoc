@@ -39,11 +39,11 @@ I do not recommend to create Objects in **Photo-Paint**. Just make every layer i
 
 ![Source photograph of a girl on a tricycle used for the layered stencil](/images/wp-uploads/Corel-Multilayer-original.webp)
 
-This is the image I decided to use. It's been taken by photographer** Irina Davis** who creates style called **Russian Pin-up**.
+This is the image I decided to use. It's been taken by photographer **Irina Davis** who creates style called **Russian Pin-up**.
 
 Open the image in **Corel PHOTO-PAINT**. Then head over menu and select "**Image > Convert to Black & White (1bit)**". From Conversion Method choose **Line Art** and set Threshold to about 50 (It can vary for every image, just set it to level which leaves only the darkest spots). I'm going to have 3 layers so my darkest will be 50. But you can have 20 layers and change the Threshold in very small steps starting from 10 or so.
 
-![Convert to 1-bit dialog with the line-art threshold set to 50](/images/wp-uploads/first-threshold-corel-photopaint.webp)Now you can save the image in any format you want. I used the default Corel PHOTO-Paint format and saved it as "**layer1.cpt**". Then "**Edit > Undo B&W**". "**Image > Convert to Black & White (1bit)**". Set Threshold to 65 - "** File > Save As > layer2.CPT**".
+![Convert to 1-bit dialog with the line-art threshold set to 50](/images/wp-uploads/first-threshold-corel-photopaint.webp)Now you can save the image in any format you want. I used the default Corel PHOTO-Paint format and saved it as "**layer1.cpt**". Then "**Edit > Undo B&W**". "**Image > Convert to Black & White (1bit)**". Set Threshold to 65 - " **File > Save As > layer2.CPT**".
 And here is how result looks like:
 
 ![First stencil layer showing only the darkest tones](/images/wp-uploads/layer2.webp)
@@ -61,7 +61,7 @@ All I have to do now is to import these **CPT** files into **CorelDRAW** to conv
 
 ## 2. Add Layers into CorelDRAW X5
 
-First step when you open** CorelDRAW** you have to head over to "**File > New**". Here is the menu:
+First step when you open **CorelDRAW** you have to head over to "**File > New**". Here is the menu:
 
 ![CorelDRAW new document dialog set to A4 at CMYK](/images/wp-uploads/NewDocumentSettingCorelDraw.webp)
 

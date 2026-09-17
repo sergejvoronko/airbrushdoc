@@ -13,7 +13,7 @@ Here we go again. Another pack of [stencils](/freebies/) comes from a very good 
 
 Vector graphics are ready for print:
 
-***ai ***- Adobe Illustrator
+***ai*** - Adobe Illustrator
 
 ***cdr*** - CorelDRAW
 

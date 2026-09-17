@@ -11,7 +11,7 @@ heroImage: "/images/wp-uploads/stencil_7.webp"
 
 Stencils became part of our everyday airbrush artistic work and many people are asking for some instructions on how to make a stencil. I've asked at many places "***What final format would you prefer for a stencil***" if you want to print it yourself on a printer or perhaps if you have access to a plotter, which is better option when it comes to cutting out the stencil and you can make stencil with much better details.
 
-Most votes I got were for** CorelDraw**. That's why I decided that it is time to make a tutorial on "**How To Make a Stencil in CorelDraw**".
+Most votes I got were for **CorelDraw**. That's why I decided that it is time to make a tutorial on "**How To Make a Stencil in CorelDraw**".
 
 ## Why CorelDraw?
 
@@ -44,7 +44,7 @@ I'm going to stay with Corel for the process (Corel has bitmap editor too). As i
 
 ## Bitmap Editor
 
-So open your image in** CorelPhotoPaint** and head to **Menu > Adjust > Contrast Enhancement **(Levels in older version)**. **If our picture has low contrast and misses the Black and White, this will help us to set the colours in full range from black to white.
+So open your image in **CorelPhotoPaint** and head to **Menu > Adjust > Contrast Enhancement** (Levels in older version)**.** If our picture has low contrast and misses the Black and White, this will help us to set the colours in full range from black to white.
 
 ![Corel PHOTO-PAINT contrast enhancement dialog over the source photo](/images/wp-uploads/stencil_1.webp)Desaturation can be easy if you just use **Desaturate** tool but we can use something better that can help not just desaturate the photo but also raise some of colour levels.
 
@@ -54,7 +54,7 @@ So, we use **Menu > Adjust > Chanel Mixer**. Actually we need to set RGB the rig
 
 Next step is needed if picture has different local lightness. To fix this we use tool "**Local Equalization**". Do not be scared of stains and lower contrast (it is going to be fixed later). But first erase everything you don't need (I used eraser tool)
 
-![Photograph reduced to high-contrast black and white](/images/wp-uploads/stencil_3.webp)after** Local Equalization**
+![Photograph reduced to high-contrast black and white](/images/wp-uploads/stencil_3.webp)after **Local Equalization**
 
 ![Local equalization dialog adjusting the black and white image](/images/wp-uploads/stencil_4.webp)And now we actually start making a stencil using a tool "**Brightness/Contrast/Intensity**". Set contrast to max and try to play with brightness.
 
@@ -64,7 +64,7 @@ Next step is needed if picture has different local lightness. To fix this we use
 
 ![Stencil artwork after erasing the unwanted black areas](/images/wp-uploads/stencil_8.webp)
 
-Actually if we don't have a plotter there is no point to go any further, but if we have then open this image in** CorelDraw**. As you see I'm almost done and I didn't even open a vector editor. Well, if you want a bigger stencil then it's going to be better to convert it to vectors.
+Actually if we don't have a plotter there is no point to go any further, but if we have then open this image in **CorelDraw**. As you see I'm almost done and I didn't even open a vector editor. Well, if you want a bigger stencil then it's going to be better to convert it to vectors.
 
 ## Vector Editor
 
@@ -80,7 +80,7 @@ Go with the setting on the picture. You can see that even with max zoom there is
 
 **![Object properties dialogs setting outline width and uniform fill](/images/wp-uploads/stencil_12.webp)![Stencil shown as outlines only, ready for cutting](/images/wp-uploads/stencil_11.webp)**After all, if you want to make your stencil larger, select the background and in left top corner change format from A4 to A1 (for example) and then  just  stretch your image to the size you want.
 
-**![CorelDRAW page with the stencil placed small on an A4 sheet](/images/wp-uploads/ctencil_A1.webp)![Stencil scaled up on the page beside the original small version](/images/wp-uploads/ctencil_A1_stretch.webp)**This is it! the only thing when you're going to print the big stencil on small A4 printer you have to adjust in **File > Print **some settings
+**![CorelDRAW page with the stencil placed small on an A4 sheet](/images/wp-uploads/ctencil_A1.webp)![Stencil scaled up on the page beside the original small version](/images/wp-uploads/ctencil_A1_stretch.webp)**This is it! the only thing when you're going to print the big stencil on small A4 printer you have to adjust in **File > Print** some settings
 
 ![Print dialog set to tile the enlarged stencil across pages](/images/wp-uploads/setting_stencil_A1_print.webp)and here is print preview
 

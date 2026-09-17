@@ -60,7 +60,7 @@ In manual you can also find all the safety instructions and of course complete l
 
 ## Why Choose the AS-189 Compressor
 
-First reason was that it was cheaper than most other air compressors with the tank and second reason was the tank. I think that I have mentioned before all the good qualities of compressor with some reservoir to store the air (that's why each of the [diy compressors](/blog/) have their own tank). The main positive property is that because of tank you will **lose the pulsing air effect** at the output and other is that** compressor doesn't have to be on all the time**. By considering this fact, the life of compressor engine increases. Also tank is a great first in line **moisture trap**.
+First reason was that it was cheaper than most other air compressors with the tank and second reason was the tank. I think that I have mentioned before all the good qualities of compressor with some reservoir to store the air (that's why each of the [diy compressors](/blog/) have their own tank). The main positive property is that because of tank you will **lose the pulsing air effect** at the output and other is that **compressor doesn't have to be on all the time**. By considering this fact, the life of compressor engine increases. Also tank is a great first in line **moisture trap**.
 
 ![AS-189 compressor cylinder showing the model and specification label](/images/wp-uploads/as189-5.webp)
 

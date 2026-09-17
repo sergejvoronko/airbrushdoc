@@ -69,7 +69,7 @@ About the big paint cup - I liked the lid. It provides more functions in one. Be
 
 ### Trigger and Control Mechanism
 
-The** trigger** itself is in a solid piece opposed to high-end brushes. It is ball and socket design which provides very smooth movement. Assembly is also much easier.
+The **trigger** itself is in a solid piece opposed to high-end brushes. It is ball and socket design which provides very smooth movement. Assembly is also much easier.
 
 ![Talon nozzle assembly removed and held in the fingers](/images/wp-uploads/Paasche-Talon-Review-trigger.webp)
 

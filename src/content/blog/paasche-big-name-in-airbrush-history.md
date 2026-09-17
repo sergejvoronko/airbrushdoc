@@ -18,7 +18,7 @@ The gunsmith **Jens Andreas Paasche** emigrated from Norway in 1900. For a while
 
 ## 1905 - Paasche First Airbrush Patent
 
-First Paasche's airbrush was patented in 1905. The grandfather of legendary **Paasche AB Turbo **(actually, Paasche has made some modernization and miniaturization for **Walkup design** to create this airbrush).
+First Paasche's airbrush was patented in 1905. The grandfather of legendary **Paasche AB Turbo** (actually, Paasche has made some modernization and miniaturization for **Walkup design** to create this airbrush).
 ![Paasche 1905 airbrush patent drawing](/images/wp-uploads/paasche-first-patent-1905-1.webp)
 
 ## 1907 Another Paasche AB Airbrush

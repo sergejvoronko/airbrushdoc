@@ -44,19 +44,19 @@ So, what's inside of Extreme Set?
 
 ## Badger Velocity
 
-**Gravity feed** airbrush with **ultra-fine tip **(0.21mm). Paint cup in this model  is integrated on top of the airbrush body (1/4 oz). Gravity feed means that this airbrush will require less air pressure compared to other feed systems (the paint does not need to be pulled into the body - [read more](/blog/choose-airbrush/)).
+**Gravity feed** airbrush with **ultra-fine tip** (0.21mm). Paint cup in this model  is integrated on top of the airbrush body (1/4 oz). Gravity feed means that this airbrush will require less air pressure compared to other feed systems (the paint does not need to be pulled into the body - [read more](/blog/choose-airbrush/)).
 
 ![Badger Velocity gravity-feed airbrush with top cup](/images/wp-uploads/Badger-Velocity-Airbrush.webp)
 
 Actually **Badger’s Renegade Series** of airbrushes are not that new as they have been out for few years already. All they've done is that they just revised them a little. If you are already familiar with the Renegade series all of this will be more like a revision.
 
-Badger described the Renegade line as the **ultimate fine detail tool**. Their target is car airbrush artists. But I would say it could be good tool for fine art or modelers too. Basic difference between Renegades and any other Badger airbrushes is the** paint tip** and **needle**.  The nozzle is tiny (less than half of the size of their regular ones). Other things as threadless and self-centering are standard.  The needle has a very sharp cut to the tip and it's **carbide polished**.
+Badger described the Renegade line as the **ultimate fine detail tool**. Their target is car airbrush artists. But I would say it could be good tool for fine art or modelers too. Basic difference between Renegades and any other Badger airbrushes is the **paint tip** and **needle**.  The nozzle is tiny (less than half of the size of their regular ones). Other things as threadless and self-centering are standard.  The needle has a very sharp cut to the tip and it's **carbide polished**.
 
 The cup has tapered shape. Really surprising is use of Teflon bearing that is user replaceable (just this fact makes you look at airbrush as it is high quality gun).
 
 When most of us - "**Fine Art Artists**" think “**in detail**” in terms of airbrushing, we mean a fine, tight line.  With the right air pressure, paint and some patience true artist can spray fine line out of any decent airbrush.
 
-When I started some experiments with **Velocity** my first impression was that something is not right because I had to pull the trigger far back to get at least some paint flow. So I fired up my computer and went to Google the problem. Turns out that the **"Renegade’s head assembly is more restricting to the air"** and just extra 5 psi to your usual working pressure is all you need to deal with "this kind of problem".  So, in my case with working pressure around 25 psi I've got to test the fine lines (but I've heard that about 12 to 15 psi should be enough for *gravity* and* side feed* and a bit more for the bottom feed). I have to admit I was shocked as results were very impressive.  I was painting not only very fine lines, but I was doing it consistently.  Even after half an hour of consistent work the Velocity’s head was still clean and lines were still fine.
+When I started some experiments with **Velocity** my first impression was that something is not right because I had to pull the trigger far back to get at least some paint flow. So I fired up my computer and went to Google the problem. Turns out that the **"Renegade’s head assembly is more restricting to the air"** and just extra 5 psi to your usual working pressure is all you need to deal with "this kind of problem".  So, in my case with working pressure around 25 psi I've got to test the fine lines (but I've heard that about 12 to 15 psi should be enough for *gravity* and *side feed* and a bit more for the bottom feed). I have to admit I was shocked as results were very impressive.  I was painting not only very fine lines, but I was doing it consistently.  Even after half an hour of consistent work the Velocity’s head was still clean and lines were still fine.
 
 The action of the trigger is really smooth but the tension was a bit tight (set at the factory)  - this is however fully adjustable.
 
@@ -68,7 +68,7 @@ I can say that this airbrush is very good for **fine art**, especially for **fre
 
 ## Badger Spirit
 
-The second airbrush of the Renegade line is the **Spirit** with** side feed and ultra fine tip **(0.21mm). Here the cup can be attached to the right or left side of the airbrush. The paint flows from the cup through a small pipe into the body of airbrush. This allows the paint cup to be rotated from horizontal to vertical so that the brush can be held even vertically without spilling out the paint.
+The second airbrush of the Renegade line is the **Spirit** with **side feed and ultra fine tip** (0.21mm). Here the cup can be attached to the right or left side of the airbrush. The paint flows from the cup through a small pipe into the body of airbrush. This allows the paint cup to be rotated from horizontal to vertical so that the brush can be held even vertically without spilling out the paint.
 
 ![Badger Spirit side-feed airbrush with its paint cup fitted](/images/wp-uploads/Badger-Spirit-Airbrush.webp)
 

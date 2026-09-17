@@ -18,7 +18,7 @@ Let's start with the simplest one
 
 ## Syringe Airbrush in 10 minutes
 
-All we need for construction of this airbrush is **syringe** and empty** ball-pen refill **(as shown below).
+All we need for construction of this airbrush is **syringe** and empty **ball-pen refill** (as shown below).
 
 ![Ball-pen refill used as the paint tube of a home-made airbrush](/images/wp-uploads/ball-pen-airbrush-1.webp)![Disposable syringe and needle used to build a home-made airbrush](/images/wp-uploads/syringe-airbrush-2.webp)
 

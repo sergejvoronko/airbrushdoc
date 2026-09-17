@@ -22,7 +22,7 @@ Well, I don't know how about you but I've been surprised, that some people don't
 
 ### Fire and Skulls: The Most Popular Airbrush Motives
 
-So I do it by this question: ***Have you ever seen a real fire or skull paintings on cars and bikes*?** This is the moment when they actually get what kind of art airbrush is." *Aha, yes, I've seen those *:)" . But this is the moment when you have to explain that **airbrush** is not only about motorists and about **fire and skulls**.
+So I do it by this question: ***Have you ever seen a real fire or skull paintings on cars and bikes*?** This is the moment when they actually get what kind of art airbrush is." *Aha, yes, I've seen those *:)" . But this is the moment when you have to explain that **airbrush **is not only about motorists and about** fire and skulls**.
 
 So here comes my questions to my readers (I hope there are some Pro's as well):
 
@@ -92,6 +92,6 @@ Next I would like to know about your local police department "**how do they trea
 
 ## Notable Airbrush Artists
 
-And at the end I had to mention this. There are some artists that I respect a lot and they actually made their living doing mostly these motives. **[Mike Lavallee](http://killerpaint.wordpress.com/)** (to me he is a father of** real fire,** but recently showed the world that he can do much more), **[Airbrush Fitto](http://www.airbrushfitto.com/)** (unusual way of painting **skulls** and full **skeletons**, and if I'm not wrong, he does everything** freehand**).
+And at the end I had to mention this. There are some artists that I respect a lot and they actually made their living doing mostly these motives. **[Mike Lavallee](http://killerpaint.wordpress.com/)** (to me he is a father of **real fire,** but recently showed the world that he can do much more), **[Airbrush Fitto](http://www.airbrushfitto.com/)** (unusual way of painting **skulls** and full **skeletons**, and if I'm not wrong, he does everything **freehand**).
 
 And my last question "**What do you think about these two artist?"**

@@ -35,7 +35,7 @@ and the airbrush itself. The box isn't something like in set of **[Aztek 7778](/
 
 ## The Technology of Infinity
 
-Similar to the previous patient it is equipped with **self-centering socket-type nozzle. **The pros of this nozzle is that it has no threads and fixes by nozzle cap from one side and by air pressure on the Teflon seal from other side.
+Similar to the previous patient it is equipped with **self-centering socket-type nozzle.** The pros of this nozzle is that it has no threads and fixes by nozzle cap from one side and by air pressure on the Teflon seal from other side.
 
 ![Infinity nozzle, needle and quick-fix components laid out](/images/wp-uploads/Harder-Steenbeck-Infinity-2.webp)
 
@@ -51,7 +51,7 @@ On the next picture you can see two screws in opened quick fix (One is responsib
 
 ![Harder & Steenbeck Infinity airbrush, full side view](/images/wp-uploads/Harder-Steenbeck-Infinity-16.webp)
 
-Swap of the needle caps is literally plug and play. In combination with distance cap, ***Harder and Steenbeck Infinity Two in One ***becomes almost unbeatable.
+Swap of the needle caps is literally plug and play. In combination with distance cap, ***Harder and Steenbeck Infinity Two in One*** becomes almost unbeatable.
 
 ![Two close views of the Infinity needle cap beside a millimetre rule](/images/wp-uploads/Harder-Steenbeck-Infinity-10.webp)
 

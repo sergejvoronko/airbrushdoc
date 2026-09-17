@@ -54,7 +54,7 @@ I think that for every airbrush artist the closest topic is **acrylic paint**. W
 
 *Typically, most other polymer users recommend using a water based acrylic paint which is fine and dandy but what happens when you need a paint like no other and it's NOT either of those available? I found out that you CAN'T paint polymer clay with Urethane paints because it will have a bad reaction with the clay (baked or not) causing it to break down the clay's structure and basically it will "eat" the cured clay after a while. This is obviously not something I want to happen but I also REALLY wanted to use these paints and I already bought them. Most people who have experience with polymer clay don't have experience with auto paints and those who use the paints have no experience with polymer clay! OMG! I have spent over two weeks now spending most of my time looking for the answer.* *I've started getting my hopes up when I got into reading more about Createx paints.*
 
-*In particular, "**Auto Air**". From what I have found, it's a water based acrylic paint which is also safe for urethane paints. That's when I stumbled upon your site...researching the auto air paints.* *So, my question......* * What primer could I use if any is needed and could I use AutoAir paint as a base for the other urethane paints??? *
+*In particular, "**Auto Air**". From what I have found, it's a water based acrylic paint which is also safe for urethane paints. That's when I stumbled upon your site...researching the auto air paints.* *So, my question......* *What primer could I use if any is needed and could I use AutoAir paint as a base for the other urethane paints???*
 
 *The paints I purchased are from a company called "Alsa".* *Do you have any ideas for me???? I've really hit a dead end and I'd rather not start buying a bunch of paint all over again. I simply can't afford to. I could buy one or two products that may be a solution but I'd rather not buy an entirely different paint collection from a different manufacturer.*
 
@@ -68,7 +68,7 @@ Here is Createx reply:
 
 And here is reply from AlsaCorp:
 
-*I am sure it will work, however I would advise testing it to be certain. * *These paints go on all kinds of substrates. I am not too familiar with polymer clay, but if acrylics work these should too.*
+*I am sure it will work, however I would advise testing it to be certain.* *These paints go on all kinds of substrates. I am not too familiar with polymer clay, but if acrylics work these should too.*
 
 Megan was very excited about using Alsa paints as they have very good shades of colors but no one can give her an exact and definitive answer to her question, the only and 100% answer is to use acrylic paints from Createx. But she decided to find it out herself and she is doing test samples at the moment. I'm sure that this article is going to grow with time not because of my interest but because of Megan's enthusiasm.
 

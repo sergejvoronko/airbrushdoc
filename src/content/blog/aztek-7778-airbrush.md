@@ -106,7 +106,7 @@ It depends on the country but there wasn't a local manual for my country and I w
 
 Nozzle tips itself don't have any description on them (only thing that describes them is colour :)
 
-**Guide disk (dvd), **even two of them (in English).
+**Guide disk (dvd),** even two of them (in English).
 
 They strongly advice you to use those tips as per instructions (following the rules). Otherwise you can have spits, sprays or clogging. For example difference between acrylic and non acrylic nozzle tip
 

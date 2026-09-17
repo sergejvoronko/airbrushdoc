@@ -57,7 +57,7 @@ If you are just starting with airbrushing then better **don't even bother with p
 
 If you are going to do it anyway but you are unsure about your safety then **use protective gloves and glasses**.
 
-Also during the polishing you are actually pressing the needle against the abrasive, so **don't press too much** as you can bent the needle very easily. If it happens please don't blame me or manufacturer,** I warned you**!
+Also during the polishing you are actually pressing the needle against the abrasive, so **don't press too much** as you can bent the needle very easily. If it happens please don't blame me or manufacturer, **I warned you**!
 
 Once you're finished with polishing, **clean the needle** with cleaning solution you would usually use for cleaning your airbrush to get rid of polishing residues as those may cause some painting problems right at first use after polishing.
 

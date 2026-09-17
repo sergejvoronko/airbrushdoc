@@ -16,7 +16,7 @@ One day I got an e-mail from guy named Colm, an Irish based airbrush artist. He 
 Colm is a Wexford (Ireland) based artist who specializes in good old ***pen and paper***, [***airbrush***](/) and ***acrylics***.
 
 Also dabble in a bit of ***photoshop***, ***illustrator*** and most recently ***web design***.
-He has some background in*** architecture***, **tattoo**, and ***design*** and considers his personal style to be an **eye-catching mix of tattoo, street and pop art**.
+He has some background in ***architecture***, **tattoo**, and ***design*** and considers his personal style to be an **eye-catching mix of tattoo, street and pop art**.
 
 Currently he is in first year of study at Waterford IT doing his BA(Hons) Degree in Design (Visual Communications).
 
@@ -42,7 +42,7 @@ In summer of 2010 Colm held his third exhibition, **POP**! It was received reall
 
 ## FREE HUGS
 
-This piece was made for an end of year** art project**. The theme was based around characters, taking a photo he found and turning that person into the character that first came to Colm's mind (in this case a profile shot of a French bearded character with a face full of emotion). The finished piece is airbrushed acrylics, with ink and pencil thrown in for good measure. Who wouldn't want a free hug off this guy?!
+This piece was made for an end of year **art project**. The theme was based around characters, taking a photo he found and turning that person into the character that first came to Colm's mind (in this case a profile shot of a French bearded character with a face full of emotion). The finished piece is airbrushed acrylics, with ink and pencil thrown in for good measure. Who wouldn't want a free hug off this guy?!
 ![Airbrushed painting of a bearded man holding a Free Hugs sign](/images/wp-uploads/36.webp)
 
 Colm started airbrushing in June 2009 after a good friend of his talked him into trying it out and gave him a few tips. Within a couple of weeks he had a load of canvases sitting around the house with nowhere to hang them so Colm decided to hold his second exhibition called "**Fallen Stars**", it was a major success for him, selling out in 2 days! These are a selection of the paintings, they are all airbrushed acrylic on canvas and vary in size.

@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush-art-alexej-sulkovskij-12.webp"
 ---
 
-*For a long time I didn't have any **airbrush artist** presenting his **art gallery** here. *
+*For a long time I didn't have any **airbrush artist **presenting his** art gallery** here. *
 
 A few days back I stumbled on amazing airbrush art of **Alexey Sulkovskiy** and didn't hesitate even for a minute to return an email to him. The response was exceptionally fast. **Alexey** agreed to share a short bio and his gallery with airbrushdoc audience. I'm speechless. Here's a short article I've prepared with his cooperation.
 
@@ -60,7 +60,7 @@ Here are a few more snaps of my motor airbrushing.
 
 Алексей Сулковский (Alexey Sulkovskiy),
 Phone: +380637097277,
-/* [www.dubstyling.com.ua](#) - not active at the moment*/
+/ *[www.dubstyling.com.ua](#) - not active at the moment*/
 
 *And what about you? Do you like Alexey's art? Then share, like or comment.
 *

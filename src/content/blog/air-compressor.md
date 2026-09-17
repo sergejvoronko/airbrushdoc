@@ -34,9 +34,9 @@ BUT BE CAREFUL!!! THERE IS MORE THINGS TO CONSIDER !!!
 
 This is simple, thinner paint needs less pressure.
 
-- **Thin paints** (***low viscosity***) will work with ***10-20 PSI ***(Golden Airbrush Colors, Comart, House of Kolor, DR PH martins)
+- **Thin paints** (***low viscosity***) will work with ***10-20 PSI*** (Golden Airbrush Colors, Comart, House of Kolor, DR PH martins)
 
-- **Thick paints** (***hight viscosity***) needs about ***40 - 60 PSI ***(Createx, textile airbrush colors, Auto Air)
+- **Thick paints** (***hight viscosity***) needs about ***40 - 60 PSI*** (Createx, textile airbrush colors, Auto Air)
 
 I will talk about paints in more detail later in another post.
 
@@ -64,11 +64,11 @@ It can go on with almost no sound, and go off with some "psssss" or you can hear
 
 ### 4. Water
 
-All compressors generate water and water vapour! Regardless of the type of compressor you purchase, water spraying out of your nozzle will destroy all your paint work. So usually we use* filters* that can remove the water from the air and ***point-of-use dryer*** to remove water vapour and to ensure that no water can reach your work.![Inline water trap and pressure regulator mounted on a workshop wall](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
+All compressors generate water and water vapour! Regardless of the type of compressor you purchase, water spraying out of your nozzle will destroy all your paint work. So usually we use *filters* that can remove the water from the air and ***point-of-use dryer*** to remove water vapour and to ensure that no water can reach your work.![Inline water trap and pressure regulator mounted on a workshop wall](/images/wp-uploads/oil-humidity-filter-and-pressure-reducer.webp)
 
 ### 5. Regulators
 
-Regardless of the type of compressor you buy or build, one thing you will want to have is a ***precision regulator***. Using a precision regulator means that you can set the correct pressure that works best with your gun and your paint mix, so the precision regulator will ensure that flow is consistent and steady.You may noticed that the **point-of-use dryer **
+Regardless of the type of compressor you buy or build, one thing you will want to have is a ***precision regulator***. Using a precision regulator means that you can set the correct pressure that works best with your gun and your paint mix, so the precision regulator will ensure that flow is consistent and steady.You may noticed that the **point-of-use dryer**
 
 and **regulator** is the same unit doing a few functions at ones.
 
@@ -76,7 +76,7 @@ and **regulator** is the same unit doing a few functions at ones.
 
 Always take a look on air compressor duty cycle, and do make sure that the compressor you purchase has enough flow capacity at the pressure you need, so that it can rest as often as necessary to ensure long life.
 
-This is quite an** important** information to have when you are sizing your compressor. Many compressors are not meant to run all the time. Some need to have a ***rest period*** of a certain percentage of operating time to give the unit time to cool down. You have to be aware of that to prevent breakdowns and to prolong the life of your compressor.
+This is quite an **important** information to have when you are sizing your compressor. Many compressors are not meant to run all the time. Some need to have a ***rest period*** of a certain percentage of operating time to give the unit time to cool down. You have to be aware of that to prevent breakdowns and to prolong the life of your compressor.
 
 Usually, the duty cycle is expressed as a percentage of a certain time frame, that often being a 10 minute.
 
@@ -126,7 +126,7 @@ Well this are probably the ones that we have interest in :) .
 
 **Home Made Compressors**
 
-For the adventurous do-it-yourself masters that love to make a*** [home-made air compressor](/blog/silent-compressor/)*** themselves.
+For the adventurous do-it-yourself masters that love to make a ***[home-made air compressor](/blog/silent-compressor/)*** themselves.
 
 All compressor types theoretically work more efficiently if they are designed to include multiple stages.
 

@@ -63,13 +63,13 @@ The use of liquid frisket comes in handy when your art piece includes many tiny 
 
 ### Stencils for Airbrush Art
 
-**Stencils ** - Everybody knows what stencils are. A lot of airbrush artist can't imagine to work without them but they are not that crucial. Yes, they make our lives easier but I know about artists that don't use them at all and paint unbelievable art (for example - [Airbrush Fitto](http://www.airbrushfitto.com/)). If you are the one that can't exist without stencils then I recommend to visit Airsick Stencils store - their stencils are one of the best.
+**Stencils**  - Everybody knows what stencils are. A lot of airbrush artist can't imagine to work without them but they are not that crucial. Yes, they make our lives easier but I know about artists that don't use them at all and paint unbelievable art (for example - [Airbrush Fitto](http://www.airbrushfitto.com/)). If you are the one that can't exist without stencils then I recommend to visit Airsick Stencils store - their stencils are one of the best.
 
 ## Cutting and Precision Tools
 
 ### X-ACTO Knife for Frisket Cutting
 
-**[X-ACTO knife](http://www.chicagoairbrushsupply.com/knives.html) a.k.a. Exacto knife a.k.a. Frisket knife a.k.a. Stencil knife... **We can go on and on. No matter how you call this knife, it always be the tool you may need. It has changeable blades and the primary purpose is to cut frisket film or any other masking material to create a stencil.
+**[X-ACTO knife](http://www.chicagoairbrushsupply.com/knives.html) a.k.a. Exacto knife a.k.a. Frisket knife a.k.a. Stencil knife...** We can go on and on. No matter how you call this knife, it always be the tool you may need. It has changeable blades and the primary purpose is to cut frisket film or any other masking material to create a stencil.
 
 ![X-ACTO craft knife with a spare blade](/images/wp-uploads/X-Acto-knife.webp)
 

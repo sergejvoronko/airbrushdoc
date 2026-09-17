@@ -10,7 +10,7 @@ draft: false
 heroImage: "/images/wp-uploads/how-much-for-art1.webp"
 ---
 
-Every beginner or even advanced **artist** doing **airbrush** has heard this question: "*How Much?*". What I mean is that every time when you paint for someone, if it's just a friendly favor or part of your business, it requires some **background finances** which you should include in your bill. It does depend on** art-work dimensions**. If you do something for you friend on A4 size paper I'll bet you won't dare to ask money but if you do a car you should acknowledge your client, even if it's your friend, that it might cost something.
+Every beginner or even advanced **artist** doing **airbrush** has heard this question: "*How Much?*". What I mean is that every time when you paint for someone, if it's just a friendly favor or part of your business, it requires some **background finances** which you should include in your bill. It does depend on **art-work dimensions**. If you do something for you friend on A4 size paper I'll bet you won't dare to ask money but if you do a car you should acknowledge your client, even if it's your friend, that it might cost something.
 
 After questions like "*What to Paint?*" and "*Where to Paint?*", you have to tell your customer exactly why and for what he is going to pay apart of art.
 

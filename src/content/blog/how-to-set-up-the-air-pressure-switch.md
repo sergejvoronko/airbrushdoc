@@ -16,7 +16,7 @@ The question came from **Narain** and I want to thank him for bringing this up.
 
 ## Question
 
-> *Good morning ! Please explain me how to **adjust auto switch** screw for cut off / on. In the picture there are two screws, one is with **small spring** and other with **big spring**. Which screw is for cut off and which is for on. What is the position of both screw before adjusting them, fully loose or tight. Thanks.*
+> *Good morning ! Please explain me how to **adjust auto switch **screw for cut off / on. In the picture there are two screws, one is with** small spring **and other with** big spring**. Which screw is for cut off and which is for on. What is the position of both screw before adjusting them, fully loose or tight. Thanks.*
 
 So I'm going to answer the question and I will add some info about wiring the pressure switch as well, so the information about air pressure switch will be more complete.
 

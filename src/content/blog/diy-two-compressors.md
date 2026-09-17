@@ -10,7 +10,7 @@ heroImage: "/images/wp-uploads/dyi-two-compressor2.webp"
 ---
 ## Building DIY Compressors: A Two-Engine Project
 
-Today I'd like to share a story I've found on my greatest resource for **building compressors **[scalemodels.ru](http://scalemodels.ru). First of all it caught my eye. On visual side it looks like factory made model, but nope, it was home-made and as author states he "planned it to be a compact, low-budget project". But when he started he couldn't stop. And the result? - not very compact and not that low-budget at all, but how **beautiful** it is... 
+Today I'd like to share a story I've found on my greatest resource for **building compressors** [scalemodels.ru](http://scalemodels.ru). First of all it caught my eye. On visual side it looks like factory made model, but nope, it was home-made and as author states he "planned it to be a compact, low-budget project". But when he started he couldn't stop. And the result? - not very compact and not that low-budget at all, but how **beautiful** it is...
 
 There's actually **two compressors** hidden under caddy which author got for free from work (they've had two broken water coolers with working compressors).
 
@@ -72,7 +72,7 @@ If you have to choose between **relay or capacitor**, choose relay. But if you w
 
 ### Pressure Switch and Tank
 
-The** pressure switch** breaks the circuit at 3bar (43.5psi) and switches it back on at 4bar (58psi). In this particular switch he has no possibility to regulate its limits as this switch is very compact. For its use the author is satisfied but there no problem to change this part for something better with more options.
+The **pressure switch** breaks the circuit at 3bar (43.5psi) and switches it back on at 4bar (58psi). In this particular switch he has no possibility to regulate its limits as this switch is very compact. For its use the author is satisfied but there no problem to change this part for something better with more options.
 
 As tank he used old fire extinguisher. Some parts have been bought, some of them got author for free.
 

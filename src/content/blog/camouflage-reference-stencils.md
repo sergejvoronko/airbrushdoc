@@ -18,7 +18,7 @@ I don't know if any of airbrush artists will profit from this but a lot of model
 
 ## A Few Words about Camouflage
 
-The interesting fact is that **camouflage **has been a topic of interest in biology for over a century. Even Charles Darwin's theory included features as camouflage. Darwin wrote:
+The interesting fact is that **camouflage** has been a topic of interest in biology for over a century. Even Charles Darwin's theory included features as camouflage. Darwin wrote:
 
 "When we see leaf-eating insects green, and bark-feeders mottled-grey; the alpine ptarmigan white in winter, the red-grouse the color of heather, and the black-grouse that of peaty earth, we must believe that these tints are of service to these birds and insects in preserving them from danger. Grouse, if not destroyed at some period of their lives, would increase in countless numbers; they are known to suffer largely from birds of prey; and hawks are guided by eyesight to their prey, so much so, that on parts of the Continent persons are warned not to keep white pigeons, as being the most liable to destruction. Hence I can see no reason to doubt that natural selection might be most effective in giving the proper color to each kind of grouse, and in keeping that color, when once acquired, true and constant."
 

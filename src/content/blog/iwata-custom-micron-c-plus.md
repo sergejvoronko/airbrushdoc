@@ -50,13 +50,13 @@ If I look at everything that comes with this airbrush, I can see a big differenc
 
 It has open quick fix but some professionals prefer to work without it. Some even take the front part off. Why? First it gives you better visibility and second, the airbrush feels much lighter. So, all that fancy speed dial becomes useless in hands of a Pro. When I asked for advice "*Have* you ever needed to use speed dial to limit the paint flow?" I received an answer "*No, I have a good feeling in my fingers, why would I need to limit the paint flow and waste my time playing with a dial. It is for beginners only*".
 
-- **MAC - External Micro Air Control Valve **
+- **MAC - External Micro Air Control Valve**
 
 It's a huge plus of this gun. Especially, if you want to do a really fine art with incredible details, then you may find very useful to limit the air pressure
 
 - **Quick Disconnect**
 
-Also useful feature when you use more airbrushes at the same time or perhaps if you use more compressors and keep switching between them. This advantage is mostly optional for other brands, but here it comes by default and with** pistol grip moisture filter **(no more worries about filtering the air from compressor)**. **
+Also useful feature when you use more airbrushes at the same time or perhaps if you use more compressors and keep switching between them. This advantage is mostly optional for other brands, but here it comes by default and with **pistol grip moisture filter** (no more worries about filtering the air from compressor)**.**
 
 - **The Cup 9ml**
 

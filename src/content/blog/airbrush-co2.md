@@ -27,7 +27,7 @@ heroImage: "/images/wp-uploads/Per-Corell.webp"
 
 ### Solutions for Clean Water
 
-*The author of this article has actually provided his solution for the problem he experienced by using **as clean water as possible**. For this purpose he uses a **[reverse osmosis](http://en.wikipedia.org/wiki/Reverse_osmosis) system**. If you got water problem as well you can follow this advices.*
+*The author of this article has actually provided his solution for the problem he experienced by using **as clean water as possible**. For this purpose he uses a** [reverse osmosis](http://en.wikipedia.org/wiki/Reverse_osmosis) system**. If you got water problem as well you can follow this advices.*
 
 *Also there were some tests with **magnetizing water** and the conclusion does not need any further comments:*
 
@@ -37,7 +37,7 @@ heroImage: "/images/wp-uploads/Per-Corell.webp"
 
 *My dear friend [Per Corell](/blog/street-art-airbrush/) has read the article and he had come to me with his opinion on this problem:*
 
-Hi. I had mentioned before that one of my first airbrushes was the "**Fisher CO2**". I just read the article from the link you added, where they discussed** water purity** and its impact on spray quality.
+Hi. I had mentioned before that one of my first airbrushes was the "**Fisher CO2**". I just read the article from the link you added, where they discussed **water purity** and its impact on spray quality.
 
 I will suggest something that probably will have even more impact, something already known but maybe forgotten. **CO2 is heavier than air**, it is completely dry because moisture will instantly chemically react with CO2 and I wonder if both aspects were the reason for using CO2 instead of air or even for producing special airbrushes to be used with CO2 and Air, -- you probably guessed, -- the "**Fisher CO2**" that has its name from being made for CO2. **CO2 is said to be perfect for really fine work**, maybe the fact that it is so dry, is the reason but also its weight (heavier than air) make it a better medium to carry the spray.
 
@@ -55,7 +55,7 @@ I wonder if **Airbrush Tattoo** would profit from the use of CO2, I mean who kno
 
 I don't know if this is at all relevant but I've noticed the smell coming from my compressor that carries a tank; I planned to clean it with antiseptics. ;)
 
-*I'm very happy that Per is very interested in many things and that he is always prepared to tell about his own view on the problem. Thanks to [Per Corell](http://www.facebook.com/per.corell) for pointing that out and thanks to [CommuniCats](http://communicats.blogspot.nl) for a great topic. *
+*I'm very happy that Per is very interested in many things and that he is always prepared to tell about his own view on the problem. Thanks to [Per Corell](http://www.facebook.com/per.corell) for pointing that out and thanks to [CommuniCats](http://communicats.blogspot.nl) for a great topic.*
 
 ## CO2 vs. Nitrogen as Pressurized Gas
 

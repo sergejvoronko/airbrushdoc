@@ -44,7 +44,7 @@ If you do everything the right way then you are going to get no worse results wi
 
 ## You Have to Mix Nitrocellulose Paints to Get Desired Color
 
-If you want to work with** nitros**, you will have to mix them as the palette of colors available is not that wide. But all you need are five basic colors to get any desired color. Yes only 5 - white, black, blue, yellow and red. Black and white can also be made by mixing together other colors, If you add white to a color you lighten it and if you add black you darken it, simple, though some painters don't use black at all.
+If you want to work with **nitros**, you will have to mix them as the palette of colors available is not that wide. But all you need are five basic colors to get any desired color. Yes only 5 - white, black, blue, yellow and red. Black and white can also be made by mixing together other colors, If you add white to a color you lighten it and if you add black you darken it, simple, though some painters don't use black at all.
 
 It is good to get some schema of mixing colors, so you know which colors to mix to get the desired one. I decided to include this schema here, so you don't have to waste your time looking for it elsewhere.
 
@@ -74,7 +74,7 @@ If you want to find out more, follow this link - ~~Colorserver~~.
 
 Before applying nitrocellulose lacquer make a test on wood panel to see how it adheres to the wood and colors it. Adding more coats will affect the final color.
 
-But first of all you have to make base coat. For example if you do work on wood (guitar), thin out the **sanding sealer **to about 20% and apply the coat of sealer onto the wood. It has to be wet enough to adhere to the wood, otherwise the lack of adhesion can lead to the de-lamination of the lacquer. Then sand the wood to remove roughness by using a sand paper **00 steel wool**. Second coat of the sealer will even out the base especially if the wood is soft. Sand it again and if you want to enhance the color texture apply glazing too.
+But first of all you have to make base coat. For example if you do work on wood (guitar), thin out the **sanding sealer** to about 20% and apply the coat of sealer onto the wood. It has to be wet enough to adhere to the wood, otherwise the lack of adhesion can lead to the de-lamination of the lacquer. Then sand the wood to remove roughness by using a sand paper **00 steel wool**. Second coat of the sealer will even out the base especially if the wood is soft. Sand it again and if you want to enhance the color texture apply glazing too.
 After that you may start applying a coats of the lacquer. Continue adding coats until you've achieved the finish you like. That's actually the whole process. Some people use to sand it again and apply clear coat at the end.
 
 ## Few Tips For Nitros

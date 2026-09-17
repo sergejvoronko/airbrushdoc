@@ -20,7 +20,7 @@ This one doesn't have that much to do with airbrushing but a lot about art. A bi
 
 ![Banner for the Virtuowl.com self body healing and wellness blog](/images/wp-uploads/temporary-tatoo.webp)
 
-Really short and clear article from ~~blog-health-talk~~. This article contains some tips and advises for a party with **tatoo** or** temporary tatoo** solutions (as author says - try first before you go for a real one ...)
+Really short and clear article from ~~blog-health-talk~~. This article contains some tips and advises for a party with **tatoo** or **temporary tatoo** solutions (as author says - try first before you go for a real one ...)
 ## DIY MINI SILENT COMPRESSOR
 
 ![Home-built silent compressor using a fridge unit, twin gauges and a regulator](/images/wp-uploads/compressor.webp)
@@ -35,8 +35,8 @@ This article is special because it's written by my idol :).  I think Everyone k
 
 ![Artist standing in front of an airbrushed skull mural contest entry](/images/wp-uploads/pharaohscale.webp)
 
-The last one I present here doesn't have much to read, it's airbrushing work progress for **Skull contest entry on TheAirbrushForum **from start to finish. This one made it to the top 5 because I like that post and I'm big fan of the forum.
+The last one I present here doesn't have much to read, it's airbrushing work progress for **Skull contest entry on TheAirbrushForum** from start to finish. This one made it to the top 5 because I like that post and I'm big fan of the forum.
 
 > The Airbrush Forum has been updated (all data lost)!!!
 
-At last, **please click ‘like’ button **to attract these awesome posts and their authors more eyes to read and see the content. They deserve it.
+At last, **please click ‘like’ button** to attract these awesome posts and their authors more eyes to read and see the content. They deserve it.
