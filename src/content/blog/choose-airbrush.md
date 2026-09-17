@@ -10,7 +10,7 @@ draft: false
 heroImage: "/images/wp-uploads/iwata-micron-2.webp"
 ---
 
-Why do we have to choose the best *airbrush gun*? I think that many of my visitors were dealing with this question and if you have landed on this page then you probably have the same question too. Have you seriously been thinking of doing airbrush but didn't buy any equipment yet? Well, I decided to start a series of articles that deal with beginner's problems. "***Which Airbrush gun to buy****?***" or "***Which airbrush gun is the best?***"
+Why do we have to choose the best *airbrush gun*? I think that many of my visitors were dealing with this question and if you have landed on this page then you probably have the same question too. Have you seriously been thinking of doing airbrush but didn't buy any equipment yet? Well, I decided to start a series of articles that deal with beginner's problems. "**Which Airbrush gun to buy?**" or "**Which airbrush gun is the best?**"
 
 Let's say you are totally new to airbrushing, a newbie that loves art and loves to paint, knows how to use a pencil or a brush and one day someone has told you to try airbrush or maybe you have seen it somewhere and considered to give it a try. I'm sure that you have seen some videos about "***how to airbrush***" on the Internet already and finally you've decided - "**Yes** - I want to do **Airbrush**!".
 
@@ -58,7 +58,7 @@ Gravity feed airbrush doesn't need as high pressure as the siphon feed. This is 
 
 **Siphon feed (SF)**
 
-**![Siphon-feed airbrush mounted on a glass jar](/images/wp-uploads/bad250-4.webp)**This one has a bottle on the bottom (sometime it's called bottom feed) and as you can get from the name it works on the principle that there is a tube inside the bottle that goes from airbrush gun body. Blown air over the tube pulls the paint up into the mixing chamber. Big plus for this type is capacity as the bottles used there are bigger than the cup used in gravity feed airbrushes. This is a huge advantage when painting big objects (no stops to refill).
+![Siphon-feed airbrush mounted on a glass jar](/images/wp-uploads/bad250-4.webp)This one has a bottle on the bottom (sometime it's called bottom feed) and as you can get from the name it works on the principle that there is a tube inside the bottle that goes from airbrush gun body. Blown air over the tube pulls the paint up into the mixing chamber. Big plus for this type is capacity as the bottles used there are bigger than the cup used in gravity feed airbrushes. This is a huge advantage when painting big objects (no stops to refill).
 
 Now when choosing between these two I want to give you some advises. Gravity feed cups can vary in sizes and some of this guns have a possibility to change the cup, some are permanently fixed to the body (most cases). Some come with a lid on the cup and some don't. So which one do you choose, depends on the purpose of your airbrushing. If you're going to paint small details you'll probably prefer smaller cup, if you use acrylic paint you would prefer a cup with a lid. It does not mean that you have to buy exactly this, you can always make a lid (see [here](/blog/tuning-airbrush-evolution/), this is just a single example).
 For some of siphon feed airbrush guns you can buy a cup that can be mounted to the side of airbrush. This can cut the pressure needed to use it. But not every gun has this functionality.

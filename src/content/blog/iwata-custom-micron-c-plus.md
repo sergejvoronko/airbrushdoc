@@ -36,7 +36,7 @@ Nice metal box and nice finish color which gives you the felling of top quality.
 
 ## Closer Look at Custom Micron
 
-**![Iwata Custom Micron C Plus airbrush, full side view](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-51.webp)**It is **a gravity feed double action** airbrush with **internal mix**. It comes with only one 9ml cup but with a lid by default. Airbrush comes only with one nozzle tip 0.23mm (100psi/0.2cfm) but you can optionally buy smaller 0.18mm tip.
+![Iwata Custom Micron C Plus airbrush, full side view](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-51.webp)It is **a gravity feed double action** airbrush with **internal mix**. It comes with only one 9ml cup but with a lid by default. Airbrush comes only with one nozzle tip 0.23mm (100psi/0.2cfm) but you can optionally buy smaller 0.18mm tip.
 
 ![Custom Micron held in the hand with the needle withdrawn](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-18.webp)![Close-up of the Custom Micron paint cup and trigger](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-19.webp)In my opinion the default tip 0.23mm is good enough for the finest art work you may need. The lines are so thin that I don't see any reason to buy additional nozzle tip which is expensive too.
 
@@ -60,7 +60,7 @@ Also useful feature when you use more airbrushes at the same time or perhaps if 
 
 - **The Cup 9ml**
 
-Is permanent (means no leaks at all). The size is good for any user doing fine art and the lid is a plus too. ***![Close-up of the polished Custom Micron paint cup interior](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-10.webp)***
+Is permanent (means no leaks at all). The size is good for any user doing fine art and the lid is a plus too. ![Close-up of the polished Custom Micron paint cup interior](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-10.webp)
 
 ## Minuses (cons) of Custom Micron
 
@@ -78,7 +78,7 @@ This is the most common problem but it's only user fault. In some cases needles 
 
 Here is the airbrush taken apart.
 
-***![Custom Micron dismantled into body, needle, nozzle and cap](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-16.webp)***
+![Custom Micron dismantled into body, needle, nozzle and cap](/images/wp-uploads/Iwata-Custom-Micron-C-Plus-16.webp)
 
 ## Cleaning
 

@@ -78,9 +78,9 @@ Go with the setting on the picture. You can see that even with max zoom there is
 
 ![Close-up of the traced vector edges around the face](/images/wp-uploads/stencil_10.webp)Of course you don't want to print it with that much black, so click on the image with right mouse button and select "Properties". Here you can select the width of the lines (I chose 0.1mm) and the fill of the object (I chose white) so, the printer will print (or plotter will cut) the lines only.
 
-**![Object properties dialogs setting outline width and uniform fill](/images/wp-uploads/stencil_12.webp)![Stencil shown as outlines only, ready for cutting](/images/wp-uploads/stencil_11.webp)**After all, if you want to make your stencil larger, select the background and in left top corner change format from A4 to A1 (for example) and then  just  stretch your image to the size you want.
+![Object properties dialogs setting outline width and uniform fill](/images/wp-uploads/stencil_12.webp)![Stencil shown as outlines only, ready for cutting](/images/wp-uploads/stencil_11.webp)After all, if you want to make your stencil larger, select the background and in left top corner change format from A4 to A1 (for example) and then  just  stretch your image to the size you want.
 
-**![CorelDRAW page with the stencil placed small on an A4 sheet](/images/wp-uploads/ctencil_A1.webp)![Stencil scaled up on the page beside the original small version](/images/wp-uploads/ctencil_A1_stretch.webp)**This is it! the only thing when you're going to print the big stencil on small A4 printer you have to adjust in **File > Print** some settings
+![CorelDRAW page with the stencil placed small on an A4 sheet](/images/wp-uploads/ctencil_A1.webp)![Stencil scaled up on the page beside the original small version](/images/wp-uploads/ctencil_A1_stretch.webp)This is it! the only thing when you're going to print the big stencil on small A4 printer you have to adjust in **File > Print** some settings
 
 ![Print dialog set to tile the enlarged stencil across pages](/images/wp-uploads/setting_stencil_A1_print.webp)and here is print preview
 

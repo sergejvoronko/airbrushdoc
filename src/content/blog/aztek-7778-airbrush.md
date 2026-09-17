@@ -98,7 +98,7 @@ This key can be used for three different purposes:
 
 - For cleaning the airbrush canal
 
-**![Red Aztek tool key labelled for removing the blinder and nozzle tip](/images/wp-uploads/aztek_key1.webp)**
+![Red Aztek tool key labelled for removing the blinder and nozzle tip](/images/wp-uploads/aztek_key1.webp)
 
 ## User Manual
 

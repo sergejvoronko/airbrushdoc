@@ -59,7 +59,7 @@ The whole airbrush is made out of brass, except for some stainless steel parts.
 
 ### Check This Out!
 
-**![Engineering drawing of a nozzle with dimensions and packing detail](/images/wp-uploads/Home-made-airbrush-Nozzle.webp)**
+![Engineering drawing of a nozzle with dimensions and packing detail](/images/wp-uploads/Home-made-airbrush-Nozzle.webp)
 
 <div class="abd-gallery abd-gallery-3">
   <div class="abd-gallery-item"><img src="/images/wp-uploads/hm-airbrush-nozzle-cap-schema.webp" loading="lazy" alt="Home-made airbrush build detail — image 1 of 21" /></div>

@@ -177,8 +177,7 @@ These properties tell us that Createx are made with 'exterior grade' pigments. T
 
 ### BADGER
 
-**![Badger Air-Brush Co. brand logo](/images/wp-uploads/badgerlogo1.webp)
-**
+![Badger Air-Brush Co. brand logo](/images/wp-uploads/badgerlogo1.webp)
 
 ### TOTALLY TATTOO from BADGER
 
