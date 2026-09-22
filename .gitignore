@@ -39,3 +39,4 @@ deliverables/
 
 # graphify knowledge-graph output (local only)
 graphify-out/
+.wrangler
