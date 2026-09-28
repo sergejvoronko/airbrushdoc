@@ -1,8 +1,31 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import fs from 'node:fs';
+import path from 'node:path';
 
 const SITE_HOST = 'airbrushdoc.com';
+
+// lastmod for the sitemap, from each article's updatedDate (else pubDate).
+// Git dates are not usable: Cloudflare Pages builds from a shallow clone, so
+// every file would report the build date. Category pages, /blog/ and the
+// homepage take the date of their newest article. The IndexNow cron uses
+// lastmod to decide which URLs changed.
+const lastmod = new Map();
+const newest = (key, d) => { if (!lastmod.has(key) || lastmod.get(key) < d) lastmod.set(key, d); };
+for (const f of fs.readdirSync('./src/content/blog')) {
+  if (!/\.mdx?$/.test(f)) continue;
+  const fm = fs.readFileSync(path.join('./src/content/blog', f), 'utf8').split('---')[1] ?? '';
+  if (/^draft:\s*true/m.test(fm)) continue;
+  const ds = (fm.match(/^updatedDate:\s*"?([\d-]+)/m) ?? fm.match(/^pubDate:\s*"?([\d-]+)/m) ?? [])[1];
+  if (!ds) continue;
+  const d = new Date(ds);
+  lastmod.set(`/blog/${f.replace(/\.mdx?$/, '')}/`, d);
+  const category = (fm.match(/^category:\s*"?([\w-]+)/m) ?? [])[1];
+  if (category) newest(`/${category}/`, d);
+  newest('/blog/', d);
+  newest('/', d);
+}
 
 // Zero-dependency rehype plugin: add rel/target to external links.
 // nofollow + noopener on all external; sponsored on affiliate (Amazon) links.
@@ -40,6 +63,11 @@ export default defineConfig({
         !page.includes('/book/read') &&
         !page.endsWith('/download/') &&
         !page.endsWith('/thank-you/'),
+      serialize(item) {
+        const d = lastmod.get(new URL(item.url).pathname);
+        if (d) item.lastmod = d.toISOString();
+        return item;
+      },
     }),
   ],
   markdown: {
