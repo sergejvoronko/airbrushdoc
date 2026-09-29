@@ -50,7 +50,9 @@ async function main() {
   // 50 is the API maximum; limit=100 is rejected with code 8150
   const { data: products } = await api(t, `/shops/${SHOP}/products.json?limit=50`);
 
-  const live = products.filter(p => p.external?.handle && p.visible);
+  // The Etsy shop holds several brands in sections; only this site's designs count.
+  const mine = new Set(JSON.parse(await readFile(path.join(ROOT, 'src/data/merch-designs.json'), 'utf8')).map(d => d.productId));
+  const live = products.filter(p => mine.has(p.id) && p.external?.handle && p.visible);
 
   const out = live.map(p => ({
     id: p.id,
