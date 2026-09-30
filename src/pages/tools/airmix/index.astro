@@ -18,6 +18,8 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
 >
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(crumbSchema)} />
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(appSchema)} />
+  <!-- Subscriber tool: the URL is handed out after signup, so keep it out of search -->
+  <meta name="robots" content="noindex" slot="head" />
   <main class="abd-container" style="padding-bottom: 0;">
     <div class="blg-page-header" style="margin-bottom: 20px;">
       <nav class="blg-breadcrumbs" aria-label="Breadcrumb">

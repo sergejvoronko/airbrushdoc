@@ -58,11 +58,14 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
-      // /book/read is gated; /download/ 301s to /freebies/; /thank-you/ carries a noindex tag
+      // /book/read is gated; /download/ 301s to /freebies/; /thank-you/ and the
+      // two subscriber tools carry a noindex tag
       filter: (page) =>
         !page.includes('/book/read') &&
         !page.endsWith('/download/') &&
-        !page.endsWith('/thank-you/'),
+        !page.endsWith('/thank-you/') &&
+        !page.endsWith('/tools/airmix/') &&
+        !page.endsWith('/tools/troubleshooter/'),
       serialize(item) {
         const d = lastmod.get(new URL(item.url).pathname);
         if (d) item.lastmod = d.toISOString();
