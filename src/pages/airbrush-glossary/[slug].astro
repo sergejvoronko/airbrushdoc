@@ -24,9 +24,17 @@ const CATEGORY_LABELS: Record<string, string> = {
 };
 
 const allTerms = await getCollection('glossary');
+// Seeded by the pair of slugs so each term gets its own mix of related terms
+// that stays put between builds; a random shuffle rewired every glossary
+// page's internal links on each deploy.
+const pairHash = (a: string, b: string) => {
+  let h = 2166136261;
+  for (const ch of a + '|' + b) h = Math.imul(h ^ ch.charCodeAt(0), 16777619);
+  return h >>> 0;
+};
 const related = allTerms
   .filter(t => t.data.slug !== term.data.slug && t.data.category === term.data.category)
-  .sort(() => Math.random() - 0.5)
+  .sort((x, y) => pairHash(term.data.slug, x.data.slug) - pairHash(term.data.slug, y.data.slug))
   .slice(0, 6);
 
 const CATEGORY_IMAGES: Record<string, string> = {

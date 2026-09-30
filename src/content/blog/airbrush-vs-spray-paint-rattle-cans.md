@@ -1,7 +1,7 @@
 ---
 title: "Airbrush vs Spray Paint (Rattle Cans): Which Should You Use for Your Projects?"
 seoTitle: "Airbrush vs Spray Paint (Rattle Cans): Which to Use"
-description: "Compare airbrushes and spray paint for hobby projects. Discover the real differences in cost, control, indoor safety, and finish quality to decide when to upgrade."
+description: "Compare airbrushes and spray paint for hobby projects: the real differences in cost, control, indoor safety and finish quality, and when to upgrade."
 pubDate: 2026-09-11
 readingTime: 10
 heroImage: "/images/airbrush-vs-spray-paint-rattle-cans.webp"

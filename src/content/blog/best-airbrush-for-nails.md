@@ -2,6 +2,7 @@
 title: "Best Airbrush for Nails: Kits, Inks & Setup Guide (2026)"
 description: "A professional guide to setting up an airbrush nail station. Reviews of compact kits, liquid acrylic formulations, and salon ventilation tips."
 pubDate: 2026-09-15
+updatedDate: 2026-09-30
 readingTime: 10
 heroImage: "/images/best-airbrush-for-nails.webp"
 heroImageAlt: "A professional nail technician using a gravity feed airbrush to create a pink ombre effect on acrylic nails."
@@ -93,4 +94,4 @@ Mastering the hardware and the cleaning routine is the steepest part of the lear
 
 *   [15 Basic Airbrush Rules Every Beginner Should Know](/15-basic-rules-of-airbrushing)
 *   [How to Choose an Airbrush Compressor: PSI, CFM & Types Explained](/air-compressor)
-*   [Airbrush FAQ: 30 Questions Every Beginner Asks (Answered by a 15-Year Pro)](/airbrush-faq)
+*   [Airbrush FAQ: 30 Questions Every Beginner Asks (Answered by a 15-Year Pro)](/blog/airbrush-faq/)

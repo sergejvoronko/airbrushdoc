@@ -2,6 +2,7 @@
 title: "Airbrush Infographic - a beginner's guide to airbrushing"
 description: "Those of you that are following me from the start may remember that I had an article about airbrush guns and now this airbrush infographic"
 pubDate: 2014-03-26
+updatedDate: 2026-09-30
 category: "guides"
 tags: []
 readingTime: 1

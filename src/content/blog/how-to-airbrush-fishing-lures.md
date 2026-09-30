@@ -1,7 +1,9 @@
 ---
-title: "How to Airbrush Fishing Lures: Paints, Scales Stencils & Clear Coats Guide"
+title: "How to Airbrush Fishing Lures: Paints, Scale Stencils & Clear Coats Guide"
+seoTitle: "How to Airbrush Fishing Lures: Scales, Paints & Clear Coats"
 description: "A complete step-by-step masterclass on painting crankbaits and wooden lures, detailing scale mesh stencils, pearl paints, and durable topcoats."
 pubDate: 2026-09-22
+updatedDate: 2026-09-30
 readingTime: 10
 heroImage: "/images/how-to-airbrush-fishing-lures.webp"
 heroImageAlt: "A finished airbrushed crankbait lure with a detailed scale pattern sitting next to an airbrush"
