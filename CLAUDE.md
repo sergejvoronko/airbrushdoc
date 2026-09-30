@@ -33,11 +33,14 @@ Do not reinstate either.
 - Etsy shop `AirbrushDOC`, Printify shop id **28918369**; token in `airbrushdoc-assets/.env` and n8n env
 - n8n: `Merch Generator` (webhook `airbrushdoc-merch-generate`) -> Telegram approve -> `Merch Create` -> Telegram publish button
 - Concept queue: `stacks/n8n/drafts/airbrushdoc/merch-concept.json`; `merch-draft.json` is the pending gate
-- Weekly concept (since 2026-09-29): `airbrushdoc-merch/concept.py` via cron `run.sh weekly` (hourly, acts once per ISO week from 08:00).
-  Gemini proposes one tee from house themes + the month's Reddit signal (`mine.py`), avoiding live and used designs;
-  screened (trademarks, 13 tags of <=20 chars), written to `merch-concept.json`, then calls the Generator webhook.
-  Skips while `merch-draft.json` is pending. Log: `airbrushdoc-merch/data/cron.log`. Old `run.sh ideas|produce` flow and
-  the `merch — Approve / Skip` n8n workflow are retired.
+- Multi-brand (since 2026-09-30): brands in `airbrushdoc-merch/brands/<brand>.json` (themes, Reddit subs, art style,
+  kind tee|mug, listing body, Etsy section, weekday, site repo, `enabled`). Cron `run.sh weekly` hourly:
+  `concept.py` queues one concept per brand per ISO week (from 08:00 on its weekday) into
+  `stacks/n8n/drafts/<brand>/merch-concept.json` and calls the Generator with `?brand=`; `merch_sites.py` adds
+  created products that reached Etsy (Publish button or manual Printify publish) to the site's
+  `src/data/merch-designs.json` + `public/images/merch/<slug>.webp`, reruns `scripts/sync-merch.mjs`, commits, pushes.
+  All merch webhooks take `?brand=` (default airbrushdoc). Publish = `airbrushdoc-merch-publish?brand=&id=` in the
+  Create workflow. Trademark screen per brand: `ideate.py` BLOCKED. Log: `airbrushdoc-merch/data/cron.log`.
 - Image rules live in `stacks/n8n/tools/merchprep.js`, not in prompts:
   - Gemini never emits alpha; generate on flat black, key from the brightest channel
   - trim transparent padding before upload or Printify shrinks the print
