@@ -3,7 +3,7 @@ title: "Airbrush Compressor Review (AS189)"
 seoTitle: "Fengda AS-189 Compressor Review: Is It Enough?"
 description: "Hands-on with the AS-189 airbrush compressor: real output, noise, duty cycle, the tank and moisture trap, and the work it can and cannot handle."
 pubDate: 2012-05-02
-updatedDate: 2026-05-13
+updatedDate: 2026-09-30
 category: "airbrush-reviews"
 tags: ["3L air tank", "air compressor", "airbrush compressor", "as189", "Cheap air compressor", "Chinese airbrush compressor", "compressor reviews", "review"]
 readingTime: 5
@@ -61,6 +61,8 @@ In manual you can also find all the safety instructions and of course complete l
 ## Why Choose the AS-189 Compressor
 
 First reason was that it was cheaper than most other air compressors with the tank and second reason was the tank. I think that I have mentioned before all the good qualities of compressor with some reservoir to store the air (that's why each of the [diy compressors](/blog/) have their own tank). The main positive property is that because of tank you will **lose the pulsing air effect** at the output and other is that **compressor doesn't have to be on all the time**. By considering this fact, the life of compressor engine increases. Also tank is a great first in line **moisture trap**.
+
+Still deciding whether you need a tank at all? I compare both options, including what tank size is enough, in my [airbrush compressor buying guide](/blog/best-air-compressor/#tank-vs-tankless-the-big-decision).
 
 ![AS-189 compressor cylinder showing the model and specification label](/images/wp-uploads/as189-5.webp)
 
