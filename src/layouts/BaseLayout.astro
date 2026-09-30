@@ -16,7 +16,7 @@ interface Props {
 
 const { title, description = 'The Airbrush Doc — Cures for Your Canvas. Guides, reviews, and techniques for airbrush artists.', image, canonicalURL, ogType = 'website', ogArticlePubDate, ogArticleModDate, bare = false, noindex = false } = Astro.props;
 const siteUrl = 'https://airbrushdoc.com';
-const ogImage = image || '/images/og-default.webp';
+const ogImage = image || '/images/og-default.jpg';
 const canonical = canonicalURL || new URL(Astro.url.pathname, siteUrl).href;
 
 const nav = [
