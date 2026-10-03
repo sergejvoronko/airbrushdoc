@@ -318,5 +318,37 @@
   "valve-repair": {
     "url": "https://www.amazon.com/s?k=airbrush+valve+repair+kit&tag=aircom01f20-20",
     "status": 302
+  },
+  "merch-true-fire-skull": {
+    "url": "https://www.etsy.com/listing/4574138138/flaming-skull-t-shirt-airbrush-fire",
+    "status": 302
+  },
+  "merch-respirator-skull": {
+    "url": "https://www.etsy.com/listing/4576425562/gas-mask-skull-t-shirt-respirator-skull",
+    "status": 302
+  },
+  "merch-flaming-piston": {
+    "url": "https://www.etsy.com/listing/4576403735/flaming-piston-t-shirt-hot-rod-engine",
+    "status": 302
+  },
+  "merch-screaming-skull": {
+    "url": "https://www.etsy.com/listing/4576405791/screaming-skull-t-shirt-paint-splatter",
+    "status": 302
+  },
+  "merch-ghost-flame-skull": {
+    "url": "https://www.etsy.com/listing/4576406699/ghost-flame-skull-t-shirt-pinstripe",
+    "status": 302
+  },
+  "merch-skull-crossed-airbrushes": {
+    "url": "https://www.etsy.com/listing/4574120583/airbrush-artist-t-shirt-skull-and",
+    "status": 302
+  },
+  "merch-airbrush-anatomy": {
+    "url": "https://www.etsy.com/listing/4576423354/airbrush-anatomy-t-shirt-parts-diagram",
+    "status": 302
+  },
+  "merch-true-fire-wrap-wall": {
+    "url": "https://www.etsy.com/listing/4576407653/true-fire-mug-airbrush-flames-black",
+    "status": 302
   }
 }

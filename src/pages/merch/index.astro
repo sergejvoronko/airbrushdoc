@@ -12,6 +12,8 @@ import designs from '../../data/merch-designs.json';
 // page, but it says plainly that it is not in the store yet.
 const byId = new Map(liveProducts.map(p => [p.id, p]));
 const withLive = designs.map(d => ({ ...d, live: d.productId ? byId.get(d.productId) : undefined }));
+// Same slug scripts/build-go-links.mjs gives each live listing, so the click is counted.
+const goHref = (slug: string) => `/go/merch-${slug.replace(/^\d+-/, '')}`;
 const liveCount = withLive.filter(d => d.live).length;
 
 // Anything actually on sale leads, regardless of the hand-set featured flag.
@@ -64,7 +66,7 @@ const rest = withLive.filter(d => !d.live);
             <p class="mrc-blurb">{d.blurb}</p>
             <div class="mrc-products">{d.products.map(p => <span class="mrc-chip">{p}</span>)}</div>
             {d.live
-              ? <a class="mrc-btn" href={d.live.url} target="_blank" rel="noopener">Buy on Etsy</a>
+              ? <a class="mrc-btn" href={goHref(d.slug)} target="_blank" rel="noopener">Buy on Etsy</a>
               : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
           </div>
         </article>
@@ -83,7 +85,7 @@ const rest = withLive.filter(d => !d.live);
             <p class="mrc-blurb">{d.blurb}</p>
             <div class="mrc-products">{d.products.map(p => <span class="mrc-chip">{p}</span>)}</div>
             {d.live
-              ? <a class="mrc-btn" href={d.live.url} target="_blank" rel="noopener">Buy on Etsy</a>
+              ? <a class="mrc-btn" href={goHref(d.slug)} target="_blank" rel="noopener">Buy on Etsy</a>
               : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
           </div>
         </article>
