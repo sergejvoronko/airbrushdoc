@@ -1,0 +1,91 @@
+---
+// Compact banner for the Stencil Creator. Sits above the fold on stencil posts and /freebies/,
+// where stencil searches land, so it stays short enough not to push the hero off a phone screen.
+interface Props {
+  heading?: string;
+  text?: string;
+  eager?: boolean;
+}
+const {
+  heading = 'Turn any photo into a stencil',
+  text = 'Free tool: up to 3 cut layers, export PNG, PDF or cut-ready SVG. No CorelDraw, no signup.',
+  eager = false,
+} = Astro.props;
+---
+
+<a class="abd-stencil-cta" href="/tools/stencil-creator/">
+  <img
+    class="abd-stencil-cta-img"
+    src="/images/stencil-creator-before-after.webp"
+    alt="A skull photo next to the 3-layer stencil the Stencil Creator makes from it"
+    width="608"
+    height="360"
+    loading={eager ? 'eager' : 'lazy'}
+    decoding="async"
+  />
+  <span class="abd-stencil-cta-body">
+    <span class="abd-stencil-cta-heading">{heading}</span>
+    <span class="abd-stencil-cta-text">{text}</span>
+    <span class="abd-stencil-cta-btn">Open Stencil Creator →</span>
+  </span>
+</a>
+
+<style>
+  .abd-stencil-cta {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 0 0 24px;
+    padding: 12px;
+    border: 1px solid var(--abd-orange-muted, var(--abd-border));
+    border-radius: var(--abd-radius);
+    background: var(--abd-surface);
+    color: var(--abd-text) !important;
+    text-decoration: none !important;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+  .abd-stencil-cta:hover {
+    border-color: var(--abd-orange);
+    transform: translateY(-1px);
+  }
+  .abd-stencil-cta-img {
+    width: 168px;
+    height: auto;
+    flex-shrink: 0;
+    border-radius: var(--abd-radius-s);
+  }
+  .abd-stencil-cta-body {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
+  }
+  .abd-stencil-cta-heading {
+    font-family: var(--abd-font-display);
+    font-weight: 700;
+    font-size: 1.05rem;
+  }
+  .abd-stencil-cta-text {
+    font-size: 0.85rem;
+    color: var(--abd-text-body);
+    line-height: 1.45;
+  }
+  .abd-stencil-cta-btn {
+    margin-top: 4px;
+    font-weight: 700;
+    font-size: 0.88rem;
+    color: var(--abd-orange);
+  }
+  @media (max-width: 560px) {
+    .abd-stencil-cta {
+      gap: 12px;
+      padding: 10px;
+    }
+    .abd-stencil-cta-img {
+      width: 112px;
+    }
+    .abd-stencil-cta-text {
+      display: none;
+    }
+  }
+</style>

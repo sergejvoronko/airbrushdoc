@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import StencilCreatorCta from '../../components/StencilCreatorCta.astro';
 import { BOOK_AVAILABLE, BOOK_PRICE } from '../../config';
 import { buildBreadcrumbSchema } from '../../lib/schema';
 
@@ -63,6 +64,11 @@ const crumbSchema = buildBreadcrumbSchema([{ name: 'Home', path: '/' }, { name: 
       </div>
       <div class="blg-header-line"></div>
     </div>
+
+    <StencilCreatorCta
+      eager
+      heading="Need a stencil you can't find here? Make it from a photo"
+    />
 
     <div class="fre-intro">
       <p class="fre-intro-text">

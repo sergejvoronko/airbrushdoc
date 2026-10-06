@@ -1,4 +1,5 @@
 ---
+import StencilCreatorCta from '../components/StencilCreatorCta.astro';
 import BaseLayout from './BaseLayout.astro';
 import TOC from '../components/TOC.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
@@ -145,6 +146,8 @@ const faqSchema = faqs.length > 0 ? {
             )}
           </div>
         </header>
+
+        {slug.includes('stencil') && <StencilCreatorCta eager />}
 
         {heroImage && (
           <div class="abd-post-hero">
