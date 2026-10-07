@@ -148,6 +148,24 @@ const nav = [
       "https://t.me/airbrushdoc"
     ]
   })} />
+  <!-- Microsoft Clarity. EEA visitors need an explicit consent signal: until the banner is
+       accepted it runs in no-cookie mode, and Accept upgrades it without a reload. -->
+  <script is:inline>
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ysybewsum2");
+    (function () {
+      var consent = null;
+      try { consent = localStorage.getItem('abd-cookie-consent'); } catch (e) {}
+      var signal = function (granted) {
+        window.clarity('consentv2', { ad_Storage: 'denied', analytics_Storage: granted ? 'granted' : 'denied' });
+      };
+      signal(consent === 'accepted');
+      if (consent !== 'accepted') window.addEventListener('abd-consent-accepted', function () { signal(true); }, { once: true });
+    })();
+  </script>
 </head>
 <body>
   <a href="#main-content" class="abd-skip-link">Skip to main content</a>
