@@ -15,6 +15,8 @@ draft: false
 
 If I had to pick the single most important skill for airbrush success, it wouldn't be trigger control or distance work, it would be paint thinning. Get the consistency right and your airbrush practically runs itself. Get it wrong and you'll spend more time clearing clogs than painting.
 
+**Quick answer:** thin acrylic paint until it flows like whole milk. Paints made for the airbrush (Vallejo Model Air, Citadel Air, Golden High Flow) spray almost straight from the bottle; brush paints such as Vallejo Model Color, Citadel Base or Tamiya start around 1:1 paint to thinner; thick craft acrylics need 1:2 or more. Use the paint maker's own thinner or distilled water, then test spray. The [ratio table](#brand-specific-starting-ratios) below has a starting point for each brand.
+
 The standard advice is "thin to the consistency of milk." That's a good starting point, but it's not the whole picture. Different brands, different colors within the same brand, different needle sizes, and different projects all need slightly different ratios. After 15+ years of working with dozens of paint brands, here's a practical guide to getting it right every time.
 
 

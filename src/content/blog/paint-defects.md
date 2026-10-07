@@ -1,25 +1,20 @@
 ---
 title: "Paint Defects: What Causes Them and How to Fix Them"
-seoTitle: "Paint Defects: Sagging, Cissing, Orange Peel, Fixes"
-description: "Sagging, cissing, crazing, blushing, orange peel and fisheyes: what causes each paint defect, how to tell them apart, and how to fix it."
+seoTitle: "Paint Defects: Orange Peel, Cissing, Grinning, Fixes"
+description: "Orange peel, runs, cissing, blushing, grinning (show-through) and 13 more paint defects: what causes each one, how to tell them apart and how to fix it."
 pubDate: 2012-03-14
 category: "guides"
-tags: ["adhesion loss", "airbrush", "corrosion", "matting", "orange peel", "paint", "paint and dust", "paint defects", "paint fish eye", "paint stains", "runs", "slow drying", "solvent penetration", "yellowing"]
+tags: ["adhesion loss", "airbrush", "corrosion", "matting", "orange peel", "paint", "paint and dust", "paint defects", "paint fish eye", "grinning", "paint stains", "runs", "slow drying", "solvent penetration", "yellowing"]
 readingTime: 13
 draft: false
 heroImage: "/images/wp-uploads/paint-defects1.webp"
 ---
 
-It took me a bit of time to come up with the idea for today's post. I have not received any materials from sponsors for a long time to make a review. Only recently I received something but it will take time to prepare everything and write some good stuff.
+A paint defect is any flaw in a dried coat: orange peel, runs, fisheyes, a milky haze, the old colour showing through. Most of them come from the same few causes: a dirty or badly prepared surface, incompatible materials, paint at the wrong consistency, the wrong air pressure or distance, and humidity or temperature outside what the paint is made for.
 
-I decided that I need to write something useful for my readers, something that will help anyone - not only the ones working in **airbrushing** but also with **paints** in general. One of the important things while painting apart of having great tools, **prepare the surface**, **use the proper paint** and have some skills is to be aware of **external factors** that can cause problem even if you are sure you have done everything right.
+Below, each defect has what it looks like, why it happens, how to prevent it and how to fix it once it is there. It applies to airbrush work and to spray painting in general, including car paint.
 
-I'm sure that you have seen a paint to look like **orange peel** or **paint runs**. These are **paint defects** and you should watch at all time not to make any mistakes to avoid them. ***Your clients won't like it***.
-
-There are many of them, so I'll try to describe every one of them as best as I can and also how to prevent them.
-
-Here is the list of all defects:
-[Adhesion Loss](#loss), [Dust and Dirt](#dirt), [Orange Peel](#orange), [Bleeding or Stains](#stain), [Runs](#runs), [Fish Eyes](#fish), [Chipping](#chipping), [Cracking](#cracking), [Solvent penetration](#solvent), [Matting](#matting), [Yellowing](#yellowing), [Lifting](#lifting), [Slow Drying](#drying), [Water Spotting](#spotting), [Dry Spray](#dryspray), [Corrosion](#corrosion).
+The defects covered: [Adhesion Loss](#1-adhesion-loss), [Dust and Dirt](#2-dust-and-dirt), [Orange Peel](#3-orange-peel), [Bleeding or Stains](#4-bleeding-or-stains), [Runs and Sags](#5-runs-and-sags), [Fish Eyes (Cissing)](#6-fish-eyes-cissing), [Chipping](#7-chipping), [Cracking and Crazing](#8-cracking-and-crazing), [Solvent penetration](#9-solvent-penetration), [Matting](#10-matting), [Yellowing](#11-yellowing), [Lifting](#12-lifting), [Slow Drying](#13-slow-drying), [Water Spotting](#14-water-spotting), [Dry Spray](#15-dry-spray), [Corrosion](#16-corrosion), [Blushing](#17-blushing), [Grinning (Show-Through)](#18-grinning-show-through).
 
 ## 1. Adhesion Loss
 
@@ -178,6 +173,16 @@ Prevention is mostly about slowing things down. Work between roughly 40 and 60% 
 If it has already happened you do not usually have to strip anything. Fog on a light coat carrying retarder: the fresh solvent re-opens the film and lets the trapped moisture out, and the haze clears as it dries. Only in bad cases do you need to flat the area back and respray.
 
 Do not confuse it with [matting](#10-matting) above. Blushing is a milky cast you can see into; matting is the gloss going flat while the colour stays clean. They share humidity as a cause, which is why sorting out your air supply tends to cure both.
+
+## 18. Grinning (Show-Through)
+
+Grinning, also called grinning through or poor hiding, is when the surface underneath shows through the topcoat: the primer, an old colour, filler patches or sanding marks remain visible after the paint has dried. The paint has stuck properly; it just is not covering.
+
+The usual causes are a topcoat that is too thin, paint thinned so far that it lost its hiding power, a colour with naturally low opacity, and an undercoat whose colour is too strong for the colour on top. In airbrushing it shows up most with bright yellows, reds and oranges, with transparent and candy colours, and when you spray a light colour straight over a dark base.
+
+Prevention: build the colour up in several thin, even coats instead of one heavy one, keep the paint at the consistency the maker intends (see the [thinning guide](/blog/how-to-thin-acrylic-paint-for-airbrush/)), and put a suitable undercoat under weak colours, for example a white or light grey base under yellow or red.
+
+To fix it, let the coat dry fully and apply more coats until the colour is even. If the show-through is from filler or sanding marks rather than the colour underneath, flat the area back, prime it and respray.
 
 ## Conclusion
 

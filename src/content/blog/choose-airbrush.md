@@ -10,25 +10,15 @@ draft: false
 heroImage: "/images/wp-uploads/iwata-micron-2.webp"
 ---
 
-Why do we have to choose the best *airbrush gun*? I think that many of my visitors were dealing with this question and if you have landed on this page then you probably have the same question too. Have you seriously been thinking of doing airbrush but didn't buy any equipment yet? Well, I decided to start a series of articles that deal with beginner's problems. "**Which Airbrush gun to buy?**" or "**Which airbrush gun is the best?**"
+An airbrush gun (also written *air brush gun*, or called an airbrush spray gun or simply an airbrush) is the pen-sized spray tool at the heart of airbrushing. Three choices decide which one suits you: **action** (single or dual), **feed** (gravity, siphon or side cup) and **mix** (internal or external).
 
-Let's say you are totally new to airbrushing, a newbie that loves art and loves to paint, knows how to use a pencil or a brush and one day someone has told you to try airbrush or maybe you have seen it somewhere and considered to give it a try. I'm sure that you have seen some videos about "***how to airbrush***" on the Internet already and finally you've decided - "**Yes** - I want to do **Airbrush**!".
+**Short answer:** for a first airbrush gun, buy a **dual-action, gravity-feed, internal-mix** model with a needle around 0.3 to 0.5 mm. It handles fine lines and medium coverage, wastes little paint and is easy to clean. Choose something else only for a specific job:
 
-> Many people call an *airbrush gun* simply an *airbrush*, and you will also see it written as *air brush* in two words, or called an *airbrush pistol* or an *airbrush spray gun*. They all mean the same tool. To keep the names straight I am not going to call it just **airbrush**, because [airbrush](/) in my opinion is a type of art rather than a tool. In this article it is a gun.
+- **Single-action**: the trigger controls air only and paint flow is preset, so it is easy to learn. Fine for basecoating models, limiting for freehand art.
+- **Siphon (bottle) feed**: holds far more paint for covering big areas such as T-shirts or car parts, but leaves more paint in the bottle and tube when you clean or change colour.
+- **External mix**: cheap and tolerant of thick paint, but the spray is too coarse for detail work.
 
-What you have to know that not always it is so easy to start because you will have to invest some money in it. I just want to warn you now that beside airbrush gun you will need other tools ([air compressor](/blog/air-compressor/), [special paints](/blog/advanced-guide-to-airbrush-colors/) ...). In this post precisely, I'm going to talk about airbrush guns only.
-
-So airbrush gun is a tool (an air gun) that artists use to paint. A professional painter would probably be able to paint an art peace with cheapest tool out there, so don't expect to become good at airbrush right away. Prepare to practice a lot to gain some skills and results will come for sure.
-
-*Even the best tool in hands of amateur will not make you an artist if you have no skills with that tool*. [Tweet This!](https://twitter.com/intent/tweet?url=https%3A%2F%2Fairbrushdoc.com%2Fblog%2Fchoose-airbrush%2F&text=Even%20the%20best%20tool%20in%20hands%20of%20amateur%20will%20not%20make%20you%20an%20artist%20if%20you%20have%20no%20skills%20with%20that%20tool.)
-
-During my research I have found that there is a huge difference between cheap and expensive airbrush gun. Difference is mostly in the purpose (what is it going to be used for?) So choose carefully but first read this article, as it might help you to decide.
-
-There is many parameters that you can separate airbrush guns by. It can be valued by action, feed and mix. All this descriptions can be found anywhere on Internet on many websites that talk about airbrush but everything they do is just description (no comment, no advice) and after all a newbie is forced to get the answers elsewhere.
-
-I decided to include that description here too so everyone will have all the information at one place.
-
-Once you know which type you want, the [best airbrush](/blog/best-airbrush/) guide ranks specific models by budget, from $50 starters to professional gear.
+Below is what each option means in practice, then advice from working artists on what to buy first. For specific models by budget, from $50 starters to professional gear, see the [best airbrush](/blog/best-airbrush/) guide, and remember you will also need an [air compressor](/blog/air-compressor/) and [airbrush paints](/blog/advanced-guide-to-airbrush-colors/).
 
 ## Airbrush Gun Types Explained
 

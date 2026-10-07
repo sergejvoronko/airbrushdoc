@@ -1,6 +1,6 @@
 ---
 title: "How to Clean an Airbrush: The Complete Guide (2026)"
-description: "Learn how to clean your airbrush properly, quick flush between colors, end-of-session cleaning, and full deep clean. Plus the best cleaners and tools to use."
+description: "How to clean an airbrush at three levels: a quick flush between colours, an end-of-session clean and a full strip-down, plus which cleaner to use for each paint type."
 pubDate: 2025-06-24
 category: "beginners"
 tags:

@@ -13,6 +13,8 @@ heroImage: "/images/airbrush-troubleshooting-guide.webp"
 draft: false
 ---
 
+**Airbrush not spraying paint, only air?** In order of likelihood: dried paint is blocking the nozzle tip, the paint is too thick to flow, the needle is not retracting because the chucking nut is loose, or the air pressure is below about 10 PSI. Check them in that order; [Problem #1](#problem-1-no-paint-coming-out-at-all) walks through each one.
+
 Something's wrong with your airbrush. You know it because instead of a smooth, fine mist of paint, you're getting something ugly, spatters, spider webs, bubbles, or nothing at all.
 
 Take a breath. Your airbrush probably isn't broken. In 15+ years of airbrushing, I've learned that 90% of airbrush problems come down to five things: paint consistency, air pressure, a dirty nozzle, a damaged needle, or user technique. The airbrush itself is a beautifully simple device with very few parts. Once you understand how those parts work together, diagnosing problems becomes almost second nature.
