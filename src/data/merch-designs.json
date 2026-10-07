@@ -1,5 +1,17 @@
 [
   {
+    "slug": "12-pinstripe-chrome-devil",
+    "productId": "6ac5dceb4baf93c6500a37b9",
+    "name": "Pinstripe Chrome Devil",
+    "blurb": "Crisp pinstriping meets polished chrome reflections. Printed on heavy black cotton for long sessions in the paint booth or at the workbench.",
+    "tag": "New",
+    "products": [
+      "Tee"
+    ],
+    "w": 604,
+    "h": 900
+  },
+  {
     "slug": "01-true-fire-skull",
     "productId": "6aa5b083095fdf0c81097f40",
     "name": "True Fire Skull",
