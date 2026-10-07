@@ -30,7 +30,7 @@ Let us break down the actual math. A standard can of hobby spray paint costs bet
 
 You can pick up a reliable [AS-186 Mini Compressor](/go/as186-compressor) and pair it with a budget-friendly [Master Airbrush G22](/go/master-airbrush-g22) for well under a hundred dollars. If you have a slightly larger budget, the [Iwata Neo CN](/go/iwata-neo-cn) is a fantastic entry point that offers better machining tolerances while remaining affordable. 
 
-Once you own the hardware, your paint costs plummet. A typical spray can wastes a massive amount of paint into the air as overspray. An airbrush puts the paint exactly where you aim it. You buy a single Vallejo Model Air Paint Set for around $40, and those small dropper bottles will last you for dozens of projects. You only use a few drops at a time. The long-term financial bleed of relying on aerosol cans is a massive drain on your wallet. 
+Once you own the hardware, your paint costs plummet. A typical spray can wastes a massive amount of paint into the air as overspray. An airbrush puts the paint exactly where you aim it. You buy a single Vallejo Model Air paint set, and those small dropper bottles will last you for dozens of projects. You only use a few drops at a time. The long-term financial bleed of relying on aerosol cans is a massive drain on your wallet. 
 
 ## Absolute Control vs The Brute Force of an Aerosol Nozzle
 

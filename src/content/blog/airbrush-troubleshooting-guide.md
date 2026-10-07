@@ -83,7 +83,7 @@ This is probably the most common airbrush complaint, and it has several possible
 - If your airbrush has a cutaway crown cap (like the Harder & Steenbeck Infinity, Ultra, or CRplus models), you can wipe the needle tip without disassembly by reaching through the slots
 - Between spray passes, give a quick burst of air only (trigger down, not back) to blow residue off the tip
 
-**Moisture in air line.** Your compressor pulls in room air, which contains moisture. Over time, especially in humid environments, water collects in the line and shoots tiny droplets into your paint stream. Fix: install a moisture trap/water separator between your compressor and airbrush (most compressors with tanks include one, empty it regularly). If yours doesn't have one, [inline moisture traps](/go/iwata-moisture) are available for under $15 and screw into any standard fitting.
+**Moisture in air line.** Your compressor pulls in room air, which contains moisture. Over time, especially in humid environments, water collects in the line and shoots tiny droplets into your paint stream. Fix: install a moisture trap/water separator between your compressor and airbrush (most compressors with tanks include one, empty it regularly). If yours doesn't have one, [inline moisture traps](/go/iwata-moisture) are inexpensive and screw into any standard fitting.
 
 
 **Damaged needle or nozzle.** A bent needle tip or cracked nozzle can cause irregular paint delivery. Inspect both under magnification. Even a barely visible bend will affect spray quality. See Problem #5 for needle repair options.
@@ -134,7 +134,7 @@ How needles get bent: dropping the airbrush, pushing the needle into a dried plu
 **Fixes:**
 
 - **Straighten the needle.** Lay the needle on a hard, flat surface (glass or ceramic tile works well). Roll the tip gently with your finger to feel for the bend. Using a fine-grit sharpening stone (1000+ grit), carefully work the bent section back straight by rolling the needle on the stone. This takes patience but can salvage a needle. Magnification helps enormously.
-- **Replace the needle.** If the bend is severe or you can't get it perfectly straight, a new needle is the reliable fix. Needles for most popular airbrush brands ([Iwata](/go/iwata-needles), [Harder & Steenbeck](/go/hs-needles), [Badger](/go/badger-needles)) cost $8–20 and are the #1 spare part you should keep on hand.
+- **Replace the needle.** If the bend is severe or you can't get it perfectly straight, a new needle is the reliable fix. Needles for most popular airbrush brands ([Iwata](/go/iwata-needles), [Harder & Steenbeck](/go/hs-needles), [Badger](/go/badger-needles)) are inexpensive and are the #1 spare part you should keep on hand.
 
 
 **Debris on the air cap.** Less commonly, a piece of dried paint on the inside of the air cap (the outer ring at the front of the airbrush) can deflect the air stream. Remove the air cap and clean it thoroughly.

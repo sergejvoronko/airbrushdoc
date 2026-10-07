@@ -112,7 +112,7 @@ At comparable needle sizes, both brands produce excellent spray patterns. In bli
 
 ### Replacement Parts and Cost
 
-This is where H&S has a significant advantage. H&S replacement nozzles, needles, and seals are considerably cheaper than their Iwata equivalents. A replacement H&S nozzle might cost $8–15 versus $15–30 for a comparable Iwata nozzle. Over years of use with periodic parts replacement, the cost difference is meaningful.
+This is where H&S has a significant advantage. H&S replacement nozzles, needles, and seals are considerably cheaper than their Iwata equivalents. H&S nozzles and needles are often cheaper than comparable Iwata parts; check current prices for your model. Over years of use with periodic parts replacement, the cost difference is meaningful.
 
 **Iwata counter-argument:** Iwata parts are available from more retailers worldwide, and customer service (including warranty claims) is well-established in most markets. H&S availability has improved dramatically in recent years but can still be harder to source in some regions.
 
@@ -136,10 +136,10 @@ Here's how the most popular models stack up against their cross-brand equivalent
 
 | Category | Harder & Steenbeck | Iwata | Notes |
 |---|---|---|---|
-| **Budget entry** | Ultra 2024 (0.2mm) ~$80–110 | Neo CN (0.35mm) ~$50–70 | H&S has flow limiter; Iwata is cheaper |
-| **Mid-range workhorse** | Evolution 2-in-1 (0.2/0.4mm) ~$140–180 | Eclipse HP-CS (0.35mm) ~$130–170 | H&S has dual needles; Iwata is proven |
-| **Premium detail** | Infinity CR Plus (0.15/0.4mm) ~$200–280 | Hi-Line HP-CH (0.3mm) ~$250–300 | H&S has finer needle; Iwata has MAC valve |
-| **Top-tier precision** | Infinity Cult of Paint (0.15/0.4mm) ~$220–300 | Custom Micron (0.18mm) ~$400–500+ | H&S is much cheaper; Iwata is legendary |
+| **Budget entry** | Ultra 2024 (0.2mm) | Neo CN (0.35mm) | H&S has flow limiter; Iwata is cheaper |
+| **Mid-range workhorse** | Evolution 2-in-1 (0.2/0.4mm) | Eclipse HP-CS (0.35mm) | H&S has dual needles; Iwata is proven |
+| **Premium detail** | Infinity CR Plus (0.15/0.4mm) | Hi-Line HP-CH (0.3mm) | H&S has finer needle; Iwata has MAC valve |
+| **Top-tier precision** | Infinity Cult of Paint (0.15/0.4mm) | Custom Micron (0.18mm) | H&S is much cheaper; Iwata is legendary |
 
 At every price point, H&S typically offers more needle/nozzle versatility (2-in-1 sets) for less money. Iwata offers more refined single-purpose tools with tighter manufacturing tolerances.
 

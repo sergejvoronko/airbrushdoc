@@ -91,7 +91,7 @@ See my complete cleaning guide for detailed recommendations by paint type.
 
 A cleaning pot is a closed container with a hole for your airbrush nozzle. You spray cleaning solution and waste paint into it instead of into the air. This keeps your workspace clean and reduces airborne particles. Most also have an airbrush holder built in.
 
-The **[3-in-1 cleaning pots](/go/cleaning-pot)** (clean, hold, and filter) are the most popular option and cost around $10–20. They're not glamorous, but you'll use one every single session.
+The **[3-in-1 cleaning pots](/go/cleaning-pot)** (clean, hold, and filter) are the most popular option and are inexpensive. They're not glamorous, but you'll use one every single session.
 
 
 ### Paper Towels or Lint-Free Cloths
@@ -150,7 +150,7 @@ You'll use more masking tape than you think. Buy at least two widths: a narrow o
 
 Most paints need thinning before airbrushing. Rather than guessing ratios directly in the airbrush cup (and risking a clogged airbrush from under-thinned paint), mix your paint in a small cup first, then pour the thinned mixture into the airbrush.
 
-Disposable [plastic mixing cups](/go/mixing-cups) ($5 for a stack of 100) work perfectly. Plastic pipettes or eye droppers ($3–5 for a pack) make measuring drops of thinner precise and repeatable.
+Disposable [plastic mixing cups](/go/mixing-cups) work perfectly. Plastic pipettes or eye droppers ($3–5 for a pack) make measuring drops of thinner precise and repeatable.
 
 
 ---
@@ -172,7 +172,7 @@ A spray booth is an enclosed workspace with a fan that extracts paint overspray 
 
 While your compressor likely has a pressure gauge and regulator, an **inline regulator** mounted close to the airbrush gives you more precise control. This is especially useful for work that requires very low pressure (10–15 PSI), where the compressor's main regulator may not be sensitive enough.
 
-An [inline regulator with a mini gauge](/go/regulator-gauge) ($15–30) also lets you adjust pressure without walking over to the compressor every time, a small convenience that becomes significant during long sessions.
+An [inline regulator with a mini gauge](/go/regulator-gauge) also lets you adjust pressure without walking over to the compressor every time, a small convenience that becomes significant during long sessions.
 
 
 ### Spare Needles and Nozzles

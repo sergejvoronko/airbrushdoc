@@ -27,15 +27,15 @@ Painting something other than figures? The [best airbrush guide](/blog/best-airb
 
 ## Quick Recommendation Table
 
-| Airbrush | Needle | Best For | Price | My Take |
+| Airbrush | Needle | Best For | Price tier | My Take |
 |---|---|---|---|---|
-| **H&S Ultra 2024** | 0.2mm | Beginners, learning | ~$80–110 | Best first airbrush for miniatures |
-| [**Iwata Neo CN**](/go/iwata-neo-cn) | 0.35mm | Budget entry | ~$50–70 | Cheapest quality option |
-| [**Badger Patriot 105**](/go/badger-patriot-105) | 0.5mm | Priming, basecoating armies | ~$70–90 | Workhorse, not for detail |
-| [**H&S Evolution 2-in-1**](/go/hs-evolution-two-in-one) | 0.2/0.4mm | Serious hobbyists | ~$140–180 | Best all-rounder |
-| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | 0.35mm | Versatile mid-range | ~$130–170 | Community favorite for years |
-| **H&S Infinity CR Plus** | 0.15/0.4mm | Advanced painters | ~$200–280 | Maximum detail precision |
-| **H&S Infinity CRplus Cult of Paint** | 0.15/0.4mm | Dedicated mini painters | ~$220–300 | Designed for mini painters, by mini painters |
+| **H&S Ultra 2024** | 0.2mm | Beginners, learning | Mid-range | Best first airbrush for miniatures |
+| [**Iwata Neo CN**](/go/iwata-neo-cn) | 0.35mm | Budget entry | Budget | Cheapest quality option |
+| [**Badger Patriot 105**](/go/badger-patriot-105) | 0.5mm | Priming, basecoating armies | Budget | Workhorse, not for detail |
+| [**H&S Evolution 2-in-1**](/go/hs-evolution-two-in-one) | 0.2/0.4mm | Serious hobbyists | Mid-range | Best all-rounder |
+| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | 0.35mm | Versatile mid-range | Mid-range | Community favorite for years |
+| **H&S Infinity CR Plus** | 0.15/0.4mm | Advanced painters | Premium | Maximum detail precision |
+| **H&S Infinity CRplus Cult of Paint** | 0.15/0.4mm | Dedicated mini painters | Premium | Designed for mini painters, by mini painters |
 | **Cordless mini compressor kit** | 0.3mm | Portability, touch-ups | ~$40–70 | Great for travel, events |
 
 ---
@@ -76,7 +76,7 @@ Miniature airbrushes need to perform well at **15–25 PSI**. Many general-purpo
 
 ### Harder & Steenbeck Ultra 2024: BEST FIRST MINIATURE AIRBRUSH
 
-**Needle:** 0.2mm | **Price:** ~$80–110 | **Feed:** Gravity
+**Needle:** 0.2mm  | **Feed:** Gravity
 
 The Ultra 2024 is, in my opinion, the best first airbrush for anyone getting into miniature painting. It was designed specifically with miniature painters in mind, and it shows.
 
@@ -92,7 +92,7 @@ It uses the same drop-in nozzle system as the more expensive H&S airbrushes, so 
 
 ### Iwata Neo CN: BUDGET WORKHORSE
 
-**Needle:** 0.35mm | **Price:** ~$50–70 | **Feed:** Gravity
+**Needle:** 0.35mm  | **Feed:** Gravity
 
 If budget is the primary concern, the Neo CN is the cheapest airbrush I'd actually recommend for miniatures. It's a real Iwata. Japanese-made with good build quality and smooth trigger action. The 0.35mm needle is slightly larger than ideal for fine detail but handles basecoating, priming, and broader color work very well.
 
@@ -102,7 +102,7 @@ If budget is the primary concern, the Neo CN is the cheapest airbrush I'd actual
 
 ### Badger Patriot 105: THE PRIMING MACHINE
 
-**Needle:** 0.5mm (smaller sizes available) | **Price:** ~$70–90 | **Feed:** Gravity
+**Needle:** 0.5mm (smaller sizes available)  | **Feed:** Gravity
 
 The Patriot 105 is a legendary workhorse. It's tough, reliable, sprays thicker paints without complaint, and is incredibly easy to clean and maintain. Its 0.5mm needle makes it a priming and basecoating champion, you can blast through a tray of models quickly.
 
@@ -116,7 +116,7 @@ The Patriot 105 is a legendary workhorse. It's tough, reliable, sprays thicker p
 
 ### Harder & Steenbeck Evolution 2-in-1: BEST ALL-ROUNDER
 
-**Needles:** 0.2mm + 0.4mm | **Price:** ~$140–180 | **Feed:** Gravity
+**Needles:** 0.2mm + 0.4mm  | **Feed:** Gravity
 
 If I had to pick one airbrush for a miniature painter who wanted one tool to do everything, this is it.
 
@@ -130,7 +130,7 @@ It shares parts with the Infinity line, so when you eventually want to upgrade i
 
 ### Iwata Eclipse HP-CS: THE COMMUNITY STANDARD
 
-**Needle:** 0.35mm | **Price:** ~$130–170 | **Feed:** Gravity
+**Needle:** 0.35mm  | **Feed:** Gravity
 
 The Eclipse HP-CS has been the single most popular airbrush in the miniature painting community for years. Scroll through any Warhammer or miniature painting forum, and "get an Eclipse" is the advice that comes up most often.
 
@@ -146,7 +146,7 @@ And for good reason: it's beautifully made, incredibly reliable, sprays consiste
 
 ### Harder & Steenbeck Infinity CR Plus 2-in-1: MAXIMUM PRECISION
 
-**Needles:** 0.15mm + 0.4mm | **Price:** ~$200–280 | **Feed:** Gravity
+**Needles:** 0.15mm + 0.4mm  | **Feed:** Gravity
 
 The Infinity CR Plus is the precision flagship. The "CR" stands for Chrome, the needle and nozzle are hard-chrome plated for extended lifespan and smoother paint flow. The "Plus" adds the Quick-Fix preset feature, which lets you set a maximum needle retraction point with a dial, then remove and return to that exact setting.
 
@@ -156,7 +156,7 @@ The Infinity CR Plus is the precision flagship. The "CR" stands for Chrome, the 
 
 ### H&S Infinity CRplus Cult of Paint Edition: DESIGNED FOR MINIATURE PAINTERS
 
-**Needles:** 0.15mm + 0.4mm | **Price:** ~$220–300 | **Feed:** Gravity
+**Needles:** 0.15mm + 0.4mm  | **Feed:** Gravity
 
 This is a collaboration between Harder & Steenbeck and Cult of Paint (renowned miniature painting duo Ben Komets and Roman Lappat). It's built on the Infinity CR Plus platform but with miniature-specific refinements.
 
@@ -174,7 +174,7 @@ The Cult of Paint edition launched via Kickstarter and has become the aspiration
 
 ### Cordless Mini Compressor Kits: FOR EVENTS AND TRAVEL
 
-**Needle:** Typically 0.3mm | **Price:** ~$40–70 | **Feed:** Gravity
+**Needle:** Typically 0.3mm  | **Feed:** Gravity
 
 The cordless airbrush category has exploded since 2023. These compact, battery-powered units combine a small compressor and airbrush in one handheld or ultra-portable package. They typically deliver 15–25 PSI, run for 30–60 minutes per charge, and are virtually silent.
 
@@ -268,15 +268,15 @@ Yes, but they require thinning. Citadel Base and Layer paints are too thick for 
 
 ## My Recommendation Pathway
 
-If you're just starting: **H&S Ultra 2024** ($80–110). The flow limiter alone justifies it, it prevents the most frustrating beginner mistakes. You'll get clean results from day one.
+If you're just starting: **H&S Ultra 2024**. The flow limiter alone justifies it, it prevents the most frustrating beginner mistakes. You'll get clean results from day one.
 
-When you're ready to upgrade (or if you want to skip the beginner stage): **H&S Evolution 2-in-1** ($140–180). Two needle sizes cover every task. This is the airbrush most miniature painters keep for years.
+When you're ready to upgrade (or if you want to skip the beginner stage): **H&S Evolution 2-in-1**. Two needle sizes cover every task. This is the airbrush most miniature painters keep for years.
 
-If you want the best and budget isn't the concern: **H&S Infinity CR Plus** or **Cult of Paint Edition** ($200–300). The finest detail possible, premium build, and a tool that will last your entire painting career.
+If you want the best and budget isn't the concern: **H&S Infinity CR Plus** or **Cult of Paint Edition**. The finest detail possible, premium build, and a tool that will last your entire painting career.
 
-If budget is tight: **Iwata Neo CN** ($50–70). A real quality airbrush at the lowest price point worth recommending.
+If budget is tight: **Iwata Neo CN**. A real quality airbrush at the lowest price point worth recommending.
 
-For priming and basecoating armies at speed: **Badger Patriot 105** ($70–90). Keep this alongside your detail brush. It's a beast.
+For priming and basecoating armies at speed: **Badger Patriot 105**. Keep this alongside your detail brush. It's a beast.
 
 - [Best Airbrush for Beginners 2026](/blog/best-airbrush-for-beginners-2026/). Broader guide covering all airbrush uses
 - [Best Airbrush Compressor 2026](/blog/best-air-compressor/). Compressor recommendations

@@ -17,7 +17,7 @@ You want to start airbrushing. You've watched the YouTube videos, you've seen wh
 
 I've been airbrushing for over 15 years. I've used cheap brushes, expensive brushes, and everything in between. In this guide, I'm going to cut through the noise and show you which airbrushes actually deserve your money in 2026, and more importantly, which ones will help you *learn* rather than frustrate you into quitting.
 
-**Quick answer:** If you want one recommendation and don't want to read the whole article, get the **Harder & Steenbeck Ultra 2024**. It's specifically engineered for beginners, it teaches you proper technique from day one, and it grows with you. If you're on a tighter budget, the [**Iwata Neo CN**](/go/iwata-neo-cn) is the best value under $50.
+**Quick answer:** If you want one recommendation and don't want to read the whole article, get the **Harder & Steenbeck Ultra 2024**. It's specifically engineered for beginners, it teaches you proper technique from day one, and it grows with you. If you're on a tighter budget, the [**Iwata Neo CN**](/go/iwata-neo-cn) is the best budget value.
 
 But if you want to understand *why* and find the right match for your specific situation, keep reading.
 
@@ -41,7 +41,7 @@ Here's what actually matters for your first airbrush:
 
 **And here's what does NOT matter yet:**
 
-- Brand prestige (a $300 Iwata Micron won't make you paint better than a $70 one)
+- Brand prestige (a top-end Iwata Micron won't make you paint better than a good entry-level airbrush)
 - Needle material (stainless steel is fine)
 - Gold plating, PTFE bearings, or other premium features
 - Whether your favorite YouTube artist uses it
@@ -54,7 +54,6 @@ Now let's look at the actual airbrushes.
 
 ### 1. Harder & Steenbeck Ultra 2024: Best Overall for Beginners
 
-**Price:** ~$75–90 (airbrush only) | ~$180–220 (with compressor kit)
 **Needle:** 0.45mm
 **Cup:** 5ml gravity feed (removable) + built-in micro-cup
 **Made in:** Germany
@@ -70,7 +69,7 @@ This is the first airbrush I've seen that was genuinely *designed* for beginners
 
 The 0.45mm needle is slightly larger than the typical 0.35mm, which is actually a smart choice for beginners, it's more forgiving with thicker paints and less prone to clogging, while still capable of fine lines when you're ready for them.
 
-**The real kicker:** H&S uses a modular system. When you're ready for finer detail work, you can buy a 0.2mm or 0.15mm nozzle set, even the famous FineLine system from the $250+ Infinity, and install it on your Ultra. You don't need a new airbrush, just a new front end.
+**The real kicker:** H&S uses a modular system. When you're ready for finer detail work, you can buy a 0.2mm or 0.15mm nozzle set, even the famous FineLine system from the premium Infinity, and install it on your Ultra. You don't need a new airbrush, just a new front end.
 
 **Best for:** Any beginner who wants to learn proper technique, miniature painters, model builders, general art.
 **Not ideal for:** Large coverage work like T-shirts or automotive (the cup is small for that).
@@ -79,7 +78,6 @@ The 0.45mm needle is slightly larger than the typical 0.35mm, which is actually 
 
 ### 2. Iwata Eclipse HP-CS: Best All-Rounder
 
-**Price:** ~$130–160 (airbrush only) | ~$170–200 (value set with hose and cleaner)
 **Needle:** 0.35mm
 **Cup:** 7ml (0.24 oz) gravity feed with lid
 **Made in:** Japan
@@ -93,7 +91,7 @@ The 0.35mm needle hits that perfect middle ground, detailed enough for fine line
 
 The cutaway handle makes cleaning dead simple: loosen the back, push the needle forward, wipe, done. Spare parts (needles, nozzles, O-rings) are available at every art supply store and dozens of online retailers.
 
-**Why it's not #1:** At $130+, it costs nearly double the Ultra 2024 for a similar capability level. It also doesn't have any beginner-specific engineering, you'll make all the standard beginner mistakes and learn from them the hard way. That said, many professionals still use their Eclipse daily after 10+ years, so it's absolutely a "buy once" airbrush.
+**Why it's not #1:** It costs considerably more than the Ultra 2024 for a similar capability level. It also doesn't have any beginner-specific engineering, you'll make all the standard beginner mistakes and learn from them the hard way. That said, many professionals still use their Eclipse daily after 10+ years, so it's absolutely a "buy once" airbrush.
 
 **Best for:** Artists who plan to airbrush across multiple disciplines (models, illustration, custom painting, textiles).
 **Not ideal for:** Tight budgets.
@@ -102,7 +100,6 @@ The cutaway handle makes cleaning dead simple: loosen the back, push the needle 
 
 ### 3. Badger Patriot 105: Best Budget Workhorse
 
-**Price:** ~$65–85
 **Needle:** 0.50mm (larger than most beginner recommendations)
 **Cup:** Gravity feed
 **Made in:** USA
@@ -121,9 +118,8 @@ Badger's "Easy Access" needle removal system makes cleaning genuinely fast, and 
 
 ---
 
-### 4. Iwata NEO CN: Best Under $50
+### 4. Iwata NEO CN: Best Budget Pick
 
-**Price:** ~$35–50
 **Needle:** 0.35mm
 **Cup:** 7ml (0.24 oz) + 2.8ml (0.10 oz) gravity feed
 **Made in:** China (Iwata design and QC)
@@ -144,7 +140,6 @@ The NEO comes with two cups (large for coverage, small for detail work), which i
 
 ### 5. Paasche Talon TG-3F: Best Kit Value
 
-**Price:** ~$80–100 (full kit with 3 spray heads, fan cap, and accessories)
 **Needle:** 0.38mm (kit includes 0.25mm, 0.38mm, and 0.66mm heads)
 **Cup:** 0.40 oz gravity feed with lid
 **Made in:** USA (Chicago. Paasche has been there since 1904)
@@ -163,13 +158,13 @@ The 0.38mm default needle is a great all-rounder, slightly larger than the stand
 
 ## Quick Comparison Table
 
-| Airbrush | Price Range | Needle | Cup | Made In | Best For | My Rating |
+| Airbrush | Price tier | Needle | Cup | Made In | Best For | My Rating |
 |---|---|---|---|---|---|---|
-| **H&S Ultra 2024** | $75–90 | 0.45mm | 5ml + micro-cup | Germany | Learning technique, miniatures | ★★★★★ |
-| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | $130–160 | 0.35mm | 7ml | Japan | All-around versatility | ★★★★★ |
-| [**Badger Patriot 105**](/go/badger-patriot-105) | $65–85 | 0.50mm | Gravity | USA | Priming, coverage, durability | ★★★★☆ |
-| [**Iwata NEO CN**](/go/iwata-neo-cn) | $35–50 | 0.35mm | 7ml + 2.8ml | China (Iwata QC) | Budget/testing the waters | ★★★★☆ |
-| **Paasche Talon TG-3F** | $80–100 | 0.25/0.38/0.66mm | 0.40 oz | USA | Kit value, versatility | ★★★★☆ |
+| **H&S Ultra 2024** | Budget | 0.45mm | 5ml + micro-cup | Germany | Learning technique, miniatures | ★★★★★ |
+| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | Mid-range | 0.35mm | 7ml | Japan | All-around versatility | ★★★★★ |
+| [**Badger Patriot 105**](/go/badger-patriot-105) | Budget | 0.50mm | Gravity | USA | Priming, coverage, durability | ★★★★☆ |
+| [**Iwata NEO CN**](/go/iwata-neo-cn) | Budget | 0.35mm | 7ml + 2.8ml | China (Iwata QC) | Budget/testing the waters | ★★★★☆ |
+| **Paasche Talon TG-3F** | Budget | 0.25/0.38/0.66mm | 0.40 oz | USA | Kit value, versatility | ★★★★☆ |
 
 ---
 
@@ -183,7 +178,7 @@ These cheap kits (usually sold under generic names like "Gocheer," "VIVOHOME," "
 
 You'll spend more time cleaning clogs and troubleshooting problems than actually painting. Then you'll conclude "airbrushing isn't for me", when the reality is that your tool was broken from day one.
 
-The Iwata NEO CN at ~$40 is the absolute floor I'd recommend. Below that, you're gambling.
+The Iwata NEO CN is the absolute floor I'd recommend. Below that, you're gambling.
 
 ---
 
@@ -208,19 +203,19 @@ An airbrush alone is just a fancy pen without ink. Here's the minimum you need t
 ## How I'd Spend My Money (If I Were Starting Over in 2026)
 
 **Budget setup (~$150–180 total):**
-- [Iwata NEO CN](/go/iwata-neo-cn) (~$40)
+- [Iwata NEO CN](/go/iwata-neo-cn)
 - Generic compressor with tank (~$90–100)
-- Createx starter paint set (~$20–25)
+- Createx starter paint set
 - Cleaning supplies (~$15)
 
 **Sweet spot setup (~$250–300 total):**
-- Harder & Steenbeck Ultra 2024 (~$85)
+- Harder & Steenbeck Ultra 2024
 - Quality compressor with tank and regulator (~$120–140)
 - Paint set appropriate to your interest (~$25–35)
 - Cleaning kit + practice supplies (~$20)
 
 **Buy once, cry once (~$350–450 total):**
-- [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs) (~$150)
+- [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs)
 - Quality compressor with tank (~$130–150)
 - Good paint selection (~$40–50)
 - Proper cleaning kit, spray booth, supplies (~$40–60)

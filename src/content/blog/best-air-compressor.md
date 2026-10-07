@@ -47,7 +47,7 @@ reviews:
 
 You've got your airbrush. You're excited to start creating. But then you realise: **an airbrush is useless without the right air source.**
 
-Here's what nobody tells beginners: **your compressor matters just as much as your airbrush.** I've seen artists spend $200 on a premium Iwata, then pair it with a $40 compressor that pulses like a jackhammer and sounds like a lawnmower.
+Here's what nobody tells beginners: **your compressor matters just as much as your airbrush.** It's common to see a premium Iwata paired with a cheap compressor that pulses like a jackhammer and sounds like a lawnmower.
 
 The result? Frustration, inconsistent spray patterns, and artwork that looks amateur no matter how skilled you are.
 
@@ -212,8 +212,6 @@ Three cases where you should still buy a hobby compressor:
 
 ### 1. Master Airbrush TC-20: Best Ultra-Budget
 
-**Price: ~$50–$65**
-
 Yes, it's a Chinese compressor. But for $50–$65, this actually works for beginners.
 
 **Pros:**
@@ -235,8 +233,6 @@ Yes, it's a Chinese compressor. But for $50–$65, this actually works for begin
 ---
 
 ### 2. Badger Aspire TC909: Best Reliable Budget
-
-**Price: ~$90–$110**
 
 When people ask "what's the minimum I should spend on a compressor that won't frustrate me?", this is the answer.
 
@@ -263,8 +259,6 @@ This is where quality really jumps. These compressors handle everything from min
 
 ### 1. Iwata-Medea IS 800: Best Value with Tank
 
-**Price: ~$200–$240**
-
 If someone asks me "what compressor should I buy if I'm serious about airbrushing?", this is it.
 
 **Specs:** Single-piston with tank · 1.5 L tank · 0–35 PSI adjustable · 1.1 CFM · 47 dB · Auto shut-off ✓
@@ -289,8 +283,6 @@ If someone asks me "what compressor should I buy if I'm serious about airbrushin
 ---
 
 ### 2. California Air Tools CAT-1P1060S: Quietest Option
-
-**Price: ~$180–$220**
 
 If noise is your primary concern, neighbours, late nights, or just hatred of loud tools, this is your answer.
 
@@ -317,8 +309,6 @@ If noise is your primary concern, neighbours, late nights, or just hatred of lou
 ## Best Professional Compressors ($250–$600+)
 
 ### Silentaire Sil-Air 50-24: Industry Standard
-
-**Price: ~$450–$550**
 
 Walk into any professional illustration studio or automotive custom shop and you'll likely find a Silentaire. Built to run 8+ hours daily for years.
 
@@ -382,11 +372,11 @@ Technically yes, but you must add a good moisture trap and regulator. They're us
 
 ## My Top 3 Recommendations
 
-🥇 **Best Overall Value:** Iwata-Medea IS 800 ($200–$240), perfect balance of features, quality, and price
+🥇 **Best Overall Value:** Iwata-Medea IS 800, perfect balance of features, quality, and price
 
-🥈 **Best Budget Option:** Badger Aspire TC909 ($90–$110), reliable starter from a trusted brand
+🥈 **Best Budget Option:** Badger Aspire TC909, reliable starter from a trusted brand
 
-🥉 **Best for Quiet Operation:** California Air Tools CAT-1P1060S ($180–$220), whisper quiet, perfect for apartments
+🥉 **Best for Quiet Operation:** California Air Tools CAT-1P1060S, whisper quiet, perfect for apartments
 
 Complete your setup: read the [Best Airbrush Guide](/blog/best-airbrush/) and [Airbrush Paint Guide](/blog/advanced-guide-to-airbrush-colors/).
 

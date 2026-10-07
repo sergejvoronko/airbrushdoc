@@ -61,15 +61,15 @@ Before looking at specific products, understand that there are three approaches 
 
 ## Quick Comparison Table
 
-| Kit / Setup | What's Included | Price Range | Best For | My Rating |
+| Kit / Setup | What's Included | Price tier | Best For | My Rating |
 |---|---|---|---|---|
-| **Master Airbrush Cool Runner II** | 3 airbrushes + compressor + paints | $80–120 | Absolute beginners, testing the hobby | ★★★☆☆ |
-| [**Iwata Neo + Ninja Jet Kit**](/go/iwata-neo-ninja-jet-kit) | Iwata Neo CN + Ninja Jet compressor + hose + cleaning pot | $180–220 | Beginners wanting brand quality | ★★★★☆ |
-| **H&S Ultra 2024 + Sparmax Kit** | Ultra 2024 airbrush + compressor + hose | $180–250 | Miniature painters, serious hobbyists | ★★★★★ |
-| [**Paasche Talon Starter Set**](/go/paasche-talon-starter-set) | Talon TG + compressor + hose | $160–200 | Versatile all-purpose use | ★★★★☆ |
+| **Master Airbrush Cool Runner II** | 3 airbrushes + compressor + paints | Mid-range | Absolute beginners, testing the hobby | ★★★☆☆ |
+| [**Iwata Neo + Ninja Jet Kit**](/go/iwata-neo-ninja-jet-kit) | Iwata Neo CN + Ninja Jet compressor + hose + cleaning pot | Premium | Beginners wanting brand quality | ★★★★☆ |
+| **H&S Ultra 2024 + Sparmax Kit** | Ultra 2024 airbrush + compressor + hose | Premium | Miniature painters, serious hobbyists | ★★★★★ |
+| [**Paasche Talon Starter Set**](/go/paasche-talon-starter-set) | Talon TG + compressor + hose | Mid-range | Versatile all-purpose use | ★★★★☆ |
 | **Cordless Starter Kit** | Battery airbrush + built-in compressor | $40–70 | Portability, casual use, touch-ups | ★★★☆☆ |
-| **Hybrid: Budget kit + Badger Patriot** | Generic compressor + Badger 105 | $120–170 | Smart budget approach | ★★★★☆ |
-| **Hybrid: Budget kit + Iwata Eclipse** | Generic compressor + Eclipse HP-CS | $180–250 | Best value for serious starters | ★★★★★ |
+| **Hybrid: Budget kit + Badger Patriot** | Generic compressor + Badger 105 | Mid-range | Smart budget approach | ★★★★☆ |
+| **Hybrid: Budget kit + Iwata Eclipse** | Generic compressor + Eclipse HP-CS | Premium | Best value for serious starters | ★★★★★ |
 
 ---
 
@@ -78,7 +78,6 @@ Before looking at specific products, understand that there are three approaches 
 ### Master Airbrush Cool Runner II Kit: MOST POPULAR STARTER
 
 **Includes:** 3 airbrushes (2 gravity feed, 1 siphon feed), dual-fan compressor with tank, 6 acrylic paint colors, air hose, holder, cleaning brushes, instruction guide
-**Price:** ~$80–120
 
 This is the best-selling airbrush kit on Amazon, and there's a reason, it offers an enormous amount of stuff for the price. Three airbrushes, a compressor with a storage tank (important for consistent pressure), paints, and accessories. For someone who just wants to open a box and start spraying, it removes every barrier.
 
@@ -91,7 +90,6 @@ This is the best-selling airbrush kit on Amazon, and there's a reason, it offers
 ### Generic Cordless Airbrush Kits: FOR CASUAL USE AND PORTABILITY
 
 **Includes:** Battery-powered compressor + airbrush in one handheld unit, charging cable, sometimes spare cups and needles
-**Price:** ~$40–70
 
 The cordless airbrush category has exploded. These compact, battery-powered units are incredibly convenient, no hose, no separate compressor, no power cord. Pull them out of a drawer, paint for 30 minutes, put them back.
 
@@ -108,7 +106,6 @@ These kits pair a genuine brand-name airbrush with a matched compressor. The pri
 ### Iwata Neo + Ninja Jet Kit: BEST BRAND-NAME STARTER
 
 **Includes:** Iwata Neo CN gravity feed airbrush (0.35mm), Iwata Ninja Jet compressor, air hose, cleaning pot
-**Price:** ~$180–220
 
 The Iwata Neo CN is a proper dual-action airbrush, smooth trigger, consistent spray, and built to Iwata's quality standards. The Ninja Jet compressor is small, quiet, and reliable. Everything is compatible out of the box.
 
@@ -121,7 +118,6 @@ The Iwata Neo CN is a proper dual-action airbrush, smooth trigger, consistent sp
 ### Harder & Steenbeck Ultra 2024 Kit: BEST FOR MINIATURES AND DETAIL
 
 **Includes:** H&S Ultra 2024 airbrush (0.2mm), compressor, hose
-**Price:** ~$180–250 (varies by retailer and compressor pairing)
 
 The Ultra 2024 is the best first airbrush for miniature painters (covered in detail in my miniatures guide). Its five-stage flow limiter prevents the most common beginner mistakes, and the 0.2mm needle handles fine detail beautifully. The drop-in nozzle system makes cleaning between colors incredibly fast.
 
@@ -132,7 +128,6 @@ Pairing it with a reliable compressor (Sparmax TC-501N or similar quiet compress
 ### Paasche Talon Starter Set: BEST VERSATILITY
 
 **Includes:** Paasche Talon TG-3F airbrush (0.25mm, 0.38mm, and 0.66mm heads), compressor, braided hose, holder
-**Price:** ~$160–200
 
 The Paasche Talon is one of the most versatile airbrushes available. It ships with three spray head sizes, meaning you can do fine detail work (0.25mm), general work (0.38mm), and broad coverage (0.66mm) with a single airbrush by swapping heads. This is exceptional versatility for a starter kit.
 
@@ -148,15 +143,15 @@ Paasche is an American company that's been making airbrushes since 1904. The Tal
 
 For most beginners, I actually recommend the hybrid approach: buy a budget kit for the compressor and accessories, then add a quality airbrush separately.
 
-### Budget Kit + Badger Patriot 105 (~$120–170 total)
+### Budget Kit + Badger Patriot 105
 
-Buy any generic compressor kit ($50–80) and add a [**Badger Patriot 105**](/go/badger-patriot-105) ($70–90). The Patriot is forgiving, durable, easy to clean, and sprays reliably with minimal fuss. Its 0.5mm needle is more forgiving of imperfect paint thinning (a huge advantage while you're learning). You sacrifice fine detail compared to a 0.2–0.3mm needle, but you gain a frustration-free learning experience.
+Buy any generic compressor kit and add a [**Badger Patriot 105**](/go/badger-patriot-105). The Patriot is forgiving, durable, easy to clean, and sprays reliably with minimal fuss. Its 0.5mm needle is more forgiving of imperfect paint thinning (a huge advantage while you're learning). You sacrifice fine detail compared to a 0.2–0.3mm needle, but you gain a frustration-free learning experience.
 
 **Best for:** General hobby, crafts, T-shirts, larger subjects. Learning airbrush basics without fighting the tool.
 
-### Budget Kit + Iwata Eclipse HP-CS (~$180–250 total)
+### Budget Kit + Iwata Eclipse HP-CS
 
-Same approach but with the [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) ($130–170), the single most popular airbrush in the world for good reason. The 0.35mm needle balances detail and coverage beautifully. The Eclipse is smooth, precise, and built to last decades.
+Same approach but with the [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs), the single most popular airbrush in the world for good reason. The 0.35mm needle balances detail and coverage beautifully. The Eclipse is smooth, precise, and built to last decades.
 
 **Best for:** Beginners who want a single airbrush that excels at everything from models to illustration to automotive touch-ups. The one-tool solution.
 
@@ -180,7 +175,7 @@ Even "complete" kits rarely include everything you need for your first session:
 
 **Always missing:**
 - **Respirator mask**. Non-negotiable for health. Budget kits never include one. ($20–35)
-- **Proper cleaning solution**. Kits might include a tiny bottle. Buy a full-size bottle of [Createx 4008](/go/createx-cleaner-4008) or [Iwata Medea Cleaner](/go/iwata-medea-cleaner). ($8–15)
+- **Proper cleaning solution**. Kits might include a tiny bottle. Buy a full-size bottle of [Createx 4008](/go/createx-cleaner-4008) or [Iwata Medea Cleaner](/go/iwata-medea-cleaner).
 - **Proper airbrush paint**. Unless the kit specifically includes quality paint, plan to buy separately. ($15–40 for a starter set)
 
 **Usually missing:**
@@ -245,11 +240,11 @@ Technically yes, but most paints need thinning to the consistency of milk before
 
 If I were starting from zero today, here's exactly what I'd buy:
 
-**On a tight budget ($80–120):** Master Airbrush Cool Runner II kit. Use it for a month to learn basics. Then buy a [Badger Patriot 105](/go/badger-patriot-105) or [Iwata Neo CN](/go/iwata-neo-cn) and keep using the kit's compressor.
+**On a tight budget:** Master Airbrush Cool Runner II kit. Use it for a month to learn basics. Then buy a [Badger Patriot 105](/go/badger-patriot-105) or [Iwata Neo CN](/go/iwata-neo-cn) and keep using the kit's compressor.
 
-**Willing to invest ($180–250):** Skip the cheap kit entirely. Buy an [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs) ($130–170) and a quality compressor with tank ($80–120). This setup will last you years, possibly decades, without needing replacement.
+**Willing to invest:** Skip the cheap kit entirely. Buy an [Iwata Eclipse HP-CS](/go/iwata-eclipse-hp-cs) and a quality compressor with tank. This setup will last you years, possibly decades, without needing replacement.
 
-**Focused on miniatures ($180–250):** H&S Ultra 2024 + a quiet compressor with tank. The flow limiter alone is worth the price for a beginner.
+**Focused on miniatures:** H&S Ultra 2024 + a quiet compressor with tank. The flow limiter alone is worth the price for a beginner.
 
 Whichever path you choose, the most important thing is to start. A $80 budget kit will teach you more in one afternoon than a month of reading about which airbrush to buy. You can always upgrade later, and by then, you'll know exactly what you need.
 

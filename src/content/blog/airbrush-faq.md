@@ -87,7 +87,7 @@ Distilled water works for all water-based acrylics. Dedicated thinners (Createx 
 
 **Do I need to wear a respirator?**
 
-Yes. Always. Even with "non-toxic" water-based paints. An airbrush atomizes paint into particles small enough to be inhaled deep into your lungs. A 3M half-face respirator with P100/organic vapor cartridges costs $25–35 and protects your health. This is the one piece of equipment you should never skip.
+Yes. Always. Even with "non-toxic" water-based paints. An airbrush atomizes paint into particles small enough to be inhaled deep into your lungs. A half-face respirator with P100/organic vapor cartridges is inexpensive and protects your health. This is the one piece of equipment you should never skip.
 
 ---
 

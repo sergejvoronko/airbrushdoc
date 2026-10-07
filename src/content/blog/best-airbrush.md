@@ -86,7 +86,7 @@ Before looking at specific models, understand these three critical factors.
 Yes, budget matters, but here's what most beginners get wrong: **a $150 quality airbrush will save you money compared to buying three $50 Chinese guns that break.**
 
 Budget tiers:
-- **$50–$100:** Entry-level from reputable brands (Iwata Neo, Badger Patriot)
+- **$50–$100:** Entry-level from reputable brands
 - **$100–$200:** Professional quality, perfect for serious hobbyists
 - **$200–$400+:** Top-tier tools for professionals and perfectionists
 
@@ -130,8 +130,6 @@ These airbrushes won't break the bank but still deliver reliable performance.
 
 ### 1. Iwata Neo CN: Best Overall Budget Pick
 
-**Price: ~$65–$80**
-
 The Neo CN is Iwata's entry-level gun, and it punches well above its weight. It's a simplified version of their professional HP-C Plus using the same reliable design principles.
 
 **Pros:**
@@ -153,8 +151,6 @@ The Neo CN is Iwata's entry-level gun, and it punches well above its weight. It'
 
 ### 2. Badger Patriot 105: Best for Versatility
 
-**Price: ~$90–$110**
-
 The Patriot 105 can handle everything from fine details to broader coverage. It's forgiving for beginners but capable enough that you won't outgrow it quickly.
 
 **Pros:**
@@ -175,8 +171,6 @@ The Patriot 105 can handle everything from fine details to broader coverage. It'
 ---
 
 ### 3. Harder & Steenbeck Ultra: Budget German Quality
-
-**Price: ~$95–$120**
 
 German engineering at a budget price. The Ultra is H&S's answer to the Iwata Neo.
 
@@ -202,8 +196,6 @@ This is the sweet spot, professional-grade performance without the flagship pric
 
 ### 1. Iwata HP-CS: My Personal Favourite
 
-**Price: ~$150–$175**
-
 If I could only own one airbrush, this would be it. The HP-CS is Iwata's most popular model for good reason, it does everything well.
 
 **Pros:**
@@ -226,8 +218,6 @@ If I could only own one airbrush, this would be it. The HP-CS is Iwata's most po
 
 ### 2. Badger Renegade Krome: Best Value in Mid-Range
 
-**Price: ~$140–$160**
-
 The Krome offers interchangeable needle and nozzle sets, one body can do ultra-fine details *or* broad coverage.
 
 **Pros:**
@@ -247,8 +237,6 @@ The Krome offers interchangeable needle and nozzle sets, one body can do ultra-f
 ---
 
 ### 3. Harder & Steenbeck Infinity CR Plus: Premium Mid-Range
-
-**Price: ~$180–$220**
 
 This is where H&S really shines. The Infinity line offers some of the finest detail capability on the market, rivalling guns twice its price. There is a [full Infinity review](/blog/harder-and-steenbeck-infinity-review/) here, including what the 2024 redesign changed.
 
@@ -273,8 +261,6 @@ This is where H&S really shines. The Infinity line offers some of the finest det
 
 ### Iwata Hi-Line HP-CH
 
-**Price: ~$220–$260**
-
 The HP-CH is the larger-cup version of the HP-CS. If you're doing longer sessions or large coverage work, the extra cup capacity makes a huge difference.
 
 **Best for:** Professional illustrators, automotive artists, production work. **Rating: 5/5**
@@ -282,8 +268,6 @@ The HP-CH is the larger-cup version of the HP-CS. If you're doing longer session
 ---
 
 ### Harder & Steenbeck Infinity Solo
-
-**Price: ~$300–$360**
 
 H&S's flagship. Overengineered in the best possible way, everything is precisely machined and balanced.
 
@@ -293,7 +277,7 @@ H&S's flagship. Overengineered in the best possible way, everything is precisely
 
 ## The Truth About Cheap Chinese Airbrushes
 
-Let's address the elephant in the room: Master Airbrush, Gocheer, Vivohome, and dozens of others available for $30–$60 on Amazon.
+Let's address the elephant in the room: Master Airbrush, Gocheer, Vivohome, and dozens of others available very cheaply on Amazon.
 
 **Should you buy one? Usually no.**
 
@@ -304,7 +288,7 @@ Common problems:
 4. **No support**, good luck getting replacement parts or help
 5. **False specs**, a "0.2 mm needle" that's actually 0.4 mm
 
-**The math:** A $40 Chinese airbrush that frustrates you and breaks in 6 months, or a $75 Iwata Neo that works reliably for years? The Neo wins every time.
+**The choice:** A cheap no-name airbrush that frustrates you and may break within months, or an Iwata Neo that works reliably for years? The Neo wins every time.
 
 ---
 
@@ -347,11 +331,11 @@ Yes, but thin it to a milk-like consistency. Airbrush-specific paints are pre-th
 
 ## My Top 3 Picks
 
-🥇 **Best for Beginners:** Iwata Neo CN ($65–$80), reliable, affordable, easy to learn on
+🥇 **Best for Beginners:** Iwata Neo CN, reliable, affordable, easy to learn on
 
-🥈 **Best All-Around:** Iwata HP-CS ($150–$175), the one airbrush to rule them all
+🥈 **Best All-Around:** Iwata HP-CS, the one airbrush to rule them all
 
-🥉 **Best for Detail Work:** Harder & Steenbeck Infinity CR Plus ($180–$220), unmatched precision
+🥉 **Best for Detail Work:** Harder & Steenbeck Infinity CR Plus, unmatched precision
 
 Next steps: read the [Best Airbrush Compressor Guide](/blog/best-air-compressor/) and the [Beginner's Guide to Airbrush Paints](/blog/advanced-guide-to-airbrush-colors/).
 

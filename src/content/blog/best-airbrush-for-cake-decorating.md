@@ -31,13 +31,13 @@ This means either buying a dedicated airbrush specifically for food use, or ensu
 
 ## Quick Picks
 
-| Kit | Type | Action | Price | Best For |
+| Kit | Type | Action | Price tier | Best For |
 |---|---|---|---|---|
-| **U.S. Cake Supply Kit** | Gravity feed | Single-action | ~$60–80 | Best starter kit with colors included |
-| **Watson & Webb Essentials** | Gravity feed | Single-action | ~$75–100 | Best food-safe dedicated kit |
-| [**Master Airbrush G22 Kit**](/go/master-airbrush-g22-kit) | Gravity feed | Dual-action | ~$80–110 | Best for detail-oriented decorators |
+| **U.S. Cake Supply Kit** | Gravity feed | Single-action | Budget | Best starter kit with colors included |
+| **Watson & Webb Essentials** | Gravity feed | Single-action | Budget | Best food-safe dedicated kit |
+| [**Master Airbrush G22 Kit**](/go/master-airbrush-g22-kit) | Gravity feed | Dual-action | Mid-range | Best for detail-oriented decorators |
 | **Cordless Cake Airbrush** | Gravity feed | Single-action | ~$30–50 | Portable, quick touch-ups, cookies |
-| **Kopykake Airmaster** | Gravity feed | Single-action | ~$100–130 | Bakery/commercial standard |
+| **Kopykake Airmaster** | Gravity feed | Single-action | Mid-range | Bakery/commercial standard |
 
 ---
 
@@ -72,7 +72,6 @@ A compressor with an air tank is nice to have (smoother airflow) but not essenti
 ### U.S. Cake Supply Complete Kit: BEST STARTER
 
 **Includes:** Single-action airbrush (0.4mm), compressor with 3 adjustable levels, 12 food colors, instruction guide
-**Price:** ~$60–80
 
 This kit is designed specifically for cake decorating and includes everything you need for your first session, including 12 food-safe colors. The single-action airbrush is simple to use, the compressor is compact and reasonably quiet, and the instruction guide covers basic techniques.
 
@@ -81,14 +80,12 @@ This kit is designed specifically for cake decorating and includes everything yo
 ### Watson & Webb Essentials: BEST FOOD-SAFE GUARANTEE
 
 **Includes:** Single-action airbrush, compressor, 13 food colors, food-grade components throughout
-**Price:** ~$75–100
 
 Watson & Webb specializes in food-safe airbrush equipment. All components that contact edible media are specifically designed to food-grade standards. If food safety certification matters to you (especially for professional/commercial use), this is the most trustworthy option.
 
 ### Master Airbrush G22 Kit: BEST FOR DETAIL WORK
 
 **Includes:** Dual-action gravity feed airbrush (0.3mm), compressor with tank, hose, cleaning supplies
-**Price:** ~$80–110
 
 **Important note:** This kit is NOT specifically designed for cake decorating, the included paint is NOT food-safe. You'll need to buy food colors separately. However, the G22 dual-action airbrush and tank compressor are superior tools if you want more control and detail capability for advanced cake art.
 
@@ -99,7 +96,6 @@ Watson & Webb specializes in food-safe airbrush equipment. All components that c
 ### Cordless Cake Airbrush: BEST FOR CONVENIENCE
 
 **Includes:** Battery-powered handheld airbrush/compressor unit, charging cable
-**Price:** ~$30–50
 
 For quick touch-ups, cookie decorating, small projects, and decorators who don't want a compressor setup, cordless airbrushes are remarkably convenient. Pull out of a drawer, add a few drops of food color, spray, rinse, done. Battery life is limited (20–30 minutes typically), but that's plenty for most decorating sessions.
 
@@ -108,7 +104,6 @@ For quick touch-ups, cookie decorating, small projects, and decorators who don't
 ### Kopykake Airmaster: COMMERCIAL/BAKERY STANDARD
 
 **Includes:** Single-action airbrush, industrial-grade compressor
-**Price:** ~$100–130
 
 Kopykake has been the bakery industry standard for decades. Their equipment is built for daily commercial use, heavy-duty, reliable, and designed for food environments. If you're running a bakery or decorating daily, Kopykake equipment justifies its price with longevity and consistency.
 
@@ -175,7 +170,7 @@ For stubborn buildup, use food-safe airbrush cleaner or a mixture of warm water 
 
 **What is the best airbrush for cake decorating beginners?**
 
-The U.S. Cake Supply Complete Kit is the best starter option, it includes a single-action airbrush, compressor, and 12 food-safe colors for under $80. Everything is compatible and ready to use out of the box. For beginners who want even simpler setup, a cordless cake airbrush ($30–50) is the lowest-barrier entry point.
+The U.S. Cake Supply Complete Kit is the best starter option, it includes a single-action airbrush, compressor, and 12 food-safe colors at a budget price. Everything is compatible and ready to use out of the box. For beginners who want even simpler setup, a cordless cake airbrush is the lowest-barrier entry point.
 
 **Do I need a special airbrush for cakes?**
 
@@ -191,7 +186,7 @@ Yes. Let buttercream crust slightly (about 15–20 minutes after icing) before a
 
 **How much does a cake airbrush kit cost?**
 
-Starter kits with airbrush, compressor, and food colors range from $50–100. Cordless handheld units start at $30–50. Professional-grade setups (like Kopykake) run $100–150. Food colors are purchased separately or included in kits, typically $15–40 for a color set.
+Starter kits with airbrush, compressor, and food colors range from $50–100. Cordless handheld units start at $30–50. Professional-grade setups (like Kopykake) cost more. Food colors are purchased separately or included in kits, typically $15–40 for a color set.
 
 ---
 

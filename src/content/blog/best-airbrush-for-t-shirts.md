@@ -23,13 +23,13 @@ Fabric is a specialist case. For everything else, the [best airbrush guide](/blo
 
 ## Quick Picks
 
-| Airbrush | Type | Needle | Price | Best For |
+| Airbrush | Type | Needle | Price tier | Best For |
 |---|---|---|---|---|
-| **Iwata Eclipse HP-BCS** | Siphon feed | 0.35mm | ~$120–160 | Industry standard for T-shirt work |
-| **Paasche Talon TG-3F** | Gravity/siphon | 0.38mm | ~$80–120 | Versatile, great value, multiple heads |
-| [**Badger Patriot 105**](/go/badger-patriot-105) | Gravity feed | 0.5mm | ~$70–90 | Budget workhorse, forgiving |
-| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | Gravity feed | 0.35mm | ~$130–170 | Detail-oriented T-shirt art |
-| [**Paasche VL**](/go/paasche-vl) | Siphon feed | Multiple | ~$50–80 | Classic T-shirt airbrush, great value |
+| **Iwata Eclipse HP-BCS** | Siphon feed | 0.35mm | Mid-range | Industry standard for T-shirt work |
+| **Paasche Talon TG-3F** | Gravity/siphon | 0.38mm | Mid-range | Versatile, great value, multiple heads |
+| [**Badger Patriot 105**](/go/badger-patriot-105) | Gravity feed | 0.5mm | Budget | Budget workhorse, forgiving |
+| [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | Gravity feed | 0.35mm | Mid-range | Detail-oriented T-shirt art |
+| [**Paasche VL**](/go/paasche-vl) | Siphon feed | Multiple | Budget | Classic T-shirt airbrush, great value |
 
 ---
 
@@ -79,7 +79,7 @@ This isn't just for pros, if you're serious about T-shirt art, a second airbrush
 
 ### Iwata Eclipse HP-BCS: INDUSTRY STANDARD
 
-**Type:** Siphon feed | **Needle:** 0.35mm | **Price:** ~$120–160
+**Type:** Siphon feed | **Needle:** 0.35mm
 
 The siphon-feed version of the legendary Iwata Eclipse. Same build quality, same smooth trigger, same reliable spray pattern, but with bottom-feed bottle capability. The 0.35mm needle balances detail and coverage perfectly. This is the airbrush you'll find in professional T-shirt booths worldwide.
 
@@ -87,7 +87,7 @@ The siphon-feed version of the legendary Iwata Eclipse. Same build quality, same
 
 ### Paasche Talon TG-3F: BEST VALUE
 
-**Type:** Gravity feed (siphon adapter available) | **Needle:** 0.25mm, 0.38mm, 0.66mm (3 heads included) | **Price:** ~$80–120
+**Type:** Gravity feed (siphon adapter available) | **Needle:** 0.25mm, 0.38mm, 0.66mm (3 heads included)
 
 The Talon ships with three spray heads, giving you fine detail (0.25mm), general work (0.38mm), and broad coverage (0.66mm) in one package. For T-shirt work, the 0.38mm is your daily driver and the 0.66mm is excellent for fast background fills.
 
@@ -97,7 +97,7 @@ The Talon ships with three spray heads, giving you fine detail (0.25mm), general
 
 ### Badger Patriot 105: MOST FORGIVING
 
-**Type:** Gravity feed | **Needle:** 0.5mm | **Price:** ~$70–90
+**Type:** Gravity feed | **Needle:** 0.5mm
 
 The Patriot's 0.5mm needle handles textile paints with minimal thinning and zero fuss. It sprays reliably, cleans easily, and forgives imperfect paint consistency. For someone learning T-shirt airbrushing, this removes the most common frustration, clogging and sputtering caused by slightly thick paint.
 
@@ -105,13 +105,13 @@ The Patriot's 0.5mm needle handles textile paints with minimal thinning and zero
 
 ### Iwata Eclipse HP-CS: DETAIL T-SHIRT ART
 
-**Type:** Gravity feed | **Needle:** 0.35mm | **Price:** ~$130–170
+**Type:** Gravity feed | **Needle:** 0.35mm
 
 If your T-shirt art leans toward detailed portraits, realistic designs, or intricate lettering, the gravity-feed Eclipse gives you the control that siphon feed can't match. The 0.35mm needle produces fine lines when you need them and can still cover broader areas with proper technique.
 
 ### Paasche VL: BUDGET CLASSIC
 
-**Type:** Siphon feed | **Needle:** Multiple sizes available | **Price:** ~$50–80
+**Type:** Siphon feed | **Needle:** Multiple sizes available
 
 The Paasche VL has been a T-shirt shop staple for decades. It's simple, reliable, and affordable. The siphon feed design works perfectly with pre-mixed bottle colors, and the available spray head options let you customize for your workflow.
 
@@ -151,17 +151,17 @@ Here's everything you need for a functional T-shirt airbrushing station:
 
 ### Essential Equipment
 
-| Item | Recommendation | Price Range |
+| Item | Recommendation | Price tier |
 |---|---|---|
-| **Airbrush** | Iwata Eclipse HP-BCS or Paasche Talon | $80–160 |
+| **Airbrush** | Iwata Eclipse HP-BCS or Paasche Talon | Mid-range |
 | **Compressor** | Any compressor with tank, 40+ PSI | $80–150 |
 | **Air hose** | Braided hose with appropriate fittings | $10–20 |
-| **Textile paint set** | [Createx Airbrush Colors](/go/createx-airbrush-colors) starter set | $25–50 |
-| **White opaque paint** | Createx Opaque White (large bottle) | $8–15 |
+| **Textile paint set** | [Createx Airbrush Colors](/go/createx-airbrush-colors) starter set | Budget |
+| **White opaque paint** | Createx Opaque White (large bottle) | Budget |
 | **Heat press or iron** | Heat press preferred; iron works | $30 (iron) to $200+ (press) |
 | **Shirt board** | Cardboard cut to shirt size or commercial shirt board | $5–15 |
 | **Masking materials** | Frisket film, stencil material, or painter's tape | $10–20 |
-| **Respirator** | 3M 6000/7500 series with P100/OV filters | $25–35 |
+| **Respirator** | Half-face respirator with P100/OV filters | $25–35 |
 
 **Total starter investment:** ~$300–500
 
