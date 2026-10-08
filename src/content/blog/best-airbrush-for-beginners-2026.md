@@ -160,11 +160,11 @@ The 0.38mm default needle is a great all-rounder, slightly larger than the stand
 
 | Airbrush | Price tier | Needle | Cup | Made In | Best For | My Rating |
 |---|---|---|---|---|---|---|
-| **H&S Ultra 2024** | Budget | 0.45mm | 5ml + micro-cup | Germany | Learning technique, miniatures | ★★★★★ |
+| [**H&S Ultra 2024**](#1-harder--steenbeck-ultra-2024-best-overall-for-beginners) | Budget | 0.45mm | 5ml + micro-cup | Germany | Learning technique, miniatures | ★★★★★ |
 | [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | Mid-range | 0.35mm | 7ml | Japan | All-around versatility | ★★★★★ |
 | [**Badger Patriot 105**](/go/badger-patriot-105) | Budget | 0.50mm | Gravity | USA | Priming, coverage, durability | ★★★★☆ |
 | [**Iwata NEO CN**](/go/iwata-neo-cn) | Budget | 0.35mm | 7ml + 2.8ml | China (Iwata QC) | Budget/testing the waters | ★★★★☆ |
-| **Paasche Talon TG-3F** | Budget | 0.25/0.38/0.66mm | 0.40 oz | USA | Kit value, versatility | ★★★★☆ |
+| [**Paasche Talon TG-3F**](#5-paasche-talon-tg-3f-best-kit-value) | Budget | 0.25/0.38/0.66mm | 0.40 oz | USA | Kit value, versatility | ★★★★☆ |
 
 ---
 

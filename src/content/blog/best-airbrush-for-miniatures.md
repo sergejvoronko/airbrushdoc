@@ -30,14 +30,14 @@ Painting something other than figures? The [best airbrush guide](/blog/best-airb
 
 | Airbrush | Needle | Best For | Price tier | My Take |
 |---|---|---|---|---|
-| **H&S Ultra 2024** | 0.2mm | Beginners, learning | Mid-range | Best first airbrush for miniatures |
+| [**H&S Ultra 2024**](#harder--steenbeck-ultra-2024-best-first-miniature-airbrush) | 0.2mm | Beginners, learning | Mid-range | Best first airbrush for miniatures |
 | [**Iwata Neo CN**](/go/iwata-neo-cn) | 0.35mm | Budget entry | Budget | Cheapest quality option |
 | [**Badger Patriot 105**](/go/badger-patriot-105) | 0.5mm | Priming, basecoating armies | Budget | Workhorse, not for detail |
 | [**H&S Evolution 2-in-1**](/go/hs-evolution-two-in-one) | 0.2/0.4mm | Serious hobbyists | Mid-range | Best all-rounder |
 | [**Iwata Eclipse HP-CS**](/go/iwata-eclipse-hp-cs) | 0.35mm | Versatile mid-range | Mid-range | Community favorite for years |
-| **H&S Infinity CR Plus** | 0.15/0.4mm | Advanced painters | Premium | Maximum detail precision |
-| **H&S Infinity CRplus Cult of Paint** | 0.15/0.4mm | Dedicated mini painters | Premium | Designed for mini painters, by mini painters |
-| **Cordless mini compressor kit** | 0.3mm | Portability, touch-ups | ~$40–70 | Great for travel, events |
+| [**H&S Infinity CR Plus**](/go/hs-infinity-two-in-one) | 0.15/0.4mm | Advanced painters | Premium | Maximum detail precision |
+| [**H&S Infinity CRplus Cult of Paint**](#hs-infinity-crplus-cult-of-paint-edition-designed-for-miniature-painters) | 0.15/0.4mm | Dedicated mini painters | Premium | Designed for mini painters, by mini painters |
+| [**Cordless mini compressor kit**](#cordless-mini-compressor-kits-for-events-and-travel) | 0.3mm | Portability, touch-ups | ~$40–70 | Great for travel, events |
 
 ---
 
