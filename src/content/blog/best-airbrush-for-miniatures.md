@@ -11,6 +11,7 @@ tags:
 readingTime: 12
 heroImage: "/images/best-airbrush-for-miniatures.webp"
 draft: false
+updatedDate: 2026-10-08
 ---
 
 Miniature painting is the fastest-growing segment of the airbrush world right now, and it's not even close. Between Warhammer 40K, Age of Sigmar, D&D, Gunpla, historical wargaming, and the 3D printing explosion, more people are picking up airbrushes for tiny subjects than ever before.
@@ -239,6 +240,10 @@ Simulating light emanating from a source on the model, glowing plasma guns, magi
 **What is the best airbrush for Warhammer miniatures?**
 
 For most Warhammer painters, the Harder & Steenbeck Evolution 2-in-1 is the best overall choice, it covers everything from priming armies with the 0.4mm needle to detail work and color transitions with the 0.2mm. For beginners specifically, the H&S Ultra 2024 with its built-in flow limiter is the safest starting point. For painters focused on competition-level display models, the H&S Infinity CR Plus offers the finest detail possible.
+
+**Is an airbrush worth it for miniatures, or should I stick to brushes?**
+
+For most painters it is worth it once you paint more than a few models a month: priming, base coats and smooth gradients take minutes instead of an evening, and zenithal highlights or OSL glows are far easier to get even. Brushes still win for edge highlights, faces, small details and freehand, so most hobbyists end up using both. We compare the two side by side, with workflows and time saved per army, in [Airbrush vs Hand Painting Miniatures](/blog/airbrush-vs-hand-painting-miniatures/).
 
 **Do I need a 0.2mm needle for miniatures?**
 
