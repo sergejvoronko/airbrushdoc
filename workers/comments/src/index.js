@@ -166,11 +166,18 @@ async function createMessage(req, env, cors) {
   return json({ ok: true }, 201, cors);
 }
 
+// projekt36.com shares this worker; its slugs carry a "p36-" prefix so the sites never collide.
+function postUrl(slug) {
+  return slug.startsWith('p36-')
+    ? `https://projekt36.com/guides/${slug.slice(4)}`
+    : `https://airbrushdoc.com/blog/${slug}/`;
+}
+
 async function notifyTelegram(env, id, slug, author, body) {
   if (!env.TG_BOT_TOKEN || !env.TG_CHAT_ID) return; // not configured yet — comment stays pending
   const text =
     `💬 New comment #${id}\n` +
-    `Post: https://airbrushdoc.com/blog/${slug}/\n` +
+    `Post: ${postUrl(slug)}\n` +
     `From: ${author}\n\n` +
     body.slice(0, 500) + (body.length > 500 ? '…' : '');
   const r = await fetch(`https://api.telegram.org/bot${env.TG_BOT_TOKEN}/sendMessage`, {
