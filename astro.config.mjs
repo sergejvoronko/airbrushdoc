@@ -29,6 +29,47 @@ for (const f of fs.readdirSync('./src/content/blog')) {
 
 // Zero-dependency rehype plugin: add rel/target to external links.
 // nofollow + noopener on all external; sponsored on affiliate (Amazon) links.
+// /go/<slug> links that SprayGunner also stocks get a second link to /go/sg-<slug>
+// (see scripts/build-go-links.mjs): "Check price on Amazon" buttons always, other
+// links on their first mention in an article only, so tables don't fill up.
+const SPRAYGUNNER = new Set(
+  Object.keys(JSON.parse(fs.readFileSync('./src/data/spraygunner.json', 'utf8'))).filter((k) => !k.startsWith('_')),
+);
+const textOf = (node) => (node.type === 'text' ? node.value : (node.children ?? []).map(textOf).join(''));
+
+function addSprayGunnerLinks(tree) {
+  const seen = new Set();
+  const inserts = [];
+  const walk = (node, parent) => {
+    if (node.type === 'element' && node.tagName === 'a' && parent) {
+      const slug = String(node.properties?.href ?? '').match(/^\/go\/([^/?#]+)$/)?.[1];
+      if (slug && SPRAYGUNNER.has(slug)) {
+        const cta = /^check price on amazon/i.test(textOf(node).trim());
+        if (cta || !seen.has(slug)) inserts.push({ parent, after: node, slug, cta });
+        seen.add(slug);
+      }
+      return;
+    }
+    (node.children ?? []).forEach((c) => walk(c, node));
+  };
+  walk(tree, null);
+  for (const { parent, after, slug, cta } of inserts) {
+    const link = {
+      type: 'element',
+      tagName: 'a',
+      properties: {
+        href: `/go/sg-${slug}`,
+        className: [cta ? 'alt-store-cta' : 'alt-store'],
+        rel: 'noopener nofollow sponsored',
+        target: '_blank',
+      },
+      children: [{ type: 'text', value: cta ? 'Buy at SprayGunner →' : 'also at SprayGunner' }],
+    };
+    const i = parent.children.indexOf(after);
+    parent.children.splice(i + 1, 0, { type: 'text', value: cta ? ' · ' : ' ' }, link);
+  }
+}
+
 function rehypeExternalLinks() {
   const isExternal = (href) => /^https?:\/\//i.test(href) && !href.includes(SITE_HOST);
   const isAffiliate = (href) => /amazon\.|amzn\.to|assoc-amazon/i.test(href);
@@ -48,7 +89,10 @@ function rehypeExternalLinks() {
     }
     if (node.children) node.children.forEach(walk);
   };
-  return (tree) => walk(tree);
+  return (tree) => {
+    walk(tree);
+    addSprayGunnerLinks(tree);
+  };
 }
 
 export default defineConfig({

@@ -251,6 +251,8 @@
 .abc-cta-btn:hover { filter:brightness(1.1); transform:translateY(-2px);
   box-shadow:0 6px 28px rgba(244,103,26,0.45); }
 .abc-cta-btn svg { width:16px; height:16px; flex-shrink:0; }
+.abc-alt-store { font-size:0.85rem; color:inherit; opacity:0.75; text-decoration:underline dotted; white-space:nowrap; }
+.abc-alt-store:hover { opacity:1; }
 
 /* ── Mobile responsive ── */
 @media(max-width:680px) {
@@ -377,6 +379,7 @@
       pros:['Incredible versatility','Smooth trigger feel','Huge community & parts support','Fine-to-medium line range'],
       cons:['Middle-of-road detail','Higher priced for mid-range','Cup size limits large jobs'],
       affiliate:'/go/iwata-eclipse-hp-cs',
+      sprayGunner:'/go/sg-iwata-eclipse-hp-cs',
       matchReason:'The industry standard all-rounder — reliable for virtually any project you throw at it.'
     },
     {
@@ -388,6 +391,7 @@
       pros:['Unbeatable price-to-quality','Dead-simple disassembly','Forgiving for beginners','Made in USA'],
       cons:['Limited fine detail','Heavier than competitors','Trigger feel less refined'],
       affiliate:'/go/badger-patriot-105',
+      sprayGunner:'/go/sg-badger-patriot-105',
       matchReason:'Best value on the market — perfect for learning without stressing your wallet.'
     },
     {
@@ -399,6 +403,7 @@
       pros:['Most affordable Iwata','Good starter 0.35mm nozzle','Easy to clean','Lightweight'],
       cons:['Build quality is basic','Trigger can feel stiff','Not for heavy daily use'],
       affiliate:'/go/iwata-neo-cn',
+      sprayGunner:'/go/sg-iwata-neo-cn',
       matchReason:'The cheapest way into the Iwata ecosystem — ideal pure-beginner pick.'
     },
     {
@@ -410,6 +415,7 @@
       pros:['3 needle/nozzle sets included','Fan spray cap option','Great coverage range','Solid build'],
       cons:['Jack of all trades, master of none','Fan cap takes practice','Bulkier body design'],
       affiliate:'/go/paasche-talon-starter-set',
+      sprayGunner:'/go/sg-paasche-talon-starter-set',
       matchReason:'Three needle sets in one box — the ultimate versatility kit for varied projects.'
     },
     {
@@ -421,6 +427,7 @@
       pros:['Micro Air Control (MAC) valve','Unmatched atomization','Whisper-quiet operation','Lifetime investment quality'],
       cons:['Premium price tag','Steep learning curve','Demands meticulous cleaning'],
       affiliate:'/go/iwata-custom-micron-cm-c',
+      sprayGunner:'/go/sg-iwata-custom-micron-cm-c',
       matchReason:'The pinnacle of airbrush engineering — when only the absolute best will do.'
     },
     {
@@ -432,6 +439,7 @@
       pros:['Finest 0.15mm nozzle available','Quick-fix self-centering nozzle','Butter-smooth trigger','Modular quick-change cups'],
       cons:['Highest price point','Not for beginners','Requires premium paints'],
       affiliate:'/go/hs-infinity-two-in-one',
+      sprayGunner:'/go/sg-hs-infinity-two-in-one',
       matchReason:'The finest nozzle money can buy at 0.15mm — built for competition-level precision.'
     }
   ];
@@ -641,6 +649,7 @@
         Buy Best Match
         <svg viewBox="0 0 16 16" fill="none"><path d="M4 12l8-8M4 4h8v8" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </a>
+      ${best.sprayGunner ? `<a class="abc-alt-store" href="${best.sprayGunner}" target="_blank" rel="nofollow sponsored noopener">or buy at SprayGunner</a>` : ''}
     </div>`;
     bestEl.classList.remove('abc-show');
     void bestEl.offsetHeight;

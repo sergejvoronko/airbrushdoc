@@ -1,0 +1,23 @@
+{
+  "_comment": "SprayGunner alternatives to Amazon /go/ slugs. Key = the Amazon slug, value = path on spraygunner.com. build-go-links.mjs turns each into /go/sg-<key> with the affiliate ref appended; articles linking /go/<key> then also show a SprayGunner link. Only list products SprayGunner has in stock and that are the same model as the Amazon link.",
+  "iwata-eclipse-hp-cs": "products/iwata-eclipse-hp-cs-gravity-feed-dual-action-airbrush",
+  "iwata-neo-cn": "products/neo-for-iwata-cn-gravity-feed-dual-action-airbrush",
+  "iwata-hp-c-plus": "products/iwata-high-performance-hp-c-plus-gravity-feed-dual-action-airbrush",
+  "iwata-revolution-cr": "products/iwata-revolution-hp-cr",
+  "iwata-custom-micron-cm-c": "products/iwata-custom-micron-cm-c-gravity-feed-dual-action-airbrush",
+  "badger-patriot-105": "products/badger-patriot-105-1-fine-gravity-airbrush",
+  "hs-infinity-two-in-one": "products/harder-steenbeck-infinity-2024-crplus-2-in-1-airbrush",
+  "paasche-talon-starter-set": "products/paasche-talon-ts-1as",
+  "createx-airbrush-colors": "collections/createx-airbrush-colors",
+  "createx-wicked-colors": "collections/createx-wicked-colors",
+  "vallejo-model-air": "collections/vallejo-airbrush-paints-model-air",
+  "vallejo-game-air": "collections/vallejo-airbrush-paints-game-air",
+  "badger-stynylrez-primer": "collections/paints-for-airbrush-badger-airbrush-co-paints",
+  "ak-interactive-gen-primer": "collections/ak-interactive-primers",
+  "iwata-medea-cleaner": "products/medea-airbrush-cleaner-with-invertible-360-nozzle-16-oz",
+  "createx-cleaner-4008": "products/createx-4008-restorer-16oz",
+  "badger-regdab-lube": "products/badger-regdab-needle-juice",
+  "needle-juice": "products/badger-regdab-needle-juice",
+  "tamiya-thinner": "products/tamiya-acrylic-model-paints-x-20a-acrylic-poly-thinner",
+  "createx-retarder": "products/createx-airbrush-colors-retarder-5607"
+}

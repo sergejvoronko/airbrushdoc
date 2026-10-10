@@ -20,6 +20,17 @@ for (const d of JSON.parse(readFileSync('src/data/merch-designs.json', 'utf8')))
   if (url) links[merchSlug(d.slug)] = { url, status: 302 };
 }
 
+// SprayGunner alternatives go through /go/sg-<amazon slug>: the sg- prefix is how
+// the dashboard tells the two stores apart, and the rehype plugin in
+// astro.config.mjs adds the second link next to the Amazon one. Kept out of
+// _redirects for the same reason as merch.
+const SG_REF = 'VkROcW1ulb';
+for (const [slug, path] of Object.entries(JSON.parse(readFileSync('src/data/spraygunner.json', 'utf8')))) {
+  if (slug.startsWith('_')) continue;
+  if (!links[slug]) throw new Error(`spraygunner.json: no Amazon /go/${slug} to pair with`);
+  links[`sg-${slug}`] = { url: `https://spraygunner.com/${path}?bg_ref=${SG_REF}`, status: 302 };
+}
+
 function merchSlug(designSlug) {
   return `merch-${designSlug.replace(/^\d+-/, '')}`;
 }

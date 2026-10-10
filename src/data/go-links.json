@@ -319,6 +319,10 @@
     "url": "https://www.amazon.com/s?k=airbrush+valve+repair+kit&tag=aircom01f20-20",
     "status": 302
   },
+  "merch-pinstripe-chrome-devil": {
+    "url": "https://www.etsy.com/listing/4590615806/pinstripe-chrome-devil-t-shirt-custom",
+    "status": 302
+  },
   "merch-true-fire-skull": {
     "url": "https://www.etsy.com/listing/4574138138/flaming-skull-t-shirt-airbrush-fire",
     "status": 302
@@ -349,6 +353,86 @@
   },
   "merch-true-fire-wrap-wall": {
     "url": "https://www.etsy.com/listing/4576407653/true-fire-mug-airbrush-flames-black",
+    "status": 302
+  },
+  "sg-iwata-eclipse-hp-cs": {
+    "url": "https://spraygunner.com/products/iwata-eclipse-hp-cs-gravity-feed-dual-action-airbrush?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-iwata-neo-cn": {
+    "url": "https://spraygunner.com/products/neo-for-iwata-cn-gravity-feed-dual-action-airbrush?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-iwata-hp-c-plus": {
+    "url": "https://spraygunner.com/products/iwata-high-performance-hp-c-plus-gravity-feed-dual-action-airbrush?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-iwata-revolution-cr": {
+    "url": "https://spraygunner.com/products/iwata-revolution-hp-cr?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-iwata-custom-micron-cm-c": {
+    "url": "https://spraygunner.com/products/iwata-custom-micron-cm-c-gravity-feed-dual-action-airbrush?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-badger-patriot-105": {
+    "url": "https://spraygunner.com/products/badger-patriot-105-1-fine-gravity-airbrush?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-hs-infinity-two-in-one": {
+    "url": "https://spraygunner.com/products/harder-steenbeck-infinity-2024-crplus-2-in-1-airbrush?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-paasche-talon-starter-set": {
+    "url": "https://spraygunner.com/products/paasche-talon-ts-1as?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-createx-airbrush-colors": {
+    "url": "https://spraygunner.com/collections/createx-airbrush-colors?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-createx-wicked-colors": {
+    "url": "https://spraygunner.com/collections/createx-wicked-colors?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-vallejo-model-air": {
+    "url": "https://spraygunner.com/collections/vallejo-airbrush-paints-model-air?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-vallejo-game-air": {
+    "url": "https://spraygunner.com/collections/vallejo-airbrush-paints-game-air?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-badger-stynylrez-primer": {
+    "url": "https://spraygunner.com/collections/paints-for-airbrush-badger-airbrush-co-paints?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-ak-interactive-gen-primer": {
+    "url": "https://spraygunner.com/collections/ak-interactive-primers?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-iwata-medea-cleaner": {
+    "url": "https://spraygunner.com/products/medea-airbrush-cleaner-with-invertible-360-nozzle-16-oz?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-createx-cleaner-4008": {
+    "url": "https://spraygunner.com/products/createx-4008-restorer-16oz?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-badger-regdab-lube": {
+    "url": "https://spraygunner.com/products/badger-regdab-needle-juice?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-needle-juice": {
+    "url": "https://spraygunner.com/products/badger-regdab-needle-juice?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-tamiya-thinner": {
+    "url": "https://spraygunner.com/products/tamiya-acrylic-model-paints-x-20a-acrylic-poly-thinner?bg_ref=VkROcW1ulb",
+    "status": 302
+  },
+  "sg-createx-retarder": {
+    "url": "https://spraygunner.com/products/createx-airbrush-colors-retarder-5607?bg_ref=VkROcW1ulb",
     "status": 302
   }
 }
