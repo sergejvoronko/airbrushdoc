@@ -1361,10 +1361,10 @@ img { max-width: 100%; height: auto; display: block; }
 .abd-affiliate-notice a:hover { color: #fff; }
 
 /* SprayGunner link added next to Amazon /go/ links (astro.config.mjs) */
-a.alt-store {
-  font-size: 0.78em; white-space: nowrap;
+.alt-store { font-size: 0.78em; white-space: nowrap; color: var(--abd-text-dim); }
+.alt-store a {
   color: var(--abd-text-dim) !important;
   text-decoration: underline dotted !important;
 }
-a.alt-store:hover { color: var(--abd-text) !important; }
+.alt-store a:hover { color: var(--abd-text) !important; }
 a.alt-store-cta { white-space: nowrap; }

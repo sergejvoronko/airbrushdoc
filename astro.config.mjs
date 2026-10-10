@@ -59,14 +59,22 @@ function addSprayGunnerLinks(tree) {
       tagName: 'a',
       properties: {
         href: `/go/sg-${slug}`,
-        className: [cta ? 'alt-store-cta' : 'alt-store'],
+        ...(cta && { className: ['alt-store-cta'] }),
         rel: 'noopener nofollow sponsored',
         target: '_blank',
       },
       children: [{ type: 'text', value: cta ? 'Buy at SprayGunner →' : 'also at SprayGunner' }],
     };
     const i = parent.children.indexOf(after);
-    parent.children.splice(i + 1, 0, { type: 'text', value: cta ? ' · ' : ' ' }, link);
+    const added = cta
+      ? [{ type: 'text', value: ' · ' }, link]
+      : [{ type: 'text', value: ' ' }, {
+          type: 'element',
+          tagName: 'span',
+          properties: { className: ['alt-store'] },
+          children: [{ type: 'text', value: '(' }, link, { type: 'text', value: ')' }],
+        }];
+    parent.children.splice(i + 1, 0, ...added);
   }
 }
 
