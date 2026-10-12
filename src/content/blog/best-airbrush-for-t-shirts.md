@@ -1,14 +1,15 @@
 ---
 title: "Best Airbrush for T-Shirts 2026: Airbrushes, Paints & Setup Guide"
 seoTitle: "Best Airbrush for T-Shirts 2026: Paints & Setup"
-description: "Best airbrushes for T-shirt art, siphon and gravity feed picks, textile paint recommendations, and the complete beginner setup guide for fabric airbrushing."
+description: "Best airbrushes for T-shirt art, siphon and gravity feed picks, textile paint recommendations, fabric prep and heat-setting, and the complete beginner setup guide for fabric airbrushing."
 pubDate: 2025-10-07
+updatedDate: 2026-10-12
 category: "airbrush-reviews"
 tags:
   - "airbrush for t-shirts"
   - "fabric airbrush"
   - "textile airbrush paint"
-readingTime: 11
+readingTime: 12
 heroImage: "/images/best-airbrush-for-t-shirts.webp"
 draft: false
 ---
@@ -143,6 +144,29 @@ Not all airbrush paints work on fabric. You need paints specifically formulated 
 
 **Pre-wash new shirts.** New shirts have sizing and chemical finishes that can prevent paint adhesion. Run them through one wash cycle without fabric softener before painting.
 
+### Fabric Prep and Heat-Setting Checklist
+
+Most failed fabric jobs come from prep and curing, not from the airbrush. Work through it in this order:
+
+1. **Choose the fabric.** Cotton and cotton-rich blends take textile paint best. 100% polyester and slick sportswear fabrics hold paint poorly and can feel stiff or lose color in the wash, so test a scrap before committing to a finished garment.
+2. **Pre-wash, dry, and iron flat.** Wrinkles show up as uneven coverage once the paint is on.
+3. **Put a barrier inside.** Slide cardboard or a plastic sheet inside the shirt or bag so paint can't soak through to the back layer.
+4. **Hold the fabric taut.** Tape or pin the edges to a board. Loose fabric shifts in the air stream and ruins stencil edges.
+5. **Test on a scrap of the same fabric.** Check the color, how the paint feels once dry, and whether it survives a wash.
+6. **Spray light coats and build up.** Soaking the fabric makes colors bleed and leaves the print stiff. Mist thin layers and let each one flash-dry before the next.
+7. **Air dry, then heat set.** Use the times above: at least 30 minutes of drying, then a heat press or iron. Keep the iron moving, use no steam, and heat through parchment paper or from the reverse side so the paint doesn't stick to the iron.
+8. **Wash with care.** Check the paint label for how long to wait before the first wash. Then wash inside out in cold water on a gentle cycle and skip bleach.
+
+### Beyond T-Shirts: Other Fabrics and Surfaces
+
+The same paints and heat-setting work on other fabric items, with a few adjustments:
+
+- **Canvas shoes and tote bags.** Tightly woven cotton canvas is one of the easiest surfaces to paint. Stuff shoes with paper or plastic to keep their shape, and mask soles, laces, and seams with tape.
+- **Denim.** The thick weave soaks up paint. Build the color in thin coats, and expect to need a white base under light colors on dark denim.
+- **Hoodies and fleece.** The fuzzy surface scatters the paint, so edges look soft. Press tape or stencils down firmly and test first.
+- **Stretch fabrics.** Paint can crack where the fabric stretches a long way. Keep designs away from high-stretch areas and test on a scrap.
+- **Stencils on fabric.** Freezer paper ironed on shiny-side down makes a clean mask that peels off without residue. For reusable designs, the [stencil creator](/tools/stencil-creator/) turns a photo into cut-ready layers.
+
 ---
 
 ## The Complete T-Shirt Setup
@@ -192,6 +216,14 @@ Use textile-specific airbrush paints such as Createx Airbrush Colors, Jacquard A
 **How do I make airbrush paint permanent on T-shirts?**
 
 Heat setting. After the paint is fully air-dried (at least 30 minutes), apply heat using a heat press at 350°F for 35 seconds, or iron on medium-high heat for 2–3 minutes through parchment paper. Heat setting activates the binders in textile paint, making the design permanent and machine-washable.
+
+**Can you airbrush on polyester?**
+
+It's difficult. Polyester and other slick synthetics don't absorb textile paint the way cotton does, so the paint can sit on the surface, feel stiff, and fade in the wash. Cotton and cotton-rich blends are the reliable choice. If you must paint polyester, test a scrap first, heat set it, and wash-test it before painting the real item.
+
+**How do I wash an airbrushed T-shirt?**
+
+After the paint is heat set and the paint maker's waiting time has passed, wash it inside out in cold water on a gentle cycle, and avoid bleach. Hang it to dry or tumble on low. Washing inside out protects the design from rubbing against other clothes.
 
 **What PSI should I use for airbrushing T-shirts?**
 
