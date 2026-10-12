@@ -35,7 +35,6 @@ reviews:
     rating: 4.7
     priceLow: 180
     priceHigh: 220
-    url: "/go/california-air-cat1p1060s"
     verdict: "Premium quiet performance."
   - name: "Silentaire Sil-Air 50-24"
     brand: "Silentaire"
@@ -302,7 +301,6 @@ If noise is your primary concern, neighbours, late nights, or just hatred of lou
 **Best for:** Studio artists, apartment dwellers, anyone who wants to work at 2 AM without disturbing anyone.
 
 **Rating: 4.7/5**. Premium quiet performance.
-👉 **[Check price on Amazon →](/go/california-air-cat1p1060s)**
 
 ---
 
