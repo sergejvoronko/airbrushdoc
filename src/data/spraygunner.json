@@ -1,5 +1,5 @@
 {
-  "_amazon_out": ["iwata-revolution-cr", "badger-patriot-105", "badger-stynylrez-primer", "iwata-cleaning-station", "createx-cleaner-4008"],
+  "_amazon_out": ["iwata-revolution-cr", "badger-patriot-105", "badger-stynylrez-primer", "iwata-cleaning-station"],
   "_comment": "SprayGunner alternatives to Amazon /go/ slugs. Key = the Amazon slug, value = path on spraygunner.com. build-go-links.mjs turns each into /go/sg-<key> with the affiliate ref appended; articles linking /go/<key> then also show a SprayGunner link. _amazon_out lists slugs whose Amazon link is currently unavailable (from the Telegram link check): their SprayGunner link then says in stock. Remove a slug when Amazon is back. Only list products SprayGunner has in stock and that are the same model as the Amazon link.",
   "iwata-eclipse-hp-cs": "products/iwata-eclipse-hp-cs-gravity-feed-dual-action-airbrush",
   "iwata-neo-cn": "products/neo-for-iwata-cn-gravity-feed-dual-action-airbrush",
@@ -16,7 +16,6 @@
   "badger-stynylrez-primer": "collections/paints-for-airbrush-badger-airbrush-co-paints",
   "ak-interactive-gen-primer": "collections/ak-interactive-primers",
   "iwata-medea-cleaner": "products/medea-airbrush-cleaner-with-invertible-360-nozzle-16-oz",
-  "createx-cleaner-4008": "products/createx-4008-restorer-16oz",
   "iwata-cleaning-station": "products/iwata-universal-spray-out-pot",
   "badger-regdab-lube": "products/badger-regdab-needle-juice",
   "needle-juice": "products/badger-regdab-needle-juice",

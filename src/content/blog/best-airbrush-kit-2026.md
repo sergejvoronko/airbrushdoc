@@ -175,7 +175,7 @@ Even "complete" kits rarely include everything you need for your first session:
 
 **Always missing:**
 - **Respirator mask**. Non-negotiable for health. Budget kits never include one. ($20–35)
-- **Proper cleaning solution**. Kits might include a tiny bottle. Buy a full-size bottle of [Createx 4008](/go/createx-cleaner-4008) or [Iwata Medea Cleaner](/go/iwata-medea-cleaner).
+- **Proper cleaning solution**. Kits might include a tiny bottle. Buy a full-size bottle of [Createx 4008](/go/sg-createx-cleaner-4008) or [Iwata Medea Cleaner](/go/iwata-medea-cleaner).
 - **Proper airbrush paint**. Unless the kit specifically includes quality paint, plan to buy separately. ($15–40 for a starter set)
 
 **Usually missing:**

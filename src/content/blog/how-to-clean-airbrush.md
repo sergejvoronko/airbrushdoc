@@ -175,7 +175,7 @@ The #1 rule: **the solvent that thins your paint will also clean it.** Don't ove
 
 **For end-of-session and deep clean:** Dedicated airbrush cleaner is much more effective than water alone at dissolving dried residue. Good options:
 
-- [**Createx Airbrush Cleaner (4008)**](/go/createx-cleaner-4008), industry standard, works with all Createx and most water-based paints
+- [**Createx Airbrush Cleaner (4008)**](/go/sg-createx-cleaner-4008), industry standard, works with all Createx and most water-based paints
 - [**Iwata Medea Airbrush Cleaner**](/go/iwata-medea-cleaner), excellent general-purpose cleaner
 - **Vallejo Airbrush Cleaner**, good companion to Vallejo paints
 - **Isopropyl alcohol (IPA)**, works well but can damage rubber o-rings with prolonged use. Use the 91% or 99% concentration.
