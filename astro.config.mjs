@@ -35,6 +35,8 @@ for (const f of fs.readdirSync('./src/content/blog')) {
 const SPRAYGUNNER = new Set(
   Object.keys(JSON.parse(fs.readFileSync('./src/data/spraygunner.json', 'utf8'))).filter((k) => !k.startsWith('_')),
 );
+// Slugs whose Amazon link is currently unavailable: the SprayGunner link then says "in stock".
+const AMAZON_OUT = new Set(JSON.parse(fs.readFileSync('./src/data/spraygunner.json', 'utf8'))._amazon_out ?? []);
 const textOf = (node) => (node.type === 'text' ? node.value : (node.children ?? []).map(textOf).join(''));
 
 function addSprayGunnerLinks(tree) {
@@ -63,7 +65,7 @@ function addSprayGunnerLinks(tree) {
         rel: 'noopener nofollow sponsored',
         target: '_blank',
       },
-      children: [{ type: 'text', value: cta ? 'Buy at SprayGunner →' : 'also at SprayGunner' }],
+      children: [{ type: 'text', value: AMAZON_OUT.has(slug) ? (cta ? 'Buy at SprayGunner (in stock) →' : 'in stock at SprayGunner') : cta ? 'Buy at SprayGunner →' : 'also at SprayGunner' }],
     };
     const i = parent.children.indexOf(after);
     const added = cta
