@@ -16,9 +16,11 @@ const withLive = designs.map(d => ({ ...d, live: d.productId ? byId.get(d.produc
 const goHref = (slug: string) => `/go/merch-${slug.replace(/^\d+-/, '')}`;
 const liveCount = withLive.filter(d => d.live).length;
 
-// Anything actually on sale leads, regardless of the hand-set featured flag.
-const featured = withLive.filter(d => d.live);
-const rest = withLive.filter(d => !d.live);
+// Only designs on sale are shown: the weekly generator keeps adding new ones,
+// so unreleased artwork is no longer listed (it stays in the data file).
+// Until the store has anything, every design shows so the page is not empty.
+const featured = liveCount > 0 ? withLive.filter(d => d.live) : withLive;
+const rest: typeof withLive = [];
 ---
 
 <BaseLayout
@@ -34,7 +36,7 @@ const rest = withLive.filter(d => !d.live);
       </nav>
       <div class="blg-title-row">
         <h1 class="blg-page-title">Wear the <span class="blg-page-title-accent">Work</span></h1>
-        <span class="blg-post-count">{liveCount > 0 ? `${liveCount} in the store · ${designs.length} designs` : `${designs.length} designs`}</span>
+        <span class="blg-post-count">{liveCount > 0 ? `${liveCount} designs in the store` : `${designs.length} designs`}</span>
       </div>
       <div class="blg-header-line"></div>
       <p class="mrc-intro">
@@ -109,7 +111,7 @@ const rest = withLive.filter(d => !d.live);
       <p class="mrc-notify-sub">
         {liveCount === 0
           ? 'Same list as the freebies — reference packs and stencils included. No payment, just your email.'
-          : `${designs.length - liveCount} more designs are print-ready and not in the store yet. Same list as the freebies — reference packs and stencils included.`}
+          : 'A new design lands most weeks. Same list as the freebies — reference packs and stencils included.'}
       </p>
       <NewsletterBox />
     </section>
