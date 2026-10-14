@@ -6,10 +6,22 @@
     "blurb": "Every painter knows the stomach-drop feeling of a dropped brush and a ruined tip. This piece turns that exact split-second nightmare into a high-contrast Halloween horror icon.",
     "tag": "New",
     "products": [
-      "Tee"
+      "Tee",
+      "Back print tee",
+      "Hoodie",
+      "Canvas"
     ],
     "w": 604,
-    "h": 900
+    "h": 900,
+    "buy": {
+      "Tee": "6ace5d7ee1c98bc36b092dad",
+      "Back print tee": "6acfbe82575ee9c2660b45b3",
+      "Hoodie": "6acfbe859d0efa852e0dc623",
+      "Canvas": "6acfbe8fd5e2e568bc036bfd"
+    },
+    "extendedBy": [
+      "6acfbe82575ee9c2660b45b3"
+    ]
   },
   {
     "slug": "12-pinstripe-chrome-devil",
@@ -132,7 +144,19 @@
     "tag": "Subtle",
     "blurb": "Ghost flames and fine pinstriping over a skull that only shows where the light catches it. For when you do not want to shout.",
     "products": [
-      "Tee"
+      "Tee",
+      "Back print tee",
+      "Hoodie",
+      "Canvas"
+    ],
+    "buy": {
+      "Tee": "6aa5b0a983359e889902dfb5",
+      "Back print tee": "6acfe332d5e2e568bc038d84",
+      "Hoodie": "6acfe335ad793f7fea0de618",
+      "Canvas": "6acfe3443920a8cdf60c4c5c"
+    },
+    "extendedBy": [
+      "6acfe332d5e2e568bc038d84"
     ]
   },
   {
