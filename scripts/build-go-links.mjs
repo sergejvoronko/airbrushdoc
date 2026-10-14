@@ -18,6 +18,9 @@ const listings = new Map(JSON.parse(readFileSync('src/data/merch.json', 'utf8'))
 for (const d of JSON.parse(readFileSync('src/data/merch-designs.json', 'utf8'))) {
   const url = listings.get(d.productId);
   if (url) links[merchSlug(d.slug)] = { url, status: 302 };
+  for (const [label, id] of Object.entries(d.buy || {})) {
+    if (id !== d.productId && listings.has(id)) links[merchSlug(d.slug, label)] = { url: listings.get(id), status: 302 };
+  }
 }
 
 // SprayGunner alternatives go through /go/sg-<amazon slug>: the sg- prefix is how
@@ -31,8 +34,10 @@ for (const [slug, path] of Object.entries(JSON.parse(readFileSync('src/data/spra
   links[`sg-${slug}`] = { url: `https://spraygunner.com/${path}?bg_ref=${SG_REF}`, status: 302 };
 }
 
-function merchSlug(designSlug) {
-  return `merch-${designSlug.replace(/^\d+-/, '')}`;
+// Keep in step with goHref in src/pages/merch/index.astro.
+function merchSlug(designSlug, label) {
+  const base = `merch-${designSlug.replace(/^\d+-/, '')}`;
+  return label ? `${base}-${label.toLowerCase().replace(/[^a-z0-9]+/g, '-')}` : base;
 }
 writeFileSync('src/data/go-links.json', JSON.stringify(links, null, 2) + '\n');
 console.log(`go-links: ${Object.keys(links).length} slugs`);

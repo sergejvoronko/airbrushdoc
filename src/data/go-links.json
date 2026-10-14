@@ -315,6 +315,10 @@
     "url": "https://www.amazon.com/s?k=airbrush+valve+repair+kit&tag=aircom01f20-20",
     "status": 302
   },
+  "merch-bent-needle-phantom-hand": {
+    "url": "https://www.etsy.com/listing/4594623407/bent-needle-phantom-hand-t-shirt-custom",
+    "status": 302
+  },
   "merch-pinstripe-chrome-devil": {
     "url": "https://www.etsy.com/listing/4590615806/pinstripe-chrome-devil-t-shirt-custom",
     "status": 302
@@ -323,16 +327,64 @@
     "url": "https://www.etsy.com/listing/4574138138/flaming-skull-t-shirt-airbrush-fire",
     "status": 302
   },
+  "merch-true-fire-skull-back-print-tee": {
+    "url": "https://www.etsy.com/listing/4595322724/flaming-skull-t-shirt-back-print-edition",
+    "status": 302
+  },
+  "merch-true-fire-skull-hoodie": {
+    "url": "https://www.etsy.com/listing/4595303541/flaming-skull-hoodie-back-print-edition",
+    "status": 302
+  },
+  "merch-true-fire-skull-canvas": {
+    "url": "https://www.etsy.com/listing/4595303715/flaming-skull-canvas-print-airbrush-fire",
+    "status": 302
+  },
   "merch-respirator-skull": {
     "url": "https://www.etsy.com/listing/4576425562/gas-mask-skull-t-shirt-respirator-skull",
+    "status": 302
+  },
+  "merch-respirator-skull-back-print-tee": {
+    "url": "https://www.etsy.com/listing/4595323208/gas-mask-skull-t-shirt-back-print",
+    "status": 302
+  },
+  "merch-respirator-skull-hoodie": {
+    "url": "https://www.etsy.com/listing/4595303903/gas-mask-skull-hoodie-back-print-edition",
+    "status": 302
+  },
+  "merch-respirator-skull-canvas": {
+    "url": "https://www.etsy.com/listing/4595304111/gas-mask-skull-canvas-print-respirator",
     "status": 302
   },
   "merch-flaming-piston": {
     "url": "https://www.etsy.com/listing/4576403735/flaming-piston-t-shirt-hot-rod-engine",
     "status": 302
   },
+  "merch-flaming-piston-back-print-tee": {
+    "url": "https://www.etsy.com/listing/4595334238/flaming-piston-t-shirt-back-print",
+    "status": 302
+  },
+  "merch-flaming-piston-hoodie": {
+    "url": "https://www.etsy.com/listing/4595334304/flaming-piston-hoodie-back-print-edition",
+    "status": 302
+  },
+  "merch-flaming-piston-canvas": {
+    "url": "https://www.etsy.com/listing/4595314847/flaming-piston-canvas-print-hot-rod",
+    "status": 302
+  },
   "merch-screaming-skull": {
     "url": "https://www.etsy.com/listing/4576405791/screaming-skull-t-shirt-paint-splatter",
+    "status": 302
+  },
+  "merch-screaming-skull-back-print-tee": {
+    "url": "https://www.etsy.com/listing/4595311275/screaming-skull-t-shirt-back-print",
+    "status": 302
+  },
+  "merch-screaming-skull-hoodie": {
+    "url": "https://www.etsy.com/listing/4595311339/screaming-skull-hoodie-back-print",
+    "status": 302
+  },
+  "merch-screaming-skull-canvas": {
+    "url": "https://www.etsy.com/listing/4595330928/screaming-skull-canvas-print-paint",
     "status": 302
   },
   "merch-ghost-flame-skull": {

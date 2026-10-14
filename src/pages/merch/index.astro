@@ -13,7 +13,20 @@ import designs from '../../data/merch-designs.json';
 const byId = new Map(liveProducts.map(p => [p.id, p]));
 const withLive = designs.map(d => ({ ...d, live: d.productId ? byId.get(d.productId) : undefined }));
 // Same slug scripts/build-go-links.mjs gives each live listing, so the click is counted.
-const goHref = (slug: string) => `/go/merch-${slug.replace(/^\d+-/, '')}`;
+// The label suffix matches merchSlug in scripts/build-go-links.mjs.
+const goHref = (slug: string, label?: string) =>
+  `/go/merch-${slug.replace(/^\d+-/, '')}` + (label ? `-${label.toLowerCase().replace(/[^a-z0-9]+/g, '-')}` : '');
+// A design sold as several products lists each one under `buy` (label -> product id);
+// every chip whose product is on Etsy links to that listing, not only the main one.
+type Chip = { label: string; href?: string };
+const chipsOf = (d: (typeof designs)[number]): Chip[] => {
+  const buy = (d as { buy?: Record<string, string> }).buy;
+  if (!buy) return d.products.map(label => ({ label }));
+  return Object.entries(buy).map(([label, id]) => ({
+    label,
+    href: byId.has(id) ? goHref(d.slug, id === d.productId ? undefined : label) : undefined,
+  }));
+};
 const liveCount = withLive.filter(d => d.live).length;
 
 // Only designs on sale are shown: the weekly generator keeps adding new ones,
@@ -66,7 +79,9 @@ const rest: typeof withLive = [];
             <span class="mrc-tag">{d.tag}</span>
             <h2 class="mrc-name">{d.name}</h2>
             <p class="mrc-blurb">{d.blurb}</p>
-            <div class="mrc-products">{d.products.map(p => <span class="mrc-chip">{p}</span>)}</div>
+            <div class="mrc-products">{chipsOf(d).map(c => c.href
+              ? <a class="mrc-chip mrc-chip-link" href={c.href} target="_blank" rel="noopener">{c.label} ↗</a>
+              : <span class="mrc-chip">{c.label}</span>)}</div>
             {d.live
               ? <a class="mrc-btn" href={goHref(d.slug)} target="_blank" rel="noopener">Buy on Etsy</a>
               : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
@@ -85,7 +100,9 @@ const rest: typeof withLive = [];
             <span class="mrc-tag">{d.tag}</span>
             <h3 class="mrc-name">{d.name}</h3>
             <p class="mrc-blurb">{d.blurb}</p>
-            <div class="mrc-products">{d.products.map(p => <span class="mrc-chip">{p}</span>)}</div>
+            <div class="mrc-products">{chipsOf(d).map(c => c.href
+              ? <a class="mrc-chip mrc-chip-link" href={c.href} target="_blank" rel="noopener">{c.label} ↗</a>
+              : <span class="mrc-chip">{c.label}</span>)}</div>
             {d.live
               ? <a class="mrc-btn" href={goHref(d.slug)} target="_blank" rel="noopener">Buy on Etsy</a>
               : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
@@ -207,6 +224,12 @@ const rest: typeof withLive = [];
     border-radius: 999px;
     padding: 3px 10px;
   }
+  .mrc-chip-link {
+    color: var(--abd-orange);
+    border-color: rgba(244, 103, 26, 0.45);
+    text-decoration: none;
+  }
+  .mrc-chip-link:hover { background: rgba(244, 103, 26, 0.12); }
 
   .mrc-btn {
     margin-top: auto;

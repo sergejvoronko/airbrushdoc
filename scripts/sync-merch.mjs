@@ -48,10 +48,17 @@ function fromPrice(p) {
 async function main() {
   const t = await token();
   // 50 is the API maximum; limit=100 is rejected with code 8150
-  const { data: products } = await api(t, `/shops/${SHOP}/products.json?limit=50`);
+  const products = [];
+  for (let page = 1, last = 1; page <= last; page++) {
+    const r = await api(t, `/shops/${SHOP}/products.json?limit=50&page=${page}`);
+    products.push(...r.data);
+    last = r.last_page;
+  }
 
   // The Etsy shop holds several brands in sections; only this site's designs count.
-  const mine = new Set(JSON.parse(await readFile(path.join(ROOT, 'src/data/merch-designs.json'), 'utf8')).map(d => d.productId));
+  // A design sold as several products (tee, hoodie, canvas) lists the others under `buy`.
+  const designs = JSON.parse(await readFile(path.join(ROOT, 'src/data/merch-designs.json'), 'utf8'));
+  const mine = new Set(designs.flatMap(d => [d.productId, ...Object.values(d.buy || {})]));
   const live = products.filter(p => mine.has(p.id) && p.external?.handle && p.visible);
 
   const out = live.map(p => ({

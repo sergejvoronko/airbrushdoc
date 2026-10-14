@@ -31,13 +31,20 @@
     "blurb": "The one every airbrush artist paints first and never stops painting. Real true-fire technique, white-hot cores bleeding to feathered orange tips.",
     "products": [
       "Tee",
+      "Back print tee",
       "Hoodie",
       "Canvas"
     ],
     "featured": true,
     "extendedBy": [
       "6acf8ec626a0727ce80c3d24"
-    ]
+    ],
+    "buy": {
+      "Tee": "6aa5b083095fdf0c81097f40",
+      "Back print tee": "6acf8ec626a0727ce80c3d24",
+      "Hoodie": "6acf8ec926a0727ce80c3d27",
+      "Canvas": "6acf8ed7f528f55b250acf4d"
+    }
   },
   {
     "slug": "07-respirator-skull",
@@ -47,13 +54,20 @@
     "blurb": "Skull in a twin-cartridge spray respirator with the fire glow behind it. For anyone who has spent a summer masked up in a hot booth.",
     "products": [
       "Tee",
+      "Back print tee",
       "Hoodie",
       "Canvas"
     ],
     "featured": true,
     "extendedBy": [
       "6acf9df4582cbd20730cd5b1"
-    ]
+    ],
+    "buy": {
+      "Tee": "6aa5b09d95e95f327b025b9c",
+      "Back print tee": "6acf9df4582cbd20730cd5b1",
+      "Hoodie": "6acf9df6884b2dd842023cbd",
+      "Canvas": "6acf9e0787094f77180656da"
+    }
   },
   {
     "slug": "11-flaming-piston",
@@ -63,12 +77,19 @@
     "blurb": "A chrome piston climbing out of its own fire. The other half of the trade: the engine the paint goes on.",
     "products": [
       "Tee",
+      "Back print tee",
       "Hoodie",
       "Canvas"
     ],
     "extendedBy": [
       "6acf727766350c99c7006344"
-    ]
+    ],
+    "buy": {
+      "Tee": "6aa6902b452bc62b22036ba9",
+      "Back print tee": "6acf727766350c99c7006344",
+      "Hoodie": "6acf7279d36411aef30024fd",
+      "Canvas": "6acf72800334c6918809ba4f"
+    }
   },
   {
     "slug": "10-screaming-skull",
@@ -78,12 +99,19 @@
     "blurb": "Jaw wrenched open mid-scream in a burst of flung paint, drips running off the mandible. The loudest thing on the rack.",
     "products": [
       "Tee",
+      "Back print tee",
       "Hoodie",
       "Canvas"
     ],
     "extendedBy": [
       "6acfa453884b2dd8420241df"
-    ]
+    ],
+    "buy": {
+      "Tee": "6aa5b0b991ba01fd050ba80e",
+      "Back print tee": "6acfa453884b2dd8420241df",
+      "Hoodie": "6acfa45572013e99f70247c0",
+      "Canvas": "6acfa4623920a8cdf60c12f2"
+    }
   },
   {
     "slug": "09-ghost-flame-skull",
