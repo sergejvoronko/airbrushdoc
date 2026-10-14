@@ -14,6 +14,8 @@ The idea to write this article came to me when I found a video of **homemade air
 
 I'm not sure if any of you are going to use any of next advices maybe if you desperately want to try [airbrushing](/) or need to do some very simple art work on your airplane model, just give it a try ;)
 
+*Looking for how to make airbrush paint rather than the airbrush itself? See [how to make airbrush paint from regular acrylics](/blog/how-to-make-airbrush-paint/).*
+
 Let's start with the simplest one
 
 ## Syringe Airbrush in 10 minutes

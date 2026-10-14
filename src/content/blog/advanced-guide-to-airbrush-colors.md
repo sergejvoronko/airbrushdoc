@@ -20,7 +20,7 @@ Let's assume that you have all the equipment that is required for [airbrushing](
 
 In the first part I'm going to take a look at the types of paints, the differences and their use. In second part I'm going to have a look at brands and the third part is going to be a collection of advices as I did in my previous articles.
 
-[Airbrushing as art](/blog/talent-and-airbrushing/) requires special paints but that does not mean that you have to use paints dedicated only for airbrushing. To present day there is a lot of art stores (shops) or automotive suppliers that have all these paints in their catalogue.
+[Airbrushing as art](/blog/talent-and-airbrushing/) requires special paints but that does not mean that you have to use paints dedicated only for airbrushing. If you already own tube or craft acrylics, my guide on [how to make airbrush paint](/blog/how-to-make-airbrush-paint/) shows how to convert them. To present day there is a lot of art stores (shops) or automotive suppliers that have all these paints in their catalogue.
 
 If you know everything about types of colors just jump to paragraph numbered [**2**](#paintbrands).
 
