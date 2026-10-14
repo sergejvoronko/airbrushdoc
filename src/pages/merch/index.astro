@@ -27,6 +27,8 @@ const chipsOf = (d: (typeof designs)[number]): Chip[] => {
     href: byId.has(id) ? goHref(d.slug, id === d.productId ? undefined : label) : undefined,
   }));
 };
+// When the chips link, they are the buy buttons; a separate button would repeat the first chip.
+const hasLinks = (d: (typeof designs)[number]) => chipsOf(d).some(c => c.href);
 const liveCount = withLive.filter(d => d.live).length;
 
 // Only designs on sale are shown: the weekly generator keeps adding new ones,
@@ -79,10 +81,10 @@ const rest: typeof withLive = [];
             <span class="mrc-tag">{d.tag}</span>
             <h2 class="mrc-name">{d.name}</h2>
             <p class="mrc-blurb">{d.blurb}</p>
-            <div class="mrc-products">{chipsOf(d).map(c => c.href
+            <div class="mrc-products">{hasLinks(d) && <span class="mrc-buy-label">Buy on Etsy:</span>}{chipsOf(d).map(c => c.href
               ? <a class="mrc-chip mrc-chip-link" href={c.href} target="_blank" rel="noopener">{c.label} ↗</a>
               : <span class="mrc-chip">{c.label}</span>)}</div>
-            {d.live
+            {hasLinks(d) ? null : d.live
               ? <a class="mrc-btn" href={goHref(d.slug)} target="_blank" rel="noopener">Buy on Etsy</a>
               : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
           </div>
@@ -100,10 +102,10 @@ const rest: typeof withLive = [];
             <span class="mrc-tag">{d.tag}</span>
             <h3 class="mrc-name">{d.name}</h3>
             <p class="mrc-blurb">{d.blurb}</p>
-            <div class="mrc-products">{chipsOf(d).map(c => c.href
+            <div class="mrc-products">{hasLinks(d) && <span class="mrc-buy-label">Buy on Etsy:</span>}{chipsOf(d).map(c => c.href
               ? <a class="mrc-chip mrc-chip-link" href={c.href} target="_blank" rel="noopener">{c.label} ↗</a>
               : <span class="mrc-chip">{c.label}</span>)}</div>
-            {d.live
+            {hasLinks(d) ? null : d.live
               ? <a class="mrc-btn" href={goHref(d.slug)} target="_blank" rel="noopener">Buy on Etsy</a>
               : <span class="mrc-btn mrc-btn-off">Not in the store yet</span>}
           </div>
@@ -229,6 +231,7 @@ const rest: typeof withLive = [];
     border-color: rgba(244, 103, 26, 0.45);
     text-decoration: none;
   }
+  .mrc-buy-label { font-size: 0.72rem; color: var(--abd-text-dim); align-self: center; }
   .mrc-chip-link:hover { background: rgba(244, 103, 26, 0.12); }
 
   .mrc-btn {
