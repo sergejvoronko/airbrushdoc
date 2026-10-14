@@ -30,9 +30,14 @@
     "tag": "Signature",
     "blurb": "The one every airbrush artist paints first and never stops painting. Real true-fire technique, white-hot cores bleeding to feathered orange tips.",
     "products": [
-      "Tee"
+      "Tee",
+      "Hoodie",
+      "Canvas"
     ],
-    "featured": true
+    "featured": true,
+    "extendedBy": [
+      "6acf8ec626a0727ce80c3d24"
+    ]
   },
   {
     "slug": "07-respirator-skull",
@@ -41,9 +46,14 @@
     "tag": "Signature",
     "blurb": "Skull in a twin-cartridge spray respirator with the fire glow behind it. For anyone who has spent a summer masked up in a hot booth.",
     "products": [
-      "Tee"
+      "Tee",
+      "Hoodie",
+      "Canvas"
     ],
-    "featured": true
+    "featured": true,
+    "extendedBy": [
+      "6acf9df4582cbd20730cd5b1"
+    ]
   },
   {
     "slug": "11-flaming-piston",
@@ -52,7 +62,12 @@
     "tag": "Hot rod",
     "blurb": "A chrome piston climbing out of its own fire. The other half of the trade: the engine the paint goes on.",
     "products": [
-      "Tee"
+      "Tee",
+      "Hoodie",
+      "Canvas"
+    ],
+    "extendedBy": [
+      "6acf727766350c99c7006344"
     ]
   },
   {
@@ -62,7 +77,12 @@
     "tag": "Loud",
     "blurb": "Jaw wrenched open mid-scream in a burst of flung paint, drips running off the mandible. The loudest thing on the rack.",
     "products": [
-      "Tee"
+      "Tee",
+      "Hoodie",
+      "Canvas"
+    ],
+    "extendedBy": [
+      "6acfa453884b2dd8420241df"
     ]
   },
   {
