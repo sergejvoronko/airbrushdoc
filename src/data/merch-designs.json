@@ -18,10 +18,22 @@
     "blurb": "Crisp pinstriping meets polished chrome reflections. Printed on heavy black cotton for long sessions in the paint booth or at the workbench.",
     "tag": "New",
     "products": [
-      "Tee"
+      "Tee",
+      "Back print tee",
+      "Hoodie",
+      "Canvas"
     ],
     "w": 604,
-    "h": 900
+    "h": 900,
+    "buy": {
+      "Tee": "6ac5dceb4baf93c6500a37b9",
+      "Back print tee": "6acfb5ef72013e99f7025b46",
+      "Hoodie": "6acfb5f290ab0eb26d07ec26",
+      "Canvas": "6acfb5fe3c897dd8240d1bc4"
+    },
+    "extendedBy": [
+      "6acfb5ef72013e99f7025b46"
+    ]
   },
   {
     "slug": "01-true-fire-skull",
