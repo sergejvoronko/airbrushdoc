@@ -73,7 +73,7 @@ Before looking at specific products, understand that there are three approaches 
 
 ---
 
-## Budget All-in-One Kits (Under $120)
+## Best Cheap Airbrush Kit: Budget All-in-One Sets (Under $120)
 
 ### Master Airbrush Cool Runner II Kit: MOST POPULAR STARTER
 
@@ -99,9 +99,9 @@ The cordless airbrush category has exploded. These compact, battery-powered unit
 
 ---
 
-## Brand-Name Kits ($150–250)
+## Best Airbrush Kit With Compressor: Brand-Name Sets ($150–250)
 
-These kits pair a genuine brand-name airbrush with a matched compressor. The price is higher, but so is the quality of every component.
+If you want the best airbrush kit with compressor included and no upgrades needed later, start here. These kits pair a genuine brand-name airbrush with a matched compressor. The price is higher, but so is the quality of every component.
 
 ### Iwata Neo + Ninja Jet Kit: BEST BRAND-NAME STARTER
 

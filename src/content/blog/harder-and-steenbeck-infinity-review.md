@@ -1,6 +1,6 @@
 ---
-title: "Harder and Steenbeck Infinity Review"
-seoTitle: "Harder & Steenbeck Infinity Review: Worth the Price?"
+title: "Harder and Steenbeck Infinity Review: 2011 Original vs 2024 Model"
+seoTitle: "Harder and Steenbeck Infinity Review: 2011 vs 2024 Model"
 description: "Hands-on with the Infinity: nozzle sizes, trigger feel, cleaning, spares cost, and whether the step up from the Evolution is justified for your work."
 pubDate: 2011-06-01
 category: "airbrush-reviews"

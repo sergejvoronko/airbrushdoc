@@ -10,6 +10,8 @@ draft: false
 heroImage: "/images/wp-uploads/airbrush-invention1.webp"
 ---
 
+**When was the airbrush invented?** The answer is 1876 or 1879, depending on what you count as an airbrush. Francis Edgar Stanley patented his "atomizer" in 1876, and Abner Peeler built his "paint distributor", the tool most often credited as the first airbrush, in 1879.
+
 This is my first blog post and I have no clue how to start but my first idea was to find something about the history of airbrush and post it here. When I started my search (to my surprise) I've found lots of websites about history of airbrush oriented only to history of airbrush.
 
 Thanks to this research I've found lots of useful and interesting information. As there is many different sources I will try to use the best parts from all sources I've found.
@@ -24,7 +26,7 @@ On the next picture is Andy alias "**Doctor Airbrush**" with original painting m
 
 Another site [Airbrushmuseum.com](https://www.airbrushmuseum.com/) provides look from different angle on the invention of airbrush and in my opinion it possesses more material (e.g. scans of certificates and books) about history. You can even ask the author to send you scans of **all airbrush certificates**. Well that's the best sites I've found on web. Below are my own notes and links which I hope are easy to read.
 
-## The year of invention (1876 or 1879?)
+## When Was the Airbrush Invented? 1876 or 1879
 
 ### Abner Peeler (1879)
 

@@ -77,6 +77,16 @@ In this guide you'll find:
 - Why cheap Chinese airbrushes almost always disappoint
 - Which brands actually deliver quality at reasonable prices
 
+## How Much Does an Airbrush Cost?
+
+An airbrush on its own costs anywhere from about $20 for an unbranded clone to $400 or more for a flagship model. In practice the market splits into three tiers, and they match the sections of this guide:
+
+- **Budget, $50–$100:** real brand-name airbrushes like the Iwata Neo CN and Badger Patriot 105. This is where I tell beginners to start.
+- **Mid-range, $100–$200:** the tools most serious hobbyists end up keeping for years.
+- **Professional, $200–$400+:** finer needles, better triggers and tighter tolerances for detail work.
+
+The airbrush is only part of the bill. You also need a compressor, a hose, a moisture trap and cleaning supplies, so a complete first setup usually costs two to three times what the airbrush alone does. My [airbrush kit guide](/blog/best-airbrush-kit-2026/) shows what the complete packages cost.
+
 ## How to Choose the Right Airbrush
 
 Before looking at specific models, understand these three critical factors.

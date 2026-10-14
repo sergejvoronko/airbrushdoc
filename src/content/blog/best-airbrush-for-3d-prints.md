@@ -131,7 +131,7 @@ Backflushing with cleaner, then running clean water through, then backflushing w
 
 ---
 
-## Quick Workflow Summary for Beginners
+## How to Airbrush 3D Prints: Quick Workflow for Beginners
 
 1. **Wash and fully cure resin prints** before touching them (FDM needs no washing, just dust-free)
 2. **Sand FDM layer lines** if you want a smoother finish (220–400 grit works well)

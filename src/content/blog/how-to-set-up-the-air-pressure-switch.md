@@ -22,10 +22,10 @@ So I'm going to answer the question and I will add some info about wiring the pr
 
 ## Answer
 
-### How to Adjust Air Pressure Switch?
+### Air Compressor Pressure Switch Adjustment Screws
 
 Before you even start setting up the switch you should have your tank filled up with the air because first you have to set the minimal pressure for your tank. So, when you will lose some air you will see when the switch goes on. To see the pressure values you should have the gauge (manometer) connected to your tank. Here I have to include the picture that you better see how it works.
-![Diagram of a pressure switch showing the two adjustment screws](/images/wp-uploads/air-pressure-switch-how-to.webp)
+![Air compressor pressure switch diagram showing the two adjustment screws](/images/wp-uploads/air-pressure-switch-how-to.webp)
 
 The small spring "number **1 on the picture**" is called **differential spring** and it sets the difference between "**on**" and "**off**" cut points. When you start setting your switch you should fully tight the **differential spring (1)**. Then start tighten up in small steps the **big spring (2)**. Then release air from tank and watch the **pressure on your gauge** (manometer). With this spring you will set the **"on" pressure** (minimal pressure) you need.
 
@@ -34,7 +34,7 @@ Only when you're done with setting the **minimum pressure** go back and loose up
 I think that this explanation is good to go even for beginner.
 Now as I promised I will explain **how to wire the pressure switch**.
 
-### Air Pressure Switch Wiring
+### Air Compressor Pressure Switch Wiring
 
 ![alert](/images/wp-uploads/alert.webp)
 
@@ -45,7 +45,7 @@ Switch off the power that feeds the **compressor circuit** while you are wiring 
 ![Pressure switch with the cover removed, exposing springs and contacts](/images/wp-uploads/pressure_switch.webp)
 
 As you can see on this picture the pressure switch has a lot of contacts on the unit called "**control terminal of the pressure switch**". In this particular case it has three lines of screws. The top line of terminal has three screws (1, 2, 3) to connect the compressor (depends on compressor, if it has only one phase than you can connect up to 2 compressors to one pressure switch). The second line of terminal ( 01, 02, 03) is for power cord. The bottom line has two screws to connect the grounding.
-![Wiring diagram connecting the pressure switch to compressor and mains](/images/wp-uploads/wiring-pressure-switch.webp)
+![Air compressor pressure switch wiring diagram: switch to compressor motor and mains](/images/wp-uploads/wiring-pressure-switch.webp)
 
 Each set of contacts (01-1 with 02-2 or 03-3 with 02-2) can act like a single switch where 02-2 is for neutral wire. If you have one compressor that you want to regulate with this air pressure switch than use screws 01 and 1 to connect the phase L1 and 02,2 to connect neutral wire N, and one of grounding screws to connect the ground wire G. So you don't have to use all of them. You will need three-wire cable with brown (L), blue (N), yellow-green (G) for 230V or white (L), black (N), green (G) for 115V. Always start with connecting the ground (G). While connecting you will need to remove about half-inch of the plastic insulation to expose the copper wire. Tighten the exposed part of wire under heads of screws very good that it won't become loose.
 

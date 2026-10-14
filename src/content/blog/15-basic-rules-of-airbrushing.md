@@ -41,6 +41,14 @@ If you bought an acrylic paint then you need reducer for acrylic paint, that sim
 
 ### 3. Use Proper Reducer
 
+## How to Hold an Airbrush
+
+Hold an airbrush the way you hold a pen. Rest the body between your thumb and middle finger, put your index finger on the trigger, and let the hose run down over your wrist or the back of your hand so its weight doesn't pull the airbrush down.
+
+- Keep your grip relaxed. A tight grip makes the trigger jerky and your lines shaky.
+- Move from your arm and shoulder, not just your wrist, so long strokes stay even.
+- Keep the airbrush square to the surface (more on that in rule 7) and keep it moving.
+
 ## Starting Airbrushing
 
 So, you have your airbrush ready and turned on the compressor and...STOP... DO NOT pour the paint in yet! First you have to apply first coat or basic coat to be exact. It is the good stuff that helps paint to stick to surface and even to tape your stencils on it. Which type of coat you are going to use depends on surface as well. I use auto coat especially when working with **Nitros** on plastic or metal surface.

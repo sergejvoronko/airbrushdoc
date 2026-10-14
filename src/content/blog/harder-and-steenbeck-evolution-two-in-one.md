@@ -1,6 +1,6 @@
 ---
-title: "Harder and Steenbeck Evolution Two In One"
-seoTitle: "H&S Evolution 2-in-1 Review: Two Nozzles, One Body"
+title: "Harder and Steenbeck Evolution Two in One Review"
+seoTitle: "Harder and Steenbeck Evolution Review: 2-in-1 Tested"
 description: "Hands-on with the Evolution Two in One: what the second nozzle set actually adds, how it cleans, and whether it beats the Infinity for the money."
 pubDate: 2011-05-27
 category: "airbrush-reviews"
