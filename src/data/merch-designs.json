@@ -1,5 +1,22 @@
 [
   {
+    "slug": "15-airbrush-clinic",
+    "productId": "6ad0c31a210a7ce1c70287a5",
+    "name": "Airbrush Clinic",
+    "blurb": "The Airbrush ER badge on the chest, the patient chart on the back: nozzle, needle, trigger, cup, every part labelled. For the one everyone brings their clogged airbrush to.",
+    "tag": "New",
+    "products": [
+      "Tee",
+      "Hoodie"
+    ],
+    "buy": {
+      "Tee": "6ad0c31a210a7ce1c70287a5",
+      "Hoodie": "6ad0c31c70071fa4f20436cf"
+    },
+    "w": 900,
+    "h": 602
+  },
+  {
     "slug": "14-tip-dry",
     "productId": "6ad0b71470071fa4f2042d73",
     "name": "Tip Dry",
