@@ -1,5 +1,22 @@
 [
   {
+    "slug": "14-tip-dry",
+    "productId": "6ad0b71470071fa4f2042d73",
+    "name": "Tip Dry",
+    "blurb": "Front: the needle you just dropped. Back: your face when you see the tip. Every airbrush painter has lived both sides of this shirt.",
+    "tag": "New",
+    "products": [
+      "Tee",
+      "Hoodie"
+    ],
+    "buy": {
+      "Tee": "6ad0b71470071fa4f2042d73",
+      "Hoodie": "6ad0b716ee5744f74e093a36"
+    },
+    "w": 900,
+    "h": 791
+  },
+  {
     "slug": "13-bent-needle-phantom-hand",
     "productId": "6ace5d7ee1c98bc36b092dad",
     "name": "Bent Needle Phantom Hand",
