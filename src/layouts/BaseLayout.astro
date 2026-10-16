@@ -150,11 +150,21 @@ const nav = [
   })} />
   <!-- Microsoft Clarity. EEA visitors need an explicit consent signal: until the banner is
        accepted it runs in no-cookie mode, and Accept upgrades it without a reload. -->
+  <!-- The tag is fetched on first interaction or 3.5s after load: fetched eagerly, its three
+       origins land in Lighthouse's simulated LCP chain and swing mobile LCP 2.0s -> 3.5s.
+       The queue stub stays synchronous so consent calls below are kept until it loads. -->
   <script is:inline>
-    (function(c,l,a,r,i,t,y){
+    (function(c,l,a,r,i){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        var done=false,ev=['pointerdown','keydown','scroll','touchstart'];
+        function load(){
+            if(done)return;done=true;
+            ev.forEach(function(e){removeEventListener(e,load,true)});
+            var t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            l.head.appendChild(t);
+        }
+        ev.forEach(function(e){addEventListener(e,load,{capture:true,passive:true,once:true})});
+        addEventListener('load',function(){setTimeout(load,3500)});
     })(window, document, "clarity", "script", "ysybewsum2");
     (function () {
       var consent = null;
