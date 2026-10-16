@@ -1,7 +1,7 @@
 ---
 title: "Airbrushing With Nitros"
 seoTitle: "Airbrushing Nitro Paint: Solvents, Safety, Setup"
-description: "Using hardware-store nitrocellulose paint in an airbrush: which solvent to thin it with, the pressure it needs, and the ventilation you cannot skip."
+description: "Airbrushing nitrocellulose lacquer: thin it with the brand's reducer or acetone, mix your own colours, seal wood first, and handle red and silver pigments."
 pubDate: 2011-08-02
 category: "guides"
 tags: ["646 reducer", "647 reducer", "649 reducer", "airbrush", "color wheel", "federal standard color", "nitro color", "nitro paint", "Nitrocellulose Based Lacquer Paint", "red nitro color", "shell silver nitro"]
@@ -10,7 +10,9 @@ draft: false
 heroImage: "/images/wp-uploads/Nitro-paint.webp"
 ---
 
-Many times I've run into a situation when I was out of paint. Not because I wanted to, I just wasn't checking the amount of paint I've had and because I don't do artistic work too often, it just happens - from time to time. Recently I ran into the same situation and after one of my Facebook fans pulled a similar situation out I decided to write a post.
+**Can you airbrush nitrocellulose paint, and what do you thin it with?** Yes. Hardware-store nitrocellulose (NC) lacquer sprays well through an airbrush once it is thinned. Use the reducer made by the same brand as the paint. If the maker sells none, use the most common solvent for nitrocellulose, **acetone**, because nitro lacquer needs a fast-evaporating thinner. The solvents are flammable, volatile and toxic, so spray only with strong ventilation and a respirator rated for organic vapours.
+
+Nitro paint is a cheap alternative when you run out of professional airbrush paint, and it is still easy to find in Eastern European hardware stores. Below: what nitrocellulose paint is, how to mix colours, how to apply it, and two pigments that need special care (red and shell-silver).
 
 ### What type of paint you can use in your airbrush, beside professional airbrush paint?
 

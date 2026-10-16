@@ -1,7 +1,7 @@
 ---
 title: "Master Airbrush Review"
 seoTitle: "Master Airbrush Review: Are the Cheap Kits Good?"
-description: "An honest look at Master Airbrush kits: build quality, nozzle tolerances, what breaks first, and when the cheap route ends up costing more than buying once."
+description: "Is Master Airbrush any good? Our BD-200 test: off-centre needle and nozzle, reducer-sensitive O-rings, fine for models and stencils but not for freehand."
 pubDate: 2012-03-27
 updatedDate: 2026-05-13
 category: "airbrush-reviews"
@@ -10,6 +10,8 @@ readingTime: 7
 draft: false
 heroImage: "/images/wp-uploads/Master-Airbrush-Review-7.webp"
 ---
+**Is Master Airbrush a good brand?** For small jobs, yes, but not for freehand art. The Master Airbrush BD-200 tested here, a cheap Chinese copy of the Iwata CM-B, had a needle and nozzle that sit off-centre, so paint delivery lags and then spits. Its rubber O-rings are damaged by strong reducers. It can touch up scratches, paint models or work with stencils, but a beginner learning freehand on it is likely to get frustrated with airbrushing.
+
 ## Master Airbrush BD-200: Budget Option Review
 
 In today's **airbrush review** I decided to start with quote from one of emails I'm getting from my readers "*It seems like you have reviewed the top models of several brands. On the other end of the spectrum, I realized there are some unknown manufacturers offer something that looks like the high-end airbrushes, e.g., Iwata CM-C Plus. I hope you won't find my suggestions boring. I suppose most people won't have the budget to buy many airbrushes & many like myself has learn things the hard way wasting $ on the quest to find the most right tool.*"

@@ -1,7 +1,7 @@
 ---
 title: "Airbrushing On Polymer Clay"
 seoTitle: "Airbrushing Polymer Clay: Primer, Paint, Sealing"
-description: "How to prime, paint and seal polymer clay with an airbrush so the finish does not lift or stay tacky, including which paints bond to cured clay."
+description: "Primer and paint for polymer clay: which acrylics airbrush onto cured clay, when to prime with gesso or acrylic primer, and which paints stay sticky."
 pubDate: 2012-11-16
 category: "guides"
 tags: ["Alsa paint", "auto air", "createx", "painting polymer clay", "polymer clay"]
@@ -10,7 +10,9 @@ draft: false
 heroImage: "/images/wp-uploads/PolymerClay.webp"
 ---
 
-**Polymer clay**, an unusual topic for airbrush blog? Well, not that unusual for many artists doing sculpting. **Painting on clay** is not as simple as it might look like because you have to count with the material properties and **clay** has also to be **baked to give it durability and permanency**. I am not a professional in this area but to stay on top of my topic "**airbrushing**" I will try to describe everything I know about clay from applying paint on top of it, what type of paint you can use, what preparation you need and all around it. I collected all this information from my research and from friend for the past week.
+**What primer and paint work on polymer clay?** Water-based acrylic paint is the safe choice, and airbrush acrylics such as Createx Auto Air and Wicked can be sprayed directly onto cured clay. If a paint does not grip, prime first with an acrylic primer or gesso. Createx recommends its Auto Air 4000 series sealer as a base, though it says it is not strictly needed for adhesion. Avoid enamels, lacquers, urethanes and classic oil paints: they can stay sticky on the clay or attack it. Seal powders, pastels and other dry media with a sealer once you are done.
+
+Polymer clay is baked to cure, and the paint has to cope with that and with the clay's chemistry. Test any paint not listed below on a scrap piece first. The sections below cover acrylics, oils, inks, pastels and powders, then what to put through the airbrush.
 
 ### Polymer Clay
 

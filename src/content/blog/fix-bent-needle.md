@@ -1,7 +1,7 @@
 ---
 title: "5 Ways to Fix Bent Airbrush Needle"
 seoTitle: "How to Straighten a Bent Airbrush Needle: 5 Ways"
-description: "Five ways to straighten a bent airbrush needle, which of them actually work on a fine tip, and how to tell when the needle is past saving."
+description: "How to straighten a bent airbrush needle: five methods with a pencil, glass, sandpaper and polishing compound, and when to replace the needle and nozzle instead."
 pubDate: 2012-01-31
 category: "guides"
 tags: ["airbrush", "airbrush needle", "bent airbrush needle", "bent needle", "broken nozzle", "fix airbrush needle", "how to fix bent airbrush needle"]
@@ -10,17 +10,9 @@ draft: false
 heroImage: "/images/wp-uploads/Bent-Airbrush-Needle.webp"
 ---
 
-Yes, we've all been there. Bent needle is the most common problem for all airbrush artists.
+**How do you straighten a bent airbrush needle?** Take it out of the airbrush, then roll it while you stroke the bent tip straight with a rounded metal handle or a pencil, or roll it on a sheet of glass while tapping the tip with a pencil. Then polish away the scratches with fine sandpaper (1000 grit or finer) and a polishing compound, rotating the needle the whole time so you don't flatten one side. A slightly bent tip can be saved this way; a badly bent or scratched one is better replaced, together with the nozzle, which is often damaged at the same time.
 
-Usually the nozzle cap should protect the needle and the nozzle tip but most of us love to work without the cap as it allows us to do better fine art.
-
-If you search on Internet for "**How to fix bent needle**" you will find a lot of material about that because this is very popular topic in lines of airbrush artist, especially on the tight budget.
-
-Even YouTube alone has lots of videos with instructions what to do to fix the needle. But I bet there are many people who don't know there's such solution and instead of trying to fix it they just buy a new one. Well this is solution too and probably the best one but you have to pay for not only the new needle but for nozzle tip too. If you decide to buy new needle I highly recommend you buy a nozzle tip as well because when you bend the needle you can destroy the nozzle, especially when you drop the airbrush or if you pull out the bent needle. **Nozzle tip is very small and delicate part of airbrush**.
-
-On the other side, if everyone will follow this tutorial then the whole business around replacement airbrush needles will go down. I'm not saying let's forget about them, but still first try to fix it and then as a last resort, if you can't fix it, buy it.
-
-Why have I even started writing this article if there are so many articles on Internet and in magazines about this topic? Well, I've never tried this myself and I've had few bent needles at home that were just lying in the box and I didn't do anything about them. But unfortunately I bumped into one video about fixing the needle and was surprised as it was a bit different from the method I saw before, so I decided to dig down through the world of Internet and find the best method.
+A bent needle is the most common airbrush problem, usually from working without the nozzle cap or dropping the airbrush. Below are five methods, from the most thorough (straighten, sand and polish) to the quickest (glass and pencil).
 
 Before you do anything with the airbrush needle you should remove it from the airbrush.
 

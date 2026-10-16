@@ -1,7 +1,7 @@
 ---
 title: "Paasche Talon Airbrush Review"
 seoTitle: "Paasche Talon Review: Dual Action on a Budget"
-description: "Hands-on with the Paasche Talon: three needle sizes, trigger feel, cleaning, and how it holds up next to an Iwata Eclipse for a good deal less money."
+description: "Paasche Talon review: a dual-action gravity-feed airbrush with heads from 0.20 to 1.0 mm, tested from base coats to fine lines, plus cleaning and spare parts."
 pubDate: 2012-06-19
 category: "airbrush-reviews"
 tags: ["airbrush review", "airbrush reviews", "paasche talon", "talon review"]
@@ -9,6 +9,8 @@ readingTime: 8
 draft: false
 heroImage: "/images/wp-uploads/Paasche-Talon-Review-crown-aircap-2.webp"
 ---
+**Is the Paasche Talon a good airbrush?** Yes, for the money it is a very capable all-rounder. The Talon is a dual-action, gravity-feed, internal-mix airbrush that ships with a 0.38 mm head, and it takes interchangeable heads from 0.20 mm for fine detail to 1.0 mm for heavy coverage. With the 0.38 and 0.25 mm heads it handled everything from base coats to fine lines in my test, the parts are well machined and spares are cheap. The downsides: a short hose in the box, and some owners have reported problems with their units (see [the Talon problem](/blog/paasche-talon-problem/)).
+
 ## Paasche Talon Airbrush Review
 
 Today's review candidate is a dual action, gravity feed, internal mix airbrush called Paasche **Talon** from **Paasche Airbrush Company**. First of all I want to say that without **~~ChicagoAirbrushSupply.com~~** this review will not be possible. Thank you guys!

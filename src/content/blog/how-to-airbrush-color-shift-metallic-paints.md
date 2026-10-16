@@ -1,7 +1,7 @@
 ---
 title: "How to Airbrush Color Shift and Metallic Paints: Settings, Thinning Ratios & Top Product Picks"
 seoTitle: "How to Airbrush Color Shift and Metallic Paint"
-description: "Master airbrushing color shift and metallic paints with the right PSI, thinning ratios, nozzle sizes, and layering techniques. Includes top product picks."
+description: "How to airbrush metallic and color shift paint: the nozzle size (0.4–0.5mm), PSI, thinning ratios, black base coat and layering that stop clogs and grey mud."
 pubDate: 2026-05-13
 readingTime: 10
 heroImage: "/images/how-to-airbrush-color-shift-metallic-paints.webp"
@@ -22,11 +22,9 @@ faqs:
     a: "Typically 3–5 thin, even coats gives the best depth and shift intensity. Each coat adds more interference pigment layers. Let each coat flash off (1–2 minutes) before applying the next. Rushing and applying thick coats muddies the effect badly."
 ---
 
-Color shift and metallic paints look absolutely stunning when they're done right, and like a muddy, clogged disaster when they're done wrong, which is exactly why so many airbrush artists avoid them or give up after the first attempt.
+**Yes, you can airbrush metallic and color shift paints, but not with the setup you use for standard acrylics.** Use an airbrush with a 0.4–0.5mm nozzle, run 20–25 PSI, thin metallic paints 15–20% and color shift paints 10–15%, and spray color shift over a black base. Thin layers and patience are everything with these paints.
 
-**Quick answer: Use a 0.4–0.5mm nozzle, run 20–25 PSI, thin metallic paints 15–20% and color shift paints 10–15%, always over a black primer base. Thin layers and patience are everything with these paints.**
-
-I've been airbrushing for 15 years, and I'll be straight with you, metallic and color shift paints follow different rules than standard acrylics. The physics of mica flakes and interference pigments demand specific setups. Get those settings wrong and you'll either clog your needle or spray something that looks like flat grey mud. Get them right and the results are genuinely jaw-dropping.
+Metallic and color shift paints follow different rules because their mica flakes and interference pigments are larger than standard pigment. With the wrong settings the airbrush clogs or the paint dries as flat grey mud; with the right ones the shift and sparkle come through.
 
 ---
 

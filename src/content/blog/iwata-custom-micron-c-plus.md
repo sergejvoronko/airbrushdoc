@@ -1,7 +1,7 @@
 ---
 title: "Iwata Custom Micron Review (C+)"
 seoTitle: "Iwata Custom Micron CM-C Plus Review: Worth It?"
-description: "Hands-on with the Custom Micron CM-C Plus: what the hand-matched nozzle buys you at fine detail, how it cleans, and who should not spend the money."
+description: "Iwata Custom Micron CM-C Plus review: 0.23 mm nozzle, MAC valve, cleaning, the costly head and needle parts, and who should buy a cheaper airbrush instead."
 pubDate: 2011-06-21
 category: "airbrush-reviews"
 tags: ["airbrush reviews", "Bent needles", "double action", "dry tip", "External Micro Air Control Valve", "gravity feed", "internal mix", "Iwata CM C+", "Iwata Custom Micron C Plus", "Pistol grip moisture filter", "Quick Disconnect", "Weak Nozzle"]
@@ -10,11 +10,7 @@ draft: false
 heroImage: "/images/wp-uploads/Iwata-Custom-Micron-C-Plus.webp"
 ---
 
-I've made couple of reviews already and I couldn't wait to write this one (the special one) about [**Iwata Custom Micron C Plus airbrush (CM C+)**](/go/iwata-custom-micron-cm-c). All because the fact that it has been all this time within my reach. In one of my earlier posts you can see a video [Airbrushing Mural](/blog/mural-in-bedroom-video/) where my brother is working with this particular airbrush.
-
-So, what's so special about this airbrush and why will every professional tell you that **Iwata CM C+** is awesome airbrush and they all just love it?  
-
-When I started airbrushing I had no trust in names like this one — **Iwata**. I've never heard of it and now I don't know even why. When finally I decided to check it out I was shocked, as the price for this airbrush was enormously high. Then I started to look around (mostly on the Net) and I found out that Iwata really belongs to the top-end of airbrush.
+**Is the Iwata Custom Micron CM-C Plus worth it?** For fine-detail professionals, yes. The Iwata Custom Micron CM-C Plus is a top-end dual-action gravity-feed airbrush with a 0.23 mm nozzle (0.18 mm tip optional), a 9 ml cup and a MAC valve at the head for air control at the tip. Its drawbacks are the price and the cost of parts: a damaged nozzle means replacing the whole head system, and bent needles get expensive. If you do not need detail this fine, a cheaper airbrush will cover most work. This review was written from hands-on time with my brother's airbrush, not one I own.
 
 First of all let's see what we have in the box and what feeling does it make when you see it for first time.
 

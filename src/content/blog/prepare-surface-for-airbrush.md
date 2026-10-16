@@ -1,7 +1,7 @@
 ---
 title: "How to Prepare Surface for Airbrush Painting (Complete Guide)"
 seoTitle: "Airbrush Primer and Surface Prep: What to Use"
-description: "How to prime and prep metal, plastic, wood, resin, canvas and fabric so airbrush paint actually sticks, with the right primer and sealer for each."
+description: "Which airbrush primer to use (Stynylrez, Vallejo, filler primer) and how to clean, scuff and prime metal, plastic, resin, wood, 3D prints and fabric."
 pubDate: 2026-03-11
 category: "beginners"
 tags: ["airbrush on metal", "airbrush on wood", "airbrush surface preparation", "how to prepare surface for airbrushing", "prepare plastic for airbrush", "prime miniatures airbrush", "surface prep for airbrush"]
@@ -11,11 +11,9 @@ heroImageAlt: "Surface preparation materials for airbrush painting"
 draft: false
 ---
 
-The fastest way to ruin an airbrush painting is to skip surface preparation. I've watched people spend hours on detailed airbrush work, only to have the paint peel off in sheets because they didn't prep the surface properly. It's heartbreaking, and completely preventable.
+**Which airbrush primer, and how do you prep the surface?** For plastic, resin, metal, wood and 3D prints, use a water-based polyurethane airbrush primer such as Badger Stynylrez or Vallejo Surface Primer, in grey unless you are painting very light (white) or very dark (black) colours. Before you prime, clean the surface, then scuff it so the primer can grip. Fabric and pre-primed canvas are the exceptions: they need no primer.
 
-Prepare surface for airbrush isn't complicated, but it IS different for every material. Metal needs scuffing. Plastic needs washing. Wood needs sealing. Fabric needs nothing except a clean, stretched surface. The prep for each takes anywhere from 30 seconds to 30 minutes, and it makes the difference between paint that lasts years and paint that flakes off in days.
-
-This guide covers every common airbrush surface with specific, practical instructions for each. I've organized it by material so you can jump straight to whatever you're working on.
+Skipping surface preparation is the most common reason airbrush paint peels or flakes, and the fix is different for every material. Metal needs scuffing, plastic needs washing, wood needs sealing, and fabric needs only a clean, stretched surface. The sections below are organised by material so you can jump straight to the one you are working on.
 
 - [The Universal Rule: Clean, Scuff, Prime](#the-universal-rule-clean-scuff-prime)
 - [Metal (Automotive, Motorcycle, Helmets) Surface Preparation for Airbrushing](#metal-automotive-motorcycle-helmets)[Do not take off all the coat. It’s a big mistake, you have to make surface matt](#do-not-take-off-all-the-coat-its-a-big-mistake-you-have-to-make-surface-matt)
