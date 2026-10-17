@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import StencilCreatorCta from '../components/StencilCreatorCta.astro';
 import { BOOK_AVAILABLE, BOOK_PRICE } from '../config';
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.pubDate <= new Date());
@@ -87,7 +88,7 @@ const features = [
         </p>
         <div class="abd-hero-ctas">
           <a href="/blog/" class="abd-btn-primary">Browse Articles</a>
-          <a href="/tools/stencil-creator/" class="abd-btn-ghost" style="border-color: rgba(255,255,255,0.3); color: #fff;">Photo → Stencil (free) →</a>
+          <a href="/tools/stencil-creator/" class="abd-btn-light">Turn a Photo into a Stencil (Free)</a>
         </div>
       </div>
     </div>
@@ -116,6 +117,14 @@ const features = [
         <span class="abd-stat-label">Stencils &amp; Tools</span>
       </div>
     </div>
+  </section>
+
+  <!-- ═══ STENCIL CREATOR ═══ -->
+  <section class="abd-section abd-stencil-band">
+    <StencilCreatorCta
+      heading="Free Stencil Maker: turn any photo into a stencil"
+      text="Upload a photo, pick 1 to 3 layers, and download a stencil ready to print or cut (PNG, PDF or SVG). Runs in your browser, no signup."
+    />
   </section>
 
   <!-- ═══ WHAT YOU'LL FIND ═══ -->
@@ -153,8 +162,8 @@ const features = [
             {post!.data.heroImage && (
               <div class="abd-pinned-img">
                 <img
-                  src={post!.data.heroImage?.endsWith('.webp') ? post!.data.heroImage.replace(/\.webp$/, '-thumb.webp') : post!.data.heroImage}
-                  alt={post!.data.title} loading="lazy" width="360" height="203" />
+                  src={post!.data.heroImage?.endsWith('.webp') ? post!.data.heroImage.replace(/\.webp$/, '-pinned.webp') : post!.data.heroImage}
+                  alt={post!.data.title} loading="lazy" width="720" height="405" />
               </div>
             )}
             <div class="abd-pinned-body">
@@ -426,6 +435,16 @@ const features = [
   align-items: flex-end; gap: 20px;
   max-width: 360px;
 }
+.abd-btn-light {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 12px 24px; border-radius: var(--abd-radius-s);
+  background: #fff; color: #141414 !important;
+  font-weight: 700; font-size: 0.9rem;
+  text-decoration: none !important; transition: filter 0.2s, transform 0.2s;
+}
+.abd-btn-light:hover { filter: brightness(0.92); transform: translateY(-1px); }
+.abd-stencil-band { padding-top: 32px; padding-bottom: 0; }
+.abd-stencil-band :global(.abd-stencil-cta) { margin: 0; }
 .abd-hero-ctas {
   display: flex; flex-wrap: wrap; gap: 16px;
   justify-content: flex-end;
