@@ -315,12 +315,52 @@
     "url": "https://www.amazon.com/s?k=airbrush+valve+repair+kit&tag=aircom01f20-20",
     "status": 302
   },
+  "merch-airbrush-clinic": {
+    "url": "https://www.etsy.com/listing/4595944875/airbrush-clinic-t-shirt-airbrush-er",
+    "status": 302
+  },
+  "merch-airbrush-clinic-hoodie": {
+    "url": "https://www.etsy.com/listing/4595944923/airbrush-clinic-hoodie-airbrush-er-badge",
+    "status": 302
+  },
+  "merch-tip-dry": {
+    "url": "https://www.etsy.com/listing/4595918481/tip-dry-airbrush-t-shirt-bent-needle",
+    "status": 302
+  },
+  "merch-tip-dry-hoodie": {
+    "url": "https://www.etsy.com/listing/4595939796/tip-dry-airbrush-hoodie-bent-needle",
+    "status": 302
+  },
   "merch-bent-needle-phantom-hand": {
     "url": "https://www.etsy.com/listing/4594623407/bent-needle-phantom-hand-t-shirt-custom",
     "status": 302
   },
+  "merch-bent-needle-phantom-hand-back-print-tee": {
+    "url": "https://www.etsy.com/listing/4595531824/bent-needle-phantom-hand-t-shirt-back",
+    "status": 302
+  },
+  "merch-bent-needle-phantom-hand-hoodie": {
+    "url": "https://www.etsy.com/listing/4595510435/bent-needle-phantom-hand-hoodie-back",
+    "status": 302
+  },
+  "merch-bent-needle-phantom-hand-canvas": {
+    "url": "https://www.etsy.com/listing/4595510327/bent-needle-phantom-hand-canvas-print",
+    "status": 302
+  },
   "merch-pinstripe-chrome-devil": {
     "url": "https://www.etsy.com/listing/4590615806/pinstripe-chrome-devil-t-shirt-custom",
+    "status": 302
+  },
+  "merch-pinstripe-chrome-devil-back-print-tee": {
+    "url": "https://www.etsy.com/listing/4595360663/pinstripe-chrome-devil-t-shirt-back",
+    "status": 302
+  },
+  "merch-pinstripe-chrome-devil-hoodie": {
+    "url": "https://www.etsy.com/listing/4595360725/pinstripe-chrome-devil-hoodie-back-print",
+    "status": 302
+  },
+  "merch-pinstripe-chrome-devil-canvas": {
+    "url": "https://www.etsy.com/listing/4595360867/pinstripe-chrome-devil-canvas-print",
     "status": 302
   },
   "merch-true-fire-skull": {
@@ -389,6 +429,18 @@
   },
   "merch-ghost-flame-skull": {
     "url": "https://www.etsy.com/listing/4576406699/ghost-flame-skull-t-shirt-pinstripe",
+    "status": 302
+  },
+  "merch-ghost-flame-skull-back-print-tee": {
+    "url": "https://www.etsy.com/listing/4595510559/ghost-flame-skull-t-shirt-back-print",
+    "status": 302
+  },
+  "merch-ghost-flame-skull-hoodie": {
+    "url": "https://www.etsy.com/listing/4595532272/ghost-flame-skull-hoodie-back-print",
+    "status": 302
+  },
+  "merch-ghost-flame-skull-canvas": {
+    "url": "https://www.etsy.com/listing/4595510761/ghost-flame-skull-canvas-print-pinstripe",
     "status": 302
   },
   "merch-skull-crossed-airbrushes": {
